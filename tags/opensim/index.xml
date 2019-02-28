@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Opensim on Xavier Coiffard</title>
-    <link>https://angezanetti.github.com/tags/opensim/</link>
+    <link>https://angezanetti.github.io/tags/opensim/</link>
     <description>Recent content in Opensim on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 26 Mar 2013 09:33:14 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.github.com/tags/opensim/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.github.io/tags/opensim/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Retour sur le Haiku Speed Build aux champs libre</title>
-      <link>https://angezanetti.github.com/opensim-fracogrid-twithaiku-rennes/</link>
+      <link>https://angezanetti.github.io/opensim-fracogrid-twithaiku-rennes/</link>
       <pubDate>Tue, 26 Mar 2013 09:33:14 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/opensim-fracogrid-twithaiku-rennes/</guid>
+      <guid>https://angezanetti.github.io/opensim-fracogrid-twithaiku-rennes/</guid>
       <description>Le semaine dernière la bibliothèque Francophone du metavers à organisé aux champs libre à Rennes un évenement sympa : le Twithaiku.
 Le principe est assez simple, il suffit d&amp;#8217;envoyer par Twitter un haïku &amp;#8211; poème en 3 lignes &amp;#8211; avec le hashtag #twithaiku. Les meilleurs tweets ont été sélectionnés et, pour la remise des prix, la bibliothèque organisait un &amp;#8220;speed build&amp;#8221;.
 Une demi douzaine étaient réunis sur Francogrid pour builder en moins de deux heures une représentation 3D des haïkus nominés.</description>
@@ -24,29 +24,29 @@ Une demi douzaine étaient réunis sur Francogrid pour builder en moins de deux 
     
     <item>
       <title>SLKinect2, un protocole qui fait la liaison entre votre Kinect &amp; SecondLife ou OpenSim</title>
-      <link>https://angezanetti.github.com/slkinect-kinect-opensim-secondlife/</link>
+      <link>https://angezanetti.github.io/slkinect-kinect-opensim-secondlife/</link>
       <pubDate>Thu, 12 Jan 2012 06:15:54 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/slkinect-kinect-opensim-secondlife/</guid>
+      <guid>https://angezanetti.github.io/slkinect-kinect-opensim-secondlife/</guid>
       <description>Petite perle trouvée sur le site de Daneel, SLKinect est un protocole opensource permettant d&amp;#8217;envoyer les datas de votre kinect directement à votre avatar SecondLife &amp;#8211; Il semble que ça tourne aussi avec OpenSim. C&amp;#8217;est développé au NSL (Network System Laboratory) au sein de la TUIS (Tokyo University of Information Sciences).
 Le résultat est vraiment sympa puisque votre avatar reproduit vos gestes fidèlement comme le montre la vidéo ci dessous :</description>
     </item>
     
     <item>
       <title>Convertir des îles Opensim ou SecondLife en collada</title>
-      <link>https://angezanetti.github.com/convertir-des-iles-opensim-ou-secondlife-en-collada/</link>
+      <link>https://angezanetti.github.io/convertir-des-iles-opensim-ou-secondlife-en-collada/</link>
       <pubDate>Fri, 06 Jan 2012 07:37:57 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/convertir-des-iles-opensim-ou-secondlife-en-collada/</guid>
+      <guid>https://angezanetti.github.io/convertir-des-iles-opensim-ou-secondlife-en-collada/</guid>
       <description>Je ne sais pas si vous connaissez Tipodean c&amp;#8217;est une startup dirigée par Chris Collins, un ancien Linden, et qui depuis quelques mois essaye de créer un viewer Unity pour OpenSim et SecondLife. Je vous en parlais en Juillet dernier, à l&amp;#8217;époque ce n&amp;#8217;était pas vraiment au point, c&amp;#8217;était de l&amp;#8217;alpha&amp;#8230;  Mais ils ont continué à travailler et ont annoncé le 3 janvier dernier la sortie d&amp;#8217;un site web qui permet de convertir directement le contenu SecondLife ou OpenSim pour l&amp;#8217;afficher dans le navigateur via Unity3d Ou Flash !</description>
     </item>
     
     <item>
       <title>Second Life, héritage et perspectives</title>
-      <link>https://angezanetti.github.com/secondlife-collaboration-coinnovation/</link>
+      <link>https://angezanetti.github.io/secondlife-collaboration-coinnovation/</link>
       <pubDate>Wed, 23 Nov 2011 08:40:06 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/secondlife-collaboration-coinnovation/</guid>
+      <guid>https://angezanetti.github.io/secondlife-collaboration-coinnovation/</guid>
       <description>Hier je suis tombé sur un article de Fred Cavazza sur son blog Marketing Virtuel, il y parle de l&amp;#8217;héritage de Second Life. Dans le même temps Guillaume Reys, le dentiste de Dentallife, postait sur Facebook :
 Pour rappel Dentallife est un seriousgame orienté sur le thème des urgences en cabinet dentaire et qui à été entièrement réalisé dans Second Life.
 D&amp;#8217;ailleurs Fred Cavazza dans son billet nous le rappelle :</description>
@@ -54,10 +54,10 @@ D&amp;#8217;ailleurs Fred Cavazza dans son billet nous le rappelle :</descriptio
     
     <item>
       <title>Soutenez Fenêtre sur Chambre</title>
-      <link>https://angezanetti.github.com/soutenez-fenetre-sur-chambre/</link>
+      <link>https://angezanetti.github.io/soutenez-fenetre-sur-chambre/</link>
       <pubDate>Mon, 07 Nov 2011 16:23:51 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/soutenez-fenetre-sur-chambre/</guid>
+      <guid>https://angezanetti.github.io/soutenez-fenetre-sur-chambre/</guid>
       <description>Je vous avais présenté sur ce blog Fenêtre sur Chambre une initiative vraiment sympa qui permet aux enfants isolés dans des chambres stériles de pouvoir dialoguer, via Francogrid, avec d&amp;#8217;autres enfants.
 Le monde virtuel leur permet de s&amp;#8217;évader un peu, de créer, de builder, bref de s&amp;#8217;occuper l&amp;#8217;esprit de d&amp;#8217;avoir l&amp;#8217;impression de s&amp;#8217;évader un peu de leur quotidien.
 Il se trouve que ce projet est lauréat pour le prix Orange Solidarité numérique.</description>
@@ -65,10 +65,10 @@ Il se trouve que ce projet est lauréat pour le prix Orange Solidarité numériq
     
     <item>
       <title>Etudes d’usages de l’expérience OpéraBis</title>
-      <link>https://angezanetti.github.com/etudes-dusages-operabis-secondlife-opensim-bilbiothequefrancophone/</link>
+      <link>https://angezanetti.github.io/etudes-dusages-operabis-secondlife-opensim-bilbiothequefrancophone/</link>
       <pubDate>Tue, 25 Oct 2011 07:54:17 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/etudes-dusages-operabis-secondlife-opensim-bilbiothequefrancophone/</guid>
+      <guid>https://angezanetti.github.io/etudes-dusages-operabis-secondlife-opensim-bilbiothequefrancophone/</guid>
       <description>Vous trouverez ci dessous l&amp;#8217;étude d&amp;#8217;usages du projet OpéraBis, la conclusion d&amp;#8217;un beau projet d&amp;#8217;un an de retransmission en live des spectacles d&amp;#8217;opéra dans les mondes virtuels.
 Ce fut une expérience vraiment enrichissante, j&amp;#8217;espère que les suivantes le seront tout autant !
  Open publication &amp;#8211; Free publishing &amp;#8211; More 3d   </description>
@@ -76,39 +76,39 @@ Ce fut une expérience vraiment enrichissante, j&amp;#8217;espère que les suiva
     
     <item>
       <title>Vers un client Web pour OpenSim et SecondLife</title>
-      <link>https://angezanetti.github.com/client-leger-navigateur-unity-webgl-opensim-secondlife/</link>
+      <link>https://angezanetti.github.io/client-leger-navigateur-unity-webgl-opensim-secondlife/</link>
       <pubDate>Fri, 15 Jul 2011 08:54:50 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/client-leger-navigateur-unity-webgl-opensim-secondlife/</guid>
+      <guid>https://angezanetti.github.io/client-leger-navigateur-unity-webgl-opensim-secondlife/</guid>
       <description>Les mondes virtuels n&amp;#8217;ont pas eu le succès attendu. C&amp;#8217;est un fait. Nous sommes beaucoup à penser que cela est du, entre autre, a un vrai problème d&amp;#8217;accessibilité de ces plate-formes. Il faut installer un client lourd, s&amp;#8217;enregister, apprendre à se déplacer en 3D, retrouver ses amis etc etc&amp;#8230; En un mot c&amp;#8217;est dur, trop compliqué pour le visiteur lambda qui cherche juste à visiter une expo, assister à un spectacle et pas à devenir le builder qui va révolutionner le metavers.</description>
     </item>
     
     <item>
       <title>Intel optimise la capacité d’OpenSim</title>
-      <link>https://angezanetti.github.com/opensim-optimise-intel-1000-avatars/</link>
+      <link>https://angezanetti.github.io/opensim-optimise-intel-1000-avatars/</link>
       <pubDate>Wed, 08 Jun 2011 09:55:42 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/opensim-optimise-intel-1000-avatars/</guid>
+      <guid>https://angezanetti.github.io/opensim-optimise-intel-1000-avatars/</guid>
       <description>Intel Labs à annoncé hier qu&amp;#8217;ils vont augmenter de façon considérable la capacité d&amp;#8217;avatars par serveur. Ils annoncent 20 fois plus de joueurs par sims ! Quand cette Distributed Scene Graph 3-D Internet technology sera mise en place le nombre d&amp;#8217;avatar maximum ne sera plus d&amp;#8217;une centaine -comme c&amp;#8217;est le cas actuellement &amp;#8211; mais d&amp;#8217;un millier !
 De plus, Intel annonce sortir, pendant le mois de Juin, une version opensource de son code pour les développeurs.</description>
     </item>
     
     <item>
       <title>Fenêtre sur chambre, quand les mondes virtuels prennent du sens</title>
-      <link>https://angezanetti.github.com/fenetre-sur-chambre-mondes-virtuels-pour-public-empeches/</link>
+      <link>https://angezanetti.github.io/fenetre-sur-chambre-mondes-virtuels-pour-public-empeches/</link>
       <pubDate>Fri, 25 Feb 2011 11:25:44 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/fenetre-sur-chambre-mondes-virtuels-pour-public-empeches/</guid>
+      <guid>https://angezanetti.github.io/fenetre-sur-chambre-mondes-virtuels-pour-public-empeches/</guid>
       <description>J&amp;#8217;ai découvert un super projet, qui se passe en ce moment sur Francogrid et qui, à mon avis, n&amp;#8217;a pas la couverture qu&amp;#8217;il mérite. Fenêtre sur Chambre &amp;#8211; leur site est ici : http://fenetresurchambre.blogspot.com/ &amp;#8211; est un dispositif installé dans les chambres stériles d&amp;#8217;enfants atteints de leucémie ou autre maladie du sang.
 On comprend assez bien le but, il est tristement simple : pouvoir s&amp;#8217;échapper d&amp;#8217;un quotidien monotone et stressant grâce à un monde virtuel.</description>
     </item>
     
     <item>
       <title>Explor3D, des événement pour découvrir les mondes virtuels</title>
-      <link>https://angezanetti.github.com/explor3d-des-evenement-pour-decouvrir-les-mondes-virtuels/</link>
+      <link>https://angezanetti.github.io/explor3d-des-evenement-pour-decouvrir-les-mondes-virtuels/</link>
       <pubDate>Wed, 22 Dec 2010 13:40:07 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/explor3d-des-evenement-pour-decouvrir-les-mondes-virtuels/</guid>
+      <guid>https://angezanetti.github.io/explor3d-des-evenement-pour-decouvrir-les-mondes-virtuels/</guid>
       <description>Explor3D est un barcamp organisé par Cathy Legendre qui à lieu ce soir à partir de 21h. Le but de cet événement est de faire découvrir OpenSim, l&amp;#8217;alternative libre à Second Life.
 Mais aussi, et surtout, de faire découvrir toutes les initiatives innovantes que l&amp;#8217;on trouve dans ces univers. Que ce soit dans le domaine culturel, scientifique, musical ou professionnel.
 D&amp;#8217;après le communiqué officiel :
@@ -117,10 +117,10 @@ D&amp;#8217;après le communiqué officiel :
     
     <item>
       <title>Virtual World Camp 2010</title>
-      <link>https://angezanetti.github.com/virtual-world-camp-2010/</link>
+      <link>https://angezanetti.github.io/virtual-world-camp-2010/</link>
       <pubDate>Wed, 10 Nov 2010 10:24:37 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/virtual-world-camp-2010/</guid>
+      <guid>https://angezanetti.github.io/virtual-world-camp-2010/</guid>
       <description>Je suis plutôt content de vous annoncer la troisième version d&amp;#8217;un événement qui me plaît particulièrement : le Virtual Worlds Camp.
 Pour ceux qui ne baignerait pas dans le monde de l&amp;#8217;internet un barcamp est une &amp;#8220;non-conférence&amp;#8221;, un lieu d&amp;#8217;échange ouvert, chacun est libre de venir y présenter son travail, d&amp;#8217;y soumettre ses idées ou de lancer des débats.
 Le problème pour moi, et pour la majorité d&amp;#8217;entre nous, je n&amp;#8217;habite pas Paris.</description>
@@ -128,10 +128,10 @@ Le problème pour moi, et pour la majorité d&amp;#8217;entre nous, je n&amp;#82
     
     <item>
       <title>OpenSim est maintenant compatible avec le viewer 2 de Second Life</title>
-      <link>https://angezanetti.github.com/opensim-071-compatible-viewer-2-de-second-life/</link>
+      <link>https://angezanetti.github.io/opensim-071-compatible-viewer-2-de-second-life/</link>
       <pubDate>Wed, 11 Aug 2010 13:25:59 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/opensim-071-compatible-viewer-2-de-second-life/</guid>
+      <guid>https://angezanetti.github.io/opensim-071-compatible-viewer-2-de-second-life/</guid>
       <description>&lt;p&gt;Le fameux viewer 2 de Second Life est sorti en Février dernier, il a été beaucoup décrié pour ses quelques bugs et son changement total d&amp;#8217;ergonomie qui à destabiliser les résidents SL. Mais d&amp;#8217;un point de vue professionnel, ou pour un débutant il faut bien avouer que ce nouvel outil est tout simplement une révolution.&lt;/p&gt;
 
 &lt;p&gt;La fonctionnalité phare de ce Viewer 2 est bien entendu le Web sur les objets. Autrement dit, depuis cette nouvelle version, il est possible de plaquer n&amp;#8217;importe quelle page web sur tous les objets présent dans SL. Le résultat est bluffant et cela augmente les fonctionnalités de ce monde virtuel de façon considérable.&lt;/p&gt;</description>
@@ -139,10 +139,10 @@ Le problème pour moi, et pour la majorité d&amp;#8217;entre nous, je n&amp;#82
     
     <item>
       <title>Unity3d ou WebGL comme futur standard d’un Internet 3D ?</title>
-      <link>https://angezanetti.github.com/unity3d-google-opensim/</link>
+      <link>https://angezanetti.github.io/unity3d-google-opensim/</link>
       <pubDate>Thu, 20 May 2010 09:18:55 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/unity3d-google-opensim/</guid>
+      <guid>https://angezanetti.github.io/unity3d-google-opensim/</guid>
       <description>&lt;p&gt;Google à sorti son &amp;#8220;&lt;em&gt;native client&lt;/em&gt;&amp;#8221; il y a quelques jours comme je vous l&amp;#8217;annonçait &lt;a title=&#34;Google native client&#34; href=&#34;http://angezanetti.com/google-native-client-sdk/&#34; target=&#34;_blank&#34;&gt;dans cet article&lt;/a&gt; mais je ne croyais pas que ça bougerait aussi vite.&lt;/p&gt;
 
 &lt;p&gt;Hier, &lt;strong&gt;Unity3D,&lt;/strong&gt; le moteur de jeu vidéo sur lequel est basé &lt;a title=&#34;assemblive&#34; href=&#34;http://angezanetti.com/assemblive-v1-8-francais-api/&#34; target=&#34;_blank&#34;&gt;Assemblive&lt;/a&gt; par exemple, à annoncé qu&amp;#8217;ilvdéveloppait une application native pour Chrome. Concrétement cela veut dite que Unity3d n&amp;#8217;aura plus besoin de plugin pour fonctionner dans le navigateur de Google. On aura de la 3d aussi facilement que l&amp;#8217;on affiche des pages web, simplement en cliquant.&lt;/p&gt;
@@ -154,85 +154,85 @@ Le problème pour moi, et pour la majorité d&amp;#8217;entre nous, je n&amp;#82
     
     <item>
       <title>Un viewer Opensim basé sur Unity3d ?</title>
-      <link>https://angezanetti.github.com/un-viewer-opensim-base-sur-unity3d/</link>
+      <link>https://angezanetti.github.io/un-viewer-opensim-base-sur-unity3d/</link>
       <pubDate>Thu, 12 Nov 2009 15:56:00 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/un-viewer-opensim-base-sur-unity3d/</guid>
+      <guid>https://angezanetti.github.io/un-viewer-opensim-base-sur-unity3d/</guid>
       <description>C&amp;#8217;est la nouvelle du jour : il y a un petit malin qui s&amp;#8217;amuse à créer un viewer OpenSim avec Unity3d -qui est gratuit depuis peu ! Unity3d c&amp;#8217;est un peu la version 3d de flash : une interface vraiment bien faite avec laquelle on peut construire des jeux vidéos, des mondes virtuels avec juste du drag &amp; drop. C&amp;#8217;est loin d&amp;#8217;être aussi facile d&amp;#8217;approche que du OpenSim ou du Second Life mais le résultat est vraiment impressionnant.</description>
     </item>
     
     <item>
       <title>ProspecTIC : Le teaser</title>
-      <link>https://angezanetti.github.com/prospectic-le-teaser/</link>
+      <link>https://angezanetti.github.io/prospectic-le-teaser/</link>
       <pubDate>Mon, 12 Oct 2009 13:35:00 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/prospectic-le-teaser/</guid>
+      <guid>https://angezanetti.github.io/prospectic-le-teaser/</guid>
       <description>ProspecTIC est un livre écrit par Jean Michel Cornu dont le but est de mieux &amp;#8220;comprendre et maîtriser les différents choix technologiques auxquels nous sommes confrontés&amp;#8221;, mais c&amp;#8217;est aussi depuis 2008 un projet commun avec la Bibliothèque Francophone de cartographie du savoir. Représenter en trois dimensions des notions complexes de façon à les partager, les retenir plus facilement. Ce projet se construit doucement, notamment grâce aux étudiants que je forme et aux efforts considérable de Tao Vacano &amp;#8211; membre de la biblio &amp;#8211; Et c&amp;#8217;est tao qui est l&amp;#8217;auteur du petit teaser que je me devais de vous présenter ici, l&amp;#8217;île n&amp;#8217;est pas encore finie mais cela commence à prendre forme :</description>
     </item>
     
     <item>
       <title>Nouveau Record OpenSim : 85</title>
-      <link>https://angezanetti.github.com/nouveau-record-opensim-85/</link>
+      <link>https://angezanetti.github.io/nouveau-record-opensim-85/</link>
       <pubDate>Sat, 10 Oct 2009 13:53:00 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/nouveau-record-opensim-85/</guid>
+      <guid>https://angezanetti.github.io/nouveau-record-opensim-85/</guid>
       <description>85 !  Hier soir sur OSGrid avait lieu un test de capacité, le but du jeu : faire crasher la sim. Pourquoi? Pour voir à quel point les améliorations du code effectuées ces dernières semaines ont été efficace. Et le résultat est impressionnant puisqu&amp;#8217;ils ont réussi à accueillir 85 avatars, des avatars réels pas des bots. Et le tout sur une sim construite (plus de 15000 prims) avec des utilisateurs utilisant des viewer différents donc pas franchement les conditions optimales sauf pour un test de capacité :p</description>
     </item>
     
     <item>
       <title>Importez vos objets texturés depuis SL en 3 clics</title>
-      <link>https://angezanetti.github.com/importez-vos-objets-textures-depuis-sl-en-3-clics/</link>
+      <link>https://angezanetti.github.io/importez-vos-objets-textures-depuis-sl-en-3-clics/</link>
       <pubDate>Sun, 14 Jun 2009 16:21:00 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/importez-vos-objets-textures-depuis-sl-en-3-clics/</guid>
+      <guid>https://angezanetti.github.io/importez-vos-objets-textures-depuis-sl-en-3-clics/</guid>
       <description>Et la très très bonne nouvelle c&amp;#8217;est que les textures suivent &amp;amp; que les objets liés aussi. La seule condition étant que vous soyez créateur de l&amp;#8217;objet.
 &amp;lt;p&amp;gt; Cerise sur le gâteau, Meerkat embarque un outil qui vous permet de se balader de grille en grille sans quitter votre client. En deux clics on passe de SL à OS, et vos objets vous suivent :) &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; C&amp;amp;#8217;est génial, c&amp;amp;#8217;est facile à utiliser et ça va changer beaucoup de chose dans les univers propriétaires :) &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; Meerkat est téléchargeable ici &amp;amp;#8211; avec des versions Windoze, Linux &amp;amp; Mac &amp;amp;#8211; &amp;lt;a href=&amp;quot;http://www.</description>
     </item>
     
     <item>
       <title>Opensim met en place les groupes</title>
-      <link>https://angezanetti.github.com/opensim-met-en-place-les-groupes/</link>
+      <link>https://angezanetti.github.io/opensim-met-en-place-les-groupes/</link>
       <pubDate>Wed, 29 Apr 2009 06:53:00 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/opensim-met-en-place-les-groupes/</guid>
+      <guid>https://angezanetti.github.io/opensim-met-en-place-les-groupes/</guid>
       <description>Décidément que de news pour OpenSim ces derniers temps. Il y a 5 jours je vous annonçait que la VoIP arrivait sur la plate-forme libre. Aujourd&amp;#8217;hui ce sont les groupes qui sont annoncés dans les prochains jours. Encore une fois ce sera une version alpha, avec certainement quelques bug qui traînent. D&amp;#8217;ailleurs c&amp;#8217;est de cette façon que les logiciels évoluent, avec la participation des utilisateurs qui sont tous testeurs et font soit &amp;#8220;remonter&amp;#8221; les bugs, soit les corrigent directement si leurs compétences en code est suffisante.</description>
     </item>
     
     <item>
       <title>La Voip est sur Opensim !</title>
-      <link>https://angezanetti.github.com/la-voip-est-sur-opensim/</link>
+      <link>https://angezanetti.github.io/la-voip-est-sur-opensim/</link>
       <pubDate>Thu, 23 Apr 2009 14:59:00 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/la-voip-est-sur-opensim/</guid>
+      <guid>https://angezanetti.github.io/la-voip-est-sur-opensim/</guid>
       <description>Pour ceux qui ne connaissent -toujours- pas Opensim c&amp;#8217;est la version Opensource de SecondLife. Opensim(O.S.) est en progrès continu depuis sa création, j&amp;#8217;ai toujours cru dans son expansion, tout comme je crois au libre. Mais jusqu&amp;#8217;a maintenant il fallait avouer qu&amp;#8217;O.S. était en recul derrière SL. Par sa stabilité déjà, par son fonctionnement, et par l&amp;#8217;absence de VoIP qui empechait une grosse partie des réunions virtuelles. Hors ces réunions sont clairement un usage d&amp;#8217;un outil comme les mondes virtuels Pour le moment beaucoup le font sur SecondLife mais la question de confidentialité des données est énorme quand on évolue sur des serveurs californiens, surtout ceux d&amp;#8217;une société privée&amp;#8230;</description>
     </item>
     
     <item>
       <title>Deux petites révolutions dans Opensim</title>
-      <link>https://angezanetti.github.com/deux-petites-revolutions-dans-opensim/</link>
+      <link>https://angezanetti.github.io/deux-petites-revolutions-dans-opensim/</link>
       <pubDate>Tue, 14 Apr 2009 08:54:00 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/deux-petites-revolutions-dans-opensim/</guid>
+      <guid>https://angezanetti.github.io/deux-petites-revolutions-dans-opensim/</guid>
       <description>Connaissez vous Thomas Grimshaw? Moi pas avant ce post sur Dusan&amp;#8217;s Writer&amp;#8217;s metaverse. On y apprend que ce monsieur de 24 ans a recodé le code source d&amp;#8217;OpenSim afin d&amp;#8217;améliorer le chargement des textures.
 Je ne sais pas vous, mais quand je débarque sur une île en général j&amp;#8217;attends un peu, je vais me chercher un truc, je vais aux toilettes en attendant que les textures &amp; les objets &amp;#8220;rezzent&amp;#8221;&amp;#8230; Bref ce temps de chargement est rapidement insupportable quand on se balade souvent.</description>
     </item>
     
     <item>
       <title>Teleportation extra grid avec RealXtend</title>
-      <link>https://angezanetti.github.com/teleportation-extra-grid-avec-realxtend/</link>
+      <link>https://angezanetti.github.io/teleportation-extra-grid-avec-realxtend/</link>
       <pubDate>Mon, 02 Mar 2009 11:48:00 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/teleportation-extra-grid-avec-realxtend/</guid>
+      <guid>https://angezanetti.github.io/teleportation-extra-grid-avec-realxtend/</guid>
       <description>Le client RealXtend autorise les téléportations extra-grid, c&amp;#8217;est à dire pouvoir passer de Second Life à Opensim ou des grilles RealXtend. Je vous ai déjà parlé de RealXtend, ce projet opensource finlandais qui fait des merveilles, cette nouvelle est encore une avancée vers une interroptabilité et une standardisation des mondes virtuels. Et en plus c&amp;#8217;est facile :
  Il suffit d&amp;#8217;aller dans le menu &amp;#8220;Affichage&amp;#8221; de sélectionner &amp;#8221; la barre d&amp;#8217;adresse et de taper l&amp;#8217;url de destination.</description>
     </item>
     
     <item>
       <title>Les projets de RealXtend</title>
-      <link>https://angezanetti.github.com/les-projets-de-realxtend/</link>
+      <link>https://angezanetti.github.io/les-projets-de-realxtend/</link>
       <pubDate>Wed, 23 Apr 2008 16:55:00 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/les-projets-de-realxtend/</guid>
+      <guid>https://angezanetti.github.io/les-projets-de-realxtend/</guid>
       <description>Comme je le bloggait Lundi dernier aujourd&amp;#8217;hui a eu lieu une réunion avec la l&amp;#8217;équipe de RealXtend dans Second Life.
 La conférence était en voix et en anglais &amp;#8211; à ce propos l&amp;#8217;accent Finlandais est plutôt &amp;#8220;funny&amp;#8221; &amp;#8211; sur la sim Arkala.
 Beaucoup de choses ont été dites, plus ou moins approfondies, je vais essayer de faire ressortir les gros traits de ce que me paraît intéressant.
@@ -241,10 +241,10 @@ Tout d&amp;#8217;abord j&amp;#8217;ai été content d&amp;#8217;apprendre qu&amp
     
     <item>
       <title>Vous ne connaissez toujours pas RealXtend?</title>
-      <link>https://angezanetti.github.com/vous-ne-connaissez-toujours-pas-realxtend/</link>
+      <link>https://angezanetti.github.io/vous-ne-connaissez-toujours-pas-realxtend/</link>
       <pubDate>Mon, 21 Apr 2008 13:21:00 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/vous-ne-connaissez-toujours-pas-realxtend/</guid>
+      <guid>https://angezanetti.github.io/vous-ne-connaissez-toujours-pas-realxtend/</guid>
       <description>Une réunion est orgnisée Mercredi 23 Avril par les créateurs de RealXtend eux même! Pour mémoire RealXtend c&amp;#8217;est une version d&amp;#8217;opensim, l&amp;#8217;alternative libre de Second Life.
 Cela permet d&amp;#8217;avoir sa propre sim sans avoir à en acheter une à Linden Labs, mais cela sert, ou servira, surtout a créer des intranets 3d directement hébergés sur les serveurs d&amp;#8217;une entreprise.
 Il paraît qu&amp;#8217;une nouvelle version du serveur est sortie et qu&amp;#8217;elle élimine encore beaucoup de bugs!</description>
@@ -252,10 +252,10 @@ Il paraît qu&amp;#8217;une nouvelle version du serveur est sortie et qu&amp;#82
     
     <item>
       <title>L’internet 3d est en route !</title>
-      <link>https://angezanetti.github.com/linternet-3d-est-en-route/</link>
+      <link>https://angezanetti.github.io/linternet-3d-est-en-route/</link>
       <pubDate>Tue, 04 Mar 2008 14:35:00 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/linternet-3d-est-en-route/</guid>
+      <guid>https://angezanetti.github.io/linternet-3d-est-en-route/</guid>
       <description>J&amp;#8217;ai découvert un lien sur le site de pocarles qui m&amp;#8217;a vraiment surpris.
 Je ne croyais pas que IBM était sur un projet de rendre les mondes 3d plus accessible. J&amp;#8217;avais entendu qu&amp;#8217;ils bossaient sur un énième MMO pour faire concurrence a SL, WOW et autres mondes persistants. Ils font bien plus fort que ça en fait.
 Oui vous ne revez pas le bonhomme est bien un avatar de SL et tout en haut c&amp;#8217;est bien une barre de titre d&amp;#8217;internet explorer.</description>
@@ -263,10 +263,10 @@ Oui vous ne revez pas le bonhomme est bien un avatar de SL et tout en haut c&amp
     
     <item>
       <title>Ils l’on fait ! Vive le libre !!</title>
-      <link>https://angezanetti.github.com/ils-lon-fait-vive-le-libre/</link>
+      <link>https://angezanetti.github.io/ils-lon-fait-vive-le-libre/</link>
       <pubDate>Sat, 01 Mar 2008 11:05:00 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/ils-lon-fait-vive-le-libre/</guid>
+      <guid>https://angezanetti.github.io/ils-lon-fait-vive-le-libre/</guid>
       <description>Je vous parlais de RealXtend il y a quelques jours ici , et bien c&amp;#8217;est vraiment très très prometteur puisqu&amp;#8217;ils ont réussis à respecter les délais et à sortir une nouvelle version du client &amp;amp; du serveur le jour J .
 Les Lindens eux ont carrément renoncés à donner des dates de sorties de leur clients tellement ils sont en retard à chaque fois :)
 Les fonctionnalités ont l&amp;#8217;air à la hauteur des annonces faites auparavant ( intégration de Python , possibilité d&amp;#8217;exporter , nouveau moteur graphique &amp;#8230; )comme le montre cette vidéo :</description>
@@ -274,10 +274,10 @@ Les fonctionnalités ont l&amp;#8217;air à la hauteur des annonces faites aupar
     
     <item>
       <title>Revolution d’opensim!!</title>
-      <link>https://angezanetti.github.com/revolution-dopensim/</link>
+      <link>https://angezanetti.github.io/revolution-dopensim/</link>
       <pubDate>Sat, 16 Feb 2008 16:41:00 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/revolution-dopensim/</guid>
+      <guid>https://angezanetti.github.io/revolution-dopensim/</guid>
       <description>Opensim est la version opensource de SecondLife créée en Janvier 2007. J&amp;#8217;ai suivi son évolution avec intéret depuis sa création mais cette solution alternative à toujours été une version &amp;#8216;alpha&amp;#8217;. En effet les scripts ne marchaient pas, l&amp;#8217;importation d&amp;#8217;objet était laborieux et il n&amp;#8217;était pas possible de raccrocher son île a une grille.
 Depuis début 2007 il a grandement évolué des grilles d&amp;#8217;opensim se sont crées, les fonctions de scripts sont de plus en plus nombreuses.</description>
     </item>

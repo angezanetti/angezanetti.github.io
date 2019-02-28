@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Html5 on Xavier Coiffard</title>
-    <link>https://angezanetti.github.com/tags/html5/</link>
+    <link>https://angezanetti.github.io/tags/html5/</link>
     <description>Recent content in Html5 on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Fri, 02 Dec 2011 08:50:39 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.github.com/tags/html5/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.github.io/tags/html5/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Unity supportera HTML5</title>
-      <link>https://angezanetti.github.com/unity-webgl-html5/</link>
+      <link>https://angezanetti.github.io/unity-webgl-html5/</link>
       <pubDate>Fri, 02 Dec 2011 08:50:39 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/unity-webgl-html5/</guid>
+      <guid>https://angezanetti.github.io/unity-webgl-html5/</guid>
       <description>&amp;nbsp;
 J&amp;#8217;ai lu une news sur Gamasutra hier qui &amp;#8216;ma fiat bondir de mon siège &amp;#8211; ou presque. Unity technologies annonce qu&amp;#8217;il supportera probablement HTML5 dès que cette technologie &amp;#8220;sera prête pour le gaming&amp;#8221;.
 Le CEO, David Helgason explique que le moteur HTML5 est très bien pour faire de la datavisualisation par exemple mais que cette techno n&amp;#8217;est pas encore mûre pour faire du jeu. D&amp;#8217;après lui celui va changer avec le temps et Unity surveille de près ces changements pour pouvoir proposer une compatibilité rapidement.</description>
@@ -24,10 +24,10 @@ Le CEO, David Helgason explique que le moteur HTML5 est très bien pour faire de
     
     <item>
       <title>Quake 2 dans votre navigateur et sans plugin c’est fait ! Merci WebGL</title>
-      <link>https://angezanetti.github.com/quake-2-webgl-html5/</link>
+      <link>https://angezanetti.github.io/quake-2-webgl-html5/</link>
       <pubDate>Mon, 05 Apr 2010 13:01:22 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/quake-2-webgl-html5/</guid>
+      <guid>https://angezanetti.github.io/quake-2-webgl-html5/</guid>
       <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
   Je vous &lt;a href=&#34;http://angezanetti.com/webgl-katalabs-mondes-virtuels/&#34;&gt;parlais il y a un mois de&lt;strong&gt; WebGL&lt;/strong&gt;&lt;/a&gt;, une technologie qui utilise &lt;strong&gt;HTML 5 &lt;/strong&gt;pour mettre de la 3d directement dans votre navigateur. Et bien je suis ce projet de près depuis ma découverte de cette techno et je viens de trouver une news qui me plait beaucoup : Quake 2 fonctionne avec cette technologie :)
 &lt;/p&gt;
@@ -39,10 +39,10 @@ Le CEO, David Helgason explique que le moteur HTML5 est très bien pour faire de
     
     <item>
       <title>WebGL, le futur des mondes virtuels?</title>
-      <link>https://angezanetti.github.com/webgl-katalabs-mondes-virtuels/</link>
+      <link>https://angezanetti.github.io/webgl-katalabs-mondes-virtuels/</link>
       <pubDate>Sat, 06 Mar 2010 16:00:25 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/webgl-katalabs-mondes-virtuels/</guid>
+      <guid>https://angezanetti.github.io/webgl-katalabs-mondes-virtuels/</guid>
       <description>WebGL est un langage permettant d&amp;#8217;afficher de la 3D dans le navigateur sans installer le moindre plugin ou le moindre programme. Alors comment ça marche? J&amp;#8217;ai trouvé sur le blog de Fréderic Cavazzza une explication assez claire :
  _Pour rentrer un peu plus dans les détails, WebGL propose donc au sein d’une page web de lier du contenu à votre carte graphique à l’aide de javascript et d’OpenGL ES. “ES” ?</description>
     </item>

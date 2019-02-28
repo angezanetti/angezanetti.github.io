@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloudparty on Xavier Coiffard</title>
-    <link>https://angezanetti.github.com/tags/cloudparty/</link>
+    <link>https://angezanetti.github.io/tags/cloudparty/</link>
     <description>Recent content in Cloudparty on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 29 Apr 2013 11:03:44 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.github.com/tags/cloudparty/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.github.io/tags/cloudparty/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cloud Party, maintenant avec un moteur physique et une vraie API</title>
-      <link>https://angezanetti.github.com/cloud-party-maintenant-avec-un-moteur-physique-et-une-vraie-api/</link>
+      <link>https://angezanetti.github.io/cloud-party-maintenant-avec-un-moteur-physique-et-une-vraie-api/</link>
       <pubDate>Mon, 29 Apr 2013 11:03:44 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/cloud-party-maintenant-avec-un-moteur-physique-et-une-vraie-api/</guid>
+      <guid>https://angezanetti.github.io/cloud-party-maintenant-avec-un-moteur-physique-et-une-vraie-api/</guid>
       <description>Cela fait longtemps que je n&amp;#8217;était pas retourné sur Cloud Party, le clone en WebGL de SecondLife. Depuis son lancement en fait, en Juin 2012.
 A l&amp;#8217;époque j&amp;#8217;avais été bluffé par la techno mais le monde était vide et il n&amp;#8217;y avait pas de possibilité de scripter vraiment ni de vendre ses créations. Depuis beaucoup de choses ont changées. C&amp;#8217;est d&amp;#8217;ailleurs une news qui m&amp;#8217;a fait revenir dans ce monde virtuel.</description>
     </item>
     
     <item>
       <title>CloudParty, un SecondLife-like dans le navigateur – mais avec Facebook</title>
-      <link>https://angezanetti.github.com/cloudparty-secondlife-like-navigateur-webgl-facebook/</link>
+      <link>https://angezanetti.github.io/cloudparty-secondlife-like-navigateur-webgl-facebook/</link>
       <pubDate>Tue, 19 Jun 2012 18:24:45 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/cloudparty-secondlife-like-navigateur-webgl-facebook/</guid>
+      <guid>https://angezanetti.github.io/cloudparty-secondlife-like-navigateur-webgl-facebook/</guid>
       <description>Alors que Second Life est dans un pente descendante depuis plusieurs mois un ancien Linden vient de sortir une application Facebook qui risque bien d&amp;#8217;accélérer sa chute.
 Cloud Party, c&amp;#8217;est le nom de la fameuse appli à été créee par Cory Ondrejka (co-fondateur de Second Life) et Bruce Rogers l&amp;#8217;ancien CTO de Cryptic Studio. Honnêtement j&amp;#8217;y suis allé sans vraiment m&amp;#8217;attendre à trouver le Saint Graal. D&amp;#8217;autant plus que je devais me logger via Facebook&amp;#8230;</description>
     </item>

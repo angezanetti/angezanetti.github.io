@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chrome on Xavier Coiffard</title>
-    <link>https://angezanetti.github.com/tags/chrome/</link>
+    <link>https://angezanetti.github.io/tags/chrome/</link>
     <description>Recent content in Chrome on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 20 May 2010 09:18:55 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.github.com/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.github.io/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Unity3d ou WebGL comme futur standard d’un Internet 3D ?</title>
-      <link>https://angezanetti.github.com/unity3d-google-opensim/</link>
+      <link>https://angezanetti.github.io/unity3d-google-opensim/</link>
       <pubDate>Thu, 20 May 2010 09:18:55 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/unity3d-google-opensim/</guid>
+      <guid>https://angezanetti.github.io/unity3d-google-opensim/</guid>
       <description>&lt;p&gt;Google à sorti son &amp;#8220;&lt;em&gt;native client&lt;/em&gt;&amp;#8221; il y a quelques jours comme je vous l&amp;#8217;annonçait &lt;a title=&#34;Google native client&#34; href=&#34;http://angezanetti.com/google-native-client-sdk/&#34; target=&#34;_blank&#34;&gt;dans cet article&lt;/a&gt; mais je ne croyais pas que ça bougerait aussi vite.&lt;/p&gt;
 
 &lt;p&gt;Hier, &lt;strong&gt;Unity3D,&lt;/strong&gt; le moteur de jeu vidéo sur lequel est basé &lt;a title=&#34;assemblive&#34; href=&#34;http://angezanetti.com/assemblive-v1-8-francais-api/&#34; target=&#34;_blank&#34;&gt;Assemblive&lt;/a&gt; par exemple, à annoncé qu&amp;#8217;ilvdéveloppait une application native pour Chrome. Concrétement cela veut dite que Unity3d n&amp;#8217;aura plus besoin de plugin pour fonctionner dans le navigateur de Google. On aura de la 3d aussi facilement que l&amp;#8217;on affiche des pages web, simplement en cliquant.&lt;/p&gt;

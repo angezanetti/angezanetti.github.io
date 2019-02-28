@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Minecraft on Xavier Coiffard</title>
-    <link>https://angezanetti.github.com/tags/minecraft/</link>
+    <link>https://angezanetti.github.io/tags/minecraft/</link>
     <description>Recent content in Minecraft on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 29 Dec 2011 11:55:23 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.github.com/tags/minecraft/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.github.io/tags/minecraft/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Une adaptation de Minecraft en WebGL</title>
-      <link>https://angezanetti.github.com/minecraft-webgl-mondesvirtuels/</link>
+      <link>https://angezanetti.github.io/minecraft-webgl-mondesvirtuels/</link>
       <pubDate>Thu, 29 Dec 2011 11:55:23 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/minecraft-webgl-mondesvirtuels/</guid>
+      <guid>https://angezanetti.github.io/minecraft-webgl-mondesvirtuels/</guid>
       <description>source de l&#39;image : http://www.next-nintendo.com/  &amp;nbsp;
 Je ne sais pas si vous connaissez MineCraft, c&amp;#8217;est un monde virtuel assez basique qui permet de créer des univers délirants avec de gros cube pixélisés.
 Alors bien sur dit comme ça cela ne fait pas trop envie mais vraiment Minecraft est devenu devenu un véritable phénomène de société.

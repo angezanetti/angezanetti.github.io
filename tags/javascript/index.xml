@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Javascript on Xavier Coiffard</title>
-    <link>https://angezanetti.github.com/tags/javascript/</link>
+    <link>https://angezanetti.github.io/tags/javascript/</link>
     <description>Recent content in Javascript on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 20 Aug 2013 09:51:28 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.github.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Connaissez vous Cryptocat, le chat anti-PRISM?</title>
-      <link>https://angezanetti.github.com/connaissez-vous-cryptocat-le-chat-anti-prism/</link>
+      <link>https://angezanetti.github.io/connaissez-vous-cryptocat-le-chat-anti-prism/</link>
       <pubDate>Tue, 20 Aug 2013 09:51:28 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/connaissez-vous-cryptocat-le-chat-anti-prism/</guid>
+      <guid>https://angezanetti.github.io/connaissez-vous-cryptocat-le-chat-anti-prism/</guid>
       <description>Sur Github on trouve vraiment des petites merveilles, le dernier projet vraiment sympa que j&amp;#8217;ai découvert s&amp;#8217;appelle Crypto.cat. En deux mots cryptocat c&amp;#8217;est du chat de groupe un peu comme IRC mais qui crypte les conversations afin de rendre vos correspondances vraiment privées.
  Rien de vraiment nouveau, ce type de techno existe depuis des années avec PGP ou OTR mais ce qui est cool chez cryptocat c&amp;#8217;est la volonté de se mettre au niveau du chat de Facebook en terme d&amp;#8217;ergonomie et de facilité d&amp;#8217;usage.</description>
     </item>
     
     <item>
       <title>Le Javascript, ce langage merveilleux :)</title>
-      <link>https://angezanetti.github.com/javascript-fail/</link>
+      <link>https://angezanetti.github.io/javascript-fail/</link>
       <pubDate>Mon, 06 Aug 2012 15:35:00 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/javascript-fail/</guid>
+      <guid>https://angezanetti.github.io/javascript-fail/</guid>
       <description>Je me suis mis à coder du Javascript il y a un an. Et depuis, à intervalles régulières, je me fais chambrer par des développeurs. Le javascript, malgré les trucs super qu&amp;#8217;il est capable de faire traîne une vieille réputation de langage &amp;#8220;poubelle&amp;#8221;.
 Alors bien sur, à chaque fois, je parle de WebGL, de NodeJS et des possibilités que ça engendre. Mais bon il y a des limites, et c&amp;#8217;est vrai que le JS garde certains stigmates d&amp;#8217;une jeunesse difficile.</description>
     </item>
     
     <item>
       <title>Bonne et heureuse année 2012 !</title>
-      <link>https://angezanetti.github.com/bonne-et-heureuse-annee-2012/</link>
+      <link>https://angezanetti.github.io/bonne-et-heureuse-annee-2012/</link>
       <pubDate>Thu, 05 Jan 2012 07:06:18 +0000</pubDate>
       
-      <guid>https://angezanetti.github.com/bonne-et-heureuse-annee-2012/</guid>
+      <guid>https://angezanetti.github.io/bonne-et-heureuse-annee-2012/</guid>
       <description>Comme le veut la tradition je tenais à vous souhaiter une bonne et heureuse année 2012.
 J&amp;#8217;espère bien que cette année tiendra ces promesses &amp;#8211; du moins celle que l&amp;#8217;on peut lire depuis 5 jours sur les blogs !
 
