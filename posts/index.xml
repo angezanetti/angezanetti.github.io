@@ -6,8 +6,137 @@
         <description>Recent content in Posts on Xavier Coiffard</description>
         <generator>Hugo -- gohugo.io</generator>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Fri, 26 Jan 2018 21:46:20 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jul 2018 22:04:44 +0100</lastBuildDate>
         <atom:link href="https://angezanetti.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>On Algorythm During Interview</title>
+            <link>https://angezanetti.github.io/posts/2018/07/on-algorythm-during-interview/</link>
+            <pubDate>Tue, 17 Jul 2018 22:04:44 +0100</pubDate>
+            
+            <guid>https://angezanetti.github.io/posts/2018/07/on-algorythm-during-interview/</guid>
+            <description>I was recently into an interview process for a big company. I did 2 “in person” interview with the CEO and the CTO, I was looking for an Engineering Manager position.
+And I Ended by doing a Algorithm test on hackerrank.com. Few hours on a chair, trying to find the more optimize way to sort lists.
+Wait, really? I know, you want to test my tech skills, you want to check if I’m techie enough.</description>
+            <content type="html"><![CDATA[
+
+<p>I was recently into an interview process for a big company. I did 2 “in person” interview with the CEO and the CTO, I was looking for an Engineering Manager position.</p>
+
+<p>And I Ended by doing a Algorithm test on hackerrank.com. Few hours on a chair, trying to find the more optimize way to sort lists.</p>
+
+<h2 id="wait-really">Wait, really?</h2>
+
+<p>I know, you want to test my tech skills, you want to check if I’m techie enough. But, my job is about building API, produce readable and bug-less code.</p>
+
+<p>My job is about teamwork, trying to create an unified piece of code.</p>
+
+<p>My job is also to set up best practices and do thing to be sure that everybody works on the same code rules.</p>
+
+<p>And you test me………on math?</p>
+
+<h2 id="developers-are-broken">Developers are broken</h2>
+
+<p>We are nerds, we love the tricky shit — i’ll write a post about why i Looooooove Vim in the next few days hopefully. But, please, keep your perversion at home.</p>
+
+<p>We are in 2018, and I’m a Web Developer not a super tricky kernel/drivers whatever development in a very constraint environment. Nobody gives a shit if I sort your f*cking array in the most efficient way. Even my phone has 8 cores bro, and 3Gb of RAM!</p>
+
+<p>So, give me a break with your optimization illness and test me on real thing.</p>
+
+<p>What about a test on Git? On API architecture? On how I resolve conflicts? What kind of technical choice I made on tricky issues?</p>
+
+<h2 id="the-best-piece-of-code-is-one-working-on-production">The best piece of code is one working on production</h2>
+
+<p>This kind of behavior is not harmless. It’s why there is a lot of guy afraid to ship their code into production “because it’s not beautiful/optimal/perfect”.</p>
+
+<p>Of course you need to ship the best code possible, of course it’s important to take care of the performance. And, yes, algorithm is sometimes important.</p>
+
+<p>But, in real life, when I face a very hard issue I ask my coworkers to think about it with me, we work on it together and we solve it and ship it this way.</p>
+
+<p>So yeah, ok, test my tech skills, but please, don’t spend your whole recruitment process on it. It’s far from the reality of our work!</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>From diving instructor to web developer, here is the 7 things I learned</title>
+            <link>https://angezanetti.github.io/posts/2018/02/from-diving-instructor-to-web-developer-here-is-the-7-things-i-learned/</link>
+            <pubDate>Fri, 02 Feb 2018 21:52:33 +0100</pubDate>
+            
+            <guid>https://angezanetti.github.io/posts/2018/02/from-diving-instructor-to-web-developer-here-is-the-7-things-i-learned/</guid>
+            <description>1 — It’s never been easier to jump on the bandwaggon I’m a self taught coder, I didn’t study Computer Science at school. I only did ~20hours of computer science lessons during my studies. I was not a geek, I didn’t start coding at 12yo, no what I liked so much during my childhood was going underwater, not computers :)
+You don’t need to be a geek/nerd/hero or whatever to be a developer  No you don&amp;rsquo;t, it&amp;rsquo;s a myth - and starting at 12 means nothing, what did they code at 12?</description>
+            <content type="html"><![CDATA[
+
+<h2 id="1-it-s-never-been-easier-to-jump-on-the-bandwaggon">1 — It’s never been easier to jump on the bandwaggon</h2>
+
+<p>I’m a self taught coder, I didn’t study Computer Science at school. I only did ~20hours of computer science lessons during my studies. I was not a geek, I didn’t start coding at 12yo, no what I liked so much during my childhood was going underwater, not computers :)</p>
+
+<pre><code>You don’t need to be a geek/nerd/hero or whatever to be a developer
+</code></pre>
+
+<p>No you don&rsquo;t, it&rsquo;s a myth - and starting at 12 means nothing, what did they
+code at 12? A webpage? Woo, i&rsquo;m impressed!</p>
+
+<p>I start enjoying coding during my loong winters. As a seasonal worker, my winters where calm, so I started to play to Second Life. I learned by myself, online, reading the docs and the tutorials. It’s really easy if you’re not afraid by some lines of code and if you’re passionate about it.</p>
+
+<p>Just go to whatever academy website/tutorials/video and start to code! It will be long, maybe painfull but everyone can do it and all the ressources are avalaible online. And it covers all the levels from beginners to advanced!</p>
+
+<p>Starting is really not an issue, you just need motivation :)</p>
+
+<h2 id="2-start-as-a-contractor">2 — Start as a contractor</h2>
+
+<p>Starting as a Freelancer is easier. It’s way more easy to get a contract than a job. Of course don’t try to sell project that you can not achieve, but it’s really a good way to start — even as an extra job.</p>
+
+<p>And the good thing, as soon as you have customers, you work on “real” stuff. So you learn 10x faster!</p>
+
+<h2 id="3-build-your-network">3 — Build your network</h2>
+
+<p>As a freelancer, but also as an employee a good network is really key. It helps to find your customers, your next job, and the guy who is complementary with you — let’s say a graphist for instance!</p>
+
+<p>I started my freelance activity with creating a blog and a twitter account. I blogged a lot at this time (<sup>3</sup>&frasl;<sub>4</sub> times a week) and was on twitter/facebook every single day to be part of the debate/exchange on the topic that i worked on. It’s a good way to be part of the community, and if your content is qualitative you’ll soon have feedback, contract or jobs coming on!</p>
+
+<p>In the 7 years as a freelancer, at least 80% of the contracts that i got was from the network, the word of mouth or my website. I spent really few time into prospection or sales.</p>
+
+<h2 id="4-fake-it-til-you-make-it">4 — Fake it &lsquo;til you make it</h2>
+
+<p>It’s an important point as a self taught, you have to learn everything. So, at the beginning of you activity, you’ll need to hide a bit this reality. You’ll need to say to some customers that, “Yes, of course I already did it before”.</p>
+
+<p>As soon as you know, one way or another, you’ll be able to do it, it’s ok to fake. Just try to give you an extra amount of time, but yes, fake it.</p>
+
+<p>Don’t do this for extra difficult stuff, like don’t say to your customers that you can create a deep learning algorithm if you only know HTML, but it’s totally ok to “oversell” your track record if you know you can do it :)</p>
+
+<h2 id="5-langage-matter">5 — Langage matter</h2>
+
+<p>The development world is huuuuuge. You can work on front-end, back-end, mobile apps, payment system, video streaming, trading plateforms etc…</p>
+
+<p>The development ecosystem is more and more fragmented. You’ll have to choose where you want to go and the langage you want to speak.</p>
+
+<p>And it’s a BIG deal.</p>
+
+<p>If you learn Java, you’ll probably work for/with big companies on big IT system. If you learn Ruby, you’ll probably find a job in a startup. Cobol is for the bank, C is for the operating systems, Elixir is for the cutting edge companies etc…</p>
+
+<p>I did not really realized it when I start, but the langage is REALLY a big deal, the one you choose impact A LOT the type of companies as i said before, but also your salary, you work method etc.</p>
+
+<p>So, choose the right one!</p>
+
+<p><em>(It’s not really important as you learn the basis, but you’ll have to ask yourself when it will become more serious)</em></p>
+
+<h2 id="6-opensource-is-your-friend">6 — Opensource is your friend</h2>
+
+<p>There is a LOT of code source around that you can use/modify/sell as you want. For a beginner it’s a great way to learn how things works. It’s also a good way to hack things. Download it, modify it and see what’s the result.</p>
+
+<p>I did it a lot at the beginning, you learn so much doing this.</p>
+
+<p>But opensource project can also make so great professional reference. At the beginning at my career i spent some time with the Mozilla community, i ended to refactor the design with the new guidelines. It was not a job, i did it for free on my free time but it’s a really good part of my resume! And it’s was a cool way to learn CSS3 :)</p>
+
+<p>So if you want to improve some skills, find a opensource project that needs help and code for them!</p>
+
+<h2 id="7-have-fun">7— Have fun!</h2>
+
+<p>This is probably the thing I tried to follow the most since I’m out of college. That’s why i left my studies to became a scuba diving Instructor and why I also became a developer!</p>
+
+<p>NB: Fun can be a synonym of challenging, fulfilling or rewarding in my mind.</p>
+]]></content>
+        </item>
         
         <item>
             <title>Fresh start - switch from French to English &amp; more</title>

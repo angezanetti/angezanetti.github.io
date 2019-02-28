@@ -6,10 +6,31 @@
     <description>Recent content in Jobs on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 27 Apr 2015 12:13:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jul 2018 22:04:44 +0100</lastBuildDate>
     
 	<atom:link href="https://angezanetti.github.io/tags/jobs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>On Algorythm During Interview</title>
+      <link>https://angezanetti.github.io/posts/2018/07/on-algorythm-during-interview/</link>
+      <pubDate>Tue, 17 Jul 2018 22:04:44 +0100</pubDate>
+      
+      <guid>https://angezanetti.github.io/posts/2018/07/on-algorythm-during-interview/</guid>
+      <description>I was recently into an interview process for a big company. I did 2 “in person” interview with the CEO and the CTO, I was looking for an Engineering Manager position.
+And I Ended by doing a Algorithm test on hackerrank.com. Few hours on a chair, trying to find the more optimize way to sort lists.
+Wait, really? I know, you want to test my tech skills, you want to check if I’m techie enough.</description>
+    </item>
+    
+    <item>
+      <title>From diving instructor to web developer, here is the 7 things I learned</title>
+      <link>https://angezanetti.github.io/posts/2018/02/from-diving-instructor-to-web-developer-here-is-the-7-things-i-learned/</link>
+      <pubDate>Fri, 02 Feb 2018 21:52:33 +0100</pubDate>
+      
+      <guid>https://angezanetti.github.io/posts/2018/02/from-diving-instructor-to-web-developer-here-is-the-7-things-i-learned/</guid>
+      <description>1 — It’s never been easier to jump on the bandwaggon I’m a self taught coder, I didn’t study Computer Science at school. I only did ~20hours of computer science lessons during my studies. I was not a geek, I didn’t start coding at 12yo, no what I liked so much during my childhood was going underwater, not computers :)
+You don’t need to be a geek/nerd/hero or whatever to be a developer  No you don&amp;rsquo;t, it&amp;rsquo;s a myth - and starting at 12 means nothing, what did they code at 12?</description>
+    </item>
     
     <item>
       <title>Fuite mémoire avec curl et NSS sous RedHat</title>
