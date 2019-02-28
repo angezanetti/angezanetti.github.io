@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weblin on Xavier Coiffard</title>
-    <link>https://angezanetti.com/tags/weblin/</link>
+    <link>https://angezanetti.github.com/tags/weblin/</link>
     <description>Recent content in Weblin on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 19 Mar 2009 11:20:00 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.com/tags/weblin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.github.com/tags/weblin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Weblin or not Weblin?</title>
-      <link>https://angezanetti.com/weblin-or-not-weblin/</link>
+      <link>https://angezanetti.github.com/weblin-or-not-weblin/</link>
       <pubDate>Thu, 19 Mar 2009 11:20:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/weblin-or-not-weblin/</guid>
+      <guid>https://angezanetti.github.com/weblin-or-not-weblin/</guid>
       <description>Depuis quelques j&amp;#8217;utilise Weblin Lite sur ce blog. Pour ceux qui ne savent pas Weblin c&amp;#8217;est un service web qui permet d&amp;#8217;afficher des avatars en bas de pages et donc de converser avec ses visiteurs.
 Mais voilà ce service ralenti, un peu, mon blog et surtout je me rend compte que peu de personnes l&amp;#8217;utilisent. Le résultat est donc une interaction avec mes visiteurs très faible et la seule raison d&amp;#8217;être de Weblin est justement cette interaction&amp;#8230;</description>
     </item>

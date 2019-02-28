@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloudgaming on Xavier Coiffard</title>
-    <link>https://angezanetti.com/tags/cloudgaming/</link>
+    <link>https://angezanetti.github.com/tags/cloudgaming/</link>
     <description>Recent content in Cloudgaming on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 25 Jul 2011 15:12:09 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.com/tags/cloudgaming/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.github.com/tags/cloudgaming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Le cloud gaming est-il l’avenir des interfaces immersives ?</title>
-      <link>https://angezanetti.com/could-gaming-monde-virtuel-seriousgame/</link>
+      <link>https://angezanetti.github.com/could-gaming-monde-virtuel-seriousgame/</link>
       <pubDate>Mon, 25 Jul 2011 15:12:09 +0000</pubDate>
       
-      <guid>https://angezanetti.com/could-gaming-monde-virtuel-seriousgame/</guid>
+      <guid>https://angezanetti.github.com/could-gaming-monde-virtuel-seriousgame/</guid>
       <description>Après une discussion fournie sur la page FaceBook d&amp;#8217;AngeZanetti à propos de WebGL et de l&amp;#8217;avenir des mondes virtuels et autres seriousgame dans le navigateur, Henri Morlaye co-fondateur d&amp;#8217;AWorldForUs, m&amp;#8217;a fait découvrir le cloud gaming.
 Le concept est assez simple dans le principe, plutôt que de faire travailler votre machine pour afficher les jeux ils font bosser un serveur distant et streament l&amp;#8217;affichage du jeu. Simple mais terriblement efficace ! Car, du coup, la puissance demandée est ridiculement faible au point d&amp;#8217;afficher du monde virtuel sur un smartphone !</description>
     </item>

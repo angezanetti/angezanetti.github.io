@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Viedublog on Xavier Coiffard</title>
-    <link>https://angezanetti.com/tags/viedublog/</link>
+    <link>https://angezanetti.github.com/tags/viedublog/</link>
     <description>Recent content in Viedublog on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Fri, 20 Dec 2013 20:36:31 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.com/tags/viedublog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.github.com/tags/viedublog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Changement de thème et nouveaux usages!</title>
-      <link>https://angezanetti.com/changement-de-theme-et-nouveaux-usages/</link>
+      <link>https://angezanetti.github.com/changement-de-theme-et-nouveaux-usages/</link>
       <pubDate>Fri, 20 Dec 2013 20:36:31 +0000</pubDate>
       
-      <guid>https://angezanetti.com/changement-de-theme-et-nouveaux-usages/</guid>
+      <guid>https://angezanetti.github.com/changement-de-theme-et-nouveaux-usages/</guid>
       <description>Cela fait longtemps que je me dit qu&amp;#8217;il faut que je modifie un peu tout ça, que je fasse le ménage mais j&amp;#8217;ai plus vraiment le temps, plus vraiment l&amp;#8217;envie de refaire ce que j&amp;#8217;avais fait pour le thème précédent: monter un thème &amp;#8220;from scratch&amp;#8221;.
 Et puis j&amp;#8217;ai mis à jour WordPress, c&amp;#8217;est une bonne idée il paraît, et j&amp;#8217;ai trouvé que le thème par défaut, Twenty 14, avait de la gueule avec son design flat et son gros bandeau noir.</description>
     </item>
     
     <item>
       <title>BackWPup, le plugin qui sauvegarde votre WordPress à votre place !</title>
-      <link>https://angezanetti.com/backwpup-le-plugin-qui-sauvegarde-votre-wordpress-a-votre-place/</link>
+      <link>https://angezanetti.github.com/backwpup-le-plugin-qui-sauvegarde-votre-wordpress-a-votre-place/</link>
       <pubDate>Mon, 25 Jun 2012 14:59:28 +0000</pubDate>
       
-      <guid>https://angezanetti.com/backwpup-le-plugin-qui-sauvegarde-votre-wordpress-a-votre-place/</guid>
+      <guid>https://angezanetti.github.com/backwpup-le-plugin-qui-sauvegarde-votre-wordpress-a-votre-place/</guid>
       <description>Je ne sais pas comment vous fonctionnez, si vous aussi vous mettez des post-its partout pour essayer de vous rappeler de faire &amp;#8220;ABSOLUMENT&amp;#8221; la sauvegarde de vos sites/blogs. Moi je crois avoir à peu près tout tenté, rien n&amp;#8217;y fait j&amp;#8217;oublie. J&amp;#8217;ai toujours un truc urgent à faire, j&amp;#8217;ai jamais envie de me connecter à phpmyadmin pour faire un dump de ma bdd.
 Comme ce blog tourne sur une serveur mutualisé je peux pas mettre de Cron en place.</description>
     </item>
     
     <item>
       <title>Nouveau design pour AngeZanetti.com avec du HTML5 responsive dedans !</title>
-      <link>https://angezanetti.com/nouveau-design-angezanetti-html5-responsive/</link>
+      <link>https://angezanetti.github.com/nouveau-design-angezanetti-html5-responsive/</link>
       <pubDate>Fri, 04 May 2012 10:57:11 +0000</pubDate>
       
-      <guid>https://angezanetti.com/nouveau-design-angezanetti-html5-responsive/</guid>
+      <guid>https://angezanetti.github.com/nouveau-design-angezanetti-html5-responsive/</guid>
       <description>Depuis le temps que j&amp;#8217;en parlais, le voilà enfin, j&amp;#8217;ai un nouveau thème pour ce blog.
 L&amp;#8217;ancien était vraiment trop lourd, aussi bien sur le plan technique que visuel.
 Trop lourd parce que l&amp;#8217;avais codé il y a 4 ans à partir d&amp;#8217;un thème existant &amp;#8211; horreur, il était mal codé et avec beaucoup de code inutile qui ralentissait l&amp;#8217;affichage du blog.
@@ -45,10 +45,10 @@ Trop lourd aussi parce que la sidebar et tous ses widgets attiraient beaucoup le
     
     <item>
       <title>Vacances à l’autre bout du monde</title>
-      <link>https://angezanetti.com/vacances-indonesia/</link>
+      <link>https://angezanetti.github.com/vacances-indonesia/</link>
       <pubDate>Tue, 23 Aug 2011 13:32:42 +0000</pubDate>
       
-      <guid>https://angezanetti.com/vacances-indonesia/</guid>
+      <guid>https://angezanetti.github.com/vacances-indonesia/</guid>
       <description>By Jakob Montrasio from Shanghai, China (Jakarta&amp;#8217;s Chinatown.) [CC-BY-2.0]  Je pars. Après tout le monde. C&amp;#8217;est tellement mieux de voir tous ces collègues du CoworkingLille revenir en se disant que notre tour arrive bientôt ! Cette fois c&amp;#8217;est la bonne, à cette heure ci je suis dans un avion quelque part entre Paris et Jakarta.
 Je suis de retour le 15 Septembre pour de fabuleux projets avec du monde virtuel, du webGL et du NodeJs dedans !</description>
     </item>

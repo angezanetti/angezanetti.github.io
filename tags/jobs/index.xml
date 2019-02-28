@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jobs on Xavier Coiffard</title>
-    <link>https://angezanetti.com/tags/jobs/</link>
+    <link>https://angezanetti.github.com/tags/jobs/</link>
     <description>Recent content in Jobs on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 27 Apr 2015 12:13:51 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.com/tags/jobs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.github.com/tags/jobs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fuite mémoire avec curl et NSS sous RedHat</title>
-      <link>https://angezanetti.com/fuite-memoire-curl-php-red-hat-nss/</link>
+      <link>https://angezanetti.github.com/fuite-memoire-curl-php-red-hat-nss/</link>
       <pubDate>Mon, 27 Apr 2015 12:13:51 +0000</pubDate>
       
-      <guid>https://angezanetti.com/fuite-memoire-curl-php-red-hat-nss/</guid>
+      <guid>https://angezanetti.github.com/fuite-memoire-curl-php-red-hat-nss/</guid>
       <description>Depuis plusieurs mois je travaille pour une startup qui fait de la lutte contre la fraude. En deux mots, les clients nous envoient des flux XML et nous leur renvoyons note correspondant à l&amp;#8217;indice de confiance de la transaction.
 Et, début Janvier nous avons intégré un GROS client. Du genre à faire pâlir les sysadmin. Cela nous à forcer à reconstruire une partie du code, à revoir l&amp;#8217;architecture de l&amp;#8217;application (qui est au passage devenue une application symfony2).</description>
     </item>
     
     <item>
       <title>Comment savoir que son code est de bonne qualité?</title>
-      <link>https://angezanetti.com/comment-produire-code-qualite-methodes-travail-developpeur/</link>
+      <link>https://angezanetti.github.com/comment-produire-code-qualite-methodes-travail-developpeur/</link>
       <pubDate>Mon, 28 Jul 2014 12:08:58 +0000</pubDate>
       
-      <guid>https://angezanetti.com/comment-produire-code-qualite-methodes-travail-developpeur/</guid>
+      <guid>https://angezanetti.github.com/comment-produire-code-qualite-methodes-travail-developpeur/</guid>
       <description>C&amp;#8217;est une question qui m&amp;#8217;a été posée en entretien d&amp;#8217;embauche il y a peu de temps:
  &amp;#8220;Comment un autodidacte comme vous peut-il être sur que son code est de bonne qualité?&amp;#8221;
  Ça peut paraître une question naïve, surtout venant d&amp;#8217;un RH, mais ça me fait pas mal cogiter depuis, au delà de la technique.
@@ -35,10 +35,10 @@ Pendant l&amp;#8217;entretien j&amp;#8217;ai répondu un truc bâteau, qui a d&a
     
     <item>
       <title>Silex un framework minimaliste PHP que vous devriez tester</title>
-      <link>https://angezanetti.com/silex-framework-minimaliste-php-symfony/</link>
+      <link>https://angezanetti.github.com/silex-framework-minimaliste-php-symfony/</link>
       <pubDate>Thu, 06 Mar 2014 13:08:19 +0000</pubDate>
       
-      <guid>https://angezanetti.com/silex-framework-minimaliste-php-symfony/</guid>
+      <guid>https://angezanetti.github.com/silex-framework-minimaliste-php-symfony/</guid>
       <description>Silex est un micro framework édité par SensioLabs, la société qui édite le fameux framework Symfony.
 Un micro Framework Silex est micro, vraiment micro. Même l&amp;#8217;installation tiens en deux lignes:
 $ curl -sS https://getcomposer.org/installer | php $ composer.phar install Une fois ces deux lignes exécutées vous vous trouvez avec:
@@ -47,10 +47,10 @@ $ curl -sS https://getcomposer.org/installer | php $ composer.phar install Une f
     
     <item>
       <title>Migrer SPIP vers WordPress</title>
-      <link>https://angezanetti.com/migrer-spip-vers-wordpress/</link>
+      <link>https://angezanetti.github.com/migrer-spip-vers-wordpress/</link>
       <pubDate>Sun, 26 Jan 2014 16:28:22 +0000</pubDate>
       
-      <guid>https://angezanetti.com/migrer-spip-vers-wordpress/</guid>
+      <guid>https://angezanetti.github.com/migrer-spip-vers-wordpress/</guid>
       <description>Il y a quelques jour on m&amp;#8217;a confié une super mission: migrer un blog SPIP vers un WordPress!
 J&amp;#8217;ai cherché un peu partout une solution simple et clé en main. Visiblement cela n&amp;#8217;existe pas vraiment&amp;#8230; Il y a bien Korben qui à fait un article la dessus, mais son code n&amp;#8217;est plus dispo.
 J&amp;#8217;ai été cherché du côté de la communauté SPIP &amp;#8211; ils sont super sympas d&amp;#8217;ailleurs n&amp;#8217;hésitez pas à aller leur faire un coucou sur IRC !</description>
@@ -58,10 +58,10 @@ J&amp;#8217;ai été cherché du côté de la communauté SPIP &amp;#8211; ils s
     
     <item>
       <title>Pour sortir du lot mettez vous dans une niche !</title>
-      <link>https://angezanetti.com/pour-sortir-du-lot-mettez-vous-dans-une-niche/</link>
+      <link>https://angezanetti.github.com/pour-sortir-du-lot-mettez-vous-dans-une-niche/</link>
       <pubDate>Sun, 22 Sep 2013 16:11:09 +0000</pubDate>
       
-      <guid>https://angezanetti.com/pour-sortir-du-lot-mettez-vous-dans-une-niche/</guid>
+      <guid>https://angezanetti.github.com/pour-sortir-du-lot-mettez-vous-dans-une-niche/</guid>
       <description>Depuis que les mondes virtuels sont en baisse, que je ne peux plus vivre avec cette activité il m&amp;#8217;a fallu changer de cap, me recycler.
 Et je me suis perdu.
 
@@ -70,19 +70,19 @@ Devant la palette de technologies, d&amp;#8217;outils qui sont disponibles j&amp
     
     <item>
       <title>Installer un environnement de développement avec VirtualBox</title>
-      <link>https://angezanetti.com/installer-un-environnement-de-developpement-avec-virtualbox/</link>
+      <link>https://angezanetti.github.com/installer-un-environnement-de-developpement-avec-virtualbox/</link>
       <pubDate>Mon, 26 Aug 2013 09:09:44 +0000</pubDate>
       
-      <guid>https://angezanetti.com/installer-un-environnement-de-developpement-avec-virtualbox/</guid>
+      <guid>https://angezanetti.github.com/installer-un-environnement-de-developpement-avec-virtualbox/</guid>
       <description>Travailller avec un LAMP, ou un MAMP, installé en local c&amp;#8217;est bien pour des petits projets, type création de thème/plugins WordPress, mais pour les projets plus conséquents avec des technos plus exotique que PHP il peut être nécessaire de virtualiser un système d&amp;#8217;exploitation pour travailler. Je vous conseillle d&amp;#8217;ailleurs de mettre en local le même système que votre machine de production, ça limite grandement les surprises de mise en prod !</description>
     </item>
     
     <item>
       <title>Freelances contribuez au libre pendant vos temps morts</title>
-      <link>https://angezanetti.com/contribuez-opensource-temps-libre-freelance-chomeurs/</link>
+      <link>https://angezanetti.github.com/contribuez-opensource-temps-libre-freelance-chomeurs/</link>
       <pubDate>Mon, 19 Aug 2013 08:47:29 +0000</pubDate>
       
-      <guid>https://angezanetti.com/contribuez-opensource-temps-libre-freelance-chomeurs/</guid>
+      <guid>https://angezanetti.github.com/contribuez-opensource-temps-libre-freelance-chomeurs/</guid>
       <description>Dans la vie professionnelle de tout indépendant il y a des temps morts. Entre deux contrats, avant ou après avoir fait de la prospection commerciale, les moments où l&amp;#8217;on est pas forcement débordé sont assez fréquents. Hors ce sont bien souvent ces temps là qui nous permettent de nous former, d&amp;#8217;apprendre, de faire de la veille.
 
 Depuis quelques temps déjà j&amp;#8217;essaye de consacrer ces temps morts à des projets opensource.</description>
@@ -90,39 +90,39 @@ Depuis quelques temps déjà j&amp;#8217;essaye de consacrer ces temps morts à 
     
     <item>
       <title>Pourquoi vous devriez utiliser WebGL</title>
-      <link>https://angezanetti.com/webgl-adoption-usages-angezanetti-consultant/</link>
+      <link>https://angezanetti.github.com/webgl-adoption-usages-angezanetti-consultant/</link>
       <pubDate>Wed, 10 Apr 2013 09:06:29 +0000</pubDate>
       
-      <guid>https://angezanetti.com/webgl-adoption-usages-angezanetti-consultant/</guid>
+      <guid>https://angezanetti.github.com/webgl-adoption-usages-angezanetti-consultant/</guid>
       <description>Depuis que je travaille comme consultant et développeur dans le monde de la 3D je suis confronté à des débats sur les technos. Cela à commencé avec SecondLife, Opensim puis Unity3d, WebGL, Flash etc &amp;#8230;   Avec des arguments plus ou moins bien choisi, mais il y a toujours cette problématique du choix de technos. Je vais essayer de vous convaincre, dans ce billet, de tester WebGL.          WebG quoi ?</description>
     </item>
     
     <item>
       <title>Pourquoi les freelances sont aussi déprimés… ou pas</title>
-      <link>https://angezanetti.com/pourquoi-les-freelances-sont-aussi-deprimes-ou-pas/</link>
+      <link>https://angezanetti.github.com/pourquoi-les-freelances-sont-aussi-deprimes-ou-pas/</link>
       <pubDate>Thu, 28 Feb 2013 10:44:53 +0000</pubDate>
       
-      <guid>https://angezanetti.com/pourquoi-les-freelances-sont-aussi-deprimes-ou-pas/</guid>
+      <guid>https://angezanetti.github.com/pourquoi-les-freelances-sont-aussi-deprimes-ou-pas/</guid>
       <description>Je suis tombé hier, au fil de ma veille, sur un article de fastcompany qui a pour titre : &amp;#8220;Why freelancers are so depressed&amp;#8221;.
 Un bon gros titre qui fait peur, qui fait buzzer et pleurer dans les chaumières, on se croirait sur TF1. Je vais me permettre dans ce billet de répondre à ce post, parce que je suis freelance depuis presque 5 ans maintenant et aussi parce les problématiques des nouvelles formes de travail m&amp;#8217;intéressent beaucoup.</description>
     </item>
     
     <item>
       <title>Les news de la rentrée</title>
-      <link>https://angezanetti.com/rentree-2012-projets-grandsensemble-maintenantautravail-dentallife/</link>
+      <link>https://angezanetti.github.com/rentree-2012-projets-grandsensemble-maintenantautravail-dentallife/</link>
       <pubDate>Mon, 17 Sep 2012 09:34:40 +0000</pubDate>
       
-      <guid>https://angezanetti.com/rentree-2012-projets-grandsensemble-maintenantautravail-dentallife/</guid>
+      <guid>https://angezanetti.github.com/rentree-2012-projets-grandsensemble-maintenantautravail-dentallife/</guid>
       <description>Mon blog est en sommeil depuis plusieurs mois. Je le sais, ce n&amp;#8217;est pas une volonté de ma part mais plus un manque de temps. Dur de tenir le rythme d&amp;#8217;article que je m&amp;#8217;étais imposé depuis son lancement. J&amp;#8217;ai été pas mal occupé durant l&amp;#8217;été, pas mal de changement et des projets en cours !
 3 mois de changements à rattraper en un post cela ne va pas être facile, je vais essayer de faire court :</description>
     </item>
     
     <item>
       <title>Utiliser Vim comme éditeur LSL</title>
-      <link>https://angezanetti.com/utiliser-vim-comme-editeur-lsl/</link>
+      <link>https://angezanetti.github.com/utiliser-vim-comme-editeur-lsl/</link>
       <pubDate>Mon, 21 May 2012 09:51:37 +0000</pubDate>
       
-      <guid>https://angezanetti.com/utiliser-vim-comme-editeur-lsl/</guid>
+      <guid>https://angezanetti.github.com/utiliser-vim-comme-editeur-lsl/</guid>
       <description>&amp;nbsp;
 Depuis quelques jours je suis de retour sur SecondLife le nez dans le code de la V2 de Dentallife. Pas mal d&amp;#8217;eau a coulé sous les ponts depuis la conception et la réalisation de la V1, je me suis mis au Javascript et à la programmation orientée objet.
 Je vous laisse imaginer à quel point le retour au LSL est dur ! La pauvreté de ce langage est affligeante, sans parler du lag quand on veut échanger des infos avec un serveur externe.</description>
@@ -130,10 +130,10 @@ Je vous laisse imaginer à quel point le retour au LSL est dur ! La pauvreté de
     
     <item>
       <title>Bonne et heureuse année 2012 !</title>
-      <link>https://angezanetti.com/bonne-et-heureuse-annee-2012/</link>
+      <link>https://angezanetti.github.com/bonne-et-heureuse-annee-2012/</link>
       <pubDate>Thu, 05 Jan 2012 07:06:18 +0000</pubDate>
       
-      <guid>https://angezanetti.com/bonne-et-heureuse-annee-2012/</guid>
+      <guid>https://angezanetti.github.com/bonne-et-heureuse-annee-2012/</guid>
       <description>Comme le veut la tradition je tenais à vous souhaiter une bonne et heureuse année 2012.
 J&amp;#8217;espère bien que cette année tiendra ces promesses &amp;#8211; du moins celle que l&amp;#8217;on peut lire depuis 5 jours sur les blogs !
 
@@ -142,20 +142,20 @@ Je ne vais pas rajouter une couche de prédictions, de nombreux bloggeurs s&amp;
     
     <item>
       <title>Je veux devenir un Ninja !</title>
-      <link>https://angezanetti.com/je-veux-devenir-un-ninja/</link>
+      <link>https://angezanetti.github.com/je-veux-devenir-un-ninja/</link>
       <pubDate>Fri, 14 Oct 2011 08:57:28 +0000</pubDate>
       
-      <guid>https://angezanetti.com/je-veux-devenir-un-ninja/</guid>
+      <guid>https://angezanetti.github.com/je-veux-devenir-un-ninja/</guid>
       <description>Je pense que vous avez remarqué, depuis mon retour de vacances je blog moins. Mon fil twitter est toujours aussi actif mais ce blog, lui, était un peu en veille. Deux raisons à cela, mais pas d&amp;#8217;inquiétude ce sont des bonnes nouvelles !
 Premièrement à mon retour de vacances j&amp;#8217;ai été super pris par 2 gros projets. Le genre de projets super excitant, qui vous prend beaucoup temps mais qui est tout aussi passionnant que chronophage.</description>
     </item>
     
     <item>
       <title>Retour sur la création de Dentallife, le serious game de l’urgence en cabinet dentaire</title>
-      <link>https://angezanetti.com/seriousgame-dentallife-developpement-conseil/</link>
+      <link>https://angezanetti.github.com/seriousgame-dentallife-developpement-conseil/</link>
       <pubDate>Tue, 31 May 2011 14:21:44 +0000</pubDate>
       
-      <guid>https://angezanetti.com/seriousgame-dentallife-developpement-conseil/</guid>
+      <guid>https://angezanetti.github.com/seriousgame-dentallife-developpement-conseil/</guid>
       <description>Il y a quelques semaines sortait de façon officielle le seriousgame dentallife : &amp;#8220;Urgences en cabinet Dentaire&amp;#8221;.
 Je n&amp;#8217;ai jamais pris le temps d&amp;#8217;exposer mon retour d&amp;#8217;expérience sur ce projet, ce billet va essayer de corriger cet oubli en exposant notre démarche dans la conception et la réalisation du seriousgame.
 La conception du projet : Au début de l&amp;#8217;année 2011 Guillaume est venu me trouver pour me proposer un projet aussi passionant que culotté : faire un seriousgame en moins de 3 mois.</description>
@@ -163,10 +163,10 @@ La conception du projet : Au début de l&amp;#8217;année 2011 Guillaume est ven
     
     <item>
       <title>La technique Pomodoro</title>
-      <link>https://angezanetti.com/la-technique-pomodoro/</link>
+      <link>https://angezanetti.github.com/la-technique-pomodoro/</link>
       <pubDate>Fri, 29 Apr 2011 14:37:44 +0000</pubDate>
       
-      <guid>https://angezanetti.com/la-technique-pomodoro/</guid>
+      <guid>https://angezanetti.github.com/la-technique-pomodoro/</guid>
       <description>Dans ma vie de freelance j&amp;#8217;ai toujours cherché des nouvelles méthodes pour organiser mon travail. Je dois souvent gérer en parallèle plusieurs dossiers, des gros, des petits, des courts, des longs etc&amp;#8230; J&amp;#8217;ai testé une liste hallucinante de techniques, des todolist, de GTD &amp;#8211; gets things done &amp;#8211; et de time tracker.
 Malheureusement ça ne fonctionne jamais vraiment&amp;#8230;Ou du moins pas bien longtemps.
 Mais depuis quelques semaines je me suis mis à la technique Pomodoro et, honnêtement, les retombées sont plutôt bonnes.</description>
@@ -174,20 +174,20 @@ Mais depuis quelques semaines je me suis mis à la technique Pomodoro et, honnê
     
     <item>
       <title>AODD, une association de prothésistes dentaires, collaborent maintenant dans SecondLife</title>
-      <link>https://angezanetti.com/aodd-association-prothesistes-dentaires-reunion-secondlife/</link>
+      <link>https://angezanetti.github.com/aodd-association-prothesistes-dentaires-reunion-secondlife/</link>
       <pubDate>Thu, 21 Apr 2011 09:54:35 +0000</pubDate>
       
-      <guid>https://angezanetti.com/aodd-association-prothesistes-dentaires-reunion-secondlife/</guid>
+      <guid>https://angezanetti.github.com/aodd-association-prothesistes-dentaires-reunion-secondlife/</guid>
       <description>Aodd est une association de prothésistes dentaire de l’ouest et intrinsèquement ils sont confrontés à un probléme récurrent : ils ont besoin de collaborer à distance. En effet, les différents membres de cette association sont répartis dans le Grand Ouest. Impossible de faire toutes leurs réunions en présentiel.
 Actuellement, ils utilisent la vidéo conférence, avant c’était la téléconférence. Mais on le sait, aucune de ses deux solutions n’est réellement pertinente à plus de 3-4 personnes et leurs retours confirment nettement cette affirmation.</description>
     </item>
     
     <item>
       <title>Retours sur mes interventions de la semaine (Médiathèque des Ulis et HETIC)</title>
-      <link>https://angezanetti.com/intervention-hetic-epn-des-ulis/</link>
+      <link>https://angezanetti.github.com/intervention-hetic-epn-des-ulis/</link>
       <pubDate>Sun, 12 Dec 2010 16:47:52 +0000</pubDate>
       
-      <guid>https://angezanetti.com/intervention-hetic-epn-des-ulis/</guid>
+      <guid>https://angezanetti.github.com/intervention-hetic-epn-des-ulis/</guid>
       <description>La semaine dernière, j&amp;#8217;étais à la médiathèque des Ulis pour presenter, à des animateurs d&amp;#8217;espaces publics numériques, les mondes virtuels et les seriousgame.
 L&amp;#8217;affluence n&amp;#8217;était pas vraiment au rendez vous, la neige et Brice Hortefeux ont quelque peu fait barrière :) Mais peu importe l&amp;#8217;important n&amp;#8217;est pas le nombre mais bien la qualité des échanges ! Un peu le même cas de figure la veille ou j&amp;#8217;intervenais à l&amp;#8217;HETIC.
 Vous trouverez ci dessous les slides de mon intervention aux Ulis :</description>
@@ -195,38 +195,38 @@ Vous trouverez ci dessous les slides de mon intervention aux Ulis :</description
     
     <item>
       <title>[Tuto]Créer un thème de maintenance pour votre blog wordpress</title>
-      <link>https://angezanetti.com/creer-theme-maintenance-pour-blog-wordpress/</link>
+      <link>https://angezanetti.github.com/creer-theme-maintenance-pour-blog-wordpress/</link>
       <pubDate>Tue, 30 Nov 2010 11:04:19 +0000</pubDate>
       
-      <guid>https://angezanetti.com/creer-theme-maintenance-pour-blog-wordpress/</guid>
+      <guid>https://angezanetti.github.com/creer-theme-maintenance-pour-blog-wordpress/</guid>
       <description>En ce moment je fais du wordpress, mise en place du serveur, installation de WordPress et intégration du/des thèmes. Dernièrement, enfin avant la pause Indienne on m&amp;#8217;a demandé de faire un thème maintenance pour un site. Le but étant de faire patienter les visiteurs éventuels pendant la mise en place, et accessoirement de mettre son site online avant qu&amp;#8217;il soit terminé à 100% et donc &amp;#8220;d&amp;#8217;habituer&amp;#8221; Google a votre présence sur le web :)</description>
     </item>
     
     <item>
       <title>Travailler efficacement à distance.</title>
-      <link>https://angezanetti.com/travailler-efficacement-a-distance/</link>
+      <link>https://angezanetti.github.com/travailler-efficacement-a-distance/</link>
       <pubDate>Sat, 20 Nov 2010 16:28:27 +0000</pubDate>
       
-      <guid>https://angezanetti.com/travailler-efficacement-a-distance/</guid>
+      <guid>https://angezanetti.github.com/travailler-efficacement-a-distance/</guid>
       <description>Depuis le début de mon activité de freelance je travaille à distance. Mes clients sont très rarement localisé dans le Nord de la France, il faut donc, à chaque fois, mettre en place de nouveaux outils pour avancer ensemble.
 Pourtant cela ne marche pas tout le temps aussi bien, certaines fois c&amp;#8217;est même une catastrophe.Dans ce billet, je vais essayer de vous exposer mes clés pour une collaboration à distance efficace.</description>
     </item>
     
     <item>
       <title>Reservez vos places pour Operabis avant le 6/11 #OperaBis</title>
-      <link>https://angezanetti.com/operabis-rennes-opera-second-life-opensim/</link>
+      <link>https://angezanetti.github.com/operabis-rennes-opera-second-life-opensim/</link>
       <pubDate>Mon, 25 Oct 2010 09:05:25 +0000</pubDate>
       
-      <guid>https://angezanetti.com/operabis-rennes-opera-second-life-opensim/</guid>
+      <guid>https://angezanetti.github.com/operabis-rennes-opera-second-life-opensim/</guid>
       <description>C&amp;#8217;est avec beaucoup d&amp;#8217;émotions et un peu de fierté que je vous annonce qu&amp;#8217;OperaBis est sorti :)  Alors qu&amp;#8217;est ce qu&amp;#8217;OperaBis? C&amp;#8217;est un projet monté et réalisé par la Bibliothèque Francophone du metavers qui a gagné l&amp;#8217;appel à projet &amp;#8220;Services culturels innovants&amp;#8221; du Ministère de la Culture. Le but étant de faciliter l&amp;#8217;accès à l&amp;#8217;Opéra et de toucher une autre population que les spectateurs habituels de l&amp;#8217;Opéra.  Nous allons donc retransmettre, et c&amp;#8217;est une première mondiale, plusieurs représentations de la saison 2010&amp;frasl;2011 de l&amp;#8217;Opéra de Rennes et en LIVE s&amp;#8217;il vous plaît !</description>
     </item>
     
     <item>
       <title>Monter un projet sur Second Life</title>
-      <link>https://angezanetti.com/monter-projet-second-life/</link>
+      <link>https://angezanetti.github.com/monter-projet-second-life/</link>
       <pubDate>Tue, 06 Jul 2010 11:34:37 +0000</pubDate>
       
-      <guid>https://angezanetti.com/monter-projet-second-life/</guid>
+      <guid>https://angezanetti.github.com/monter-projet-second-life/</guid>
       <description>&lt;p&gt;Le moins que l&amp;#8217;on puisse dire c&amp;#8217;est Second Life n&amp;#8217;est pas vraiment dans sa meilleure passe en ce moment. Il est clair que la période du Second Life &amp;#8216;Glamour&amp;#8217; est assez loin, le hype de début 2007 est passé.&lt;/p&gt;
 
 &lt;p&gt;La courbe de Gartner est assez clair sur ce point, on est dans le fond du trou. Pourtant, et j&amp;#8217;arrêterai là mes analyses, il me semblait que l&amp;#8217;on remontait la pente depuis quelques mois, doucement mais surement. Je crois que l&amp;#8217;annonce de changement de CEO peut booster un peu les choses mais cela risque d&amp;#8217;être long.&lt;/p&gt;
@@ -236,10 +236,10 @@ Pourtant cela ne marche pas tout le temps aussi bien, certaines fois c&amp;#8217
     
     <item>
       <title>Journée numérique de l’Université Paris Descartes en réalité mixte avec la biblio</title>
-      <link>https://angezanetti.com/journee-numerique-paris-descartes-realite-mixt/</link>
+      <link>https://angezanetti.github.com/journee-numerique-paris-descartes-realite-mixt/</link>
       <pubDate>Sat, 15 May 2010 09:39:17 +0000</pubDate>
       
-      <guid>https://angezanetti.com/journee-numerique-paris-descartes-realite-mixt/</guid>
+      <guid>https://angezanetti.github.com/journee-numerique-paris-descartes-realite-mixt/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://i0.wp.com/3.bp.blogspot.com/_iEl8M6gISVA/S-gsdXI70oI/AAAAAAAAEvw/KSAClX-bo3U/s1600/jnumcamp.png&#34; onblur=&#34;try {parent.deselectBloggerImageGracefully();} catch(e) {}&#34;&gt;&lt;img id=&#34;BLOGGER_PHOTO_ID_5469670630380786306&#34; class=&#34;alignleft&#34; style=&#34;border: 0pt none;&#34; src=&#34;https://i2.wp.com/3.bp.blogspot.com/_iEl8M6gISVA/S-gsdXI70oI/AAAAAAAAEvw/KSAClX-bo3U/s400/jnumcamp.png?resize=150%2C213&#34; border=&#34;0&#34; alt=&#34;&#34; width=&#34;150&#34; height=&#34;213&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;/a&gt;Pour la troisième année la &lt;a title=&#34;Bibliotheque Francophone du metavers&#34; href=&#34;http://www.bibliotheque-francophone.org/&#34; target=&#34;_blank&#34;&gt;bibliothèque francophone du metavers&lt;/a&gt; est partenaire des &lt;a href=&#34;http://jnum10.parisdescartes.fr/&#34;&gt;Journées Numériques&lt;/a&gt; qui se tiendront les 17 et 18 mai 2010 à l&amp;#8217;université paris-Descartes.&lt;/p&gt;
 
 &lt;p&gt;Nous vous proposons un barcamp en réalité mixte dans la lignée de celui que nous avons organisé avec le &lt;a href=&#34;http://metalab3d.blogspot.com/2010/02/virtual-world-camp-paris-capitalisation.html&#34;&gt;Metalab et la Cantine pour le Virtual World Camp&lt;/a&gt; : une table, des personnes physiquement présentes et d&amp;#8217;autres incarnées en monde virtuel participant à une rencontre publique et ouverte à tous autour du thème &amp;#8220;Enseignement et nouveaux environnements immersifs&amp;#8221;.&lt;/p&gt;
@@ -249,68 +249,68 @@ Pourtant cela ne marche pas tout le temps aussi bien, certaines fois c&amp;#8217
     
     <item>
       <title>Et si je faisais un peu de com’?</title>
-      <link>https://angezanetti.com/video-presentation-angezanetti/</link>
+      <link>https://angezanetti.github.com/video-presentation-angezanetti/</link>
       <pubDate>Fri, 16 Apr 2010 13:37:01 +0000</pubDate>
       
-      <guid>https://angezanetti.com/video-presentation-angezanetti/</guid>
+      <guid>https://angezanetti.github.com/video-presentation-angezanetti/</guid>
       <description>&lt;p&gt;Je me suis inspiré d&amp;#8217;un &lt;a href=&#34;http://www.emilieogez.com/outils-et-technologies/creez-votre-histoire-avec-google-search-stories/&#34; target=&#34;_blank&#34;&gt;billet d&amp;#8217;Émilie Ogez&lt;/a&gt; pour me faire une petite vidéo de promotion de mon activité avec Google Search Stories Video Creator :&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Nouveau Projet : la Fabrique</title>
-      <link>https://angezanetti.com/job-lafabrique-serious-game/</link>
+      <link>https://angezanetti.github.com/job-lafabrique-serious-game/</link>
       <pubDate>Tue, 16 Mar 2010 13:40:33 +0000</pubDate>
       
-      <guid>https://angezanetti.com/job-lafabrique-serious-game/</guid>
+      <guid>https://angezanetti.github.com/job-lafabrique-serious-game/</guid>
       <description>Depuis quelques semaines mon activité professionnelle est divisée en deux parties.
  La principale est celle que j&amp;#8217;exerce maintenant depuis un an à savoir Consultant Mondes Virtuels, mais ce qu&amp;#8217;il y a de nouveau c&amp;#8217;est que là dessus c&amp;#8217;est greffé un quart temps pour un projet gouvernemental. Ce projet se nomme &amp;#8220;La Fabrique&amp;#8221; et à pour but de créer une plateforme open-source permettant de simplifier la création de SeriousGame. C&amp;#8217;est un projet très intéressant remporté lors de l&amp;#8217;appel à projet de l&amp;#8217;année dernière par Ingénium, une société spécialisé dans le e-learning.</description>
     </item>
     
     <item>
       <title>Les grandes entreprises s’intéressent de plus en plus aux usages des mondes virtuels</title>
-      <link>https://angezanetti.com/les-grandes-entreprises-sinteressent-de-plus-en-plus-aux-usages-des-mondes-virtuels/</link>
+      <link>https://angezanetti.github.com/les-grandes-entreprises-sinteressent-de-plus-en-plus-aux-usages-des-mondes-virtuels/</link>
       <pubDate>Sat, 21 Nov 2009 13:22:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/les-grandes-entreprises-sinteressent-de-plus-en-plus-aux-usages-des-mondes-virtuels/</guid>
+      <guid>https://angezanetti.github.com/les-grandes-entreprises-sinteressent-de-plus-en-plus-aux-usages-des-mondes-virtuels/</guid>
       <description>Jeudi midi j&amp;#8217;avais rendez vous dans une grosse entreprise française pour un &amp;#8220;cocktail&amp;#8221; des entrepreneurs. Invitation qui ne se refuse pas :) Cette invitation fait suite à un des appels à projets auxquels j&amp;#8217;ai répondu il y a quelques semaines. Bref, je n&amp;#8217;ai pas gagné le gros lot, mais j&amp;#8217;ai eu le droit au repêchage sous forme de sandwich club et de petits fours !
  J&amp;#8217;y ai rencontré les managers et différents responsables informatique et leur réaction m&amp;#8217;a surpris.</description>
     </item>
     
     <item>
       <title>Le Juste prix</title>
-      <link>https://angezanetti.com/le-juste-prix/</link>
+      <link>https://angezanetti.github.com/le-juste-prix/</link>
       <pubDate>Wed, 16 Sep 2009 07:23:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/le-juste-prix/</guid>
+      <guid>https://angezanetti.github.com/le-juste-prix/</guid>
       <description>source  Ca y est la rentrée est faite, et à mon plus grand plaisir j&amp;#8217;ai de nouveau la tête sous l&amp;#8217;eau, mais pas de la même manière cette fois! Mon activité est repartie de plus belle, je retrouve les projets que j&amp;#8217;avais laissé pendant l&amp;#8217;été, bref beaucoup de travail et surtout beaucoup de satisfaction.
 Mais au fil des devis, je me rend compte que le plus compliqué ce n&amp;#8217;est pas la paperasse ou la gestion de son agenda mais le prix.</description>
     </item>
     
     <item>
       <title>Retour sur ma formation pour l’Ecole de Design Nantes Atlantique</title>
-      <link>https://angezanetti.com/retour-sur-ma-formation-pour-lecole-de-design-nantes-atlantique/</link>
+      <link>https://angezanetti.github.com/retour-sur-ma-formation-pour-lecole-de-design-nantes-atlantique/</link>
       <pubDate>Fri, 19 Jun 2009 11:32:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/retour-sur-ma-formation-pour-lecole-de-design-nantes-atlantique/</guid>
+      <guid>https://angezanetti.github.com/retour-sur-ma-formation-pour-lecole-de-design-nantes-atlantique/</guid>
       <description>Cette semaine à été une semaine dédiée à la pédagogie. En effet depuis Lundi j&amp;#8217;ai formé l&amp;#8217;EDNA (Ecole de design de Nantes Atlantique) aux mondes virtuels. Pour être plus précis à Second Life &amp; Opensim. La formation fut assez classique : présentation des mondes virtuels, introduction à l&amp;#8217;utilisation du viewer puis initiation au build et au script LSL. Le tout sur 3 jours en « mode projet » en partant du principe que c&amp;#8217;est en codant que l&amp;#8217;on devient codeur :)</description>
     </item>
     
     <item>
       <title>Nouvelle identité graphique</title>
-      <link>https://angezanetti.com/nouvelle-identite-graphique/</link>
+      <link>https://angezanetti.github.com/nouvelle-identite-graphique/</link>
       <pubDate>Thu, 07 May 2009 13:59:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/nouvelle-identite-graphique/</guid>
+      <guid>https://angezanetti.github.com/nouvelle-identite-graphique/</guid>
       <description>Ceux qui ont déjà reçu ma carte de visite sont au courant depuis quelques temps. Mais aujourd&amp;#8217;hui c&amp;#8217;est officiel, j&amp;#8217;ai une vraie identité graphique ! Ça aura pris du temps, c&amp;#8217;est vrai, mais mieux vaut tard que jamais parait il !
 Le design est en dans les tiroirs depuis un mois je crois mais il a fallu faire l&amp;#8217;intégration CSS du blog, faire mon &amp;#8220;office&amp;#8221; dans Second life, modifier un peu le look de ma page twitter etc etc&amp;#8230;</description>
     </item>
     
     <item>
       <title>Entreprenez qu’il disait !</title>
-      <link>https://angezanetti.com/entreprenez-quil-disait/</link>
+      <link>https://angezanetti.github.com/entreprenez-quil-disait/</link>
       <pubDate>Fri, 17 Apr 2009 10:21:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/entreprenez-quil-disait/</guid>
+      <guid>https://angezanetti.github.com/entreprenez-quil-disait/</guid>
       <description>photo de maéli (Flickr)
 
 Le &amp;#8220;il&amp;#8221; est au singulier et fait référence direct à celui qui dirige la France de sa main de fer et qui fait culpabiliser ceux qui se lève tard, en opposition à ceux, courageux qui se lèvent à l&amp;#8217;aube. Il se trouve que moi j&amp;#8217;ai choisi il y a quelques mois de passer de la 2ème à la 1ère catégorie. Me lever tôt, entreprendre, faire marcher cette économie souveraine, et accessoirement me payer à manger.</description>
@@ -318,29 +318,29 @@ Le &amp;#8220;il&amp;#8221; est au singulier et fait référence direct à celui
     
     <item>
       <title>Formation à l’école d’architecture de Bordeaux</title>
-      <link>https://angezanetti.com/formation-a-lecole-darchitecture-de-bordeaux/</link>
+      <link>https://angezanetti.github.com/formation-a-lecole-darchitecture-de-bordeaux/</link>
       <pubDate>Mon, 06 Apr 2009 12:28:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/formation-a-lecole-darchitecture-de-bordeaux/</guid>
+      <guid>https://angezanetti.github.com/formation-a-lecole-darchitecture-de-bordeaux/</guid>
       <description>Au mois de Novembre dernier je m&amp;#8217;étais rendu à Bordeaux pour former des étudiants de l&amp;#8217;Institut des Sciendes de l&amp;#8217;Information et de la Communication (ISIC). Ma formation à porté ces fruits puisqu&amp;#8217;a la suite de plusieurs mois de veille technologique sur SL, ils ont rédigé le cahier des charges pour une université virtuelle.C&amp;#8217;est l&amp;#8221;école d&amp;#8217;Architecture &amp;amp; de Paysage de Bordeaux qui réalisera le pendant numérique de l&amp;#8217;ISIC. Je ne suis pas sur de pouvoir vous livrer ici les détails du document transmis aux architectes mais je peux vous dire que l&amp;#8217;implantation à été pensée, réfléchie et que les atouts/pièges de SL ont été cernés.</description>
     </item>
     
     <item>
       <title>Formation à L’HETIC</title>
-      <link>https://angezanetti.com/formation-a-lhetic/</link>
+      <link>https://angezanetti.github.com/formation-a-lhetic/</link>
       <pubDate>Mon, 26 Jan 2009 15:08:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/formation-a-lhetic/</guid>
+      <guid>https://angezanetti.github.com/formation-a-lhetic/</guid>
       <description>Le Mardi 13 Janvier dernier je me suis rendu a l&amp;#8217;HETIC. Pour ceux qui ne savent pas ou qui aurait la flemme de cliquer sur le lien précédent l&amp;#8217;HETIC est l&amp;#8217;abréviaition de Hautes Etudes des Technologies de l&amp;#8217;Information et de la Communication.
 Cette école forme des futurs managers TIC, qui feront le web de demain. CMS &amp; médias sociaux font parti de leur quotidien, du web 2.0 dans tous les sens mais rien en univers virtuels.</description>
     </item>
     
     <item>
       <title>Freelance in virtual worlds</title>
-      <link>https://angezanetti.com/freelance-in-virtual-worlds/</link>
+      <link>https://angezanetti.github.com/freelance-in-virtual-worlds/</link>
       <pubDate>Sat, 17 Jan 2009 11:30:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/freelance-in-virtual-worlds/</guid>
+      <guid>https://angezanetti.github.com/freelance-in-virtual-worlds/</guid>
       <description>Si vous êtes intéressé par l&amp;#8217;intégration des entreprises dans les mondes virtuels vous pouvez me contacter à l&amp;#8217;adresse mail suivante : contact@angezanetti.com
 ou encore visiter ma pagedédiée à l&amp;#8217;implantation des entreprisesou celle avec mes références.
 
@@ -351,40 +351,40 @@ L&amp;#8217;idée de départ est des plus primaire. Il y a de nombreuses agences
     
     <item>
       <title>Vidéo des âmes volantes</title>
-      <link>https://angezanetti.com/video-des-ames-volantes/</link>
+      <link>https://angezanetti.github.com/video-des-ames-volantes/</link>
       <pubDate>Tue, 06 Jan 2009 19:29:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/video-des-ames-volantes/</guid>
+      <guid>https://angezanetti.github.com/video-des-ames-volantes/</guid>
       <description>Pour ceux qui n&amp;#8217;auraient pas pu ce rendre au Grand Palais entre le 17 et 31 décembre dernier, Bertrand Dezoteux le créateur de cette exposition pour laquelle j&amp;#8217;ai eu le privilège de travailler a mis en ligne une vidéo.
 La vidéo montre le dispositif d&amp;#8217;exposition des avatars coté réel biensur mais aussi donne une vision d&amp;#8217;ensemble de ce grand événement qu&amp;#8217;était la Nuit des Images.    </description>
     </item>
     
     <item>
       <title>Les Ames Volantes commencent ce soir</title>
-      <link>https://angezanetti.com/les-ames-volantes-commencent-ce-soir/</link>
+      <link>https://angezanetti.github.com/les-ames-volantes-commencent-ce-soir/</link>
       <pubDate>Wed, 17 Dec 2008 08:45:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/les-ames-volantes-commencent-ce-soir/</guid>
+      <guid>https://angezanetti.github.com/les-ames-volantes-commencent-ce-soir/</guid>
       <description>Etre développeur freelance dans les mondes virtuels cela permet de participer à plein de projets super sympa et intéressant. Dernièrementje vous parlais de réalité mixte où l&amp;#8217;interaction avec le monde &amp;#8216;réel&amp;#8217; était plus que fort. Et bien l&amp;#8217;oeuvre &amp;#8216;Les Ames Volantes&amp;#8217; permet elle aussi de sortir les avatars de leurs univers virtuels.
  Cette exposition est dans le cadre de l’exposition ‘Dans la nuit, des images’, qui se tient du 17 au 31 décembre 2008.</description>
     </item>
     
     <item>
       <title>La réalité mixte ça fonctionne</title>
-      <link>https://angezanetti.com/la-realite-mixte-ca-fonctionne/</link>
+      <link>https://angezanetti.github.com/la-realite-mixte-ca-fonctionne/</link>
       <pubDate>Wed, 10 Dec 2008 14:31:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/la-realite-mixte-ca-fonctionne/</guid>
+      <guid>https://angezanetti.github.com/la-realite-mixte-ca-fonctionne/</guid>
       <description>Les transmusicales étaient sur Second Life les 3,4,5,6 décembre dernier. Comme je le disais précédemment 3 concerts ont été retransmis en live. Les retours sont plus que positifs d&amp;#8217;ailleurs. Mais je vais vous parler ici de l&amp;#8217;espace de réalité mixte que j&amp;#8217;étais charger d&amp;#8217;animer pendant 3 jours.
  Qu&amp;#8217;est ce qu&amp;#8217;un espace de réalité mixte? Juste un endroit à la fois réel et virtuel, faire diminuer au minimum la limite entre pixels et humains.</description>
     </item>
     
     <item>
       <title>Les transmusicales de RENNES seront (aussi) sur Second Life</title>
-      <link>https://angezanetti.com/les-transmusicales-de-rennes-seront-aussi-sur-second-life/</link>
+      <link>https://angezanetti.github.com/les-transmusicales-de-rennes-seront-aussi-sur-second-life/</link>
       <pubDate>Fri, 28 Nov 2008 11:45:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/les-transmusicales-de-rennes-seront-aussi-sur-second-life/</guid>
+      <guid>https://angezanetti.github.com/les-transmusicales-de-rennes-seront-aussi-sur-second-life/</guid>
       <description>Pour y avoir vécu pendant un an je peux vous dire que Rennes est vraiment une ville géniale, toujours à la pointe de la modernité. Son métro en est un bon exemple.
 Alors forcement quand on parle de mondes virtuels ou de réalité mixte, Rennes est aux avant poste!
 L&amp;#8217;année dernière déjà les transmusicales de Rennes avaient retransmis un concert dans Second Life. Ainsi tous les résidents pouvaient profiter de la musique et aussi du spectacle grâce à des écrans géants.</description>
@@ -392,19 +392,19 @@ L&amp;#8217;année dernière déjà les transmusicales de Rennes avaient retrans
     
     <item>
       <title>Bordeaux3 sur Second Life</title>
-      <link>https://angezanetti.com/bordeaux3-sur-second-life/</link>
+      <link>https://angezanetti.github.com/bordeaux3-sur-second-life/</link>
       <pubDate>Wed, 12 Nov 2008 11:10:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/bordeaux3-sur-second-life/</guid>
+      <guid>https://angezanetti.github.com/bordeaux3-sur-second-life/</guid>
       <description>Vendredi était une bonne journée, une très bonne journée même. J&amp;#8217;étais à l&amp;#8217;ISIC ( Institut des Sciences de L&amp;#8217;information &amp; de la Communication) de Bordeaux pour parler des Univers Virtuels, de leurs usages et des applications possible pour une université. Le responsable du projet, Mr Amar Lakel, a eu l&amp;#8217;idée folle de créer un espace sur Second Life pour en faire un lieu de rencontre pour les étudiants, un lieu de récolte d&amp;#8217;informations ou de documentation, un lieu de découverte de la fac aussi peut être.</description>
     </item>
     
     <item>
       <title>Je me lance !</title>
-      <link>https://angezanetti.com/je-me-lance/</link>
+      <link>https://angezanetti.github.com/je-me-lance/</link>
       <pubDate>Mon, 27 Oct 2008 17:02:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/je-me-lance/</guid>
+      <guid>https://angezanetti.github.com/je-me-lance/</guid>
       <description>Les habitués ont du remarquer, nouveau design avec des onglets et tout!
 Nouveau design qui marque un changement d&amp;#8217;orientation. Je me lance dans la fosse aux lions, celle ou ils y a des gens qui font du business!
 Cela fait presque un an que je suis convaincu qu&amp;#8217;il est possible de travailler et de gagner sa vie sur SL. Depuis j&amp;#8217;ai élargi mon horizon aux autres virtuels, je me suis construit un réseau et fait des rencontres plus qu&amp;#8217;enrichissantes.</description>

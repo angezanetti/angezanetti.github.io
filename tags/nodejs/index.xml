@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nodejs on Xavier Coiffard</title>
-    <link>https://angezanetti.com/tags/nodejs/</link>
+    <link>https://angezanetti.github.com/tags/nodejs/</link>
     <description>Recent content in Nodejs on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 15 Apr 2013 09:13:40 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.com/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.github.com/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Installer node.js sur Debian Squeeze avec un gestionnaire de version</title>
-      <link>https://angezanetti.com/installer-node-js-debian-squeeze-gestionnaire-version-nvm/</link>
+      <link>https://angezanetti.github.com/installer-node-js-debian-squeeze-gestionnaire-version-nvm/</link>
       <pubDate>Mon, 15 Apr 2013 09:13:40 +0000</pubDate>
       
-      <guid>https://angezanetti.com/installer-node-js-debian-squeeze-gestionnaire-version-nvm/</guid>
+      <guid>https://angezanetti.github.com/installer-node-js-debian-squeeze-gestionnaire-version-nvm/</guid>
       <description>J&amp;#8217;ai fait il y a peu de temps un article sur comment avoir une version de node.js à jour sur Ubuntu, cette fois c&amp;#8217;est un serveur Debian 6 que je dois configurer, du coup je ne peux pas passer par l&amp;#8217;astuce PPA comme sur Ubuntu.
 Alors, bien sur, il y a la solution de la compilation mais bon je suis pas hyper fan&amp;#8230; D&amp;#8217;autant qu&amp;#8217;il existe pour Node.js un petit script qui permet de gérer les versions utilisées de la même façon que RVM pour Ruby.</description>
     </item>
     
     <item>
       <title>Comment avoir une version de NodeJs à jour sur Ubuntu ?</title>
-      <link>https://angezanetti.com/version-nodejs-a-jour-sur-ubuntu-1204-compilation-ppa/</link>
+      <link>https://angezanetti.github.com/version-nodejs-a-jour-sur-ubuntu-1204-compilation-ppa/</link>
       <pubDate>Sun, 02 Dec 2012 11:13:13 +0000</pubDate>
       
-      <guid>https://angezanetti.com/version-nodejs-a-jour-sur-ubuntu-1204-compilation-ppa/</guid>
+      <guid>https://angezanetti.github.com/version-nodejs-a-jour-sur-ubuntu-1204-compilation-ppa/</guid>
       <description>Je me posé cette question il y a quelques jours après un upgrade de mes paquets sur un serveur qui fonctionne sous Ubuntu 12.04. Les applications misent à jour ne fonctionnaient pas, NPM non plus. Bref, un joli &amp;#8220;foutoir&amp;#8221;. J&amp;#8217;ai mis du temps à comprendre d&amp;#8217;ou venait les problèmes. Finalement un simple
 node -v Et j&amp;#8217;ai compris tout de suite, j&amp;#8217;avais sur mon serveur une vieille version de node.js (0.</description>
     </item>
     
     <item>
       <title>Installer NodeJS, NPM et Express sur Ubuntu 10.04</title>
-      <link>https://angezanetti.com/tuto-installation-nodejs-npm-express-sur-ubuntu-10-04/</link>
+      <link>https://angezanetti.github.com/tuto-installation-nodejs-npm-express-sur-ubuntu-10-04/</link>
       <pubDate>Thu, 11 Aug 2011 10:04:37 +0000</pubDate>
       
-      <guid>https://angezanetti.com/tuto-installation-nodejs-npm-express-sur-ubuntu-10-04/</guid>
+      <guid>https://angezanetti.github.com/tuto-installation-nodejs-npm-express-sur-ubuntu-10-04/</guid>
       <description>Ce billet est autant un aide mémoire pour moi qu&amp;#8217;un billet explicatif pour vous. En effet depuis quelques jours j&amp;#8217;installe NodeJS sur plusieurs serveurs. Sur la version actuelle d&amp;#8217;Ubuntu &amp;#8211; 11.04 &amp;#8211; c&amp;#8217;est relativement facile :
 [bash]sudo apt-get install nodejs[/bash]
 Mais pour les versions antérieures et notamment la dernière LTS, la 10.04, c&amp;#8217;est un poil plus compliqué.

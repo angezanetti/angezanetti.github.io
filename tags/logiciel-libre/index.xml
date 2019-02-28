@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Logiciel Libre on Xavier Coiffard</title>
-    <link>https://angezanetti.com/tags/logiciel-libre/</link>
+    <link>https://angezanetti.github.com/tags/logiciel-libre/</link>
     <description>Recent content in Logiciel Libre on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 07 Apr 2011 17:17:28 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.com/tags/logiciel-libre/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.github.com/tags/logiciel-libre/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Linux fête ses 20 ans – et nous aussi !</title>
-      <link>https://angezanetti.com/linux-fete-20-ans-video/</link>
+      <link>https://angezanetti.github.com/linux-fete-20-ans-video/</link>
       <pubDate>Thu, 07 Apr 2011 17:17:28 +0000</pubDate>
       
-      <guid>https://angezanetti.com/linux-fete-20-ans-video/</guid>
+      <guid>https://angezanetti.github.com/linux-fete-20-ans-video/</guid>
       <description>Et oui Linux à 20 ans ! La fondation Linux lance à cette occasion un concours de design &amp;#8211; vidéo, infographie &amp;#8211; pour relayer l’événement. Apparemment le juge de ce concours sera Linus Torvald himself &amp;#8211; gloups.
 Une petite vidéo à été faite pour l&amp;#8217;occasion, elle retrace rapidement l&amp;#8217;histoire de ce système d&amp;#8217;exploitation libre.
  Ça me donne envie de mettre un triple boot sur mon Macbook du coup !</description>
@@ -24,30 +24,30 @@ Une petite vidéo à été faite pour l&amp;#8217;occasion, elle retrace rapidem
     
     <item>
       <title>Travailler efficacement à distance.</title>
-      <link>https://angezanetti.com/travailler-efficacement-a-distance/</link>
+      <link>https://angezanetti.github.com/travailler-efficacement-a-distance/</link>
       <pubDate>Sat, 20 Nov 2010 16:28:27 +0000</pubDate>
       
-      <guid>https://angezanetti.com/travailler-efficacement-a-distance/</guid>
+      <guid>https://angezanetti.github.com/travailler-efficacement-a-distance/</guid>
       <description>Depuis le début de mon activité de freelance je travaille à distance. Mes clients sont très rarement localisé dans le Nord de la France, il faut donc, à chaque fois, mettre en place de nouveaux outils pour avancer ensemble.
 Pourtant cela ne marche pas tout le temps aussi bien, certaines fois c&amp;#8217;est même une catastrophe.Dans ce billet, je vais essayer de vous exposer mes clés pour une collaboration à distance efficace.</description>
     </item>
     
     <item>
       <title>Soutenez l’internet libre</title>
-      <link>https://angezanetti.com/soutenez-linternet-libre/</link>
+      <link>https://angezanetti.github.com/soutenez-linternet-libre/</link>
       <pubDate>Wed, 20 Oct 2010 09:20:11 +0000</pubDate>
       
-      <guid>https://angezanetti.com/soutenez-linternet-libre/</guid>
+      <guid>https://angezanetti.github.com/soutenez-linternet-libre/</guid>
       <description>En ces temps difficiles pour l&amp;#8217;Internet en général deux associations qui se battent pour une plus grande liberté de l&amp;#8217;internaute ont besoin d&amp;#8217;aide. Financière , bien sur mais aussi pourquoi pas bénévole ou simplement de soutient.
 Je suppose que vous connaissez les deux assos ci dessous, la première c&amp;#8217;est Framasoft, association qui s&amp;#8217;occupe de promouvoir le logiciel libre. Ils le font avec des tutoriaux mais aussi avec une collection de livres sous licence Creative commons et dispo à la vente et au téléchargement gratuit.</description>
     </item>
     
     <item>
       <title>Les Licences Libres, un choix cornélien ?</title>
-      <link>https://angezanetti.com/choisir-licence-libre-opensource/</link>
+      <link>https://angezanetti.github.com/choisir-licence-libre-opensource/</link>
       <pubDate>Thu, 16 Sep 2010 18:58:22 +0000</pubDate>
       
-      <guid>https://angezanetti.com/choisir-licence-libre-opensource/</guid>
+      <guid>https://angezanetti.github.com/choisir-licence-libre-opensource/</guid>
       <description>&lt;p&gt;Je suis entrain de bosser sur le projet &lt;a title=&#34;mutualab&#34; href=&#34;http://mutualab.org&#34; target=&#34;_blank&#34;&gt;#mutualab&lt;/a&gt;, dont je vous avais déjà parlé lors de mon &lt;a title=&#34;Tutorial VSFTPD&#34; href=&#34;http://angezanetti.com/tutoria-serveur-ftp-avec-utilisateurs-virtuels/&#34; target=&#34;_blank&#34;&gt;tutorial Vsftpd&lt;/a&gt;. Cette fois je vais vous parler de licences libres.&lt;/p&gt;
 
 &lt;p&gt;En effet &lt;a title=&#34;mutualab&#34; href=&#34;http://mutualab.org&#34; target=&#34;_blank&#34;&gt;#mutualab&lt;/a&gt; est une plateforme d&amp;#8217;échange de codes sources, les sources y seront accessibles et gratuites. L&amp;#8217;utilisation de ces programmes doit donc être assez &amp;#8220;libre&amp;#8221;, la modification, l&amp;#8217;échange et l&amp;#8217;amélioration doivent être permise sans conditions. Mais comment proteger un peu tout ça? Faut-il mettre un droit à la propriété intellectuelle? Le programme modifié doit-it être republié? Si oui, sous quelle licence ?&lt;/p&gt;
@@ -59,10 +59,10 @@ Je suppose que vous connaissez les deux assos ci dessous, la première c&amp;#82
     
     <item>
       <title>La vidéo du Vendredi : FireFox est multitouch !</title>
-      <link>https://angezanetti.com/firefox-est-multitouch/</link>
+      <link>https://angezanetti.github.com/firefox-est-multitouch/</link>
       <pubDate>Fri, 13 Aug 2010 16:17:52 +0000</pubDate>
       
-      <guid>https://angezanetti.com/firefox-est-multitouch/</guid>
+      <guid>https://angezanetti.github.com/firefox-est-multitouch/</guid>
       <description>&lt;p&gt;La vidéo de ce vendredi est à classer dans le rayon actus, une fois n&amp;#8217;est pas coutume. Vous avez forcement entendu parlé de la sortie imminente de la nouvelle version de FireFox, la fameuse version 4. C&amp;#8217;est un virage important pour Mozilla car ils ont gagné le combat de &lt;a title=&#34;Mozilla a gagné son combat&#34; href=&#34;http://standblog.org/blog/post/2010/08/08/La-victoire-de-Mozilla&#34; target=&#34;_blank&#34;&gt;&amp;#8220;&lt;em&gt;promouvoir le choix et l&amp;#8217;innovation sur Internet&amp;#8221;&lt;/em&gt;&lt;/a&gt; mais la guerre des navigateurs n&amp;#8217;est pas finie, elle commence même avec l&amp;#8217;arrivée de Chrome.&lt;/p&gt;
 
 &lt;p&gt;Cette nouvelle mouture promet de nombreuses nouveautés, plus de stabilité et j&amp;#8217;apprends aujourd&amp;#8217;hui que FF4 supportera le multitouch !&lt;/p&gt;
@@ -72,30 +72,30 @@ Je suppose que vous connaissez les deux assos ci dessous, la première c&amp;#82
     
     <item>
       <title>Ubuntu change de look</title>
-      <link>https://angezanetti.com/ubuntu-lucidlynx-1004-relook/</link>
+      <link>https://angezanetti.github.com/ubuntu-lucidlynx-1004-relook/</link>
       <pubDate>Fri, 05 Mar 2010 11:59:26 +0000</pubDate>
       
-      <guid>https://angezanetti.com/ubuntu-lucidlynx-1004-relook/</guid>
+      <guid>https://angezanetti.github.com/ubuntu-lucidlynx-1004-relook/</guid>
       <description>Vous le savez peut être en Avril prochain Ubuntu, ma distribution linux préférée, sort une nouvelle version LTS nommée Lucid Lynx. LTS c&amp;#8217;est du jargon d&amp;#8217;informaticien qui veut dire Long Time Support, elle sera donc mis a jour en continu pendant les 5 prochaines années et traditionnellement une sortie de LTS doit marqué l&amp;#8217;avenir des futures versions.
 Et bien cette fois Canonical, la société éditrice d&amp;#8217;Ubuntu, a choisi ce moment pour changé d&amp;#8217;identité graphique.</description>
     </item>
     
     <item>
       <title>Le logiciel libre devient l’enemi public N°1</title>
-      <link>https://angezanetti.com/opensource-iipa-logiciel-libre/</link>
+      <link>https://angezanetti.github.com/opensource-iipa-logiciel-libre/</link>
       <pubDate>Tue, 02 Mar 2010 11:05:32 +0000</pubDate>
       
-      <guid>https://angezanetti.com/opensource-iipa-logiciel-libre/</guid>
+      <guid>https://angezanetti.github.com/opensource-iipa-logiciel-libre/</guid>
       <description>Un rapport Américain vient de mettre le feu aux poudres, les libristes sont maintenant montrés du doigts au même titre que les pirates informatique ou les fabricants de contrefaçons -vêtements,médicaments, chaussures etc&amp;#8230;
 Alors qu&amp;#8217;est ce que ce rapport? Il se nomme le « Special 301 Report » et cherche à dresser un bilan du respect de la propriété intellectuelle dans le monde. La carte ci dessous vous donne le classements des pays en trois catégories : En rouge les pays à surveiller en priorité, en Orange les pays en &amp;#8220;surveillance inférieure&amp;#8221; et les autres en gris.</description>
     </item>
     
     <item>
       <title>Le minitel 2.0 ?</title>
-      <link>https://angezanetti.com/le-minitel-2-0/</link>
+      <link>https://angezanetti.github.com/le-minitel-2-0/</link>
       <pubDate>Tue, 10 Feb 2009 08:55:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/le-minitel-2-0/</guid>
+      <guid>https://angezanetti.github.com/le-minitel-2-0/</guid>
       <description>Benjamin Bayart nous explique que ce que nous appelons le Web est en fait une copie du minitel, en couleur avec des résolutions énorme, mais rien de ce qui était internet n&amp;#8217;est présent dans ce que a fait le web.
 Web veut dire toile, réseau alors que maintenant tout est centralisé. La fameuse &amp;#8220;toile&amp;#8221; ressemble plus à un pays avec des gros paquets éloignés raccordés par des tuyaux/routes&amp;#8230;
 Il fait le parallèle entre le logiciel libre &amp; internet.</description>
@@ -103,10 +103,10 @@ Il fait le parallèle entre le logiciel libre &amp; internet.</description>
     
     <item>
       <title>Etre un acteur libre des Mondes Virtuels</title>
-      <link>https://angezanetti.com/etre-un-acteur-libre-des-mondes-virtuels/</link>
+      <link>https://angezanetti.github.com/etre-un-acteur-libre-des-mondes-virtuels/</link>
       <pubDate>Fri, 02 May 2008 10:03:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/etre-un-acteur-libre-des-mondes-virtuels/</guid>
+      <guid>https://angezanetti.github.com/etre-un-acteur-libre-des-mondes-virtuels/</guid>
       <description>Hier c&amp;#8217;était le 1er mai, jour des manifs &amp;amp; revendication en tout genre. J&amp;#8217;ai donc décidé de faire la mienne à ma petite échelle.
 Partant du principe que ceux qui me lisent utilisent plus moins les mêmes applications que moi je vais vous montrer qu&amp;#8217;il est possible d&amp;#8217;avoir un poste de travail fonctionnel sous GNU/Linux.
 Pourquoi Gnu/linux pourquoi pas Windoze ou mon bon vieux Mac? Parce que Linux est libre &amp;#8211; tout le monde peut avoir accès au code source -, Linux est le fruit d&amp;#8217;une communauté et que la dernière version d&amp;#8217;Ubuntu mérite d&amp;#8217;être testée -et en plus c&amp;#8217;est gratuit !</description>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Secondlife on Xavier Coiffard</title>
-    <link>https://angezanetti.com/tags/secondlife/</link>
+    <link>https://angezanetti.github.com/tags/secondlife/</link>
     <description>Recent content in Secondlife on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 19 Jun 2012 18:24:45 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.com/tags/secondlife/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.github.com/tags/secondlife/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CloudParty, un SecondLife-like dans le navigateur – mais avec Facebook</title>
-      <link>https://angezanetti.com/cloudparty-secondlife-like-navigateur-webgl-facebook/</link>
+      <link>https://angezanetti.github.com/cloudparty-secondlife-like-navigateur-webgl-facebook/</link>
       <pubDate>Tue, 19 Jun 2012 18:24:45 +0000</pubDate>
       
-      <guid>https://angezanetti.com/cloudparty-secondlife-like-navigateur-webgl-facebook/</guid>
+      <guid>https://angezanetti.github.com/cloudparty-secondlife-like-navigateur-webgl-facebook/</guid>
       <description>Alors que Second Life est dans un pente descendante depuis plusieurs mois un ancien Linden vient de sortir une application Facebook qui risque bien d&amp;#8217;accélérer sa chute.
 Cloud Party, c&amp;#8217;est le nom de la fameuse appli à été créee par Cory Ondrejka (co-fondateur de Second Life) et Bruce Rogers l&amp;#8217;ancien CTO de Cryptic Studio. Honnêtement j&amp;#8217;y suis allé sans vraiment m&amp;#8217;attendre à trouver le Saint Graal. D&amp;#8217;autant plus que je devais me logger via Facebook&amp;#8230;</description>
     </item>
     
     <item>
       <title>Utiliser Vim comme éditeur LSL</title>
-      <link>https://angezanetti.com/utiliser-vim-comme-editeur-lsl/</link>
+      <link>https://angezanetti.github.com/utiliser-vim-comme-editeur-lsl/</link>
       <pubDate>Mon, 21 May 2012 09:51:37 +0000</pubDate>
       
-      <guid>https://angezanetti.com/utiliser-vim-comme-editeur-lsl/</guid>
+      <guid>https://angezanetti.github.com/utiliser-vim-comme-editeur-lsl/</guid>
       <description>&amp;nbsp;
 Depuis quelques jours je suis de retour sur SecondLife le nez dans le code de la V2 de Dentallife. Pas mal d&amp;#8217;eau a coulé sous les ponts depuis la conception et la réalisation de la V1, je me suis mis au Javascript et à la programmation orientée objet.
 Je vous laisse imaginer à quel point le retour au LSL est dur ! La pauvreté de ce langage est affligeante, sans parler du lag quand on veut échanger des infos avec un serveur externe.</description>
@@ -34,29 +34,29 @@ Je vous laisse imaginer à quel point le retour au LSL est dur ! La pauvreté de
     
     <item>
       <title>SLKinect2, un protocole qui fait la liaison entre votre Kinect &amp; SecondLife ou OpenSim</title>
-      <link>https://angezanetti.com/slkinect-kinect-opensim-secondlife/</link>
+      <link>https://angezanetti.github.com/slkinect-kinect-opensim-secondlife/</link>
       <pubDate>Thu, 12 Jan 2012 06:15:54 +0000</pubDate>
       
-      <guid>https://angezanetti.com/slkinect-kinect-opensim-secondlife/</guid>
+      <guid>https://angezanetti.github.com/slkinect-kinect-opensim-secondlife/</guid>
       <description>Petite perle trouvée sur le site de Daneel, SLKinect est un protocole opensource permettant d&amp;#8217;envoyer les datas de votre kinect directement à votre avatar SecondLife &amp;#8211; Il semble que ça tourne aussi avec OpenSim. C&amp;#8217;est développé au NSL (Network System Laboratory) au sein de la TUIS (Tokyo University of Information Sciences).
 Le résultat est vraiment sympa puisque votre avatar reproduit vos gestes fidèlement comme le montre la vidéo ci dessous :</description>
     </item>
     
     <item>
       <title>Convertir des îles Opensim ou SecondLife en collada</title>
-      <link>https://angezanetti.com/convertir-des-iles-opensim-ou-secondlife-en-collada/</link>
+      <link>https://angezanetti.github.com/convertir-des-iles-opensim-ou-secondlife-en-collada/</link>
       <pubDate>Fri, 06 Jan 2012 07:37:57 +0000</pubDate>
       
-      <guid>https://angezanetti.com/convertir-des-iles-opensim-ou-secondlife-en-collada/</guid>
+      <guid>https://angezanetti.github.com/convertir-des-iles-opensim-ou-secondlife-en-collada/</guid>
       <description>Je ne sais pas si vous connaissez Tipodean c&amp;#8217;est une startup dirigée par Chris Collins, un ancien Linden, et qui depuis quelques mois essaye de créer un viewer Unity pour OpenSim et SecondLife. Je vous en parlais en Juillet dernier, à l&amp;#8217;époque ce n&amp;#8217;était pas vraiment au point, c&amp;#8217;était de l&amp;#8217;alpha&amp;#8230;  Mais ils ont continué à travailler et ont annoncé le 3 janvier dernier la sortie d&amp;#8217;un site web qui permet de convertir directement le contenu SecondLife ou OpenSim pour l&amp;#8217;afficher dans le navigateur via Unity3d Ou Flash !</description>
     </item>
     
     <item>
       <title>En 2012, LindenLabs se diversifie !</title>
-      <link>https://angezanetti.com/lindenlabs-secondlife-diverisifie-nouveaux-produits-2012/</link>
+      <link>https://angezanetti.github.com/lindenlabs-secondlife-diverisifie-nouveaux-produits-2012/</link>
       <pubDate>Mon, 26 Dec 2011 05:39:33 +0000</pubDate>
       
-      <guid>https://angezanetti.com/lindenlabs-secondlife-diverisifie-nouveaux-produits-2012/</guid>
+      <guid>https://angezanetti.github.com/lindenlabs-secondlife-diverisifie-nouveaux-produits-2012/</guid>
       <description>Depuis sa création LindenLabs n&amp;#8217;avait qu&amp;#8217;un seul but : éditer et soutenir SecondLife. L&amp;#8217;entreprise créée par Philip Rosedale était la face juridique, légale, du mode virtuel si populaire dans les années 2006-2007.
 Seulement voilà, bien qu&amp;#8217;étant toujours rentable, les chiffres d&amp;#8217;inscriptions et de fréquentation sont en baisse depuis plusieurs mois. Rod Humble, le CEO, à donc décidé de diversifier l&amp;#8217;activité de LL.
  In addition to delivering new features and increasing our support for Second Life, we will be launching some completely different products next year not related to Second Life.</description>
@@ -64,10 +64,10 @@ Seulement voilà, bien qu&amp;#8217;étant toujours rentable, les chiffres d&amp
     
     <item>
       <title>Second Life, héritage et perspectives</title>
-      <link>https://angezanetti.com/secondlife-collaboration-coinnovation/</link>
+      <link>https://angezanetti.github.com/secondlife-collaboration-coinnovation/</link>
       <pubDate>Wed, 23 Nov 2011 08:40:06 +0000</pubDate>
       
-      <guid>https://angezanetti.com/secondlife-collaboration-coinnovation/</guid>
+      <guid>https://angezanetti.github.com/secondlife-collaboration-coinnovation/</guid>
       <description>Hier je suis tombé sur un article de Fred Cavazza sur son blog Marketing Virtuel, il y parle de l&amp;#8217;héritage de Second Life. Dans le même temps Guillaume Reys, le dentiste de Dentallife, postait sur Facebook :
 Pour rappel Dentallife est un seriousgame orienté sur le thème des urgences en cabinet dentaire et qui à été entièrement réalisé dans Second Life.
 D&amp;#8217;ailleurs Fred Cavazza dans son billet nous le rappelle :</description>
@@ -75,39 +75,39 @@ D&amp;#8217;ailleurs Fred Cavazza dans son billet nous le rappelle :</descriptio
     
     <item>
       <title>Le Kirsten viewer passe au crowdfunding, vers un nouveau modèle de l’opensource ?</title>
-      <link>https://angezanetti.com/kirsten-viewer-crownfunding-secondlife-opnesource-businessplani/</link>
+      <link>https://angezanetti.github.com/kirsten-viewer-crownfunding-secondlife-opnesource-businessplani/</link>
       <pubDate>Tue, 18 Oct 2011 09:19:39 +0000</pubDate>
       
-      <guid>https://angezanetti.com/kirsten-viewer-crownfunding-secondlife-opnesource-businessplani/</guid>
+      <guid>https://angezanetti.github.com/kirsten-viewer-crownfunding-secondlife-opnesource-businessplani/</guid>
       <description>Hier, le 17 Octobre 2011, Lee Quick le main developpeur du Kirsten viewer , le client alternatif le plus populaire auprès de la communauté, a pris une décision assez intéressante. Il n&amp;#8217;a visiblement plus assez de temps pour maintenir son viewer à jour et sollicite l&amp;#8217;appui de la communauté pour l&amp;#8217;aider.
 Ce qui est interessant c&amp;#8217;est la façon donc il s&amp;#8217;y est pris. Car les viewers de Second Life sont opensource, et dans ce monde du code libre l&amp;#8217;aide apportée au(x) développeur(s) est souvent matérialisée sous la forme de ligne de code.</description>
     </item>
     
     <item>
       <title>Retour sur la présentation du CEO de LindenLabs au SLCC 2011</title>
-      <link>https://angezanetti.com/lindenlabs-secondlife-rodhumble-slcc2011/</link>
+      <link>https://angezanetti.github.com/lindenlabs-secondlife-rodhumble-slcc2011/</link>
       <pubDate>Thu, 18 Aug 2011 13:16:23 +0000</pubDate>
       
-      <guid>https://angezanetti.com/lindenlabs-secondlife-rodhumble-slcc2011/</guid>
+      <guid>https://angezanetti.github.com/lindenlabs-secondlife-rodhumble-slcc2011/</guid>
       <description>La semaine dernière se tenait la Second Life Community Convention, grande messe de SecondLife où, historiquement, le CEO vient présenter les projets de Second Life pour les mois qui viennent. Cette année ne fut pas exception et c&amp;#8217;est Rod Humble, le nouveau CEO qui est venu présenter le bilan et la &amp;#8220;roadmap&amp;#8221;.
 Je n&amp;#8217;ai pas suivi le conférence en direct mais j&amp;#8217;ai trouvé le live en podcast sur le metaverse Journal.</description>
     </item>
     
     <item>
       <title>Vers un client Web pour OpenSim et SecondLife</title>
-      <link>https://angezanetti.com/client-leger-navigateur-unity-webgl-opensim-secondlife/</link>
+      <link>https://angezanetti.github.com/client-leger-navigateur-unity-webgl-opensim-secondlife/</link>
       <pubDate>Fri, 15 Jul 2011 08:54:50 +0000</pubDate>
       
-      <guid>https://angezanetti.com/client-leger-navigateur-unity-webgl-opensim-secondlife/</guid>
+      <guid>https://angezanetti.github.com/client-leger-navigateur-unity-webgl-opensim-secondlife/</guid>
       <description>Les mondes virtuels n&amp;#8217;ont pas eu le succès attendu. C&amp;#8217;est un fait. Nous sommes beaucoup à penser que cela est du, entre autre, a un vrai problème d&amp;#8217;accessibilité de ces plate-formes. Il faut installer un client lourd, s&amp;#8217;enregister, apprendre à se déplacer en 3D, retrouver ses amis etc etc&amp;#8230; En un mot c&amp;#8217;est dur, trop compliqué pour le visiteur lambda qui cherche juste à visiter une expo, assister à un spectacle et pas à devenir le builder qui va révolutionner le metavers.</description>
     </item>
     
     <item>
       <title>Des nouvelles de SecondLife, une interview de Rod Humble</title>
-      <link>https://angezanetti.com/rod-humble-secondlife/</link>
+      <link>https://angezanetti.github.com/rod-humble-secondlife/</link>
       <pubDate>Thu, 30 Jun 2011 13:42:28 +0000</pubDate>
       
-      <guid>https://angezanetti.com/rod-humble-secondlife/</guid>
+      <guid>https://angezanetti.github.com/rod-humble-secondlife/</guid>
       <description>Cela faisait longtemps que je ne vous avez pas parlé de LindenLabs sur ce blog. Il faut dire que l&amp;#8217;entreprise éditrice de SecondLife fait un peu profil bas depuis ces derniers mois. Certains disent même qu&amp;#8217;elle est sur le déclin&amp;#8230;
 Rod Humble, qui est le CEO de LindenLabs depuis Janvier 2011, vient de donner une interview sur Bloomberg Television&amp;#8217;s :
 &amp;nbsp;

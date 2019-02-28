@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lille on Xavier Coiffard</title>
-    <link>https://angezanetti.com/tags/lille/</link>
+    <link>https://angezanetti.github.com/tags/lille/</link>
     <description>Recent content in Lille on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 26 Feb 2013 10:04:09 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.com/tags/lille/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.github.com/tags/lille/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Apéro WordPress à Lille</title>
-      <link>https://angezanetti.com/apero-wordpress-lille-developement/</link>
+      <link>https://angezanetti.github.com/apero-wordpress-lille-developement/</link>
       <pubDate>Tue, 26 Feb 2013 10:04:09 +0000</pubDate>
       
-      <guid>https://angezanetti.com/apero-wordpress-lille-developement/</guid>
+      <guid>https://angezanetti.github.com/apero-wordpress-lille-developement/</guid>
       <description>Le 14 Mars prochain, au Café Morel de Lille, aura lieu le premier apéro Wordpress Lillois. Au programme, présentation du plugin de newsletter Wysija et de son équipe de 4 personnes qui développe cet outil depuis plusieurs années en télétravail. Intéressant de voir une startup dont l&amp;#8217;activité est centrée sur un seul plugin WordPress.
 Il y aura aussi une partie présentation de WordPress, une partie question réponses et bien sur le tout autour d&amp;#8217;une bière, Nord de la France oblige.</description>
     </item>

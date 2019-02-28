@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Internet 3d on Xavier Coiffard</title>
-    <link>https://angezanetti.com/tags/internet-3d/</link>
+    <link>https://angezanetti.github.com/tags/internet-3d/</link>
     <description>Recent content in Internet 3d on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Fri, 17 Dec 2010 07:51:31 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.com/tags/internet-3d/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.github.com/tags/internet-3d/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Body Browser, de la 3D en WebGL pour nous faire réviser l’anatomie humaine</title>
-      <link>https://angezanetti.com/body-browser-de-la-3d-en-webgl-pour-nous-faire-reviser-lanatomie-humaine/</link>
+      <link>https://angezanetti.github.com/body-browser-de-la-3d-en-webgl-pour-nous-faire-reviser-lanatomie-humaine/</link>
       <pubDate>Fri, 17 Dec 2010 07:51:31 +0000</pubDate>
       
-      <guid>https://angezanetti.com/body-browser-de-la-3d-en-webgl-pour-nous-faire-reviser-lanatomie-humaine/</guid>
+      <guid>https://angezanetti.github.com/body-browser-de-la-3d-en-webgl-pour-nous-faire-reviser-lanatomie-humaine/</guid>
       <description>En mai dernier, j&amp;#8217;avais un article un peu euphorique sur le thème &amp;#8221; Youpi Google sort son SDK WebGL&amp;#8221;. Bon, il faut bien le dire; l&amp;#8217;article était un peu incompréhansible pour le non Geek et globalement , depuis, plus grand chose.
 Le &amp;#8220;Youpi&amp;#8221;, c&amp;#8217;était donc transformé en &amp;#8220;ouais bon il faut attendre encore un peu&amp;#8221;. Mais hier je suis tombé sur l&amp;#8217;article de Rémi (qui est aussi Geek que medecin d&amp;#8217;ailleurs) et qui m&amp;#8217;a fait découvrir Google Body Browser.</description>
     </item>
     
     <item>
       <title>Unity3d ou WebGL comme futur standard d’un Internet 3D ?</title>
-      <link>https://angezanetti.com/unity3d-google-opensim/</link>
+      <link>https://angezanetti.github.com/unity3d-google-opensim/</link>
       <pubDate>Thu, 20 May 2010 09:18:55 +0000</pubDate>
       
-      <guid>https://angezanetti.com/unity3d-google-opensim/</guid>
+      <guid>https://angezanetti.github.com/unity3d-google-opensim/</guid>
       <description>&lt;p&gt;Google à sorti son &amp;#8220;&lt;em&gt;native client&lt;/em&gt;&amp;#8221; il y a quelques jours comme je vous l&amp;#8217;annonçait &lt;a title=&#34;Google native client&#34; href=&#34;http://angezanetti.com/google-native-client-sdk/&#34; target=&#34;_blank&#34;&gt;dans cet article&lt;/a&gt; mais je ne croyais pas que ça bougerait aussi vite.&lt;/p&gt;
 
 &lt;p&gt;Hier, &lt;strong&gt;Unity3D,&lt;/strong&gt; le moteur de jeu vidéo sur lequel est basé &lt;a title=&#34;assemblive&#34; href=&#34;http://angezanetti.com/assemblive-v1-8-francais-api/&#34; target=&#34;_blank&#34;&gt;Assemblive&lt;/a&gt; par exemple, à annoncé qu&amp;#8217;ilvdéveloppait une application native pour Chrome. Concrétement cela veut dite que Unity3d n&amp;#8217;aura plus besoin de plugin pour fonctionner dans le navigateur de Google. On aura de la 3d aussi facilement que l&amp;#8217;on affiche des pages web, simplement en cliquant.&lt;/p&gt;
@@ -38,10 +38,10 @@ Le &amp;#8220;Youpi&amp;#8221;, c&amp;#8217;était donc transformé en &amp;#822
     
     <item>
       <title>Google sort son “Native client SDK”</title>
-      <link>https://angezanetti.com/google-native-client-sdk/</link>
+      <link>https://angezanetti.github.com/google-native-client-sdk/</link>
       <pubDate>Thu, 13 May 2010 09:28:23 +0000</pubDate>
       
-      <guid>https://angezanetti.com/google-native-client-sdk/</guid>
+      <guid>https://angezanetti.github.com/google-native-client-sdk/</guid>
       <description>&lt;p&gt;&lt;img class=&#34;alignleft&#34; title=&#34;Google Chrome Native SDK&#34; src=&#34;http://emsallem.files.wordpress.com/2009/12/logo-google-chrome-navigateur-web.jpg?resize=150%2C141&#34; alt=&#34;&#34; width=&#34;150&#34; height=&#34;141&#34; data-recalc-dims=&#34;1&#34; /&gt;Hier Google annonçait la sortie d&amp;#8217;un &lt;a href=&#34;http://blog.chromium.org/2010/05/sneak-peek-at-native-client-sdk.html&#34;&gt;Native client SDK&lt;/a&gt;, et moi cela me rend joyeux. Alors qu&amp;#8217;est ce que c&amp;#8217;est ce truc barbare?&lt;/p&gt;
 
 &lt;p&gt;En fait c&amp;#8217;est un outil pour les développeurs, outil qui va permettre d&amp;#8217;intégrer à Chrome &amp;#8211; la navigateur internet &amp;#8211; de nouvelles applications. Et le tout facilement sans créer de ralentissement particulier. En fait avec ce SDK, Chrome pourra traiter des langage de programmation autre que le HTML, CSS ou JavaScript. Des langages comme le C, C++ mais aussi du &lt;a href=&#34;http://www.lua.org/&#34; title=&#34;Lua Programming Gems &#34;&gt;LUA&lt;/a&gt; &amp;#8211; langage orienté jeux vidéos et qui est la base de &lt;a title=&#34;VastPark&#34; href=&#34;http://www.vastpark.com/&#34; target=&#34;_blank&#34;&gt;VastPark&lt;/a&gt; :)&lt;/p&gt;
@@ -51,10 +51,10 @@ Le &amp;#8220;Youpi&amp;#8221;, c&amp;#8217;était donc transformé en &amp;#822
     
     <item>
       <title>Quake 2 dans votre navigateur et sans plugin c’est fait ! Merci WebGL</title>
-      <link>https://angezanetti.com/quake-2-webgl-html5/</link>
+      <link>https://angezanetti.github.com/quake-2-webgl-html5/</link>
       <pubDate>Mon, 05 Apr 2010 13:01:22 +0000</pubDate>
       
-      <guid>https://angezanetti.com/quake-2-webgl-html5/</guid>
+      <guid>https://angezanetti.github.com/quake-2-webgl-html5/</guid>
       <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
   Je vous &lt;a href=&#34;http://angezanetti.com/webgl-katalabs-mondes-virtuels/&#34;&gt;parlais il y a un mois de&lt;strong&gt; WebGL&lt;/strong&gt;&lt;/a&gt;, une technologie qui utilise &lt;strong&gt;HTML 5 &lt;/strong&gt;pour mettre de la 3d directement dans votre navigateur. Et bien je suis ce projet de près depuis ma découverte de cette techno et je viens de trouver une news qui me plait beaucoup : Quake 2 fonctionne avec cette technologie :)
 &lt;/p&gt;
@@ -66,20 +66,20 @@ Le &amp;#8220;Youpi&amp;#8221;, c&amp;#8217;était donc transformé en &amp;#822
     
     <item>
       <title>WebGL, le futur des mondes virtuels?</title>
-      <link>https://angezanetti.com/webgl-katalabs-mondes-virtuels/</link>
+      <link>https://angezanetti.github.com/webgl-katalabs-mondes-virtuels/</link>
       <pubDate>Sat, 06 Mar 2010 16:00:25 +0000</pubDate>
       
-      <guid>https://angezanetti.com/webgl-katalabs-mondes-virtuels/</guid>
+      <guid>https://angezanetti.github.com/webgl-katalabs-mondes-virtuels/</guid>
       <description>WebGL est un langage permettant d&amp;#8217;afficher de la 3D dans le navigateur sans installer le moindre plugin ou le moindre programme. Alors comment ça marche? J&amp;#8217;ai trouvé sur le blog de Fréderic Cavazzza une explication assez claire :
  _Pour rentrer un peu plus dans les détails, WebGL propose donc au sein d’une page web de lier du contenu à votre carte graphique à l’aide de javascript et d’OpenGL ES. “ES” ?</description>
     </item>
     
     <item>
       <title>2 vidéos prometteuses</title>
-      <link>https://angezanetti.com/2-videos-prometteuses/</link>
+      <link>https://angezanetti.github.com/2-videos-prometteuses/</link>
       <pubDate>Wed, 22 Apr 2009 07:17:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/2-videos-prometteuses/</guid>
+      <guid>https://angezanetti.github.com/2-videos-prometteuses/</guid>
       <description>Le première video est une experimentation de l&amp;#8217;utilisation de la technologie multi touch avec Second life :
 &amp;#8211;
  &amp;lt;p&amp;gt; &amp;lt;a href=&amp;quot;http://vimeo.com/4232828&amp;quot;&amp;gt;100&amp;amp;#8243; Multi touch screen with Second Life&amp;lt;/a&amp;gt; from &amp;lt;a href=&amp;quot;http://vimeo.com/user1158125&amp;quot;&amp;gt;junhee, yeo&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;http://vimeo.com/&amp;quot;&amp;gt;Vimeo&amp;lt;/a&amp;gt;.&amp;lt;/div&amp;gt; &amp;lt;p&amp;gt; LA deuxième est la nouveauté Google du jour, l&amp;amp;#8217;O3D qui permet de mettre de la 3D dans le naviguateur internet. IL faut noter que c&amp;amp;#8217;est opensource, et que cx&amp;amp;#8217;est une API &amp;amp;#8211; comprenez que tout le monde peut l&amp;amp;#8217;utiliser à sa sauce.</description>
@@ -87,10 +87,10 @@ Le &amp;#8220;Youpi&amp;#8221;, c&amp;#8217;était donc transformé en &amp;#822
     
     <item>
       <title>Lively ferme ses portes</title>
-      <link>https://angezanetti.com/lively-ferme-ses-portes/</link>
+      <link>https://angezanetti.github.com/lively-ferme-ses-portes/</link>
       <pubDate>Thu, 20 Nov 2008 08:29:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/lively-ferme-ses-portes/</guid>
+      <guid>https://angezanetti.github.com/lively-ferme-ses-portes/</guid>
       <description>Lively, le monde virtuel de Google ferme ses portes. L&amp;#8217;annonce officielle est sur leur blog. Pas assez de retour &amp;#8220; when you take these kinds of risks not every bet is going to pay off&amp;#8221;.
 Lively n&amp;#8217;existera donc plus en janvier prochain. Dommage ce type de &amp;#8220;third room&amp;#8221; peut etre interressant, par exemple pour remplacer Weblin? Faire une salle &amp;#8220;café&amp;#8221; dans un blog non?
 C&amp;#8217;est bizarre que Google se retire des mondes virtuels, peut être nous préparent ils quelque chose de nouveau, un partenariat.</description>
@@ -98,10 +98,10 @@ C&amp;#8217;est bizarre que Google se retire des mondes virtuels, peut être nou
     
     <item>
       <title>Second Life pour les entreprises</title>
-      <link>https://angezanetti.com/second-life-pour-les-entreprises/</link>
+      <link>https://angezanetti.github.com/second-life-pour-les-entreprises/</link>
       <pubDate>Mon, 20 Oct 2008 09:11:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/second-life-pour-les-entreprises/</guid>
+      <guid>https://angezanetti.github.com/second-life-pour-les-entreprises/</guid>
       <description>Si vous êtes intéressé par l&amp;#8217;intégration des entreprises dans les mondes virtuels vous pouvez me contacter à l&amp;#8217;adresse mail suivante : contact@angezanetti.com
 ou encore visiter ma pagedédiée à l&amp;#8217;implantation des entreprisesou celle avec mes références.
 
@@ -111,10 +111,10 @@ _________________________________________________________
     
     <item>
       <title>Le monde de demain sera t-il en Flash?</title>
-      <link>https://angezanetti.com/le-monde-de-demain-sera-t-il-en-flash/</link>
+      <link>https://angezanetti.github.com/le-monde-de-demain-sera-t-il-en-flash/</link>
       <pubDate>Fri, 18 Apr 2008 15:44:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/le-monde-de-demain-sera-t-il-en-flash/</guid>
+      <guid>https://angezanetti.github.com/le-monde-de-demain-sera-t-il-en-flash/</guid>
       <description>La 3d se développe, pas de doute la dessus. Cela fait au moins 10 ans et elle continuera de se développer encore et toujours. Mais sommes nous à un carrefour?
 J&amp;#8217;ai en effet l&amp;#8217;impression que deux grandes tendances se dessinent actuellement dans ce qui fera le web 3d :
 Les mondes virtuels qui ont besoin d&amp;#8217;un client externe pour fonctionner et les applications en flash.
@@ -123,20 +123,20 @@ Dans le premier cas on peut réellement parler d&amp;#8217;univers puisque la su
     
     <item>
       <title>Solipsis un métaverse différent à surveiller</title>
-      <link>https://angezanetti.com/solipsis-un-metaverse-different-a-surveiller/</link>
+      <link>https://angezanetti.github.com/solipsis-un-metaverse-different-a-surveiller/</link>
       <pubDate>Tue, 15 Apr 2008 09:53:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/solipsis-un-metaverse-different-a-surveiller/</guid>
+      <guid>https://angezanetti.github.com/solipsis-un-metaverse-different-a-surveiller/</guid>
       <description>Décidemment les tweets d&amp;#8217;hugo sont vraiment précieux ! J&amp;#8217;ai décidé de le partager ici car j&amp;#8217;ai de plus en plus de lecteurs et j&amp;#8217;aime à penser que ce sont des passionnés des mondes 3d et pas forcement de Second Life the virtual world.
 Il s&amp;#8217;agissait donc d&amp;#8217;un message sur Solipsis un métaverse basé sur du peer to peer ( prononcez P2P ). Qu&amp;#8217;est ce que le P2P ? C&amp;#8217;est emulr, les torrents etc&amp;#8230; Le principe est le partage, chacun héberge un petit bout du monde de la même façon que l&amp;#8217;on partage ses fichiers pour les mettre à disposition des utilisateurs.</description>
     </item>
     
     <item>
       <title>Second Life et le web 2.0</title>
-      <link>https://angezanetti.com/second-life-et-le-web-2-0/</link>
+      <link>https://angezanetti.github.com/second-life-et-le-web-2-0/</link>
       <pubDate>Sat, 05 Apr 2008 08:54:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/second-life-et-le-web-2-0/</guid>
+      <guid>https://angezanetti.github.com/second-life-et-le-web-2-0/</guid>
       <description>La nouvelle version du client est arrivée depuis hier, c&amp;#8217;est la fameuse version qui permet d&amp;#8216;afficher du HTML sur les prims et de streamer autre chose que du .mov
 Enfin le web devient accessible pour tous, ce n&amp;#8217;est pas trop tôt. Bref, j&amp;#8217;ai beaucoup réfléchi aux applications que l&amp;#8217;on pourrait tirer de cette fonctionnalité. J&amp;#8217;ai bien sur pensé au web2.0 qui me passionne depuis quelques temps.
 J&amp;#8217;ai cherché ce qui se faisait déjà, notamment en matière de Blog, tweeter ou de réseaux sociaux.</description>
@@ -144,10 +144,10 @@ J&amp;#8217;ai cherché ce qui se faisait déjà, notamment en matière de Blog,
     
     <item>
       <title>Association de IBM &amp; the Second Life® virtual world</title>
-      <link>https://angezanetti.com/association-de-ibm-the-second-life-virtual-world/</link>
+      <link>https://angezanetti.github.com/association-de-ibm-the-second-life-virtual-world/</link>
       <pubDate>Thu, 03 Apr 2008 06:38:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/association-de-ibm-the-second-life-virtual-world/</guid>
+      <guid>https://angezanetti.github.com/association-de-ibm-the-second-life-virtual-world/</guid>
       <description>Pocarles l&amp;#8217;annonçait déjà il y a quelques jours, IBM est très actif en ce qui concerne les Métaverses. Ils
 ont développés un programme pour le premier trimestre 2008 qui force le respect : travail collaboratif, data center, e-learning et applications au domaine médical.
 Ils devellopent aussi un plugin qui permettra d&amp;#8217;integerer les metaverses directement dans un browser, mais si rapellez vous le post du 4 Mars.Et enfin ils ont environ 6000 employés qui possedent un avatar dans the Second Life® virtual world.</description>
@@ -155,10 +155,10 @@ Ils devellopent aussi un plugin qui permettra d&amp;#8217;integerer les metavers
     
     <item>
       <title>L’internet 3d est en route !</title>
-      <link>https://angezanetti.com/linternet-3d-est-en-route/</link>
+      <link>https://angezanetti.github.com/linternet-3d-est-en-route/</link>
       <pubDate>Tue, 04 Mar 2008 14:35:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/linternet-3d-est-en-route/</guid>
+      <guid>https://angezanetti.github.com/linternet-3d-est-en-route/</guid>
       <description>J&amp;#8217;ai découvert un lien sur le site de pocarles qui m&amp;#8217;a vraiment surpris.
 Je ne croyais pas que IBM était sur un projet de rendre les mondes 3d plus accessible. J&amp;#8217;avais entendu qu&amp;#8217;ils bossaient sur un énième MMO pour faire concurrence a SL, WOW et autres mondes persistants. Ils font bien plus fort que ça en fait.
 Oui vous ne revez pas le bonhomme est bien un avatar de SL et tout en haut c&amp;#8217;est bien une barre de titre d&amp;#8217;internet explorer.</description>

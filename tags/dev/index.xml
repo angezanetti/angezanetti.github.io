@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dev on Xavier Coiffard</title>
-    <link>https://angezanetti.com/tags/dev/</link>
+    <link>https://angezanetti.github.com/tags/dev/</link>
     <description>Recent content in Dev on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 27 Apr 2015 12:13:51 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.com/tags/dev/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.github.com/tags/dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fuite mémoire avec curl et NSS sous RedHat</title>
-      <link>https://angezanetti.com/fuite-memoire-curl-php-red-hat-nss/</link>
+      <link>https://angezanetti.github.com/fuite-memoire-curl-php-red-hat-nss/</link>
       <pubDate>Mon, 27 Apr 2015 12:13:51 +0000</pubDate>
       
-      <guid>https://angezanetti.com/fuite-memoire-curl-php-red-hat-nss/</guid>
+      <guid>https://angezanetti.github.com/fuite-memoire-curl-php-red-hat-nss/</guid>
       <description>Depuis plusieurs mois je travaille pour une startup qui fait de la lutte contre la fraude. En deux mots, les clients nous envoient des flux XML et nous leur renvoyons note correspondant à l&amp;#8217;indice de confiance de la transaction.
 Et, début Janvier nous avons intégré un GROS client. Du genre à faire pâlir les sysadmin. Cela nous à forcer à reconstruire une partie du code, à revoir l&amp;#8217;architecture de l&amp;#8217;application (qui est au passage devenue une application symfony2).</description>
     </item>
     
     <item>
       <title>Comment savoir que son code est de bonne qualité?</title>
-      <link>https://angezanetti.com/comment-produire-code-qualite-methodes-travail-developpeur/</link>
+      <link>https://angezanetti.github.com/comment-produire-code-qualite-methodes-travail-developpeur/</link>
       <pubDate>Mon, 28 Jul 2014 12:08:58 +0000</pubDate>
       
-      <guid>https://angezanetti.com/comment-produire-code-qualite-methodes-travail-developpeur/</guid>
+      <guid>https://angezanetti.github.com/comment-produire-code-qualite-methodes-travail-developpeur/</guid>
       <description>C&amp;#8217;est une question qui m&amp;#8217;a été posée en entretien d&amp;#8217;embauche il y a peu de temps:
  &amp;#8220;Comment un autodidacte comme vous peut-il être sur que son code est de bonne qualité?&amp;#8221;
  Ça peut paraître une question naïve, surtout venant d&amp;#8217;un RH, mais ça me fait pas mal cogiter depuis, au delà de la technique.
@@ -35,10 +35,10 @@ Pendant l&amp;#8217;entretien j&amp;#8217;ai répondu un truc bâteau, qui a d&a
     
     <item>
       <title>Silex un framework minimaliste PHP que vous devriez tester</title>
-      <link>https://angezanetti.com/silex-framework-minimaliste-php-symfony/</link>
+      <link>https://angezanetti.github.com/silex-framework-minimaliste-php-symfony/</link>
       <pubDate>Thu, 06 Mar 2014 13:08:19 +0000</pubDate>
       
-      <guid>https://angezanetti.com/silex-framework-minimaliste-php-symfony/</guid>
+      <guid>https://angezanetti.github.com/silex-framework-minimaliste-php-symfony/</guid>
       <description>Silex est un micro framework édité par SensioLabs, la société qui édite le fameux framework Symfony.
 Un micro Framework Silex est micro, vraiment micro. Même l&amp;#8217;installation tiens en deux lignes:
 $ curl -sS https://getcomposer.org/installer | php $ composer.phar install Une fois ces deux lignes exécutées vous vous trouvez avec:
@@ -47,19 +47,19 @@ $ curl -sS https://getcomposer.org/installer | php $ composer.phar install Une f
     
     <item>
       <title>Installer un environnement de développement avec VirtualBox</title>
-      <link>https://angezanetti.com/installer-un-environnement-de-developpement-avec-virtualbox/</link>
+      <link>https://angezanetti.github.com/installer-un-environnement-de-developpement-avec-virtualbox/</link>
       <pubDate>Mon, 26 Aug 2013 09:09:44 +0000</pubDate>
       
-      <guid>https://angezanetti.com/installer-un-environnement-de-developpement-avec-virtualbox/</guid>
+      <guid>https://angezanetti.github.com/installer-un-environnement-de-developpement-avec-virtualbox/</guid>
       <description>Travailller avec un LAMP, ou un MAMP, installé en local c&amp;#8217;est bien pour des petits projets, type création de thème/plugins WordPress, mais pour les projets plus conséquents avec des technos plus exotique que PHP il peut être nécessaire de virtualiser un système d&amp;#8217;exploitation pour travailler. Je vous conseillle d&amp;#8217;ailleurs de mettre en local le même système que votre machine de production, ça limite grandement les surprises de mise en prod !</description>
     </item>
     
     <item>
       <title>Freelances contribuez au libre pendant vos temps morts</title>
-      <link>https://angezanetti.com/contribuez-opensource-temps-libre-freelance-chomeurs/</link>
+      <link>https://angezanetti.github.com/contribuez-opensource-temps-libre-freelance-chomeurs/</link>
       <pubDate>Mon, 19 Aug 2013 08:47:29 +0000</pubDate>
       
-      <guid>https://angezanetti.com/contribuez-opensource-temps-libre-freelance-chomeurs/</guid>
+      <guid>https://angezanetti.github.com/contribuez-opensource-temps-libre-freelance-chomeurs/</guid>
       <description>Dans la vie professionnelle de tout indépendant il y a des temps morts. Entre deux contrats, avant ou après avoir fait de la prospection commerciale, les moments où l&amp;#8217;on est pas forcement débordé sont assez fréquents. Hors ce sont bien souvent ces temps là qui nous permettent de nous former, d&amp;#8217;apprendre, de faire de la veille.
 
 Depuis quelques temps déjà j&amp;#8217;essaye de consacrer ces temps morts à des projets opensource.</description>
@@ -67,10 +67,10 @@ Depuis quelques temps déjà j&amp;#8217;essaye de consacrer ces temps morts à 
     
     <item>
       <title>La programmation objet en PHP</title>
-      <link>https://angezanetti.com/la-programmation-objet-en-php/</link>
+      <link>https://angezanetti.github.com/la-programmation-objet-en-php/</link>
       <pubDate>Wed, 07 Aug 2013 09:53:03 +0000</pubDate>
       
-      <guid>https://angezanetti.com/la-programmation-objet-en-php/</guid>
+      <guid>https://angezanetti.github.com/la-programmation-objet-en-php/</guid>
       <description>La programmation objet est un pilier du développement actuel. Tout les frameworks modernes sont basé sur ce principe, tout développeur se doit de connaître les bases de la POO et de les appliquer.
 Mais bien souvent le client nous presse, on a pas envie de se compliquer la vie ou juste on voit pas l&amp;#8217;intérêt de faire vraiment de l&amp;#8217;objet. J&amp;#8217;ai trouvé sur la chaine Youtube de M6 dédié à la technique une vidéo vraiment bien faite sur les best practices de la POO en PHP.</description>
     </item>

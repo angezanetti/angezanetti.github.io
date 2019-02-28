@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dentallife on Xavier Coiffard</title>
-    <link>https://angezanetti.com/tags/dentallife/</link>
+    <link>https://angezanetti.github.com/tags/dentallife/</link>
     <description>Recent content in Dentallife on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 21 May 2012 09:51:37 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.com/tags/dentallife/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.github.com/tags/dentallife/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Utiliser Vim comme éditeur LSL</title>
-      <link>https://angezanetti.com/utiliser-vim-comme-editeur-lsl/</link>
+      <link>https://angezanetti.github.com/utiliser-vim-comme-editeur-lsl/</link>
       <pubDate>Mon, 21 May 2012 09:51:37 +0000</pubDate>
       
-      <guid>https://angezanetti.com/utiliser-vim-comme-editeur-lsl/</guid>
+      <guid>https://angezanetti.github.com/utiliser-vim-comme-editeur-lsl/</guid>
       <description>&amp;nbsp;
 Depuis quelques jours je suis de retour sur SecondLife le nez dans le code de la V2 de Dentallife. Pas mal d&amp;#8217;eau a coulé sous les ponts depuis la conception et la réalisation de la V1, je me suis mis au Javascript et à la programmation orientée objet.
 Je vous laisse imaginer à quel point le retour au LSL est dur ! La pauvreté de ce langage est affligeante, sans parler du lag quand on veut échanger des infos avec un serveur externe.</description>
@@ -24,10 +24,10 @@ Je vous laisse imaginer à quel point le retour au LSL est dur ! La pauvreté de
     
     <item>
       <title>Les serious game orientés santé ont le vent en poupe !</title>
-      <link>https://angezanetti.com/serious-game-sante-2-0/</link>
+      <link>https://angezanetti.github.com/serious-game-sante-2-0/</link>
       <pubDate>Wed, 02 May 2012 09:15:01 +0000</pubDate>
       
-      <guid>https://angezanetti.com/serious-game-sante-2-0/</guid>
+      <guid>https://angezanetti.github.com/serious-game-sante-2-0/</guid>
       <description>Les seriousgame sont particulièrement adapté aux situations d&amp;#8217;urgence, de répétition de gestes techniques dans des conditions extrème ou difficile à rejouer.
 C&amp;#8217;est donc sans surprise que l&amp;#8217;on a vu le domaine de la santé se doter de nombreux jeux sérieux. J&amp;#8217;ai trouvé dans ma veille deux exemple de ces seriousgame orientés santé qui me paraisse intéressant, vous trouverez des vidéos ci dessous.
 Le premier jeu est une simulation de consultation médicale qui me rappelle beaucoup la V1 du seriousgame de dentallife</description>
@@ -35,10 +35,10 @@ Le premier jeu est une simulation de consultation médicale qui me rappelle beau
     
     <item>
       <title>Second Life, héritage et perspectives</title>
-      <link>https://angezanetti.com/secondlife-collaboration-coinnovation/</link>
+      <link>https://angezanetti.github.com/secondlife-collaboration-coinnovation/</link>
       <pubDate>Wed, 23 Nov 2011 08:40:06 +0000</pubDate>
       
-      <guid>https://angezanetti.com/secondlife-collaboration-coinnovation/</guid>
+      <guid>https://angezanetti.github.com/secondlife-collaboration-coinnovation/</guid>
       <description>Hier je suis tombé sur un article de Fred Cavazza sur son blog Marketing Virtuel, il y parle de l&amp;#8217;héritage de Second Life. Dans le même temps Guillaume Reys, le dentiste de Dentallife, postait sur Facebook :
 Pour rappel Dentallife est un seriousgame orienté sur le thème des urgences en cabinet dentaire et qui à été entièrement réalisé dans Second Life.
 D&amp;#8217;ailleurs Fred Cavazza dans son billet nous le rappelle :</description>
@@ -46,10 +46,10 @@ D&amp;#8217;ailleurs Fred Cavazza dans son billet nous le rappelle :</descriptio
     
     <item>
       <title>Retour sur la création de Dentallife, le serious game de l’urgence en cabinet dentaire</title>
-      <link>https://angezanetti.com/seriousgame-dentallife-developpement-conseil/</link>
+      <link>https://angezanetti.github.com/seriousgame-dentallife-developpement-conseil/</link>
       <pubDate>Tue, 31 May 2011 14:21:44 +0000</pubDate>
       
-      <guid>https://angezanetti.com/seriousgame-dentallife-developpement-conseil/</guid>
+      <guid>https://angezanetti.github.com/seriousgame-dentallife-developpement-conseil/</guid>
       <description>Il y a quelques semaines sortait de façon officielle le seriousgame dentallife : &amp;#8220;Urgences en cabinet Dentaire&amp;#8221;.
 Je n&amp;#8217;ai jamais pris le temps d&amp;#8217;exposer mon retour d&amp;#8217;expérience sur ce projet, ce billet va essayer de corriger cet oubli en exposant notre démarche dans la conception et la réalisation du seriousgame.
 La conception du projet : Au début de l&amp;#8217;année 2011 Guillaume est venu me trouver pour me proposer un projet aussi passionant que culotté : faire un seriousgame en moins de 3 mois.</description>
@@ -57,20 +57,20 @@ La conception du projet : Au début de l&amp;#8217;année 2011 Guillaume est ven
     
     <item>
       <title>AODD, une association de prothésistes dentaires, collaborent maintenant dans SecondLife</title>
-      <link>https://angezanetti.com/aodd-association-prothesistes-dentaires-reunion-secondlife/</link>
+      <link>https://angezanetti.github.com/aodd-association-prothesistes-dentaires-reunion-secondlife/</link>
       <pubDate>Thu, 21 Apr 2011 09:54:35 +0000</pubDate>
       
-      <guid>https://angezanetti.com/aodd-association-prothesistes-dentaires-reunion-secondlife/</guid>
+      <guid>https://angezanetti.github.com/aodd-association-prothesistes-dentaires-reunion-secondlife/</guid>
       <description>Aodd est une association de prothésistes dentaire de l’ouest et intrinsèquement ils sont confrontés à un probléme récurrent : ils ont besoin de collaborer à distance. En effet, les différents membres de cette association sont répartis dans le Grand Ouest. Impossible de faire toutes leurs réunions en présentiel.
 Actuellement, ils utilisent la vidéo conférence, avant c’était la téléconférence. Mais on le sait, aucune de ses deux solutions n’est réellement pertinente à plus de 3-4 personnes et leurs retours confirment nettement cette affirmation.</description>
     </item>
     
     <item>
       <title>[GUEST] Retour sur le Quizz de Dental Life</title>
-      <link>https://angezanetti.com/guest-retour-sur-le-quizz-de-dental-life/</link>
+      <link>https://angezanetti.github.com/guest-retour-sur-le-quizz-de-dental-life/</link>
       <pubDate>Mon, 19 Jul 2010 08:18:17 +0000</pubDate>
       
-      <guid>https://angezanetti.com/guest-retour-sur-le-quizz-de-dental-life/</guid>
+      <guid>https://angezanetti.github.com/guest-retour-sur-le-quizz-de-dental-life/</guid>
       <description>&lt;!--        @page { margin: 2cm }       P { margin-bottom: 0.21cm } --&gt;
 
 &lt;p&gt;_Ce post m&amp;#8217;a été soumis par &lt;a title=&#34;Profil FB Odrade Saenz&#34; href=&#34;http://www.facebook.com/#!/profile.php?id=100000537321100&amp;v=wall&amp;ref=ts&#34; target=&#34;_blank&#34;&gt;Odrade Saenz &lt;/a&gt;, elle a assisté à une conférence de &lt;a title=&#34;DentalLife&#34; href=&#34;http://www.dentallife.fr/&#34; target=&#34;_blank&#34;&gt;DentalLife&lt;/a&gt; la semaine dernière et souhaitais nous faire partager son expérience. Comme je le rappelait il y a peu , ce blog est ouvert au guest blogging, autrement dit si vous avez envie de partager une expérience qui est en rapport avec les mondes virtuels et que vous n&amp;#8217;avez pas de support pour le faire il suffit de m&amp;#8217;envoyer un mail, un tweet, un message FB ou un pigeon voyageur et, si l&amp;#8217;article est interessant, je le publierai ici :)_&lt;/p&gt;

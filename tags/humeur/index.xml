@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Humeur on Xavier Coiffard</title>
-    <link>https://angezanetti.com/tags/humeur/</link>
+    <link>https://angezanetti.github.com/tags/humeur/</link>
     <description>Recent content in Humeur on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 30 Apr 2014 11:42:20 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.com/tags/humeur/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.github.com/tags/humeur/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Non, ne faites pas de nos enfants des développeurs</title>
-      <link>https://angezanetti.com/apprendre-a-coder-aux-enfants/</link>
+      <link>https://angezanetti.github.com/apprendre-a-coder-aux-enfants/</link>
       <pubDate>Wed, 30 Apr 2014 11:42:20 +0000</pubDate>
       
-      <guid>https://angezanetti.com/apprendre-a-coder-aux-enfants/</guid>
+      <guid>https://angezanetti.github.com/apprendre-a-coder-aux-enfants/</guid>
       <description>Depuis quelques mois on parle d&amp;#8217;apprendre à coder aux enfants comme une solution aux bouleversements d&amp;#8217;internet. Dernièrement il y a encore eu un article dans les Echos en ce sens.
 Je ne suis pas un expert de l&amp;#8217;éducation mais j&amp;#8217;ai vraiment l&amp;#8217;impression que ce discours, souvent servi avec un arrière fond économique, se trompe de combat, je m&amp;#8217;explique:
 La thèse soutenue par les défenseurs du &amp;#8220;code à l&amp;#8217;école&amp;#8221; est relativement simple:</description>
@@ -24,29 +24,29 @@ La thèse soutenue par les défenseurs du &amp;#8220;code à l&amp;#8217;école&
     
     <item>
       <title>Un an (presque) sans Google, retour d’experience</title>
-      <link>https://angezanetti.com/un-an-sans-google-retour-experience/</link>
+      <link>https://angezanetti.github.com/un-an-sans-google-retour-experience/</link>
       <pubDate>Wed, 19 Dec 2012 16:36:22 +0000</pubDate>
       
-      <guid>https://angezanetti.com/un-an-sans-google-retour-experience/</guid>
+      <guid>https://angezanetti.github.com/un-an-sans-google-retour-experience/</guid>
       <description>Comme beaucoup de travailleurs du web j&amp;#8217;ai longtemps été fan de Google au point d&amp;#8217;utiliser ses produits pour à peu près toute ma vie numérique : mails, todolist, recherche, documents partagés, réseau social, organisation d&amp;#8217;événements etc&amp;#8230; Tout ce que je faisais sur le net passait par Google. J&amp;#8217;ai toujours eu conscience que Google est une société qui fait du bénéfice sur nos données personelles mais je n&amp;#8217;avais pas vraiment l&amp;#8217;envie de changer d&amp;#8217;autant que le marketing de Google est assez doué pour &amp;#8220;draguer&amp;#8221; les geeks avec leurs lot de nouveautés.</description>
     </item>
     
     <item>
       <title>Le Javascript, ce langage merveilleux :)</title>
-      <link>https://angezanetti.com/javascript-fail/</link>
+      <link>https://angezanetti.github.com/javascript-fail/</link>
       <pubDate>Mon, 06 Aug 2012 15:35:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/javascript-fail/</guid>
+      <guid>https://angezanetti.github.com/javascript-fail/</guid>
       <description>Je me suis mis à coder du Javascript il y a un an. Et depuis, à intervalles régulières, je me fais chambrer par des développeurs. Le javascript, malgré les trucs super qu&amp;#8217;il est capable de faire traîne une vieille réputation de langage &amp;#8220;poubelle&amp;#8221;.
 Alors bien sur, à chaque fois, je parle de WebGL, de NodeJS et des possibilités que ça engendre. Mais bon il y a des limites, et c&amp;#8217;est vrai que le JS garde certains stigmates d&amp;#8217;une jeunesse difficile.</description>
     </item>
     
     <item>
       <title>Et si on parlait du riz….  et de wikipedia</title>
-      <link>https://angezanetti.com/et-si-on-parlait-du-riz-et-de-wikipedia/</link>
+      <link>https://angezanetti.github.com/et-si-on-parlait-du-riz-et-de-wikipedia/</link>
       <pubDate>Tue, 22 Feb 2011 10:35:17 +0000</pubDate>
       
-      <guid>https://angezanetti.com/et-si-on-parlait-du-riz-et-de-wikipedia/</guid>
+      <guid>https://angezanetti.github.com/et-si-on-parlait-du-riz-et-de-wikipedia/</guid>
       <description>Je ne sais pas pour vous mais moi je suis régulièrment le podcast de François Rollin sur France Culture. J&amp;#8217;aime assez son ton décalé et son coté professeur&amp;#8230;
 Début Janvier un podcast m&amp;#8217;a fait particulièrement sourire, on y parle de riz mais aussi de légitimité de wikipédia, avec talent en plus.
 A écouter, réécouter et surtout à diffuser à tous ceux qui vous disent que non, wikipédia c&amp;#8217;est pas sérieux et que ça ne vaut pas une bonne vieille encyclopédie en douze volume &amp;#8211; qui date de 1990 :p</description>
@@ -54,49 +54,49 @@ A écouter, réécouter et surtout à diffuser à tous ceux qui vous disent que 
     
     <item>
       <title>Je l’aime bien ce nouveau bureau en guadeloupe !</title>
-      <link>https://angezanetti.com/guadeloupe/</link>
+      <link>https://angezanetti.github.com/guadeloupe/</link>
       <pubDate>Tue, 11 Jan 2011 14:16:22 +0000</pubDate>
       
-      <guid>https://angezanetti.com/guadeloupe/</guid>
+      <guid>https://angezanetti.github.com/guadeloupe/</guid>
       <description>Je tiens à vous prévenir tout de suite, ce post n&amp;#8217;aura aucune autre utilité que de vous présenter à quel point c&amp;#8217;est cool les tropiques. Alors si vous êtes à deux doigts du burn-out à cause du climat, surtout ne regardez pas la photo ci dessous :)
 Pour les autres, comme vous pouvez le voir je suis aux Antilles, en Guadeloupe en fait. Pour le travail mais aussi pour le fun !</description>
     </item>
     
     <item>
       <title>Break : Je pars en Inde !</title>
-      <link>https://angezanetti.com/break-je-pars-en-inde/</link>
+      <link>https://angezanetti.github.com/break-je-pars-en-inde/</link>
       <pubDate>Sun, 07 Nov 2010 13:22:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/break-je-pars-en-inde/</guid>
+      <guid>https://angezanetti.github.com/break-je-pars-en-inde/</guid>
       <description>Image sous CC trouvée sur Flickr. Auteur : matso  Quand vous lirez ce billet je serais quelque part dans le ciel entre Bruxelles et Madras.  Break attendu depuis le mois d&amp;#8217;aout où j&amp;#8217;étais désesperement seul sur le web, où la timeline twitter frémissait à peine. Finalement c&amp;#8217;est bon d&amp;#8217;attendre et de partir alors que tout le monde s&amp;#8217;apprête à rentrer dans l&amp;#8217;hivers.  Je pars au soleil, découvrir une population que je ne connait pas mais qui m&amp;#8217;attire.</description>
     </item>
     
     <item>
       <title>Soutenez l’internet libre</title>
-      <link>https://angezanetti.com/soutenez-linternet-libre/</link>
+      <link>https://angezanetti.github.com/soutenez-linternet-libre/</link>
       <pubDate>Wed, 20 Oct 2010 09:20:11 +0000</pubDate>
       
-      <guid>https://angezanetti.com/soutenez-linternet-libre/</guid>
+      <guid>https://angezanetti.github.com/soutenez-linternet-libre/</guid>
       <description>En ces temps difficiles pour l&amp;#8217;Internet en général deux associations qui se battent pour une plus grande liberté de l&amp;#8217;internaute ont besoin d&amp;#8217;aide. Financière , bien sur mais aussi pourquoi pas bénévole ou simplement de soutient.
 Je suppose que vous connaissez les deux assos ci dessous, la première c&amp;#8217;est Framasoft, association qui s&amp;#8217;occupe de promouvoir le logiciel libre. Ils le font avec des tutoriaux mais aussi avec une collection de livres sous licence Creative commons et dispo à la vente et au téléchargement gratuit.</description>
     </item>
     
     <item>
       <title>La vidéo du vendredi : Cleanternet</title>
-      <link>https://angezanetti.com/cleanternet-hadopi/</link>
+      <link>https://angezanetti.github.com/cleanternet-hadopi/</link>
       <pubDate>Fri, 08 Oct 2010 07:57:33 +0000</pubDate>
       
-      <guid>https://angezanetti.com/cleanternet-hadopi/</guid>
+      <guid>https://angezanetti.github.com/cleanternet-hadopi/</guid>
       <description>Cette semaine la vidéo du vendredi colle à l&amp;#8217;actualité, si vous êtes normalement constitué &amp;#8211; c&amp;#8217;est a dire avec des yeux et/ou des oreilles &amp;#8211; vous avez forcement entendu parler de l&amp;#8217;envoi des premiers mails de l&amp;#8217;HADOPI.
 Hadopi donc, sensé lutter contre ce monde &amp;#8220;sans foi ni loi&amp;#8221; dans lequel évolue pèle mêle des pédophiles, des nazis, des pirates et aussi, de temps en temps, des mecs qui cherchent du boulot&amp;#8230; Notre gouvernement s&amp;#8217;acharne en ce moment à rendre l&amp;#8217;internet &amp;#8220;civilisé&amp;#8220;, avec des moyens qui sont plus ou moins légaux et plus ou moins pas franchement efficace.</description>
     </item>
     
     <item>
       <title>Que fait la génération Y ?</title>
-      <link>https://angezanetti.com/que-fait-la-generation-y/</link>
+      <link>https://angezanetti.github.com/que-fait-la-generation-y/</link>
       <pubDate>Wed, 17 Mar 2010 09:35:33 +0000</pubDate>
       
-      <guid>https://angezanetti.com/que-fait-la-generation-y/</guid>
+      <guid>https://angezanetti.github.com/que-fait-la-generation-y/</guid>
       <description>Depuis que je farfouille Internet j&amp;#8217;entends parler d&amp;#8217;une génération miracle, une tranche d&amp;#8217;age entière qui serait aguerrie aux usages de l&amp;#8217;internet et qui sera, c&amp;#8217;est sur, l&amp;#8217;avenir de la nation.
 La définition Wikipédia de cette génération est claire :
  Le terme « génération Y » désigne les personnes nées entre la fin des années 1970 et le milieu des années 1990. Il tire son nom de la génération précédente, nommée génération X.</description>
@@ -104,10 +104,10 @@ La définition Wikipédia de cette génération est claire :
     
     <item>
       <title>Le mulot va-t-il mourir?</title>
-      <link>https://angezanetti.com/le-mulot-va-t-il-mourir/</link>
+      <link>https://angezanetti.github.com/le-mulot-va-t-il-mourir/</link>
       <pubDate>Mon, 22 Jun 2009 14:41:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/le-mulot-va-t-il-mourir/</guid>
+      <guid>https://angezanetti.github.com/le-mulot-va-t-il-mourir/</guid>
       <description>Je ne sais pas vous mais des fois moi je me pose des questions. En ce moment il y en a une qui tourne en boucle c&amp;#8217;est : pourquoi vouloir virer la souris de nos ordinateurs?
 Alors je comprends bien que pour des raisons d&amp;#8217;accessibilités la souris n&amp;#8217;est pas vraiment géniale, pour des malvoyants des handicapés etc etc &amp;#8230; Mais pour les valides?
 La souris c&amp;#8217;est efficace, plutôt précis et de plus en plus ergonomique.</description>
@@ -115,20 +115,20 @@ La souris c&amp;#8217;est efficace, plutôt précis et de plus en plus ergonomiq
     
     <item>
       <title>LeMonde.fr redécouvre Second Life</title>
-      <link>https://angezanetti.com/lemonde-fr-redecouvre-second-life/</link>
+      <link>https://angezanetti.github.com/lemonde-fr-redecouvre-second-life/</link>
       <pubDate>Thu, 11 Jun 2009 07:47:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/lemonde-fr-redecouvre-second-life/</guid>
+      <guid>https://angezanetti.github.com/lemonde-fr-redecouvre-second-life/</guid>
       <description>Certains disent que je suis un évangéliste. Je ne suis pas fan de ce terme clairement connoté religieux mais c&amp;#8217;est vrai, montrer aux gens comment et pourquoi les univers virtuels sont de vrais outils novateurs fait parti de mon travail et du plaisir à le faire.
 Le problème quand on veut prêcher la bonne parole c&amp;#8217;est qu&amp;#8217;il faut avoir un public. Alors bien sur j&amp;#8217;ai ce blog qui me permet de donner mon point de vue, mais je suis loin d&amp;#8217;avoir une audience suffisante pour faire passer un message à grande échelle.</description>
     </item>
     
     <item>
       <title>La fin du tunnel pour Second Life ?</title>
-      <link>https://angezanetti.com/la-fin-du-tunnel-pour-second-life/</link>
+      <link>https://angezanetti.github.com/la-fin-du-tunnel-pour-second-life/</link>
       <pubDate>Tue, 12 May 2009 06:27:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/la-fin-du-tunnel-pour-second-life/</guid>
+      <guid>https://angezanetti.github.com/la-fin-du-tunnel-pour-second-life/</guid>
       <description>photo de telmo32   Ce matin, je suis debout de bonne heure et plutôt de bonne humeur et je me rend compte que cela fait longtemps que je n&amp;#8217;ai pas fait de billet positif. J&amp;#8217;ai surement trop la &amp;#8220;tête dans le guidon&amp;#8221; à attendre LE contrat. Du coup je bougonne.
 Mais ce matin, non. J&amp;#8217;ai eu ce que les alcooliques anonyme appellent un &amp;#8220;éclair de lucidité&amp;#8221; !
 &amp;lt;p&amp;gt; Tout va bien en fait.</description>
@@ -136,10 +136,10 @@ Mais ce matin, non. J&amp;#8217;ai eu ce que les alcooliques anonyme appellent u
     
     <item>
       <title>Entreprenez qu’il disait !</title>
-      <link>https://angezanetti.com/entreprenez-quil-disait/</link>
+      <link>https://angezanetti.github.com/entreprenez-quil-disait/</link>
       <pubDate>Fri, 17 Apr 2009 10:21:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/entreprenez-quil-disait/</guid>
+      <guid>https://angezanetti.github.com/entreprenez-quil-disait/</guid>
       <description>photo de maéli (Flickr)
 
 Le &amp;#8220;il&amp;#8221; est au singulier et fait référence direct à celui qui dirige la France de sa main de fer et qui fait culpabiliser ceux qui se lève tard, en opposition à ceux, courageux qui se lèvent à l&amp;#8217;aube. Il se trouve que moi j&amp;#8217;ai choisi il y a quelques mois de passer de la 2ème à la 1ère catégorie. Me lever tôt, entreprendre, faire marcher cette économie souveraine, et accessoirement me payer à manger.</description>
@@ -147,29 +147,29 @@ Le &amp;#8220;il&amp;#8221; est au singulier et fait référence direct à celui
     
     <item>
       <title>Medias &amp; Second life (suite)</title>
-      <link>https://angezanetti.com/medias-second-life-suite/</link>
+      <link>https://angezanetti.github.com/medias-second-life-suite/</link>
       <pubDate>Thu, 26 Mar 2009 13:09:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/medias-second-life-suite/</guid>
+      <guid>https://angezanetti.github.com/medias-second-life-suite/</guid>
       <description>Il y a quelques jours je publiai sur ce blog un post qui n&amp;#8217;était pas vraiment tendre avec les &amp;#8220;médias de masses ni avec l&amp;#8217;experte invitée pour l&amp;#8217;occasion&amp;#8221;. C&amp;#8217;est qu&amp;#8217;on appelle une &amp;#8220;gueulante&amp;#8221; inspirée de beaucoup par le post de Pierre Olivier Carles. Bon je n&amp;#8217;y allait pas de main morte, mais cela reflète complètement le fond de ma pensée. Comme j&amp;#8217;aime pas trop hurler dans le vide j&amp;#8217;ai envoyé un mail à Mme Sophie Girieud, trouvée sur FaceBook.</description>
     </item>
     
     <item>
       <title>Ce blog est aussi le votre !</title>
-      <link>https://angezanetti.com/ce-blog-est-aussi-le-votre/</link>
+      <link>https://angezanetti.github.com/ce-blog-est-aussi-le-votre/</link>
       <pubDate>Tue, 24 Mar 2009 16:21:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/ce-blog-est-aussi-le-votre/</guid>
+      <guid>https://angezanetti.github.com/ce-blog-est-aussi-le-votre/</guid>
       <description>Au début j&amp;#8217;ai fait ce blog pour me faire connaître. La fin justifiant les moyens je me suis tourné vers la solution blog&amp;#8221; pour le coté &amp;#8220;user-friendly&amp;#8221; et le bon référencement de ceux ci .
 Mais au fil de l&amp;#8217;usage il est clair qu&amp;#8217;un blog c&amp;#8217;est bien plus qu&amp;#8217;un site facile à faire, bien plus qu&amp;#8217;un truc bien référencé. Un blog c&amp;#8217;est un espace perso où l&amp;#8217;on débat, argumente, jette son avis à la face du monde.</description>
     </item>
     
     <item>
       <title>Salon de l’internet</title>
-      <link>https://angezanetti.com/salon-de-linternet/</link>
+      <link>https://angezanetti.github.com/salon-de-linternet/</link>
       <pubDate>Mon, 23 Mar 2009 16:41:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/salon-de-linternet/</guid>
+      <guid>https://angezanetti.github.com/salon-de-linternet/</guid>
       <description>Il se trouve que Vendredi j&amp;#8217;étais sur Paris. J&amp;#8217;ai rejoins Julien pour visiter le Salon de l&amp;#8217;internet.
 Donc, hop, nous voici dans le Hall 7-1 du parc expo de Paris. L&amp;#8217;entrée coute 10€, bon en fouillant un peu sur le web j&amp;#8217;ai réussi à trouver une entrée pour 5€; c&amp;#8217;est déjà cher payé&amp;#8230;
  On entre donc, et on tombe sur la carré des blogueurs :   Qui est passablement vide&amp;#8230;&amp;#8230; il n&amp;#8217;y a pas de connexion web nous dit on!</description>
@@ -177,10 +177,10 @@ Donc, hop, nous voici dans le Hall 7-1 du parc expo de Paris. L&amp;#8217;entré
     
     <item>
       <title>Medias &amp; Second life</title>
-      <link>https://angezanetti.com/medias-second-life/</link>
+      <link>https://angezanetti.github.com/medias-second-life/</link>
       <pubDate>Sun, 22 Mar 2009 18:07:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/medias-second-life/</guid>
+      <guid>https://angezanetti.github.com/medias-second-life/</guid>
       <description>Second life plaît aux médias. Cette idée que des personnes puissent avoir une vie parallèle au détriment de celle qui les fait vivre les excitent.
 Ce n&amp;#8217;est pas nouveau, mais je croyais les effets d&amp;#8217;annonces résolu depuis la fin de l&amp;#8217;année 2007.
 Finalement non, ce soir je tombe sur deux posts hésitant entre colère &amp;amp; désarroi ici &amp;amp; ici. La raison de ces articles est l&amp;#8217;émission _Good Morning Business_ sur BFM radio qui invita une consultante à l&amp;#8217;IDATE pour expliquer ce que sont les mondes virtuels.</description>
@@ -188,30 +188,30 @@ Finalement non, ce soir je tombe sur deux posts hésitant entre colère &amp;amp
     
     <item>
       <title>Présentation avec Cooliris</title>
-      <link>https://angezanetti.com/presentation-avec-cooliris/</link>
+      <link>https://angezanetti.github.com/presentation-avec-cooliris/</link>
       <pubDate>Wed, 04 Feb 2009 09:35:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/presentation-avec-cooliris/</guid>
+      <guid>https://angezanetti.github.com/presentation-avec-cooliris/</guid>
       <description>La plupart du temps les présentations sur Second Life se font en important les textures et à les mettre dans un objet qui va bien de façon a faire défiler les images les une aprèes les autres. Cette méthode présente des inconvénients, la première est pécuniaire, en effet importer des images n&amp;#8217;est pas gratuit. Bon c&amp;#8217;est 10L$ mais bon.
  Une solution alternative trouvée ici nous présente une solution alternative mais pas encore hyper ergonomique.</description>
     </item>
     
     <item>
       <title>Le non-billet du jeudi</title>
-      <link>https://angezanetti.com/le-non-billet-du-jeudi/</link>
+      <link>https://angezanetti.github.com/le-non-billet-du-jeudi/</link>
       <pubDate>Thu, 22 Jan 2009 06:30:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/le-non-billet-du-jeudi/</guid>
+      <guid>https://angezanetti.github.com/le-non-billet-du-jeudi/</guid>
       <description>Je suis un utilisateur récent mais plutôt boulimique du web 2.0. J&amp;#8217;ai découvert le web social en essayant de me faire une communauté. Au fil de mes nombreuses heures de surf sur la toile j&amp;#8217;ai lu des milliers de blogs. Ecrits par des bloggeurs plus ou moins influent, pédant voire avec des chevilles plus grosse que ma tête.
 Je n&amp;#8217;arrive toujours pas a comprendre comment quelqu&amp;#8217;un qui n&amp;#8217;a rien fait de plus que de louer un espace serveur peut se prendre autant au sérieux, et juger le travail des autres.</description>
     </item>
     
     <item>
       <title>Freelance in virtual worlds</title>
-      <link>https://angezanetti.com/freelance-in-virtual-worlds/</link>
+      <link>https://angezanetti.github.com/freelance-in-virtual-worlds/</link>
       <pubDate>Sat, 17 Jan 2009 11:30:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/freelance-in-virtual-worlds/</guid>
+      <guid>https://angezanetti.github.com/freelance-in-virtual-worlds/</guid>
       <description>Si vous êtes intéressé par l&amp;#8217;intégration des entreprises dans les mondes virtuels vous pouvez me contacter à l&amp;#8217;adresse mail suivante : contact@angezanetti.com
 ou encore visiter ma pagedédiée à l&amp;#8217;implantation des entreprisesou celle avec mes références.
 
@@ -222,10 +222,10 @@ L&amp;#8217;idée de départ est des plus primaire. Il y a de nombreuses agences
     
     <item>
       <title>Did you know that?</title>
-      <link>https://angezanetti.com/did-you-know-that/</link>
+      <link>https://angezanetti.github.com/did-you-know-that/</link>
       <pubDate>Tue, 16 Dec 2008 09:59:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/did-you-know-that/</guid>
+      <guid>https://angezanetti.github.com/did-you-know-that/</guid>
       <description>Une petite vidéo sympa trouvée sur Tapahont. Que de chiffres, étonnant pour la plupart. Un chiffre m&amp;#8217;a interpellé, c&amp;#8217;est la longévité de l&amp;#8217;emploi. D&amp;#8217;après cette vidéo dans 5 ans un employé sur 2 aura une ancienneté professionnelle de moins d&amp;#8217;un an&amp;#8230; Bizarre non?
 Plein d&amp;#8217;infos son étonnante, il y aurait plus d&amp;#8217;infos dans un New York Time que dans le cerveau d&amp;#8217;un humain du 18eme siècle.
 Il a fallu seulement 2 ans a Facebook pour égaler l&amp;#8217;audience de la radio en 38 ans&amp;#8230;</description>
@@ -233,28 +233,28 @@ Il a fallu seulement 2 ans a Facebook pour égaler l&amp;#8217;audience de la ra
     
     <item>
       <title>Avatar == Logo 3D?</title>
-      <link>https://angezanetti.com/avatar-logo-3d/</link>
+      <link>https://angezanetti.github.com/avatar-logo-3d/</link>
       <pubDate>Tue, 18 Nov 2008 11:46:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/avatar-logo-3d/</guid>
+      <guid>https://angezanetti.github.com/avatar-logo-3d/</guid>
       <description>Depuis que je me suis lancé dans le monde des pros des mondes virtuels une question me taraude, celle de mon identité numérique &amp; graphique. Et oui il faut bien passé par là, même si c&amp;#8217;est tout sauf primordial au début. Je suis bien conscient que mes premiers clients sont des connaissances, que le réseau fonctionne beaucoup mieux que le plus joli des logos. Mais il n&amp;#8217;empêche qu&amp;#8217;un jour ou l&amp;#8217;autre il me faudra un logo, un nom etc&amp;#8230;</description>
     </item>
     
     <item>
       <title>Le prix du terrain augmente, les résidents manifestent</title>
-      <link>https://angezanetti.com/le-prix-du-terrain-augmente-les-residents-manifestent/</link>
+      <link>https://angezanetti.github.com/le-prix-du-terrain-augmente-les-residents-manifestent/</link>
       <pubDate>Wed, 29 Oct 2008 10:20:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/le-prix-du-terrain-augmente-les-residents-manifestent/</guid>
+      <guid>https://angezanetti.github.com/le-prix-du-terrain-augmente-les-residents-manifestent/</guid>
       <description>L&amp;#8217;annonce à été faite hier, les openspaces &amp;#8211; des serveurs light &amp;#8211; sont victimes de leur succès. Les Linden n&amp;#8217;avaient pas prévu d&amp;#8217;en vendre autant ni que leur utilisation principale serait résidentielle. Le but de ces sims low cost étant à l&amp;#8217;origine, &amp;#8220;décoratif&amp;#8221;: faire des paysages, des grandes étendues d&amp;#8217;eau etc. Le problèeme est que les résidents ne sont pas fou et y ont vu une fabuleuse opportunité d&amp;#8217;en faire un lieu de villégiature à beaucoup moins cher.</description>
     </item>
     
     <item>
       <title>Personne ne connait les univers virtuels.</title>
-      <link>https://angezanetti.com/personne-ne-connait-les-univers-virtuels/</link>
+      <link>https://angezanetti.github.com/personne-ne-connait-les-univers-virtuels/</link>
       <pubDate>Mon, 06 Oct 2008 08:08:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/personne-ne-connait-les-univers-virtuels/</guid>
+      <guid>https://angezanetti.github.com/personne-ne-connait-les-univers-virtuels/</guid>
       <description>Titre provocateur j&amp;#8217;en conviens, mais il reflète vraiment une réalité qui fait défaut à tous ceux qui veulent essayer de faire un peu de business dans ce nouvel eldorado qu&amp;#8217;est le futur web&amp;#8230;
 
 Trisite constat qui vient d&amp;#8217;une expérience vécue lors d&amp;#8217;un séjour plongée à Marseille. J&amp;#8217;ai rencontré une amie qui veux déménager pour raisons personnelles, la question de changer de boulot ou de switcher en télétravail se pose donc à elle.</description>
@@ -262,20 +262,20 @@ Trisite constat qui vient d&amp;#8217;une expérience vécue lors d&amp;#8217;un
     
     <item>
       <title>Linden Lab® a-t-il une vraie stratégie?</title>
-      <link>https://angezanetti.com/linden-lab-a-t-il-une-vraie-strategie/</link>
+      <link>https://angezanetti.github.com/linden-lab-a-t-il-une-vraie-strategie/</link>
       <pubDate>Fri, 11 Apr 2008 08:30:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/linden-lab-a-t-il-une-vraie-strategie/</guid>
+      <guid>https://angezanetti.github.com/linden-lab-a-t-il-une-vraie-strategie/</guid>
       <description>Ma blogroll traitant de Linden Lab® et de the Second Life® virtual world à depuis quelques jours un arrière goût de division. Clivage classique, gros vs petits, ceux qui reviennent du Virtual word congress vs ceux qui essayent de gagner un peu leur coûte dans le metaverse&amp;#8230;
 Bon jusque là rien de neuf me direz vous, mais le soucis c&amp;#8217;est que ce malaise est crée par notre dieu à tous : Linden Lab®.</description>
     </item>
     
     <item>
       <title>Reveil difficile</title>
-      <link>https://angezanetti.com/reveil-difficile/</link>
+      <link>https://angezanetti.github.com/reveil-difficile/</link>
       <pubDate>Tue, 01 Apr 2008 07:30:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/reveil-difficile/</guid>
+      <guid>https://angezanetti.github.com/reveil-difficile/</guid>
       <description>Comme tout les matins, j&amp;#8217;ouvre mon Netvibes pour me tenir au courant des news, je fais un tour sur mes mails et sur les blogs qui vont bien.
 Et là enfer et damnation :
 Notice du groupe C&amp;amp;S :
@@ -284,20 +284,20 @@ Ca y est, c&amp;#8217;est officiel : Steve Ballmer et Philip Rosedale ont annonc
     
     <item>
       <title>Petit bilan pendant le backlash</title>
-      <link>https://angezanetti.com/petit-bilan-pendant-le-backlash/</link>
+      <link>https://angezanetti.github.com/petit-bilan-pendant-le-backlash/</link>
       <pubDate>Sun, 23 Mar 2008 11:05:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/petit-bilan-pendant-le-backlash/</guid>
+      <guid>https://angezanetti.github.com/petit-bilan-pendant-le-backlash/</guid>
       <description>La première fois que j&amp;#8217;ai mis les pieds sur Second life j&amp;#8217;ai trouvé l&amp;#8217;interface approximative, les graphismes pas top et le système économique proche du malsain.
 Je me débattais de toute mes forces dans mon enveloppe mal adaptée d&amp;#8217;avatar, personne ne m&amp;#8217;a tendu la main,et je ne comprenais pas grand chose au but de cette plate-forme, bref l&amp;#8217;horreur. Pour être franc au départ j&amp;#8217;aurai bien aimé mettre un peu le boxon dans ce monde lisse et ultra capitaliste qu&amp;#8217;était, et qui est toujours SL.</description>
     </item>
     
     <item>
       <title>Second Life pire que le far west?</title>
-      <link>https://angezanetti.com/second-life-pire-que-le-far-west/</link>
+      <link>https://angezanetti.github.com/second-life-pire-que-le-far-west/</link>
       <pubDate>Wed, 12 Mar 2008 08:06:00 +0000</pubDate>
       
-      <guid>https://angezanetti.com/second-life-pire-que-le-far-west/</guid>
+      <guid>https://angezanetti.github.com/second-life-pire-que-le-far-west/</guid>
       <description>Je suis sur la plateforme Second Life depuis plus d&amp;#8217;un an déjà, et cela fait un an que j&amp;#8217;entends toujours les mêmes discours :
 &amp;#8221; Second life n&amp;#8217;est rien d&amp;#8217;autre qu&amp;#8217;un gadget&amp;#8221;,&amp;#8221; cela ne marchera jamais&amp;#8221;,&amp;#8221; Tu perds ton temps sur ton jeu là&amp;#8221;&amp;#8230;&amp;#8230;
 Pour être franc j&amp;#8217;avais perdu la foi moi aussi en fin d&amp;#8217;année dernière, je n&amp;#8217;y croyais plus.

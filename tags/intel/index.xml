@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intel on Xavier Coiffard</title>
-    <link>https://angezanetti.com/tags/intel/</link>
+    <link>https://angezanetti.github.com/tags/intel/</link>
     <description>Recent content in Intel on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 08 Jun 2011 09:55:42 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.com/tags/intel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.github.com/tags/intel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Intel optimise la capacité d’OpenSim</title>
-      <link>https://angezanetti.com/opensim-optimise-intel-1000-avatars/</link>
+      <link>https://angezanetti.github.com/opensim-optimise-intel-1000-avatars/</link>
       <pubDate>Wed, 08 Jun 2011 09:55:42 +0000</pubDate>
       
-      <guid>https://angezanetti.com/opensim-optimise-intel-1000-avatars/</guid>
+      <guid>https://angezanetti.github.com/opensim-optimise-intel-1000-avatars/</guid>
       <description>Intel Labs à annoncé hier qu&amp;#8217;ils vont augmenter de façon considérable la capacité d&amp;#8217;avatars par serveur. Ils annoncent 20 fois plus de joueurs par sims ! Quand cette Distributed Scene Graph 3-D Internet technology sera mise en place le nombre d&amp;#8217;avatar maximum ne sera plus d&amp;#8217;une centaine -comme c&amp;#8217;est le cas actuellement &amp;#8211; mais d&amp;#8217;un millier !
 De plus, Intel annonce sortir, pendant le mois de Juin, une version opensource de son code pour les développeurs.</description>
     </item>

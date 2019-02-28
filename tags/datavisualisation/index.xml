@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Datavisualisation on Xavier Coiffard</title>
-    <link>https://angezanetti.com/tags/datavisualisation/</link>
+    <link>https://angezanetti.github.com/tags/datavisualisation/</link>
     <description>Recent content in Datavisualisation on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 24 Oct 2011 08:40:45 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.com/tags/datavisualisation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.github.com/tags/datavisualisation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Data visualisation et WebGL</title>
-      <link>https://angezanetti.com/data-visualisation-webgl-html5/</link>
+      <link>https://angezanetti.github.com/data-visualisation-webgl-html5/</link>
       <pubDate>Mon, 24 Oct 2011 08:40:45 +0000</pubDate>
       
-      <guid>https://angezanetti.com/data-visualisation-webgl-html5/</guid>
+      <guid>https://angezanetti.github.com/data-visualisation-webgl-html5/</guid>
       <description>Jonas Wagner est un hacker qui travaille pour local.ch, un moteur de recherche qui ressemble à notre pagesjaunes.fr.
 Il était apparemment, depuis quelques temps, à la recherche d&amp;#8217;un outil de datavisualisation sympa pour représenter toutes les données de local.ch. Il a finalement choisi WebGL et le résultat est bluffant.
 Il modélise les 3,7 millions d&amp;#8217;adresses référencées par local.ch sous la forme d&amp;#8217;un point rouge. Les données sont géolocalisées en 3D, on peut donc facilement reconnaître les contours de la suisse mais aussi les reliefs &amp;#8211; lacs, montagnes etc.</description>

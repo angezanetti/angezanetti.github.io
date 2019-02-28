@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Assemblive on Xavier Coiffard</title>
-    <link>https://angezanetti.com/tags/assemblive/</link>
+    <link>https://angezanetti.github.com/tags/assemblive/</link>
     <description>Recent content in Assemblive on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 12 Apr 2010 11:06:41 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.com/tags/assemblive/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.github.com/tags/assemblive/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Assemblive maintenant en français et une API arrive bientôt</title>
-      <link>https://angezanetti.com/assemblive-v1-8-francais-api/</link>
+      <link>https://angezanetti.github.com/assemblive-v1-8-francais-api/</link>
       <pubDate>Mon, 12 Apr 2010 11:06:41 +0000</pubDate>
       
-      <guid>https://angezanetti.com/assemblive-v1-8-francais-api/</guid>
+      <guid>https://angezanetti.github.com/assemblive-v1-8-francais-api/</guid>
       <description>&lt;p&gt;Je me rend compte que je n&amp;#8217;ai jamais parlé d&amp;#8217;&lt;a href=&#34;http://assemblive.com/home/&#34; target=&#34;_blank&#34;&gt;Assemblive&lt;/a&gt; sur ce blog. C&amp;#8217;est un tort que je vais m&amp;#8217;empresser de réparer dans ce post!&lt;/p&gt;
 
 &lt;p&gt;Assemblive est un un &lt;strong&gt;monde virtuel&lt;/strong&gt; en 3 dimensions &lt;strong&gt;très orienté business&lt;/strong&gt;. Il est édité par une société française (cocorico) comme son nom ne l&amp;#8217;indique pas : &lt;strong&gt;AWoldForUs&lt;/strong&gt;. Derrière ce nom anglophone il y a en fait 5 codeur/graphistes/commerciaux qui ont mis un an pour développer une version béta de leur plateforme.&lt;/p&gt;

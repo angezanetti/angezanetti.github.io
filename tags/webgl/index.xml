@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Webgl on Xavier Coiffard</title>
-    <link>https://angezanetti.com/tags/webgl/</link>
+    <link>https://angezanetti.github.com/tags/webgl/</link>
     <description>Recent content in Webgl on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 06 Aug 2013 15:14:07 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.com/tags/webgl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.github.com/tags/webgl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SketchFab: le Youtube de la 3D en WebGL</title>
-      <link>https://angezanetti.com/sketchfab-le-youtube-de-la-3d-en-webgl/</link>
+      <link>https://angezanetti.github.com/sketchfab-le-youtube-de-la-3d-en-webgl/</link>
       <pubDate>Tue, 06 Aug 2013 15:14:07 +0000</pubDate>
       
-      <guid>https://angezanetti.com/sketchfab-le-youtube-de-la-3d-en-webgl/</guid>
+      <guid>https://angezanetti.github.com/sketchfab-le-youtube-de-la-3d-en-webgl/</guid>
       <description>Je me rends compte que j&amp;#8217;ai jamais parlé ici de Sketchfab, le service français qui monte. Le principe est simple: faire un outil qui permette d&amp;#8217;afficher de la 3d dans vos articles de blog, sur votre site web aussi facilement qu&amp;#8217;on le fait avec les vidéos Youtube.
 Le tout sans plugin, juste un bout de code à copier coller et hop avoir sa dernière création qui s&amp;#8217;affiche en 3D animée dans votre portfolio.</description>
     </item>
     
     <item>
       <title>Pourquoi vous devriez utiliser WebGL</title>
-      <link>https://angezanetti.com/webgl-adoption-usages-angezanetti-consultant/</link>
+      <link>https://angezanetti.github.com/webgl-adoption-usages-angezanetti-consultant/</link>
       <pubDate>Wed, 10 Apr 2013 09:06:29 +0000</pubDate>
       
-      <guid>https://angezanetti.com/webgl-adoption-usages-angezanetti-consultant/</guid>
+      <guid>https://angezanetti.github.com/webgl-adoption-usages-angezanetti-consultant/</guid>
       <description>Depuis que je travaille comme consultant et développeur dans le monde de la 3D je suis confronté à des débats sur les technos. Cela à commencé avec SecondLife, Opensim puis Unity3d, WebGL, Flash etc &amp;#8230;   Avec des arguments plus ou moins bien choisi, mais il y a toujours cette problématique du choix de technos. Je vais essayer de vous convaincre, dans ce billet, de tester WebGL.          WebG quoi ?</description>
     </item>
     
     <item>
       <title>Le moteur d’Unreal 3 porté sur le Web avec WebGL</title>
-      <link>https://angezanetti.com/le-moteur-dunreal-3-porte-sur-le-web-avec-webgl/</link>
+      <link>https://angezanetti.github.com/le-moteur-dunreal-3-porte-sur-le-web-avec-webgl/</link>
       <pubDate>Thu, 28 Mar 2013 10:59:46 +0000</pubDate>
       
-      <guid>https://angezanetti.com/le-moteur-dunreal-3-porte-sur-le-web-avec-webgl/</guid>
+      <guid>https://angezanetti.github.com/le-moteur-dunreal-3-porte-sur-le-web-avec-webgl/</guid>
       <description>Mozilla et depuis quelques temps pas mal porté sur le jeu, notamment avec ses games challenges le tout en HTML5 bien sur. Ils ont une vraie politique de porté et de soutenir WebGL notamment et une volonté de faire du web une plateforme de jeu à part entière. Cette fois ils ont sévi avec Epic Games en portant le moteur d&amp;#8217;Unreal Tournament, porté sous Flash il y a 2 ans, sur le web cette fois et en WebGL s&amp;#8217;il vous plaît!</description>
     </item>
     
     <item>
       <title>Convertir des îles Opensim ou SecondLife en collada</title>
-      <link>https://angezanetti.com/convertir-des-iles-opensim-ou-secondlife-en-collada/</link>
+      <link>https://angezanetti.github.com/convertir-des-iles-opensim-ou-secondlife-en-collada/</link>
       <pubDate>Fri, 06 Jan 2012 07:37:57 +0000</pubDate>
       
-      <guid>https://angezanetti.com/convertir-des-iles-opensim-ou-secondlife-en-collada/</guid>
+      <guid>https://angezanetti.github.com/convertir-des-iles-opensim-ou-secondlife-en-collada/</guid>
       <description>Je ne sais pas si vous connaissez Tipodean c&amp;#8217;est une startup dirigée par Chris Collins, un ancien Linden, et qui depuis quelques mois essaye de créer un viewer Unity pour OpenSim et SecondLife. Je vous en parlais en Juillet dernier, à l&amp;#8217;époque ce n&amp;#8217;était pas vraiment au point, c&amp;#8217;était de l&amp;#8217;alpha&amp;#8230;  Mais ils ont continué à travailler et ont annoncé le 3 janvier dernier la sortie d&amp;#8217;un site web qui permet de convertir directement le contenu SecondLife ou OpenSim pour l&amp;#8217;afficher dans le navigateur via Unity3d Ou Flash !</description>
     </item>
     
     <item>
       <title>Une adaptation de Minecraft en WebGL</title>
-      <link>https://angezanetti.com/minecraft-webgl-mondesvirtuels/</link>
+      <link>https://angezanetti.github.com/minecraft-webgl-mondesvirtuels/</link>
       <pubDate>Thu, 29 Dec 2011 11:55:23 +0000</pubDate>
       
-      <guid>https://angezanetti.com/minecraft-webgl-mondesvirtuels/</guid>
+      <guid>https://angezanetti.github.com/minecraft-webgl-mondesvirtuels/</guid>
       <description>source de l&#39;image : http://www.next-nintendo.com/  &amp;nbsp;
 Je ne sais pas si vous connaissez MineCraft, c&amp;#8217;est un monde virtuel assez basique qui permet de créer des univers délirants avec de gros cube pixélisés.
 Alors bien sur dit comme ça cela ne fait pas trop envie mais vraiment Minecraft est devenu devenu un véritable phénomène de société.
@@ -62,19 +62,19 @@ Alors bien sur dit comme ça cela ne fait pas trop envie mais vraiment Minecraft
     
     <item>
       <title>Un Boilerplate pour Three.js est sorti !</title>
-      <link>https://angezanetti.com/un-boilerplate-pour-three-js-est-sorti/</link>
+      <link>https://angezanetti.github.com/un-boilerplate-pour-three-js-est-sorti/</link>
       <pubDate>Tue, 27 Dec 2011 07:17:56 +0000</pubDate>
       
-      <guid>https://angezanetti.com/un-boilerplate-pour-three-js-est-sorti/</guid>
+      <guid>https://angezanetti.github.com/un-boilerplate-pour-three-js-est-sorti/</guid>
       <description>Je ne sais pas si vous connaissez HTML5 Boilerplate, c&amp;#8217;est un outil inspiré de la méthode DRY « don&amp;#8217;t repeat yourself ». Pour faire simple c&amp;#8217;est un ensemble de fichiers qui constitue une base commune pour vos projets web. On trouve un fichier index.html avec les balises de base comme le doctype, le , les sections etc… De même, on trouve des fichiers JS communs comme la librairie Jquery. Bref, tout ce dont on a besoin quand on se lance dans un projet web.</description>
     </item>
     
     <item>
       <title>Unity supportera HTML5</title>
-      <link>https://angezanetti.com/unity-webgl-html5/</link>
+      <link>https://angezanetti.github.com/unity-webgl-html5/</link>
       <pubDate>Fri, 02 Dec 2011 08:50:39 +0000</pubDate>
       
-      <guid>https://angezanetti.com/unity-webgl-html5/</guid>
+      <guid>https://angezanetti.github.com/unity-webgl-html5/</guid>
       <description>&amp;nbsp;
 J&amp;#8217;ai lu une news sur Gamasutra hier qui &amp;#8216;ma fiat bondir de mon siège &amp;#8211; ou presque. Unity technologies annonce qu&amp;#8217;il supportera probablement HTML5 dès que cette technologie &amp;#8220;sera prête pour le gaming&amp;#8221;.
 Le CEO, David Helgason explique que le moteur HTML5 est très bien pour faire de la datavisualisation par exemple mais que cette techno n&amp;#8217;est pas encore mûre pour faire du jeu. D&amp;#8217;après lui celui va changer avec le temps et Unity surveille de près ces changements pour pouvoir proposer une compatibilité rapidement.</description>
@@ -82,10 +82,10 @@ Le CEO, David Helgason explique que le moteur HTML5 est très bien pour faire de
     
     <item>
       <title>Data visualisation et WebGL</title>
-      <link>https://angezanetti.com/data-visualisation-webgl-html5/</link>
+      <link>https://angezanetti.github.com/data-visualisation-webgl-html5/</link>
       <pubDate>Mon, 24 Oct 2011 08:40:45 +0000</pubDate>
       
-      <guid>https://angezanetti.com/data-visualisation-webgl-html5/</guid>
+      <guid>https://angezanetti.github.com/data-visualisation-webgl-html5/</guid>
       <description>Jonas Wagner est un hacker qui travaille pour local.ch, un moteur de recherche qui ressemble à notre pagesjaunes.fr.
 Il était apparemment, depuis quelques temps, à la recherche d&amp;#8217;un outil de datavisualisation sympa pour représenter toutes les données de local.ch. Il a finalement choisi WebGL et le résultat est bluffant.
 Il modélise les 3,7 millions d&amp;#8217;adresses référencées par local.ch sous la forme d&amp;#8217;un point rouge. Les données sont géolocalisées en 3D, on peut donc facilement reconnaître les contours de la suisse mais aussi les reliefs &amp;#8211; lacs, montagnes etc.</description>
@@ -93,29 +93,29 @@ Il modélise les 3,7 millions d&amp;#8217;adresses référencées par local.ch s
     
     <item>
       <title>Beloola : présentation en vidéo</title>
-      <link>https://angezanetti.com/beloola-presentation-en-video/</link>
+      <link>https://angezanetti.github.com/beloola-presentation-en-video/</link>
       <pubDate>Tue, 16 Aug 2011 10:12:18 +0000</pubDate>
       
-      <guid>https://angezanetti.com/beloola-presentation-en-video/</guid>
+      <guid>https://angezanetti.github.com/beloola-presentation-en-video/</guid>
       <description>Beloola est un monde virtuel français &amp;#8211; développé par v-cult une société Lilloise. Son créneau est assez précis : un monde virtuel 3D dans le navigateur dédié à l&amp;#8217;art et à la culture. Dans l&amp;#8217;interview de Tom son fondateur on apprend :
  Avec ce projet, le but n’est pas de créer un énième réseau social mais au contraire d’agréger des contenus communautaires ; ainsi au cœur de Beloola, tu auras accès à ton wall Facebook, Twitter etc.</description>
     </item>
     
     <item>
       <title>Vers un client Web pour OpenSim et SecondLife</title>
-      <link>https://angezanetti.com/client-leger-navigateur-unity-webgl-opensim-secondlife/</link>
+      <link>https://angezanetti.github.com/client-leger-navigateur-unity-webgl-opensim-secondlife/</link>
       <pubDate>Fri, 15 Jul 2011 08:54:50 +0000</pubDate>
       
-      <guid>https://angezanetti.com/client-leger-navigateur-unity-webgl-opensim-secondlife/</guid>
+      <guid>https://angezanetti.github.com/client-leger-navigateur-unity-webgl-opensim-secondlife/</guid>
       <description>Les mondes virtuels n&amp;#8217;ont pas eu le succès attendu. C&amp;#8217;est un fait. Nous sommes beaucoup à penser que cela est du, entre autre, a un vrai problème d&amp;#8217;accessibilité de ces plate-formes. Il faut installer un client lourd, s&amp;#8217;enregister, apprendre à se déplacer en 3D, retrouver ses amis etc etc&amp;#8230; En un mot c&amp;#8217;est dur, trop compliqué pour le visiteur lambda qui cherche juste à visiter une expo, assister à un spectacle et pas à devenir le builder qui va révolutionner le metavers.</description>
     </item>
     
     <item>
       <title>WebGL : les performances par l’exemple.</title>
-      <link>https://angezanetti.com/webgl-performances-optimisatio/</link>
+      <link>https://angezanetti.github.com/webgl-performances-optimisatio/</link>
       <pubDate>Fri, 20 May 2011 08:09:36 +0000</pubDate>
       
-      <guid>https://angezanetti.com/webgl-performances-optimisatio/</guid>
+      <guid>https://angezanetti.github.com/webgl-performances-optimisatio/</guid>
       <description>Depuis quelques temps je surveille ce qui ce fait en WebGL. Et régulièrement la même critique revient : WebGL c&amp;#8217;est bien mais ça supportera pas la charge.
 N&amp;#8217;ayant pas encore mis les mains dans le code je ne savais pas trop quoi répondre. Mais, hier, je suis tombé sur cette vidéo tirée du Google I/O.
 Et ça change tout. Vous verrez qu&amp;#8217;en optimisant le code JS Gregg Tavares arrive à animer 40 000 objets dans une page web.</description>
@@ -123,40 +123,40 @@ Et ça change tout. Vous verrez qu&amp;#8217;en optimisant le code JS Gregg Tav
     
     <item>
       <title>Retour sur mes interventions découverte des mondes virtuels à l’HETIC</title>
-      <link>https://angezanetti.com/interventions-mondes-virtuels-hetic/</link>
+      <link>https://angezanetti.github.com/interventions-mondes-virtuels-hetic/</link>
       <pubDate>Mon, 07 Mar 2011 09:54:37 +0000</pubDate>
       
-      <guid>https://angezanetti.com/interventions-mondes-virtuels-hetic/</guid>
+      <guid>https://angezanetti.github.com/interventions-mondes-virtuels-hetic/</guid>
       <description>La semaine dernière se tenait ma dernière intervention devant les H4 &amp;#8211; comprenez Bac+4- de l&amp;#8216;HETIC. Pour ceux qui ne connaitraient pas, l&amp;#8217;HETIC est la Haute Ecole des Technologies de l&amp;#8217;Information et de la Communication. Autrement dit, une école de l&amp;#8217;Internet. Chaque année 70 étudiants sortent de cette école et vont rejoindre les rangs des web-agencies, start-up ou autre acteur du web.
 L&amp;#8217;année dernière avec Serge Soudoplatoff, nous avions monté un projet afin de mettre HETIC dans un monde virtuel.</description>
     </item>
     
     <item>
       <title>WebGL devient de plus en plus mature</title>
-      <link>https://angezanetti.com/webgl-mondesvirtuels-seriousgame/</link>
+      <link>https://angezanetti.github.com/webgl-mondesvirtuels-seriousgame/</link>
       <pubDate>Tue, 18 Jan 2011 08:59:03 +0000</pubDate>
       
-      <guid>https://angezanetti.com/webgl-mondesvirtuels-seriousgame/</guid>
+      <guid>https://angezanetti.github.com/webgl-mondesvirtuels-seriousgame/</guid>
       <description>Je ne sais pas vous mais moi quand je vois la vidéo ci dessus, je me dit que le temps où l&amp;#8217;on accedera à nos mondes virtuels ou à nos seriousgame préférés avec WebGL n&amp;#8217;est plus si loin que ça !
 Tout y est, complexité des objets, nombre de primitives et grandeur de l&amp;#8217;environnement. Alors il reste probablement des contraintes techniques mais elles se réduisent de plus en plus.</description>
     </item>
     
     <item>
       <title>Body Browser, de la 3D en WebGL pour nous faire réviser l’anatomie humaine</title>
-      <link>https://angezanetti.com/body-browser-de-la-3d-en-webgl-pour-nous-faire-reviser-lanatomie-humaine/</link>
+      <link>https://angezanetti.github.com/body-browser-de-la-3d-en-webgl-pour-nous-faire-reviser-lanatomie-humaine/</link>
       <pubDate>Fri, 17 Dec 2010 07:51:31 +0000</pubDate>
       
-      <guid>https://angezanetti.com/body-browser-de-la-3d-en-webgl-pour-nous-faire-reviser-lanatomie-humaine/</guid>
+      <guid>https://angezanetti.github.com/body-browser-de-la-3d-en-webgl-pour-nous-faire-reviser-lanatomie-humaine/</guid>
       <description>En mai dernier, j&amp;#8217;avais un article un peu euphorique sur le thème &amp;#8221; Youpi Google sort son SDK WebGL&amp;#8221;. Bon, il faut bien le dire; l&amp;#8217;article était un peu incompréhansible pour le non Geek et globalement , depuis, plus grand chose.
 Le &amp;#8220;Youpi&amp;#8221;, c&amp;#8217;était donc transformé en &amp;#8220;ouais bon il faut attendre encore un peu&amp;#8221;. Mais hier je suis tombé sur l&amp;#8217;article de Rémi (qui est aussi Geek que medecin d&amp;#8217;ailleurs) et qui m&amp;#8217;a fait découvrir Google Body Browser.</description>
     </item>
     
     <item>
       <title>Unity3d ou WebGL comme futur standard d’un Internet 3D ?</title>
-      <link>https://angezanetti.com/unity3d-google-opensim/</link>
+      <link>https://angezanetti.github.com/unity3d-google-opensim/</link>
       <pubDate>Thu, 20 May 2010 09:18:55 +0000</pubDate>
       
-      <guid>https://angezanetti.com/unity3d-google-opensim/</guid>
+      <guid>https://angezanetti.github.com/unity3d-google-opensim/</guid>
       <description>&lt;p&gt;Google à sorti son &amp;#8220;&lt;em&gt;native client&lt;/em&gt;&amp;#8221; il y a quelques jours comme je vous l&amp;#8217;annonçait &lt;a title=&#34;Google native client&#34; href=&#34;http://angezanetti.com/google-native-client-sdk/&#34; target=&#34;_blank&#34;&gt;dans cet article&lt;/a&gt; mais je ne croyais pas que ça bougerait aussi vite.&lt;/p&gt;
 
 &lt;p&gt;Hier, &lt;strong&gt;Unity3D,&lt;/strong&gt; le moteur de jeu vidéo sur lequel est basé &lt;a title=&#34;assemblive&#34; href=&#34;http://angezanetti.com/assemblive-v1-8-francais-api/&#34; target=&#34;_blank&#34;&gt;Assemblive&lt;/a&gt; par exemple, à annoncé qu&amp;#8217;ilvdéveloppait une application native pour Chrome. Concrétement cela veut dite que Unity3d n&amp;#8217;aura plus besoin de plugin pour fonctionner dans le navigateur de Google. On aura de la 3d aussi facilement que l&amp;#8217;on affiche des pages web, simplement en cliquant.&lt;/p&gt;
@@ -168,10 +168,10 @@ Le &amp;#8220;Youpi&amp;#8221;, c&amp;#8217;était donc transformé en &amp;#822
     
     <item>
       <title>Google sort son “Native client SDK”</title>
-      <link>https://angezanetti.com/google-native-client-sdk/</link>
+      <link>https://angezanetti.github.com/google-native-client-sdk/</link>
       <pubDate>Thu, 13 May 2010 09:28:23 +0000</pubDate>
       
-      <guid>https://angezanetti.com/google-native-client-sdk/</guid>
+      <guid>https://angezanetti.github.com/google-native-client-sdk/</guid>
       <description>&lt;p&gt;&lt;img class=&#34;alignleft&#34; title=&#34;Google Chrome Native SDK&#34; src=&#34;http://emsallem.files.wordpress.com/2009/12/logo-google-chrome-navigateur-web.jpg?resize=150%2C141&#34; alt=&#34;&#34; width=&#34;150&#34; height=&#34;141&#34; data-recalc-dims=&#34;1&#34; /&gt;Hier Google annonçait la sortie d&amp;#8217;un &lt;a href=&#34;http://blog.chromium.org/2010/05/sneak-peek-at-native-client-sdk.html&#34;&gt;Native client SDK&lt;/a&gt;, et moi cela me rend joyeux. Alors qu&amp;#8217;est ce que c&amp;#8217;est ce truc barbare?&lt;/p&gt;
 
 &lt;p&gt;En fait c&amp;#8217;est un outil pour les développeurs, outil qui va permettre d&amp;#8217;intégrer à Chrome &amp;#8211; la navigateur internet &amp;#8211; de nouvelles applications. Et le tout facilement sans créer de ralentissement particulier. En fait avec ce SDK, Chrome pourra traiter des langage de programmation autre que le HTML, CSS ou JavaScript. Des langages comme le C, C++ mais aussi du &lt;a href=&#34;http://www.lua.org/&#34; title=&#34;Lua Programming Gems &#34;&gt;LUA&lt;/a&gt; &amp;#8211; langage orienté jeux vidéos et qui est la base de &lt;a title=&#34;VastPark&#34; href=&#34;http://www.vastpark.com/&#34; target=&#34;_blank&#34;&gt;VastPark&lt;/a&gt; :)&lt;/p&gt;
@@ -181,10 +181,10 @@ Le &amp;#8220;Youpi&amp;#8221;, c&amp;#8217;était donc transformé en &amp;#822
     
     <item>
       <title>Quake 2 dans votre navigateur et sans plugin c’est fait ! Merci WebGL</title>
-      <link>https://angezanetti.com/quake-2-webgl-html5/</link>
+      <link>https://angezanetti.github.com/quake-2-webgl-html5/</link>
       <pubDate>Mon, 05 Apr 2010 13:01:22 +0000</pubDate>
       
-      <guid>https://angezanetti.com/quake-2-webgl-html5/</guid>
+      <guid>https://angezanetti.github.com/quake-2-webgl-html5/</guid>
       <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
   Je vous &lt;a href=&#34;http://angezanetti.com/webgl-katalabs-mondes-virtuels/&#34;&gt;parlais il y a un mois de&lt;strong&gt; WebGL&lt;/strong&gt;&lt;/a&gt;, une technologie qui utilise &lt;strong&gt;HTML 5 &lt;/strong&gt;pour mettre de la 3d directement dans votre navigateur. Et bien je suis ce projet de près depuis ma découverte de cette techno et je viens de trouver une news qui me plait beaucoup : Quake 2 fonctionne avec cette technologie :)
 &lt;/p&gt;
@@ -196,10 +196,10 @@ Le &amp;#8220;Youpi&amp;#8221;, c&amp;#8217;était donc transformé en &amp;#822
     
     <item>
       <title>WebGL, le futur des mondes virtuels?</title>
-      <link>https://angezanetti.com/webgl-katalabs-mondes-virtuels/</link>
+      <link>https://angezanetti.github.com/webgl-katalabs-mondes-virtuels/</link>
       <pubDate>Sat, 06 Mar 2010 16:00:25 +0000</pubDate>
       
-      <guid>https://angezanetti.com/webgl-katalabs-mondes-virtuels/</guid>
+      <guid>https://angezanetti.github.com/webgl-katalabs-mondes-virtuels/</guid>
       <description>WebGL est un langage permettant d&amp;#8217;afficher de la 3D dans le navigateur sans installer le moindre plugin ou le moindre programme. Alors comment ça marche? J&amp;#8217;ai trouvé sur le blog de Fréderic Cavazzza une explication assez claire :
  _Pour rentrer un peu plus dans les détails, WebGL propose donc au sein d’une page web de lier du contenu à votre carte graphique à l’aide de javascript et d’OpenGL ES. “ES” ?</description>
     </item>

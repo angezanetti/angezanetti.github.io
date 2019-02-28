@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://angezanetti.com/fr/</loc>
+    <loc>https://angezanetti.github.com/fr/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://angezanetti.com/"
+                href="https://angezanetti.github.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://angezanetti.com/fr/"
+                href="https://angezanetti.github.com/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://angezanetti.com/fr/tags/</loc>
+    <loc>https://angezanetti.github.com/fr/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://angezanetti.com/tags/"
+                href="https://angezanetti.github.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://angezanetti.com/fr/tags/"
+                href="https://angezanetti.github.com/fr/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://angezanetti.com/fr/</loc>
+    <loc>https://angezanetti.github.com/fr/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://angezanetti.com/"
+                href="https://angezanetti.github.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://angezanetti.com/fr/"
+                href="https://angezanetti.github.com/fr/"
                 />
   </url>
   
