@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress on Xavier Coiffard</title>
+    <link>https://angezanetti.com/tags/wordpress/</link>
+    <description>Recent content in Wordpress on Xavier Coiffard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 17 Aug 2014 10:00:58 +0000</lastBuildDate>
+    
+	<atom:link href="https://angezanetti.com/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eviter les attaques par bruteforce sur WordPress</title>
+      <link>https://angezanetti.com/eviter-proteger-premunir-attaques-hack-bruteforce-blog-site-wordpress/</link>
+      <pubDate>Sun, 17 Aug 2014 10:00:58 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/eviter-proteger-premunir-attaques-hack-bruteforce-blog-site-wordpress/</guid>
+      <description>A l&amp;#8217;heure où j&amp;#8217;écris cet article ce blog subit une attaque de type bruteforce depuis plusieurs heures. C&amp;#8217;est donc le moment idéal pour faire un petit tuto sur comment se protéger de ce type d&amp;#8217;attaques dont les sites WordPress sont de plus en plus la cible.
+
+Bruteforce ? Les attaques bruteforce sont les attaques les plus basiques et les plus stupides du monde. Prenez un site que vous voulez attaquer et qui est protégé par mot de passe.</description>
+    </item>
+    
+    <item>
+      <title>Migrer SPIP vers WordPress</title>
+      <link>https://angezanetti.com/migrer-spip-vers-wordpress/</link>
+      <pubDate>Sun, 26 Jan 2014 16:28:22 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/migrer-spip-vers-wordpress/</guid>
+      <description>Il y a quelques jour on m&amp;#8217;a confié une super mission: migrer un blog SPIP vers un WordPress!
+J&amp;#8217;ai cherché un peu partout une solution simple et clé en main. Visiblement cela n&amp;#8217;existe pas vraiment&amp;#8230; Il y a bien Korben qui à fait un article la dessus, mais son code n&amp;#8217;est plus dispo.
+J&amp;#8217;ai été cherché du côté de la communauté SPIP &amp;#8211; ils sont super sympas d&amp;#8217;ailleurs n&amp;#8217;hésitez pas à aller leur faire un coucou sur IRC !</description>
+    </item>
+    
+    <item>
+      <title>WP-CLi un outil idéal pour maintenir votre site WordPress</title>
+      <link>https://angezanetti.com/wp-cli-outil-ideal-maintenance-wordpress/</link>
+      <pubDate>Wed, 03 Jul 2013 16:19:13 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/wp-cli-outil-ideal-maintenance-wordpress/</guid>
+      <description>En ce moment je suis entrain de monter une offre commerciale de maintenance dédiée aux sites WordPress. Les mises à jour sont bien souvent pas faites par le propriétaire du blog et cela entraine des failles de sécurité importantes. Mais le problème est toujours le même: on oublie, on à pas envie, pas le temps ou on est pas compétent pour le faire ou pour réparer en cas de casse&amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>Lier automatiquement les pseudo Twitter dans vos pages et articles WordPress sans plugin</title>
+      <link>https://angezanetti.com/lier-twitter-wordpress-dans-articles-sans-plugins/</link>
+      <pubDate>Mon, 10 Jun 2013 07:37:51 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/lier-twitter-wordpress-dans-articles-sans-plugins/</guid>
+      <description>Petite astuce trouvée sur le net ce matin qu&amp;#8217;il fallait que je vous partage. Je suis un gros utilisateur de Twitter, et j&amp;#8217;essaye d&amp;#8217;être un bloggeur régulier. Rien de plus naturel donc de vouloir lier les deux. J&amp;#8217;ai essayé beaucoup de choses, des plugins, des widgets mais rien ne m&amp;#8217;a jamais convaincu.
+Plus j&amp;#8217;avance dans ma pratique de WordPress et plus j&amp;#8217;essaye de limiter au maximum le nombre de plugin et les widgets sont bien souvent ignorés par mes lecteurs &amp;#8211; c&amp;#8217;est d&amp;#8217;ailleurs pour cette raison que je n&amp;#8217;ai plus de sidebar sur mon thème !</description>
+    </item>
+    
+    <item>
+      <title>Apéro WordPress à Lille</title>
+      <link>https://angezanetti.com/apero-wordpress-lille-developement/</link>
+      <pubDate>Tue, 26 Feb 2013 10:04:09 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/apero-wordpress-lille-developement/</guid>
+      <description>Le 14 Mars prochain, au Café Morel de Lille, aura lieu le premier apéro Wordpress Lillois. Au programme, présentation du plugin de newsletter Wysija et de son équipe de 4 personnes qui développe cet outil depuis plusieurs années en télétravail. Intéressant de voir une startup dont l&amp;#8217;activité est centrée sur un seul plugin WordPress.
+Il y aura aussi une partie présentation de WordPress, une partie question réponses et bien sur le tout autour d&amp;#8217;une bière, Nord de la France oblige.</description>
+    </item>
+    
+    <item>
+      <title>BackWPup, le plugin qui sauvegarde votre WordPress à votre place !</title>
+      <link>https://angezanetti.com/backwpup-le-plugin-qui-sauvegarde-votre-wordpress-a-votre-place/</link>
+      <pubDate>Mon, 25 Jun 2012 14:59:28 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/backwpup-le-plugin-qui-sauvegarde-votre-wordpress-a-votre-place/</guid>
+      <description>Je ne sais pas comment vous fonctionnez, si vous aussi vous mettez des post-its partout pour essayer de vous rappeler de faire &amp;#8220;ABSOLUMENT&amp;#8221; la sauvegarde de vos sites/blogs. Moi je crois avoir à peu près tout tenté, rien n&amp;#8217;y fait j&amp;#8217;oublie. J&amp;#8217;ai toujours un truc urgent à faire, j&amp;#8217;ai jamais envie de me connecter à phpmyadmin pour faire un dump de ma bdd.
+Comme ce blog tourne sur une serveur mutualisé je peux pas mettre de Cron en place.</description>
+    </item>
+    
+    <item>
+      <title>Réduire le spam sur son site WordPress</title>
+      <link>https://angezanetti.com/reduction-spam-wordpress-sans-plugin-htaccess/</link>
+      <pubDate>Thu, 22 Mar 2012 14:53:50 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/reduction-spam-wordpress-sans-plugin-htaccess/</guid>
+      <description>Encore une petite note sur WordPress, suite au mail d&amp;#8217;un lecteur qui m&amp;#8217;a prévenu que le formulaire de commentaire renvoyait systématiquement vers une page 404&amp;#8230;
+J&amp;#8217;ai regardé et, effectivement, il y avait une erreur dans mon .htaccess, fichier que j&amp;#8217;avais modifié il y a quelques temps pour réduire le spam ! Bon, le fait est que cela avait bien fonctionné, un peu trop même :)
+Explications : WordPress est victime de son succès, bien souvent les blogs qui utilisent cette plateforme sont la cible de robots spammeurs qui attaquent directement wp-comment-post.</description>
+    </item>
+    
+    <item>
+      <title>La pagination WordPress sans plugin</title>
+      <link>https://angezanetti.com/la-pagination-wordpress-sans-plugin/</link>
+      <pubDate>Thu, 15 Mar 2012 07:26:26 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/la-pagination-wordpress-sans-plugin/</guid>
+      <description>Encore une petite astuce WordPress trouvée sur catswhocode cette fois. WordPress par défaut ne supporte pas de pagination avec le numéro des pages, notre moteur de bog préféré ne propose que des liens Prec/Suiv. Evidemment une multitude de plugins ont fleuris pour combler cette lacune.
+Mais comme souvent avec les plugins, il y en a des plus ou moins bon, plus ou moins codés avec les pieds. J&amp;#8217;évite donc au maximum l&amp;#8217;utilisation de ses petits bouts de code.</description>
+    </item>
+    
+    <item>
+      <title>Configurer WordPress pour utiliser SSH au lieu de FTP</title>
+      <link>https://angezanetti.com/configurer-wordpress-ssh-ftp-securite/</link>
+      <pubDate>Mon, 12 Mar 2012 17:02:10 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/configurer-wordpress-ssh-ftp-securite/</guid>
+      <description>J&amp;#8217;ai récemment (re)installé un serveur dédié pour mon ami Guillaume. Ce serveur sert, entre autres, à faire tourner un blog WordPress.
+J&amp;#8217;ai mis en place un LAMP, tout bête et expliqué à Guillaume comment utiliser SSH &amp;#8211; avec SFTP &amp;#8211; pour le transfert de fichiers sur le serveur. Ainsi j&amp;#8217;évite de mettre un serveur FTP, protocole critiqué pour sa sécurité.
+ Update Sept 2012 : Depuis la rédaction de ce post il existe un plugin qui fait le boulot en deux clics :http://wordpress.</description>
+    </item>
+    
+    <item>
+      <title>[Tuto] Enlever les notifications de mise à jour de WordPress sans plugin</title>
+      <link>https://angezanetti.com/notifications-mise-a-jour-wordpress/</link>
+      <pubDate>Mon, 01 Aug 2011 09:15:16 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/notifications-mise-a-jour-wordpress/</guid>
+      <description>WordPress est un outil formidable qui évolue très vite porté par une communauté très active. Pour un usage personnel c&amp;#8217;est formidable, les failles de sécurité sont comblées très vite et l&amp;#8217;outil s&amp;#8217;améliore de jours en jours.
+Pour un usage professionnel c&amp;#8217;est parfois plus compliqué, difficile de mettre à jour le site de tous vos clients à chaque nouvelle release. Cela depend du contrat de maintenance que vous avez conclu avec lui, de sa/votre disponibilité etc&amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>[Tuto]Créer un thème de maintenance pour votre blog wordpress</title>
+      <link>https://angezanetti.com/creer-theme-maintenance-pour-blog-wordpress/</link>
+      <pubDate>Tue, 30 Nov 2010 11:04:19 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/creer-theme-maintenance-pour-blog-wordpress/</guid>
+      <description>En ce moment je fais du wordpress, mise en place du serveur, installation de WordPress et intégration du/des thèmes. Dernièrement, enfin avant la pause Indienne on m&amp;#8217;a demandé de faire un thème maintenance pour un site. Le but étant de faire patienter les visiteurs éventuels pendant la mise en place, et accessoirement de mettre son site online avant qu&amp;#8217;il soit terminé à 100% et donc &amp;#8220;d&amp;#8217;habituer&amp;#8221; Google a votre présence sur le web :)</description>
+    </item>
+    
+    <item>
+      <title>Retour d’expérience sur ma migration Blogger -&gt; WordPress</title>
+      <link>https://angezanetti.com/migration-blogger-wordpress-2/</link>
+      <pubDate>Thu, 11 Mar 2010 08:47:00 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/migration-blogger-wordpress-2/</guid>
+      <description>Il y a deux semaines je décidais de migrer mon (vieux) blog blogger sous WordPress. Mes raisons étaient nombreuses, d&amp;#8217;abord l&amp;#8217;envie de tester de nouvelles plateformes mais surtout gagner en rapidité d&amp;#8217;affichage et en qualité d&amp;#8217;ergonomie. Finalement je ne suis pas déçu. WordPress est tout simplement un moteur de blog génial. L&amp;#8217;installation se fait en douceur, pas vraiment besoin de mettre les mains dans le code. Dans mon cas j&amp;#8217;ai du jouer un peu avec les DNS pour faire pointer angezanetti.</description>
+    </item>
+    
+  </channel>
+</rss>

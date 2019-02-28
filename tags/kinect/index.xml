@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kinect on Xavier Coiffard</title>
+    <link>https://angezanetti.com/tags/kinect/</link>
+    <description>Recent content in Kinect on Xavier Coiffard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 27 Feb 2013 14:00:18 +0000</lastBuildDate>
+    
+	<atom:link href="https://angezanetti.com/tags/kinect/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vos muscles comme interface homme machine</title>
+      <link>https://angezanetti.com/vos-muscles-comme-interface-homme-machine/</link>
+      <pubDate>Wed, 27 Feb 2013 14:00:18 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/vos-muscles-comme-interface-homme-machine/</guid>
+      <description>Hier je suis tombé sur une vidéo qui va probablement buzzer, MYO est un bracelet qui se met au bras et qui permet de controller l&amp;#8217;affichage d&amp;#8217;un ordinateur. Apparemment cela fonctionne avec un accéléromètre et avec les influx nerveux des muscles de vos avant bras.
+Contrairement au LeapMotion ou au Kinect plus besoin d&amp;#8217;être devant un ordinateur, on peut le porter tout le temps et piloter son téléphone portable ou sa tablette avec.</description>
+    </item>
+    
+    <item>
+      <title>KinÊtre : un projet Kinect pour animer facilement les objets 3D</title>
+      <link>https://angezanetti.com/kinetre-un-projet-kinect-pour-animer-facilement-les-objets/</link>
+      <pubDate>Tue, 18 Sep 2012 09:55:55 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/kinetre-un-projet-kinect-pour-animer-facilement-les-objets/</guid>
+      <description>J&amp;#8217;ai vu passer il y a quelques jours une news intéressante pour ceux qui aiment, comme moi, le Kinect.
+Microsoft research lab a sorti une techno capable de mapper les mouvement du corps que n&amp;#8217;importe quel objet de scène 3D. Le but étant de faciliter la création d&amp;#8217;animation 3D.
+Avec cette technique il suffit de scanner l&amp;#8217;objet que vous voulez animer, et, une fois votre corps reconnu, de bouger pour faire s&amp;#8217;animer l&amp;#8217;objet.</description>
+    </item>
+    
+    <item>
+      <title>Un jeu Kinect pour aider les enfants autistes</title>
+      <link>https://angezanetti.com/autisme-kinect-seriousgame/</link>
+      <pubDate>Thu, 07 Jun 2012 13:25:25 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/autisme-kinect-seriousgame/</guid>
+      <description>Le domaine de la santé est vraiment dynamique dans le domaine de l&amp;#8217;innovation numérique, j&amp;#8217;en parlais d&amp;#8217;ailleurs il y a peu sur ce blog.
+Cette fois il s&amp;#8217;agit d&amp;#8217;aider le développement des enfants autistes en les faisant jouer avec une Kinect. Les avantages sont nombreux comme nous l&amp;#8217;apprend l&amp;#8217;article de regards sur le Numérique.
+Ce type de jeu permet de faire progresser la motricité des enfants mais aide aussi à &amp;#8221; faciliter la discussion, les questions, la résolution de problèmes ».</description>
+    </item>
+    
+    <item>
+      <title>SLKinect2, un protocole qui fait la liaison entre votre Kinect &amp; SecondLife ou OpenSim</title>
+      <link>https://angezanetti.com/slkinect-kinect-opensim-secondlife/</link>
+      <pubDate>Thu, 12 Jan 2012 06:15:54 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/slkinect-kinect-opensim-secondlife/</guid>
+      <description>Petite perle trouvée sur le site de Daneel, SLKinect est un protocole opensource permettant d&amp;#8217;envoyer les datas de votre kinect directement à votre avatar SecondLife &amp;#8211; Il semble que ça tourne aussi avec OpenSim. C&amp;#8217;est développé au NSL (Network System Laboratory) au sein de la TUIS (Tokyo University of Information Sciences).
+Le résultat est vraiment sympa puisque votre avatar reproduit vos gestes fidèlement comme le montre la vidéo ci dessous :</description>
+    </item>
+    
+    <item>
+      <title>La révolution Kinect en images</title>
+      <link>https://angezanetti.com/la-revolution-kinect-en-images/</link>
+      <pubDate>Tue, 01 Nov 2011 12:13:45 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/la-revolution-kinect-en-images/</guid>
+      <description>Le kinect est, ou sera, une vraie révolution de nos usages. Pour la première fois depuis l&amp;#8217;invention de l&amp;#8217;informatique on peut intéragir avec un matériel informatique sans avoir besoin d&amp;#8217;une souris, d&amp;#8217;un clavier ou de paramétrage compliqués. Alors bien sur cela existait avant, mais la vraie révolution Kinect c&amp;#8217;est de l&amp;#8217;avoir mis à disposition du grand public pour un prix dérisoire.
+Je ne sais pas si vous vous rappelez mais il y a quelques mois j&amp;#8217;ai monté un dispositif pour l&amp;#8217;exposition sur le jeu vidéo GAME1.</description>
+    </item>
+    
+    <item>
+      <title>Le SDK pour le Kinect de Microsoft est sorti !</title>
+      <link>https://angezanetti.com/sdk-kinect-microsoft/</link>
+      <pubDate>Fri, 17 Jun 2011 14:06:52 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/sdk-kinect-microsoft/</guid>
+      <description>Tous ceux qui ont bidouillé le Kinect l&amp;#8217;attendais avec impatience je pense, le SDK officiel de Microsoft est disponible depuis quelques heures.
+Vous pouvez le télécharger ici : http://research.microsoft.com/&amp;#8230;
+
+Bon première remarque il n&amp;#8217;est disponible que sous Windows 7. Autrement dit les possesseurs de Mac, Linux ou autre Windows Vista peuvent se gratter :)
+Deuxième remarque c&amp;#8217;est de la Beta, gratuite pour le moment mais une version commerciale devrait voir le jour dans les prochains mois (source).</description>
+    </item>
+    
+    <item>
+      <title>Atelier réalité mixte pour l’exposition GAME1 à lambersart</title>
+      <link>https://angezanetti.com/expo-game-1-kinect-francogrid-lambersart-lille/</link>
+      <pubDate>Fri, 15 Apr 2011 16:01:08 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/expo-game-1-kinect-francogrid-lambersart-lille/</guid>
+      <description>Depuis le 12 Mars se tient à Lambersart une exposition sur le jeu vidéo. L&amp;#8217;exposition est plutôt sympa. Une partie est dédiée à l&amp;#8217;historique des jeux vidéos, une autre est sur les jeux dans l&amp;#8217;espace et enfin une dernière où l&amp;#8217;on peut jouer, battre ses highscores et trifouiller du joystick ! Pour une fois, une expo où on peut toucher, jouer etc !
+Bref une vraie expo pour g33k nostalgique !</description>
+    </item>
+    
+    <item>
+      <title>R.O.G.E.R. le premier Seriousgame à utiliser le Kinect</title>
+      <link>https://angezanetti.com/roger-le-premier-seriousgame-a-utiliser-le-kinect/</link>
+      <pubDate>Wed, 23 Feb 2011 09:46:50 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/roger-le-premier-seriousgame-a-utiliser-le-kinect/</guid>
+      <description>R.O.G.E.R est un seriousgame en développement par une entreprise de jeux vidéos Belge : Fishing Cactus.
+Il est destiné aux patients souffrant de troubles de la mémoire. Le jeu recrée donc un environnement réaliste dans lequel le patient doit évoluer et s&amp;#8217;adapter en fonction des différents scénarios. En fait, il doit composer une valise en fonction d&amp;#8217;une destination et doit donc aller chercher dans l&amp;#8217;appartement les objets dont il aura besoin.</description>
+    </item>
+    
+    <item>
+      <title>Avatar Kinect, la réponse de Microsoft aux mondes virtuels ?</title>
+      <link>https://angezanetti.com/avatar-kinect-la-reponse-de-microsoft-aux-mondes-virtuels/</link>
+      <pubDate>Fri, 07 Jan 2011 18:03:26 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/avatar-kinect-la-reponse-de-microsoft-aux-mondes-virtuels/</guid>
+      <description>Encore un effet WaahhOoOoo avec le Kinect, depuis sa sortie on devrait être habitué mais non. Chaque semaine les hackeurs s&amp;#8217;en donnent à coeur joie et augmente la possibilité de ce nouveau joujou. C&amp;#8217;était d&amp;#8217;ailleurs le sujet du post que j&amp;#8217;ai écrit il y quelques jours.
+Mais cette fois c&amp;#8217;est une sortie officielle dont je voudrais vous parler. Il s&amp;#8217;agit d&amp;#8217;Avatar Kinect. C&amp;#8217;est facile à comprendre, mais ça risque de changer la façon d&amp;#8217;appréhender les mondes virtuels, les seriousgame.</description>
+    </item>
+    
+    <item>
+      <title>Le kinect, interface de demain ?</title>
+      <link>https://angezanetti.com/kinect-interface-de-demain-mondes-virtuels/</link>
+      <pubDate>Sat, 11 Dec 2010 09:39:20 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/kinect-interface-de-demain-mondes-virtuels/</guid>
+      <description>Depuis quelques jours je &amp;#8220;louche&amp;#8221; sur des vidéos qui me font plus ou moins rêver. Si vous suivez ce blog depuis longtemps vous savez que l&amp;#8217;un des freins majeur à l&amp;#8217;essor des mondes virtuels, et de la 3D en général, est la complexité des interfaces.
+Souvent, il faut être un geek, un bidouilleur, ou au moins un habitué des jeux vidéos pour manipuler, se déplacer et créer des espaces en 3D.</description>
+    </item>
+    
+  </channel>
+</rss>

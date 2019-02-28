@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubuntu on Xavier Coiffard</title>
+    <link>https://angezanetti.com/tags/ubuntu/</link>
+    <description>Recent content in Ubuntu on Xavier Coiffard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 29 Jul 2014 05:54:52 +0000</lastBuildDate>
+    
+	<atom:link href="https://angezanetti.com/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Faire fonctionner le rétro-éclairage de son MacbookPro 7.1 sous Ubuntu 14.04</title>
+      <link>https://angezanetti.com/faire-fonctionner-retro-eclairage-backlight-macbookpro-7-1-sous-ubuntu-14-04/</link>
+      <pubDate>Tue, 29 Jul 2014 05:54:52 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/faire-fonctionner-retro-eclairage-backlight-macbookpro-7-1-sous-ubuntu-14-04/</guid>
+      <description>Depuis la mise à jour de mon Mac sous Ubuntu 14.04 le rétroéclairage de mon écran ne fonctionnait plus. J&amp;#8217;ai passé pas mal de temps à chercher sur le net une solution viable, j&amp;#8217;ai bidouillé pas mal de trucs pour au final tomber sur la doc communautaire qui vient d&amp;#8217;être mis à jour.
+Pour les non anglophones voici la marche à suivre :
+On commence par ouvrir un terminal et lancer la commande suivante:</description>
+    </item>
+    
+    <item>
+      <title>Comment avoir une version de NodeJs à jour sur Ubuntu ?</title>
+      <link>https://angezanetti.com/version-nodejs-a-jour-sur-ubuntu-1204-compilation-ppa/</link>
+      <pubDate>Sun, 02 Dec 2012 11:13:13 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/version-nodejs-a-jour-sur-ubuntu-1204-compilation-ppa/</guid>
+      <description>Je me posé cette question il y a quelques jours après un upgrade de mes paquets sur un serveur qui fonctionne sous Ubuntu 12.04. Les applications misent à jour ne fonctionnaient pas, NPM non plus. Bref, un joli &amp;#8220;foutoir&amp;#8221;. J&amp;#8217;ai mis du temps à comprendre d&amp;#8217;ou venait les problèmes. Finalement un simple
+node -v Et j&amp;#8217;ai compris tout de suite, j&amp;#8217;avais sur mon serveur une vieille version de node.js (0.</description>
+    </item>
+    
+    <item>
+      <title>Ajouter un sous domaine sur son serveur dédié avec Apache2</title>
+      <link>https://angezanetti.com/ajouter-un-sous-domaine-serveur-dedie-apache2-configuration/</link>
+      <pubDate>Thu, 28 Jun 2012 09:36:36 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/ajouter-un-sous-domaine-serveur-dedie-apache2-configuration/</guid>
+      <description>Ces derniers jours j&amp;#8217;ai été confronté deux fois au problème de mise en place de sous domaine sur un serveur dédié, et à chaque fois ce fut une galère. Entre la documentaion trop complète et les différents tutos sur le web qui racontent tout et n&amp;#8217;importe quoi j&amp;#8217;ai passé plusieurs heures à chercher, modifier, effacer des fichiers de config.
+Pour éviter de me reprendre la tête, et en espérant que cela puisse servir à quelques personnes, voici la marche à suivre :</description>
+    </item>
+    
+    <item>
+      <title>Installer NodeJS, NPM et Express sur Ubuntu 10.04</title>
+      <link>https://angezanetti.com/tuto-installation-nodejs-npm-express-sur-ubuntu-10-04/</link>
+      <pubDate>Thu, 11 Aug 2011 10:04:37 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/tuto-installation-nodejs-npm-express-sur-ubuntu-10-04/</guid>
+      <description>Ce billet est autant un aide mémoire pour moi qu&amp;#8217;un billet explicatif pour vous. En effet depuis quelques jours j&amp;#8217;installe NodeJS sur plusieurs serveurs. Sur la version actuelle d&amp;#8217;Ubuntu &amp;#8211; 11.04 &amp;#8211; c&amp;#8217;est relativement facile :
+[bash]sudo apt-get install nodejs[/bash]
+Mais pour les versions antérieures et notamment la dernière LTS, la 10.04, c&amp;#8217;est un poil plus compliqué.
+En fait vous avez deux solutions, compiler ou utiliser la version par paquets.</description>
+    </item>
+    
+    <item>
+      <title>[Tuto] Monter son serveur ftp avec utilisateurs virtuels</title>
+      <link>https://angezanetti.com/tutoria-serveur-ftp-avec-utilisateurs-virtuels/</link>
+      <pubDate>Thu, 12 Aug 2010 08:15:11 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/tutoria-serveur-ftp-avec-utilisateurs-virtuels/</guid>
+      <description>Pour ceux qui me suivent sur Twitter vous avez du voir apparaitre le hashtag #mutualab. C&amp;#8217;est en fait un projet que j&amp;#8217;ai avec @WoldenAvro. Le but étant de mettre en place une plateforme d&amp;#8217;échanges de &amp;#8220;bout de codes qui marchent&amp;#8221; entre développeurs qui bossent dans les nouveaux médias, plus particulièrement la réalité augmentée/UniversVirtuels.
+Le projet est toujours en gestation, je vous en parlerai plus en détail à la rentrée mais pour le moment je vais vous en faire une présentation technique.</description>
+    </item>
+    
+    <item>
+      <title>La vidéo du vendredi : “Ce qu’Ubuntu peut faire pour sauver Internet”</title>
+      <link>https://angezanetti.com/la-video-du-vendredi-ubuntu-et-internet/</link>
+      <pubDate>Fri, 21 May 2010 08:00:48 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/la-video-du-vendredi-ubuntu-et-internet/</guid>
+      <description>&lt;p&gt;Aujourd&amp;#8217;hui dans la vidéo du vendredi j&amp;#8217;ai envie de vous parler de logiciels libre. J&amp;#8217;ai découvert cette vidéo cette semaine, cela confirme ce que je pensait : j&amp;#8217;aime bien benjamin bayart. Et je le dit aussi facilement que je suis sur qu&amp;#8217;il ne lit pas mon blog :)&lt;/p&gt;
+
+&lt;p&gt;Alors pour ceux qui ne le connaissent pas Benjamin Bayart c&amp;#8217;est le &lt;a href=&#34;http://www.fdn.fr/&#34;&gt;président de FDN&lt;/a&gt;, le plus vieux fournisseur internet français et surtout le seul à être associatif. Il milite depuis toujours pour la neutralité du réseau et pour le rétablissement d&amp;#8217;internet et la mort de ce qu&amp;#8217;il a&lt;a href=&#34;http://angezanetti.com/le-minitel-2-0/&#34; target=&#34;_blank&#34;&gt;ppelle le minitel 2.0&lt;/a&gt;. C&amp;#8217;est aussi un défenseur des logiciels libre, et c&amp;#8217;est l&amp;#8217;objet de cette conférence : comment Ubuntu &amp;#8211; qui est une des distribution Linux les plus populaires &amp;#8211; peut changer et aider internet.&lt;/p&gt;
+
+&lt;p&gt;Je vous laisse découvrir.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>[Tuto] Partager son Agenda sous Mac, Ubuntu et Nokia facilement</title>
+      <link>https://angezanetti.com/partager-agenda-mac-ubuntu-nokia/</link>
+      <pubDate>Mon, 29 Mar 2010 07:07:06 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/partager-agenda-mac-ubuntu-nokia/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Depuis Vendredi dernier je suis l&amp;#8217;heureux possesseur d&amp;#8217;un macbook. C&amp;#8217;est une très bonne machine, et j&amp;#8217;en parlerais probablement ici un peu plus tard mais ce n&amp;#8217;est pas l&amp;#8217;objet de ce post.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Ici je vais vous parler Agenda, en effet j&amp;#8217;ai jusqu&amp;#8217;à maintenant utilisé un bon vieux agenda papier pour gérer mes RDV, obligations et todo list mais il faut bien avouer que ce n&amp;#8217;est pas très pratique. Surtout quand on se déplace, ce que j&amp;#8217;ai de plus en plus l&amp;#8217;occasion de faire. Et l&amp;#8217;arrivée d&amp;#8217;un nouveau système d&amp;#8217;exploitation dans mon panel de machine ne facilite pas franchement la chose. Ce week-end je me suis donc attelé à mettre mon agenda dans les nuages et à le synchroniser avec tous mes OS.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu change de look</title>
+      <link>https://angezanetti.com/ubuntu-lucidlynx-1004-relook/</link>
+      <pubDate>Fri, 05 Mar 2010 11:59:26 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/ubuntu-lucidlynx-1004-relook/</guid>
+      <description>Vous le savez peut être en Avril prochain Ubuntu, ma distribution linux préférée, sort une nouvelle version LTS nommée Lucid Lynx. LTS c&amp;#8217;est du jargon d&amp;#8217;informaticien qui veut dire Long Time Support, elle sera donc mis a jour en continu pendant les 5 prochaines années et traditionnellement une sortie de LTS doit marqué l&amp;#8217;avenir des futures versions.
+Et bien cette fois Canonical, la société éditrice d&amp;#8217;Ubuntu, a choisi ce moment pour changé d&amp;#8217;identité graphique.</description>
+    </item>
+    
+    <item>
+      <title>Etre un acteur libre des Mondes Virtuels</title>
+      <link>https://angezanetti.com/etre-un-acteur-libre-des-mondes-virtuels/</link>
+      <pubDate>Fri, 02 May 2008 10:03:00 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/etre-un-acteur-libre-des-mondes-virtuels/</guid>
+      <description>Hier c&amp;#8217;était le 1er mai, jour des manifs &amp;amp; revendication en tout genre. J&amp;#8217;ai donc décidé de faire la mienne à ma petite échelle.
+Partant du principe que ceux qui me lisent utilisent plus moins les mêmes applications que moi je vais vous montrer qu&amp;#8217;il est possible d&amp;#8217;avoir un poste de travail fonctionnel sous GNU/Linux.
+Pourquoi Gnu/linux pourquoi pas Windoze ou mon bon vieux Mac? Parce que Linux est libre &amp;#8211; tout le monde peut avoir accès au code source -, Linux est le fruit d&amp;#8217;une communauté et que la dernière version d&amp;#8217;Ubuntu mérite d&amp;#8217;être testée -et en plus c&amp;#8217;est gratuit !</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="author" content="Xavier">
+<meta name="description" content="Silex est un micro framework édité par SensioLabs, la société qui édite le fameux framework Symfony.
+Un micro Framework Silex est micro, vraiment micro. Même l&amp;#8217;installation tiens en deux lignes:
+$ curl -sS https://getcomposer.org/installer | php $ composer.phar install Une fois ces deux lignes exécutées vous vous trouvez avec:
+ un répertoire vendor qui embarque Pimple, une librairie pour l&amp;#8217;injection de dépendances et les modules de gestion HTTP de Symfony ( pour gérer les routes, les requêtes etc."/>
+<meta name="keywords" content=""/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="https://angezanetti.com/silex-framework-minimaliste-php-symfony/" />
+
+
+    <title>
+        
+            Silex un framework minimaliste PHP que vous devriez tester :: Xavier Coiffard  — Hello Friend NG Theme
+        
+    </title>
+
+
+
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Source+Code+Pro" rel="stylesheet" type="text/css">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/css/flag-icon.min.css" rel="stylesheet" type="text/css">
+
+
+<link rel="stylesheet" href="https://angezanetti.com/scss/main.min.099699ab246bf26f50616f7c9f00c79d46110459d1bd727b2d07d6fc09ece082.css">
+
+<link rel="apple-touch-icon" sizes="180x180" href="https://angezanetti.com/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://angezanetti.com/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://angezanetti.com/favicon-16x16.png">
+<link rel="manifest" href="https://angezanetti.com/site.webmanifest">
+<link rel="mask-icon" href="https://angezanetti.com/safari-pinned-tab.svg" color="">
+<link rel="shortcut icon" href="https://angezanetti.com/favicon.ico">
+
+<meta itemprop="name" content="Silex un framework minimaliste PHP que vous devriez tester">
+<meta itemprop="description" content="Silex est un micro framework édité par SensioLabs, la société qui édite le fameux framework Symfony.
+Un micro Framework Silex est micro, vraiment micro. Même l&#8217;installation tiens en deux lignes:
+$ curl -sS https://getcomposer.org/installer | php $ composer.phar install Une fois ces deux lignes exécutées vous vous trouvez avec:
+ un répertoire vendor qui embarque Pimple, une librairie pour l&#8217;injection de dépendances et les modules de gestion HTTP de Symfony ( pour gérer les routes, les requêtes etc.">
+
+
+<meta itemprop="datePublished" content="2014-03-06T13:08:19&#43;00:00" />
+<meta itemprop="dateModified" content="2014-03-06T13:08:19&#43;00:00" />
+<meta itemprop="wordCount" content="632">
+
+
+
+<meta itemprop="keywords" content="Dev,Jobs,PHP," />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://angezanetti.com"/>
+
+<meta name="twitter:title" content="Silex un framework minimaliste PHP que vous devriez tester"/>
+<meta name="twitter:description" content="Silex est un micro framework édité par SensioLabs, la société qui édite le fameux framework Symfony.
+Un micro Framework Silex est micro, vraiment micro. Même l&#8217;installation tiens en deux lignes:
+$ curl -sS https://getcomposer.org/installer | php $ composer.phar install Une fois ces deux lignes exécutées vous vous trouvez avec:
+ un répertoire vendor qui embarque Pimple, une librairie pour l&#8217;injection de dépendances et les modules de gestion HTTP de Symfony ( pour gérer les routes, les requêtes etc."/>
+
+
+<meta property="article:section" content="Non classé" />
+<meta property="article:published_time" content="2014-03-06 13:08:19 &#43;0000 &#43;0000" />
+
+
+
+
+
+
+
+
+
+    </head>
+
+    <body class="dark-theme">
+        <div class="container">
+            <header class="header">
+    <span class="header__inner">
+        <a href="https://angezanetti.com/" style="text-decoration: none;">
+    <div class="logo">
+        
+            <span class="logo__mark">></span>
+            <span class="logo__text">AngeZanetti.com</span>
+            <span class="logo__cursor"></span>
+        
+    </div>
+</a>
+
+
+        <span class="header__right">
+            
+                <nav class="menu">
+    <ul class="menu__inner"><li><a href="https://angezanetti.com/about/">About</a></li><li><a href="https://angezanetti.com/posts/">Blog</a></li>
+    </ul>
+</nav>
+
+                <span class="menu-trigger">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+                    </svg>
+                </span>
+            
+
+            <span class="theme-toggle"><svg class="theme-toggler" width="24" height="24" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
+  3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
+  13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z"/>
+</svg>
+</span>
+        </span>
+    </span>
+</header>
+
+
+            <div class="content">
+                
+    <main class="post">
+
+        <div class="post-info">
+            
+            </p>
+        </div>
+
+        <article>
+            <h2 class="post-title"><a href="https://angezanetti.com/silex-framework-minimaliste-php-symfony/">Silex un framework minimaliste PHP que vous devriez tester</a></h2>
+
+            
+
+            <div class="post-content">
+                
+
+<p><a title="Micro framewoek Silex" href="http://silex.sensiolabs.org/" target="_blank">Silex</a> est un micro framework édité par SensioLabs, la société qui édite le fameux framework <a title="Symfony Framework php" href="http://symfony.com/" target="_blank">Symfony</a>.</p>
+
+<h3 id="un-micro-framework">Un micro Framework</h3>
+
+<p><a title="Sliex framework PHP" href="http://silex.sensiolabs.org/" target="_blank">Silex</a> est micro, vraiment micro. Même l&#8217;installation tiens en deux lignes:</p>
+
+<pre>$ curl -sS https://getcomposer.org/installer | php
+$ composer.phar install</pre>
+
+<p>Une fois ces deux lignes exécutées vous vous trouvez avec:</p>
+
+<ul>
+<li>un répertoire vendor qui embarque <a title="pimple" href="http://pimple.sensiolabs.org/" target="_blank">Pimple</a>, une librairie pour l&#8217;injection de dépendances et les modules de gestion HTTP de Symfony ( pour gérer les routes, les requêtes etc..)</li>
+<li>un répertoire web dans lequel se trouve un fichier index contenant toute voter application (rien pour le moment)</li>
+<li>et un Composer pour installer en deux coups de cuillère à pot n&#8217;importe quelle librairie super utile.</li>
+<li>et&#8230; c&#8217;est tout.</li>
+</ul>
+
+<p>Ça ne fait pas lourd, surtout quand on vient de Symfony. Mais quand on y réfléchi deux minutes avec juste ces trois éléments on peut faire beaucoup de choses.</p>
+
+<h3 id="yui_3_9_1_8_1394109682105_541">With great power, comes great responsibility</h3>
+
+<p>L&#8217;architecture de base, celle que je viens de décrire est suffisante pour des petits prototypes, pour tester SIlex ou pour monter votre blog. Mais rapidement, mettre toute vote application dans index.php, voire dans le répertoire web ça devient gênant. C&#8217;est pourtant ce que vous trouverez en majorité dans les tutos sur le web.</p>
+
+<p>Si votre projet est fait pour prendre de l&#8217;ampleur, pour être maintenu dans le temps par plusieurs personnes il va falloir rendre les choses un peu plus structurées.</p>
+
+<p>Comme Silex n&#8217;impose rien, le développeur à le choix. Pour partir sur de bonnes bases je vous propose de partir sur le Skeleton proposé sur Github par SensioLabs: <a title="Silex skeleton" href=" https://github.com/silexphp/Silex-Skeleton" target="_blank"><a href="https://github.com/silexphp/Silex-Skeleton">https://github.com/silexphp/Silex-Skeleton</a></a></p>
+
+<p>Ça permet de découpler le cœur de l&#8217;application du modèle MVC, de séparer les parties publiques et privées. Vous noterez au passage que le composer.json de cet exemple c&#8217;est pas mal étoffé et que l&#8217;on retrouve des outils Symfony comme Twig ou la console.</p>
+
+<p>L&#8217;idée n&#8217;est peut être pas pour vous de prendre tout le skeleton, mais en tout cas de s&#8217;en inspirer et monter une vraie structure compréhensible et maintenable dans le temps.</p>
+
+<h3 id="pourquoi-pas-symfony">Pourquoi pas Symfony ?</h3>
+
+<p>J&#8217;utilise actuellement Silex parce que le projet que j&#8217;ai repris était en Silex, je n&#8217;ai pas eu le choix. Cependant je me rends à l&#8217;utilisation que Silex peut être une bonne option dans plusieurs cas :</p>
+
+<ul>
+<li>Vous voulez monter en compétences sur du PHP objet, savoir vraiment fonctionne des gros framework comme Symfony. Silex est beaucoup plus bas niveau que son cousin, il vous permet de vraiment mettre les mains dans le cambouis, de comprendre comment les choses fonctionnent.</li>
+<li>Vous avez du code legacy dégueu et vous voulez migrer petit à petit vers quelque chose de plus propre. C&#8217;est le cas pour mon projet. 30% du code est horrible en legacy, 30% est sur du Silex mais en mode &#8220;Tout dans le index.php&#8221; et les derniers 30% ont été codés dans les derniers mois avec plus ou moins le skeleton ci dessus. Silex fonctionne très bien dans cette configuration et nous permet de migrer controlleur par controlleur notre code.</li>
+<li>Vous êtes un ayatollah de la philosophie KISS, vous ne voulez installer que ce dont vous avez besoin et ne pas avoir un prjet qui finit par embarquer des milliers de lignes de codes qui ne vous serviront jamais.</li>
+</ul>
+
+<p>Pour être honnête, pour des gros projets, des projets à longue durée de vie je vous conseille plutôt de partir sur du Symfony, la doc est mille fois plus abondante,  la structure est fixe et donc l&#8217;effort de maintenance et d&#8217;évolution sera beaucoup moins important.</p>
+
+<p>Pour le cas d&#8217;une migration lente par contre je trouve que Silex est adapté si on part sur de bonnes bases.</p>
+
+<p>Dans tous les cas, Silex vaut le coup d&#8217;oeil, au moins pour un side-project. On apprends beaucoup de choses et le chan IRC dédié est d&#8217;une grande qualité !</p>
+
+<p>&nbsp;</p>
+
+            </div>
+        </article>
+
+        <hr />
+
+        <div class="post-info">
+  				<p>
+  					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg><span class="tag"><a href="https://angezanetti.com/tags/dev">Dev</a></span><span class="tag"><a href="https://angezanetti.com/tags/jobs">Jobs</a></span><span class="tag"><a href="https://angezanetti.com/tags/php">PHP</a></span>
+  				</p>
+  			</div>
+
+        
+    </main>
+
+            </div>
+
+            
+                <footer class="footer">
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>&copy; 2019</span>
+            
+                <span><a href="https://angezanetti.com">Xavier Coiffard</a></span>
+            
+            <span><a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></span>
+            <span> <a href="https://angezanetti.com/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a></span>
+        </div>
+    </div>
+    <div class="footer__inner">
+        <div class="footer__content">
+
+        </div>
+    </div>
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>Powered by <a href="http://gohugo.io">Hugo</a></span>
+            <span>Made with &#10084; by <a href="https://github.com/rhazdon">rhazdon</a></span>
+        </div>
+    </div>
+</footer>
+
+            
+        </div>
+
+        
+
+
+
+
+
+<script type="text/javascript" src="https://angezanetti.com/js/bundle.f65a6fe80656eb86fce3f1228faa2ac0bf43b28d21eb91975f036839ed92dfd126cabb91223501623641f4ea67ac5d03882d0b8c744da38c637a1fdf8e9016c6.js" integrity="sha512-9lpv6AZW64b84/Eij6oqwL9Dso0h65GXXwNoOe2S39EmyruRIjUBYjZB9OpnrF0DiC0LjHRNo4xjeh/fjpAWxg=="></script>
+
+    </body>
+</html>

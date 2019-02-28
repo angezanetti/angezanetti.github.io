@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="author" content="Xavier">
+<meta name="description" content="Je vous parlais il y a un mois de WebGL, une technologie qui utilise HTML 5 pour mettre de la 3d directement dans votre navigateur. Et bien je suis ce projet de près depuis ma découverte de cette techno et je viens de trouver une news qui me plait beaucoup : Quake 2 fonctionne avec cette technologie :) Autrement dit vous pouvez maintenant jouer à un jeu vidéo sans autre logiciel que votre navigateur web et sans avoir la peine d&amp;#8217;installer le moindre plugin. Juste une url à taper et hop vous vous retrouvez un minigun à la main entrain de tuer du méchant à tour de bras. C&amp;#8217;est pas génial ça? "/>
+<meta name="keywords" content=""/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="https://angezanetti.com/quake-2-webgl-html5/" />
+
+
+    <title>
+        
+            Quake 2 dans votre navigateur et sans plugin c’est fait ! Merci WebGL :: Xavier Coiffard  — Hello Friend NG Theme
+        
+    </title>
+
+
+
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Source+Code+Pro" rel="stylesheet" type="text/css">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/css/flag-icon.min.css" rel="stylesheet" type="text/css">
+
+
+<link rel="stylesheet" href="https://angezanetti.com/scss/main.min.099699ab246bf26f50616f7c9f00c79d46110459d1bd727b2d07d6fc09ece082.css">
+
+<link rel="apple-touch-icon" sizes="180x180" href="https://angezanetti.com/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://angezanetti.com/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://angezanetti.com/favicon-16x16.png">
+<link rel="manifest" href="https://angezanetti.com/site.webmanifest">
+<link rel="mask-icon" href="https://angezanetti.com/safari-pinned-tab.svg" color="">
+<link rel="shortcut icon" href="https://angezanetti.com/favicon.ico">
+
+<meta itemprop="name" content="Quake 2 dans votre navigateur et sans plugin c’est fait ! Merci WebGL">
+<meta itemprop="description" content="
+  Je vous parlais il y a un mois de WebGL, une technologie qui utilise HTML 5 pour mettre de la 3d directement dans votre navigateur. Et bien je suis ce projet de près depuis ma découverte de cette techno et je viens de trouver une news qui me plait beaucoup : Quake 2 fonctionne avec cette technologie :)
+
+
+
+  Autrement dit vous pouvez maintenant jouer à un jeu vidéo sans autre logiciel que votre navigateur web et sans avoir la peine d&#8217;installer le moindre plugin. Juste une url à taper et hop vous vous retrouvez un minigun à la main entrain de tuer du méchant à tour de bras. C&#8217;est pas génial ça?
+">
+
+
+<meta itemprop="datePublished" content="2010-04-05T13:01:22&#43;00:00" />
+<meta itemprop="dateModified" content="2010-04-05T13:01:22&#43;00:00" />
+<meta itemprop="wordCount" content="355">
+
+
+
+<meta itemprop="keywords" content="HTML5,Internet 3d,Quake,WebGL," />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://angezanetti.com"/>
+
+<meta name="twitter:title" content="Quake 2 dans votre navigateur et sans plugin c’est fait ! Merci WebGL"/>
+<meta name="twitter:description" content="
+  Je vous parlais il y a un mois de WebGL, une technologie qui utilise HTML 5 pour mettre de la 3d directement dans votre navigateur. Et bien je suis ce projet de près depuis ma découverte de cette techno et je viens de trouver une news qui me plait beaucoup : Quake 2 fonctionne avec cette technologie :)
+
+
+
+  Autrement dit vous pouvez maintenant jouer à un jeu vidéo sans autre logiciel que votre navigateur web et sans avoir la peine d&#8217;installer le moindre plugin. Juste une url à taper et hop vous vous retrouvez un minigun à la main entrain de tuer du méchant à tour de bras. C&#8217;est pas génial ça?
+"/>
+
+
+<meta property="article:section" content="Non classé" />
+<meta property="article:published_time" content="2010-04-05 13:01:22 &#43;0000 &#43;0000" />
+
+
+
+
+
+
+
+
+
+    </head>
+
+    <body class="dark-theme">
+        <div class="container">
+            <header class="header">
+    <span class="header__inner">
+        <a href="https://angezanetti.com/" style="text-decoration: none;">
+    <div class="logo">
+        
+            <span class="logo__mark">></span>
+            <span class="logo__text">AngeZanetti.com</span>
+            <span class="logo__cursor"></span>
+        
+    </div>
+</a>
+
+
+        <span class="header__right">
+            
+                <nav class="menu">
+    <ul class="menu__inner"><li><a href="https://angezanetti.com/about/">About</a></li><li><a href="https://angezanetti.com/posts/">Blog</a></li>
+    </ul>
+</nav>
+
+                <span class="menu-trigger">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+                    </svg>
+                </span>
+            
+
+            <span class="theme-toggle"><svg class="theme-toggler" width="24" height="24" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
+  3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
+  13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z"/>
+</svg>
+</span>
+        </span>
+    </span>
+</header>
+
+
+            <div class="content">
+                
+    <main class="post">
+
+        <div class="post-info">
+            
+            </p>
+        </div>
+
+        <article>
+            <h2 class="post-title"><a href="https://angezanetti.com/quake-2-webgl-html5/">Quake 2 dans votre navigateur et sans plugin c’est fait ! Merci WebGL</a></h2>
+
+            
+
+            <div class="post-content">
+                <p style="text-align: justify;">
+  Je vous <a href="http://angezanetti.com/webgl-katalabs-mondes-virtuels/">parlais il y a un mois de<strong> WebGL</strong></a>, une technologie qui utilise <strong>HTML 5 </strong>pour mettre de la 3d directement dans votre navigateur. Et bien je suis ce projet de près depuis ma découverte de cette techno et je viens de trouver une news qui me plait beaucoup : Quake 2 fonctionne avec cette technologie :)
+</p>
+
+<p style="text-align: justify;">
+  Autrement dit vous pouvez maintenant jouer à un jeu vidéo sans autre logiciel que votre navigateur web et sans avoir la peine d&#8217;installer le moindre plugin. Juste une url à taper et hop vous vous retrouvez un minigun à la main entrain de tuer du méchant à tour de bras. C&#8217;est pas génial ça?
+</p>
+
+<p style="text-align: justify;">
+  Alors comment c&#8217;est possible ? Tout simplement en utilisant les technos existantes, celle qui feront le web de demain. Les fonctionnalités du HTML5 en fait :
+</p>
+
+<blockquote style="text-align: justify;">
+  <p>
+    <em>&#8220;To make the Jake 2 code work with GWT, we have</em>
+  </p>
+  
+  <ul>
+    <li>
+      <em>Created a new <a rel="nofollow" href="https://cvs.khronos.org/svn/repos/registry/trunk/public/webgl/doc/spec/WebGL-spec.html">WebGL</a> based renderer </em>
+    </li>
+    <li>
+      <em>Ported the network layer for multiplayer games from UDP to the <a rel="nofollow" href="http://dev.w3.org/html5/websockets/">WebSocket API</a></em>
+    </li>
+    <li>
+      <em>Made all resource loading calls asynchronous </em>
+    </li>
+    <li>
+      <em>Created a GWT implementation of Java nio buffers based on WebGL arrays (to be ported to <a rel="nofollow" href="http://people.mozilla.com/%7Evladimir/jsvec/TypedArray-spec.html">ECMAScript Typed Arrays</a>) </em>
+    </li>
+    <li>
+      <em>Implemented a simple file system emulation for saving games and preferences using the <a rel="nofollow" href="http://dev.w3.org/html5/webstorage/">Web Storage API&#8221;</a></em>
+    </li>
+  </ul>
+</blockquote>
+
+<p style="text-align: justify;">
+  Le résultat est d&#8217;ailleurs assez impressionnant comme le montre la vidéo ci dessous  :
+</p>
+
+<p style="text-align: justify;">
+</p>
+
+<p style="text-align: justify;">
+  Alors on est encore au début de cette technologie, il faut installer un navigateur dans sa version béta et suivre des instructions un <a href="http://code.google.com/p/quake2-gwt-port/wiki/BuildingAndRunning">peu complexes</a>. Mais encore une fois nous en sommes au début, ce n&#8217;est pour le moment qu&#8217;un jouet pour développeur, un truc de geek.
+</p>
+
+<p style="text-align: justify;">
+  Par contre quand on voit que WebGL est un format soutenu par Google, Apple, Mozilla, Sun, Nokia et pleins d&#8217;autres acteurs du marché on se dit que sa ne devrait pas rester longtemps un truc obscur et compliqué et que bientôt nous verrons apparaitre des vrais applications 3D tournant dans notre FireFox préféré.
+</p>
+
+<p style="text-align: justify;">
+  Et quelque chose me dit que cela pourrait bien être un monde virtuel, je suis sûr que les créateurs de mondes virtuels inter-connectés avec Facebook attendent beaucoup des nouvelles possibilités de WebGL&#8230;
+</p>
+
+<p><p style="text-align: justify;"></p>
+            </div>
+        </article>
+
+        <hr />
+
+        <div class="post-info">
+  				<p>
+  					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg><span class="tag"><a href="https://angezanetti.com/tags/html5">HTML5</a></span><span class="tag"><a href="https://angezanetti.com/tags/internet-3d">Internet 3d</a></span><span class="tag"><a href="https://angezanetti.com/tags/quake">Quake</a></span><span class="tag"><a href="https://angezanetti.com/tags/webgl">WebGL</a></span>
+  				</p>
+  			</div>
+
+        
+    </main>
+
+            </div>
+
+            
+                <footer class="footer">
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>&copy; 2019</span>
+            
+                <span><a href="https://angezanetti.com">Xavier Coiffard</a></span>
+            
+            <span><a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></span>
+            <span> <a href="https://angezanetti.com/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a></span>
+        </div>
+    </div>
+    <div class="footer__inner">
+        <div class="footer__content">
+
+        </div>
+    </div>
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>Powered by <a href="http://gohugo.io">Hugo</a></span>
+            <span>Made with &#10084; by <a href="https://github.com/rhazdon">rhazdon</a></span>
+        </div>
+    </div>
+</footer>
+
+            
+        </div>
+
+        
+
+
+
+
+
+<script type="text/javascript" src="https://angezanetti.com/js/bundle.f65a6fe80656eb86fce3f1228faa2ac0bf43b28d21eb91975f036839ed92dfd126cabb91223501623641f4ea67ac5d03882d0b8c744da38c637a1fdf8e9016c6.js" integrity="sha512-9lpv6AZW64b84/Eij6oqwL9Dso0h65GXXwNoOe2S39EmyruRIjUBYjZB9OpnrF0DiC0LjHRNo4xjeh/fjpAWxg=="></script>
+
+    </body>
+</html>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unity3d on Xavier Coiffard</title>
+    <link>https://angezanetti.com/tags/unity3d/</link>
+    <description>Recent content in Unity3d on Xavier Coiffard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 19 Jun 2012 07:00:39 +0000</lastBuildDate>
+    
+	<atom:link href="https://angezanetti.com/tags/unity3d/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unity3d arrive sous Linux !</title>
+      <link>https://angezanetti.com/unity3d-arrive-sous-linux/</link>
+      <pubDate>Tue, 19 Jun 2012 07:00:39 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/unity3d-arrive-sous-linux/</guid>
+      <description>Si vous suivez ce blog vous connaissez probablement Unity3D. Ce moteur de jeu est de plus en plus populaire et, sa volonté d&amp;#8217;être présent sur tous les supports est une des clés de son succès. On peut en effet jouer à des jeux unity dans son navigateur, sur son téléphone, sa console ou encore avec sa tablette.
+Mais, ombre au tableau, pas sous un PC tournant sous Linux !
+Avec la nouvelle mouture d&amp;#8217;Unity 4.</description>
+    </item>
+    
+    <item>
+      <title>Immersive Labs sort Amphi-B une solution 3d pour des conférences à distance</title>
+      <link>https://angezanetti.com/immersive-labs-amphi-b-solution-3d-conferences-mondesvirtuels/</link>
+      <pubDate>Tue, 12 Jun 2012 10:07:48 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/immersive-labs-amphi-b-solution-3d-conferences-mondesvirtuels/</guid>
+      <description>La semaine dernière ImmersiveLabs, l&amp;#8217;entreprise béarnaise spécialisée dans les mondes virtuels et dirigée par @davidcastera, à lancé Amphi-B.
+Amphi-B est une solution immersive basée sur Unity3d qui permet de louer des espaces virtuels pour organiser des conférences à distance.
+Comme vous pouvez le voir sur la photo ci dessus, l&amp;#8217;interface est minimaliste assez simple à comprendre et se résume à un chat, une liste des connectés et quelques paramètres. La navigation se fait au clavier uniquement avec les touches directionnelles et l&amp;#8217;environnement embarque également la VoIP.</description>
+    </item>
+    
+    <item>
+      <title>Convertir des îles Opensim ou SecondLife en collada</title>
+      <link>https://angezanetti.com/convertir-des-iles-opensim-ou-secondlife-en-collada/</link>
+      <pubDate>Fri, 06 Jan 2012 07:37:57 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/convertir-des-iles-opensim-ou-secondlife-en-collada/</guid>
+      <description>Je ne sais pas si vous connaissez Tipodean c&amp;#8217;est une startup dirigée par Chris Collins, un ancien Linden, et qui depuis quelques mois essaye de créer un viewer Unity pour OpenSim et SecondLife. Je vous en parlais en Juillet dernier, à l&amp;#8217;époque ce n&amp;#8217;était pas vraiment au point, c&amp;#8217;était de l&amp;#8217;alpha&amp;#8230;  Mais ils ont continué à travailler et ont annoncé le 3 janvier dernier la sortie d&amp;#8217;un site web qui permet de convertir directement le contenu SecondLife ou OpenSim pour l&amp;#8217;afficher dans le navigateur via Unity3d Ou Flash !</description>
+    </item>
+    
+    <item>
+      <title>Unity supportera HTML5</title>
+      <link>https://angezanetti.com/unity-webgl-html5/</link>
+      <pubDate>Fri, 02 Dec 2011 08:50:39 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/unity-webgl-html5/</guid>
+      <description>&amp;nbsp;
+J&amp;#8217;ai lu une news sur Gamasutra hier qui &amp;#8216;ma fiat bondir de mon siège &amp;#8211; ou presque. Unity technologies annonce qu&amp;#8217;il supportera probablement HTML5 dès que cette technologie &amp;#8220;sera prête pour le gaming&amp;#8221;.
+Le CEO, David Helgason explique que le moteur HTML5 est très bien pour faire de la datavisualisation par exemple mais que cette techno n&amp;#8217;est pas encore mûre pour faire du jeu. D&amp;#8217;après lui celui va changer avec le temps et Unity surveille de près ces changements pour pouvoir proposer une compatibilité rapidement.</description>
+    </item>
+    
+    <item>
+      <title>Vers un client Web pour OpenSim et SecondLife</title>
+      <link>https://angezanetti.com/client-leger-navigateur-unity-webgl-opensim-secondlife/</link>
+      <pubDate>Fri, 15 Jul 2011 08:54:50 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/client-leger-navigateur-unity-webgl-opensim-secondlife/</guid>
+      <description>Les mondes virtuels n&amp;#8217;ont pas eu le succès attendu. C&amp;#8217;est un fait. Nous sommes beaucoup à penser que cela est du, entre autre, a un vrai problème d&amp;#8217;accessibilité de ces plate-formes. Il faut installer un client lourd, s&amp;#8217;enregister, apprendre à se déplacer en 3D, retrouver ses amis etc etc&amp;#8230; En un mot c&amp;#8217;est dur, trop compliqué pour le visiteur lambda qui cherche juste à visiter une expo, assister à un spectacle et pas à devenir le builder qui va révolutionner le metavers.</description>
+    </item>
+    
+    <item>
+      <title>Retour sur mes interventions découverte des mondes virtuels à l’HETIC</title>
+      <link>https://angezanetti.com/interventions-mondes-virtuels-hetic/</link>
+      <pubDate>Mon, 07 Mar 2011 09:54:37 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/interventions-mondes-virtuels-hetic/</guid>
+      <description>La semaine dernière se tenait ma dernière intervention devant les H4 &amp;#8211; comprenez Bac+4- de l&amp;#8216;HETIC. Pour ceux qui ne connaitraient pas, l&amp;#8217;HETIC est la Haute Ecole des Technologies de l&amp;#8217;Information et de la Communication. Autrement dit, une école de l&amp;#8217;Internet. Chaque année 70 étudiants sortent de cette école et vont rejoindre les rangs des web-agencies, start-up ou autre acteur du web.
+L&amp;#8217;année dernière avec Serge Soudoplatoff, nous avions monté un projet afin de mettre HETIC dans un monde virtuel.</description>
+    </item>
+    
+    <item>
+      <title>La version 3 d’Unity3d arrive !</title>
+      <link>https://angezanetti.com/unity3d-version3/</link>
+      <pubDate>Wed, 21 Jul 2010 07:52:05 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/unity3d-version3/</guid>
+      <description>&lt;p&gt;Depuis quelques jours c&amp;#8217;est un peu l&amp;#8217;effervescence sur le &lt;a title=&#34;blog unity3d&#34; href=&#34;http://blogs.unity3d.com/&#34; target=&#34;_blank&#34;&gt;blog d&amp;#8217;Unity.&lt;/a&gt; En effet la version 3 du désormais célèbre moteur de jeu ne va pas tarder à sortir. Du coup, pour faire un peu de com&amp;#8217;, Unity lance jour après jour des vidéos illustrant les nouvelles fonctionnalité du moteur.&lt;/p&gt;
+
+&lt;p&gt;Les nouveautés sont surtout dans le domaine du rendu : capacité physique des vêtements, ombres portées etc.. mais aussi sur l&amp;#8217;audio. Toutes ces vidéos sont assez bluffantes, encore une fois Unity3d frappe fort et reste définitivement en avance sur tous ses concurrents. Surtout quand on pense que tout cela tourne sur Iphone, Ipad et sur quasiment tous les navigateurs Internet&amp;#8230;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Unity3d ou WebGL comme futur standard d’un Internet 3D ?</title>
+      <link>https://angezanetti.com/unity3d-google-opensim/</link>
+      <pubDate>Thu, 20 May 2010 09:18:55 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/unity3d-google-opensim/</guid>
+      <description>&lt;p&gt;Google à sorti son &amp;#8220;&lt;em&gt;native client&lt;/em&gt;&amp;#8221; il y a quelques jours comme je vous l&amp;#8217;annonçait &lt;a title=&#34;Google native client&#34; href=&#34;http://angezanetti.com/google-native-client-sdk/&#34; target=&#34;_blank&#34;&gt;dans cet article&lt;/a&gt; mais je ne croyais pas que ça bougerait aussi vite.&lt;/p&gt;
+
+&lt;p&gt;Hier, &lt;strong&gt;Unity3D,&lt;/strong&gt; le moteur de jeu vidéo sur lequel est basé &lt;a title=&#34;assemblive&#34; href=&#34;http://angezanetti.com/assemblive-v1-8-francais-api/&#34; target=&#34;_blank&#34;&gt;Assemblive&lt;/a&gt; par exemple, à annoncé qu&amp;#8217;ilvdéveloppait une application native pour Chrome. Concrétement cela veut dite que Unity3d n&amp;#8217;aura plus besoin de plugin pour fonctionner dans le navigateur de Google. On aura de la 3d aussi facilement que l&amp;#8217;on affiche des pages web, simplement en cliquant.&lt;/p&gt;
+
+&lt;p&gt;Ce qui est marrant c&amp;#8217;est qu&amp;#8217;ils font cette annonce en plein boum du &lt;strong&gt;WebGL&lt;/strong&gt; et à peine 2 jours après que Google annonce qu&amp;#8217;il supporte officiellement cette nouvelle technologie basée sur HTML5. Ou plutôt, pour le dire dans le bon sens&lt;a title=&#34;Google arrête O3D&#34; href=&#34;http://www.silicon.fr/fr/news/2010/05/10/technologies_web___google_abandonne_o3d&#34; target=&#34;_blank&#34;&gt;, qu&amp;#8217;il arrête le projet O3&lt;/a&gt;D qui était un concurrent à WebGL.&lt;/p&gt;
+
+&lt;p&gt;La bataille pour le standard de l&amp;#8217;internet 3D à commencé :)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Un viewer Opensim basé sur Unity3d ?</title>
+      <link>https://angezanetti.com/un-viewer-opensim-base-sur-unity3d/</link>
+      <pubDate>Thu, 12 Nov 2009 15:56:00 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/un-viewer-opensim-base-sur-unity3d/</guid>
+      <description>C&amp;#8217;est la nouvelle du jour : il y a un petit malin qui s&amp;#8217;amuse à créer un viewer OpenSim avec Unity3d -qui est gratuit depuis peu ! Unity3d c&amp;#8217;est un peu la version 3d de flash : une interface vraiment bien faite avec laquelle on peut construire des jeux vidéos, des mondes virtuels avec juste du drag &amp; drop. C&amp;#8217;est loin d&amp;#8217;être aussi facile d&amp;#8217;approche que du OpenSim ou du Second Life mais le résultat est vraiment impressionnant.</description>
+    </item>
+    
+  </channel>
+</rss>

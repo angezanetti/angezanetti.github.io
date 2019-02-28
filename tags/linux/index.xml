@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Xavier Coiffard</title>
+    <link>https://angezanetti.com/tags/linux/</link>
+    <description>Recent content in Linux on Xavier Coiffard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 19 Jun 2012 07:00:39 +0000</lastBuildDate>
+    
+	<atom:link href="https://angezanetti.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unity3d arrive sous Linux !</title>
+      <link>https://angezanetti.com/unity3d-arrive-sous-linux/</link>
+      <pubDate>Tue, 19 Jun 2012 07:00:39 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/unity3d-arrive-sous-linux/</guid>
+      <description>Si vous suivez ce blog vous connaissez probablement Unity3D. Ce moteur de jeu est de plus en plus populaire et, sa volonté d&amp;#8217;être présent sur tous les supports est une des clés de son succès. On peut en effet jouer à des jeux unity dans son navigateur, sur son téléphone, sa console ou encore avec sa tablette.
+Mais, ombre au tableau, pas sous un PC tournant sous Linux !
+Avec la nouvelle mouture d&amp;#8217;Unity 4.</description>
+    </item>
+    
+  </channel>
+</rss>

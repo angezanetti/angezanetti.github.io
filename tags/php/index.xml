@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Php on Xavier Coiffard</title>
+    <link>https://angezanetti.com/tags/php/</link>
+    <description>Recent content in Php on Xavier Coiffard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 27 Apr 2015 12:13:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://angezanetti.com/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fuite mémoire avec curl et NSS sous RedHat</title>
+      <link>https://angezanetti.com/fuite-memoire-curl-php-red-hat-nss/</link>
+      <pubDate>Mon, 27 Apr 2015 12:13:51 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/fuite-memoire-curl-php-red-hat-nss/</guid>
+      <description>Depuis plusieurs mois je travaille pour une startup qui fait de la lutte contre la fraude. En deux mots, les clients nous envoient des flux XML et nous leur renvoyons note correspondant à l&amp;#8217;indice de confiance de la transaction.
+Et, début Janvier nous avons intégré un GROS client. Du genre à faire pâlir les sysadmin. Cela nous à forcer à reconstruire une partie du code, à revoir l&amp;#8217;architecture de l&amp;#8217;application (qui est au passage devenue une application symfony2).</description>
+    </item>
+    
+    <item>
+      <title>Silex un framework minimaliste PHP que vous devriez tester</title>
+      <link>https://angezanetti.com/silex-framework-minimaliste-php-symfony/</link>
+      <pubDate>Thu, 06 Mar 2014 13:08:19 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/silex-framework-minimaliste-php-symfony/</guid>
+      <description>Silex est un micro framework édité par SensioLabs, la société qui édite le fameux framework Symfony.
+Un micro Framework Silex est micro, vraiment micro. Même l&amp;#8217;installation tiens en deux lignes:
+$ curl -sS https://getcomposer.org/installer | php $ composer.phar install Une fois ces deux lignes exécutées vous vous trouvez avec:
+ un répertoire vendor qui embarque Pimple, une librairie pour l&amp;#8217;injection de dépendances et les modules de gestion HTTP de Symfony ( pour gérer les routes, les requêtes etc.</description>
+    </item>
+    
+    <item>
+      <title>La programmation objet en PHP</title>
+      <link>https://angezanetti.com/la-programmation-objet-en-php/</link>
+      <pubDate>Wed, 07 Aug 2013 09:53:03 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/la-programmation-objet-en-php/</guid>
+      <description>La programmation objet est un pilier du développement actuel. Tout les frameworks modernes sont basé sur ce principe, tout développeur se doit de connaître les bases de la POO et de les appliquer.
+Mais bien souvent le client nous presse, on a pas envie de se compliquer la vie ou juste on voit pas l&amp;#8217;intérêt de faire vraiment de l&amp;#8217;objet. J&amp;#8217;ai trouvé sur la chaine Youtube de M6 dédié à la technique une vidéo vraiment bien faite sur les best practices de la POO en PHP.</description>
+    </item>
+    
+  </channel>
+</rss>

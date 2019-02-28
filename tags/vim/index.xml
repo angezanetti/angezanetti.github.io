@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vim on Xavier Coiffard</title>
+    <link>https://angezanetti.com/tags/vim/</link>
+    <description>Recent content in Vim on Xavier Coiffard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 17 Jan 2014 13:21:33 +0000</lastBuildDate>
+    
+	<atom:link href="https://angezanetti.com/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Faire fonctionner le copier/coller avec Vim dans le terminal</title>
+      <link>https://angezanetti.com/faire-fonctionner-le-copiercoller-avec-vim-dans-le-terminal/</link>
+      <pubDate>Fri, 17 Jan 2014 13:21:33 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/faire-fonctionner-le-copiercoller-avec-vim-dans-le-terminal/</guid>
+      <description>Pour faire suite au billet de présentation de Vim que j&amp;#8217;ai publié il y a quelques jours un petit tutorial pour activé le support du copier/coller avec Vim en mode console.
+Vim n&amp;#8217;embarque pas de base la gestion du presse papier de base, et cela pour éviter de surcharger le logiciel qui n&amp;#8217;est pas forcement utilisé par des distributions avec une interface graphique &amp;#8211; sur les serveurs par exemple.
+La première chose à faire est donc de vérifier si Vim est compilé avec le support du serveur X.</description>
+    </item>
+    
+    <item>
+      <title>Vim, un éditeur de texte du 21ème siècle</title>
+      <link>https://angezanetti.com/vim-un-editeur-de-texte-du-21eme-siecle/</link>
+      <pubDate>Sat, 04 Jan 2014 09:38:33 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/vim-un-editeur-de-texte-du-21eme-siecle/</guid>
+      <description>Je me rends compte que je ne vous ai jamais parlé de Vim sur ce blog. J&amp;#8217;ai un vieux brouillon qui date de 2 ans sur le sujet mais je n&amp;#8217;ai jamais publié d&amp;#8217;articles alors qu&amp;#8217;il y a matière !
+Vim, pour ceux qui ne le connaissent pas est un &amp;#8220;vieil&amp;#8221; éditeur de texte en mode texte. J&amp;#8217;ai commencé à m&amp;#8217;y intéresser il y a 2-3 ans quand je faisais des recherches sur l&amp;#8217;ergonomie du poste de travail.</description>
+    </item>
+    
+  </channel>
+</rss>

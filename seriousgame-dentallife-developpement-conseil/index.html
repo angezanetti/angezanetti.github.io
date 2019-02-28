@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="author" content="Xavier">
+<meta name="description" content="Il y a quelques semaines sortait de façon officielle le seriousgame dentallife : &amp;#8220;Urgences en cabinet Dentaire&amp;#8221;.
+Je n&amp;#8217;ai jamais pris le temps d&amp;#8217;exposer mon retour d&amp;#8217;expérience sur ce projet, ce billet va essayer de corriger cet oubli en exposant notre démarche dans la conception et la réalisation du seriousgame.
+La conception du projet : Au début de l&amp;#8217;année 2011 Guillaume est venu me trouver pour me proposer un projet aussi passionant que culotté : faire un seriousgame en moins de 3 mois."/>
+<meta name="keywords" content=""/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="https://angezanetti.com/seriousgame-dentallife-developpement-conseil/" />
+
+
+    <title>
+        
+            Retour sur la création de Dentallife, le serious game de l’urgence en cabinet dentaire :: Xavier Coiffard  — Hello Friend NG Theme
+        
+    </title>
+
+
+
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Source+Code+Pro" rel="stylesheet" type="text/css">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/css/flag-icon.min.css" rel="stylesheet" type="text/css">
+
+
+<link rel="stylesheet" href="https://angezanetti.com/scss/main.min.099699ab246bf26f50616f7c9f00c79d46110459d1bd727b2d07d6fc09ece082.css">
+
+<link rel="apple-touch-icon" sizes="180x180" href="https://angezanetti.com/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://angezanetti.com/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://angezanetti.com/favicon-16x16.png">
+<link rel="manifest" href="https://angezanetti.com/site.webmanifest">
+<link rel="mask-icon" href="https://angezanetti.com/safari-pinned-tab.svg" color="">
+<link rel="shortcut icon" href="https://angezanetti.com/favicon.ico">
+
+<meta itemprop="name" content="Retour sur la création de Dentallife, le serious game de l’urgence en cabinet dentaire">
+<meta itemprop="description" content="Il y a quelques semaines sortait de façon officielle le seriousgame dentallife : &#8220;Urgences en cabinet Dentaire&#8221;.
+Je n&#8217;ai jamais pris le temps d&#8217;exposer mon retour d&#8217;expérience sur ce projet, ce billet va essayer de corriger cet oubli en exposant notre démarche dans la conception et la réalisation du seriousgame.
+La conception du projet : Au début de l&#8217;année 2011 Guillaume est venu me trouver pour me proposer un projet aussi passionant que culotté : faire un seriousgame en moins de 3 mois.">
+
+
+<meta itemprop="datePublished" content="2011-05-31T14:21:44&#43;00:00" />
+<meta itemprop="dateModified" content="2011-05-31T14:21:44&#43;00:00" />
+<meta itemprop="wordCount" content="801">
+
+
+
+<meta itemprop="keywords" content="DentalLife,Jobs,Second Life,SeriousGame," />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://angezanetti.com"/>
+
+<meta name="twitter:title" content="Retour sur la création de Dentallife, le serious game de l’urgence en cabinet dentaire"/>
+<meta name="twitter:description" content="Il y a quelques semaines sortait de façon officielle le seriousgame dentallife : &#8220;Urgences en cabinet Dentaire&#8221;.
+Je n&#8217;ai jamais pris le temps d&#8217;exposer mon retour d&#8217;expérience sur ce projet, ce billet va essayer de corriger cet oubli en exposant notre démarche dans la conception et la réalisation du seriousgame.
+La conception du projet : Au début de l&#8217;année 2011 Guillaume est venu me trouver pour me proposer un projet aussi passionant que culotté : faire un seriousgame en moins de 3 mois."/>
+
+
+<meta property="article:section" content="Non classé" />
+<meta property="article:published_time" content="2011-05-31 14:21:44 &#43;0000 &#43;0000" />
+
+
+
+
+
+
+
+
+
+    </head>
+
+    <body class="dark-theme">
+        <div class="container">
+            <header class="header">
+    <span class="header__inner">
+        <a href="https://angezanetti.com/" style="text-decoration: none;">
+    <div class="logo">
+        
+            <span class="logo__mark">></span>
+            <span class="logo__text">AngeZanetti.com</span>
+            <span class="logo__cursor"></span>
+        
+    </div>
+</a>
+
+
+        <span class="header__right">
+            
+                <nav class="menu">
+    <ul class="menu__inner"><li><a href="https://angezanetti.com/about/">About</a></li><li><a href="https://angezanetti.com/posts/">Blog</a></li>
+    </ul>
+</nav>
+
+                <span class="menu-trigger">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+                    </svg>
+                </span>
+            
+
+            <span class="theme-toggle"><svg class="theme-toggler" width="24" height="24" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
+  3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
+  13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z"/>
+</svg>
+</span>
+        </span>
+    </span>
+</header>
+
+
+            <div class="content">
+                
+    <main class="post">
+
+        <div class="post-info">
+            
+            </p>
+        </div>
+
+        <article>
+            <h2 class="post-title"><a href="https://angezanetti.com/seriousgame-dentallife-developpement-conseil/">Retour sur la création de Dentallife, le serious game de l’urgence en cabinet dentaire</a></h2>
+
+            
+
+            <div class="post-content">
+                
+
+<p>Il y a quelques semaines sortait de façon officielle le <a title="Seriousgame DEntallife Urgences en cabinet dentaire" href="http://blog.dentallife.fr/" target="_blank"><strong>seriousgame dentallife : &#8220;Urgences en cabinet Dentaire&#8221;</strong></a>.</p>
+
+<p>Je n&#8217;ai jamais pris le temps d&#8217;exposer mon retour d&#8217;expérience sur ce projet, ce billet va essayer de corriger cet oubli en exposant notre démarche dans la conception et la réalisation du seriousgame.</p>
+
+<p><img class="aligncenter size-full wp-image-1006" title="seriousgamedentallife" src="https://i2.wp.com/angezanetti.com/wp-content/uploads/2011/05/seriousgamedentallife.png?resize=600%2C407" alt="Serious Game Dentallife urgences en cabinet dentaire" width="600" height="407" data-recalc-dims="1" /></p>
+
+<h3 id="la-conception-du-projet">La conception du projet :</h3>
+
+<p>Au début de l&#8217;année 2011 Guillaume est venu me trouver pour me proposer un projet aussi passionant que culotté  : faire un seriousgame en moins de 3 mois. Ce seriousgame devra être intégré sur son île Second Life et être le plus modulaire possible.</p>
+
+<p>Dis comme cela cela ressemble beaucoup à une mission impossible, finalement nous avons réussi et j&#8217;en suis assez fier. Pour ceux qui se demandait ce que je faisait en Guadeloupe cet hivers, vous avez la réponse : du code !</p>
+
+<p>Plus sérieusement, les deux freins technologiques majeurs de ce projet étaient  :</p>
+
+<ol>
+<li>Avoir un outil ergonomique en drag &amp; drop pour créer du scénario</li>
+<li>Intégrer dans SL les informations du scénario en temps réel &#8211; Aussi bien pour communiquer avec l&#8217;apprenant qu&#8217;avec les objets inworld.</li>
+</ol>
+
+<p>Nous avons donc du faire des choix qui ont été décisifs :</p>
+
+<p>&#8211; Nous avons décidé d&#8217;<strong>extérioriser le maximum</strong> de contenu et de calculs sur un <strong>serveur externe</strong>, SecondLife est plutôt limité en terme de mémoire et de puissance de calcul, l&#8217;idée était donc de faire faire le travail par un serveur et de rapatrier les données finales dans SL grâce à des <a title="HTTPRequest LSL" href="http://wiki.secondlife.com/wiki/Http_request/fr" target="_blank">llHttpRequest</a>. Avec cette méthode les objets sont capables de savoir exactement où en est le scénario et donc s&#8217;il doivent être cliqué, s&#8217;il attendent une réponse par chat etc&#8230;</p>
+
+<p>&#8211; De la même façon tous les messages adressés à l&#8217;étudiant sont générés par le serveur en fonctions de ces actions directes et affichées sur une page web. Nous avons créer dans SL <strong>un HUD</strong> qui permet d&#8217;afficher cette page web et de recevoir les clics de l&#8217;avatar. Au passage ce HUD fait la passerelle entre le serveur, les objets et l&#8217;avatars. Une grand partie de l&#8217;identification et des messages d&#8217;avancements passe par lui.</p>
+
+<p>&#8211; Enfin nous avons mis en place sur un serveur un <strong>outil de création de scénarios</strong> &#8211; tout en drag &amp; drop &#8211; pour la création et la modification des scénarios à la volée. N&#8217;importe quel utilisateur peut donc créer des scénarios en choisissant les briques qu&#8217;il veut incorporer et en les glisant dans l&#8217;arborescence de son scenario. La création des briques est, elle, encore soumise à l&#8217;écriture de code.</p>
+
+<p><img class="aligncenter size-full wp-image-1007" title="seriousgamedentallife2" src="https://i0.wp.com/angezanetti.com/wp-content/uploads/2011/05/seriousgamedentallife2.png?resize=600%2C428" alt="Cabinet Dentaire Seriousgame" width="600" height="428" data-recalc-dims="1" /></p>
+
+<p><span style="font-size: 15px; font-weight: bold;">La mise en production :</span></p>
+
+<p>Depuis quelques semaines tout le monde peut donc, en s&#8217;inscrivant sur le site de dentallife, suivre le cours d&#8217;urgences en cabinet dentaire. En pratique ce sont bien evidemment les étudiants qui sont le plus nombreux. Vous pouvez d&#8217;ailleurs retrouver quelques retours intéressants de leurs expériences sur le blog de dentallife (<a title="Dentallife" href="http://blog.dentallife.fr/" target="_blank"><a href="http://blog.dentallife.fr/">http://blog.dentallife.fr/</a></a>)</p>
+
+<p>Attention toutefois si vous voulez tester, c&#8217;est assez long et complexe, je vous ai parlé jusque maintenant que de la partie animations mais il faut au préalable lire des diaporamas et répondre correctement à des quizz avant de pouvoir accéder aux anims ! Des connaissances en anatomie et en permiers secours sont donc requises !</p>
+
+<h3 id="mon-sentiment-sur-ce-projet">Mon sentiment sur ce projet :</h3>
+
+<p>Déjà  je suis assez fier d&#8217;avoir réussi à relever du défi &#8211; notamment sur le délai !</p>
+
+<p>Sur le côté &#8220;ROI&#8221;, c&#8217;est effectivement très dur à évaluer mais globalement les <a title="Retour seriousgame dentallife" href="http://blog.dentallife.fr/" target="_blank">premiers retours d&#8217;étudiants</a> sont bons et ceux des professeurs d&#8217;universités et des dentistes sont eux aussi très bons. Tous sont intéressés par ce nouvel outil voire plus !</p>
+
+<p>Pour avoir tester les animations en conditions réelles je dois dire que c&#8217;est assez bluffant. Bien sur on n&#8217;apprendra jamais à faire un massage cardiaque efficace avec cet outil mais l&#8217;enchainement des idées et des actions est bien présent et, bizarrement, le stress aussi ! On sent vraiment l&#8217;action se dérouler, et, étape par étape, on mémorise la marche à suivre.</p>
+
+<p>Je crois, sans vouloir m&#8217;avancer de trop, que le but est atteint !</p>
+
+<p>D&#8217;un point de vue technique maintenant, pas mal de petites choses pourraient être améliorées. Notamment la communication entre le serveur et SL qui, parfois, est un peu anarchique. Le lag inhérent à SL est vraiment une plaie pour un projet de cette taille. La gestion des requêtes HTTP est assez aléatoire et l&#8217;ergonomie du HUD n&#8217;est pas aussi bonne que ce que l&#8217;on pensait.</p>
+
+<p>Enfin, la création des scénarios pourrait être amélioré, nous sommes partis sur l&#8217;idée de faire des scénarios linéaires &#8211; en raison des contraintes de temps et d&#8217;argent &#8211; Il est clair qu&#8217;une des grosse amélioration de ce seriousgame serait al mise en place d&#8217;outil de création de scénario aléatoire, sous forme d&#8217;arbres décisionnels voire même d&#8217;intelligence artificielle.</p>
+
+<p>Mais qui sait peut être dans une version 2 !</p>
+
+<p>&nbsp;</p>
+
+            </div>
+        </article>
+
+        <hr />
+
+        <div class="post-info">
+  				<p>
+  					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg><span class="tag"><a href="https://angezanetti.com/tags/dentallife">DentalLife</a></span><span class="tag"><a href="https://angezanetti.com/tags/jobs">Jobs</a></span><span class="tag"><a href="https://angezanetti.com/tags/second-life">Second Life</a></span><span class="tag"><a href="https://angezanetti.com/tags/seriousgame">SeriousGame</a></span>
+  				</p>
+  			</div>
+
+        
+    </main>
+
+            </div>
+
+            
+                <footer class="footer">
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>&copy; 2019</span>
+            
+                <span><a href="https://angezanetti.com">Xavier Coiffard</a></span>
+            
+            <span><a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></span>
+            <span> <a href="https://angezanetti.com/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a></span>
+        </div>
+    </div>
+    <div class="footer__inner">
+        <div class="footer__content">
+
+        </div>
+    </div>
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>Powered by <a href="http://gohugo.io">Hugo</a></span>
+            <span>Made with &#10084; by <a href="https://github.com/rhazdon">rhazdon</a></span>
+        </div>
+    </div>
+</footer>
+
+            
+        </div>
+
+        
+
+
+
+
+
+<script type="text/javascript" src="https://angezanetti.com/js/bundle.f65a6fe80656eb86fce3f1228faa2ac0bf43b28d21eb91975f036839ed92dfd126cabb91223501623641f4ea67ac5d03882d0b8c744da38c637a1fdf8e9016c6.js" integrity="sha512-9lpv6AZW64b84/Eij6oqwL9Dso0h65GXXwNoOe2S39EmyruRIjUBYjZB9OpnrF0DiC0LjHRNo4xjeh/fjpAWxg=="></script>
+
+    </body>
+</html>

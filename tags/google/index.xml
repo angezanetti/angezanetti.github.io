@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google on Xavier Coiffard</title>
+    <link>https://angezanetti.com/tags/google/</link>
+    <description>Recent content in Google on Xavier Coiffard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 19 Dec 2012 16:36:22 +0000</lastBuildDate>
+    
+	<atom:link href="https://angezanetti.com/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Un an (presque) sans Google, retour d’experience</title>
+      <link>https://angezanetti.com/un-an-sans-google-retour-experience/</link>
+      <pubDate>Wed, 19 Dec 2012 16:36:22 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/un-an-sans-google-retour-experience/</guid>
+      <description>Comme beaucoup de travailleurs du web j&amp;#8217;ai longtemps été fan de Google au point d&amp;#8217;utiliser ses produits pour à peu près toute ma vie numérique : mails, todolist, recherche, documents partagés, réseau social, organisation d&amp;#8217;événements etc&amp;#8230; Tout ce que je faisais sur le net passait par Google. J&amp;#8217;ai toujours eu conscience que Google est une société qui fait du bénéfice sur nos données personelles mais je n&amp;#8217;avais pas vraiment l&amp;#8217;envie de changer d&amp;#8217;autant que le marketing de Google est assez doué pour &amp;#8220;draguer&amp;#8221; les geeks avec leurs lot de nouveautés.</description>
+    </item>
+    
+    <item>
+      <title>Body Browser, de la 3D en WebGL pour nous faire réviser l’anatomie humaine</title>
+      <link>https://angezanetti.com/body-browser-de-la-3d-en-webgl-pour-nous-faire-reviser-lanatomie-humaine/</link>
+      <pubDate>Fri, 17 Dec 2010 07:51:31 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/body-browser-de-la-3d-en-webgl-pour-nous-faire-reviser-lanatomie-humaine/</guid>
+      <description>En mai dernier, j&amp;#8217;avais un article un peu euphorique sur le thème &amp;#8221; Youpi Google sort son SDK WebGL&amp;#8221;. Bon, il faut bien le dire; l&amp;#8217;article était un peu incompréhansible pour le non Geek et globalement , depuis, plus grand chose.
+Le &amp;#8220;Youpi&amp;#8221;, c&amp;#8217;était donc transformé en &amp;#8220;ouais bon il faut attendre encore un peu&amp;#8221;. Mais hier je suis tombé sur l&amp;#8217;article de Rémi (qui est aussi Geek que medecin d&amp;#8217;ailleurs) et qui m&amp;#8217;a fait découvrir Google Body Browser.</description>
+    </item>
+    
+    <item>
+      <title>Google sort son “Native client SDK”</title>
+      <link>https://angezanetti.com/google-native-client-sdk/</link>
+      <pubDate>Thu, 13 May 2010 09:28:23 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/google-native-client-sdk/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;alignleft&#34; title=&#34;Google Chrome Native SDK&#34; src=&#34;http://emsallem.files.wordpress.com/2009/12/logo-google-chrome-navigateur-web.jpg?resize=150%2C141&#34; alt=&#34;&#34; width=&#34;150&#34; height=&#34;141&#34; data-recalc-dims=&#34;1&#34; /&gt;Hier Google annonçait la sortie d&amp;#8217;un &lt;a href=&#34;http://blog.chromium.org/2010/05/sneak-peek-at-native-client-sdk.html&#34;&gt;Native client SDK&lt;/a&gt;, et moi cela me rend joyeux. Alors qu&amp;#8217;est ce que c&amp;#8217;est ce truc barbare?&lt;/p&gt;
+
+&lt;p&gt;En fait c&amp;#8217;est un outil pour les développeurs, outil qui va permettre d&amp;#8217;intégrer à Chrome &amp;#8211; la navigateur internet &amp;#8211; de nouvelles applications. Et le tout facilement sans créer de ralentissement particulier. En fait avec ce SDK, Chrome pourra traiter des langage de programmation autre que le HTML, CSS ou JavaScript. Des langages comme le C, C++ mais aussi du &lt;a href=&#34;http://www.lua.org/&#34; title=&#34;Lua Programming Gems &#34;&gt;LUA&lt;/a&gt; &amp;#8211; langage orienté jeux vidéos et qui est la base de &lt;a title=&#34;VastPark&#34; href=&#34;http://www.vastpark.com/&#34; target=&#34;_blank&#34;&gt;VastPark&lt;/a&gt; :)&lt;/p&gt;
+
+&lt;p&gt;Et là tout s&amp;#8217;éclaire ! Ce truc obscur destiné aux barbus va peut être bien nous changer la vie, du moins celle de nos avatars. Si Chrome est capable de comprendre du LUA et de piloter &lt;a href=&#34;http://fr.wikipedia.org/wiki/OpenGL&#34;&gt;OpenGL&lt;/a&gt; -qui est la spécification qui gère la 3D &amp;#8211; alors il y a de grande chances que l&amp;#8217;on voit VastPark arrivé dans notre navigateur Chrome sous peu non?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Et si je faisais un peu de com’?</title>
+      <link>https://angezanetti.com/video-presentation-angezanetti/</link>
+      <pubDate>Fri, 16 Apr 2010 13:37:01 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/video-presentation-angezanetti/</guid>
+      <description>&lt;p&gt;Je me suis inspiré d&amp;#8217;un &lt;a href=&#34;http://www.emilieogez.com/outils-et-technologies/creez-votre-histoire-avec-google-search-stories/&#34; target=&#34;_blank&#34;&gt;billet d&amp;#8217;Émilie Ogez&lt;/a&gt; pour me faire une petite vidéo de promotion de mon activité avec Google Search Stories Video Creator :&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>[Tuto] Partager son Agenda sous Mac, Ubuntu et Nokia facilement</title>
+      <link>https://angezanetti.com/partager-agenda-mac-ubuntu-nokia/</link>
+      <pubDate>Mon, 29 Mar 2010 07:07:06 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/partager-agenda-mac-ubuntu-nokia/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Depuis Vendredi dernier je suis l&amp;#8217;heureux possesseur d&amp;#8217;un macbook. C&amp;#8217;est une très bonne machine, et j&amp;#8217;en parlerais probablement ici un peu plus tard mais ce n&amp;#8217;est pas l&amp;#8217;objet de ce post.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Ici je vais vous parler Agenda, en effet j&amp;#8217;ai jusqu&amp;#8217;à maintenant utilisé un bon vieux agenda papier pour gérer mes RDV, obligations et todo list mais il faut bien avouer que ce n&amp;#8217;est pas très pratique. Surtout quand on se déplace, ce que j&amp;#8217;ai de plus en plus l&amp;#8217;occasion de faire. Et l&amp;#8217;arrivée d&amp;#8217;un nouveau système d&amp;#8217;exploitation dans mon panel de machine ne facilite pas franchement la chose. Ce week-end je me suis donc attelé à mettre mon agenda dans les nuages et à le synchroniser avec tous mes OS.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
