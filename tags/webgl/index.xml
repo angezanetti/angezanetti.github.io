@@ -166,43 +166,5 @@ Le &amp;#8220;Youpi&amp;#8221;, c&amp;#8217;était donc transformé en &amp;#822
 &lt;p&gt;La bataille pour le standard de l&amp;#8217;internet 3D à commencé :)&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>Google sort son “Native client SDK”</title>
-      <link>https://angezanetti.com/google-native-client-sdk/</link>
-      <pubDate>Thu, 13 May 2010 09:28:23 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/google-native-client-sdk/</guid>
-      <description>&lt;p&gt;&lt;img class=&#34;alignleft&#34; title=&#34;Google Chrome Native SDK&#34; src=&#34;http://emsallem.files.wordpress.com/2009/12/logo-google-chrome-navigateur-web.jpg?resize=150%2C141&#34; alt=&#34;&#34; width=&#34;150&#34; height=&#34;141&#34; data-recalc-dims=&#34;1&#34; /&gt;Hier Google annonçait la sortie d&amp;#8217;un &lt;a href=&#34;http://blog.chromium.org/2010/05/sneak-peek-at-native-client-sdk.html&#34;&gt;Native client SDK&lt;/a&gt;, et moi cela me rend joyeux. Alors qu&amp;#8217;est ce que c&amp;#8217;est ce truc barbare?&lt;/p&gt;
-
-&lt;p&gt;En fait c&amp;#8217;est un outil pour les développeurs, outil qui va permettre d&amp;#8217;intégrer à Chrome &amp;#8211; la navigateur internet &amp;#8211; de nouvelles applications. Et le tout facilement sans créer de ralentissement particulier. En fait avec ce SDK, Chrome pourra traiter des langage de programmation autre que le HTML, CSS ou JavaScript. Des langages comme le C, C++ mais aussi du &lt;a href=&#34;http://www.lua.org/&#34; title=&#34;Lua Programming Gems &#34;&gt;LUA&lt;/a&gt; &amp;#8211; langage orienté jeux vidéos et qui est la base de &lt;a title=&#34;VastPark&#34; href=&#34;http://www.vastpark.com/&#34; target=&#34;_blank&#34;&gt;VastPark&lt;/a&gt; :)&lt;/p&gt;
-
-&lt;p&gt;Et là tout s&amp;#8217;éclaire ! Ce truc obscur destiné aux barbus va peut être bien nous changer la vie, du moins celle de nos avatars. Si Chrome est capable de comprendre du LUA et de piloter &lt;a href=&#34;http://fr.wikipedia.org/wiki/OpenGL&#34;&gt;OpenGL&lt;/a&gt; -qui est la spécification qui gère la 3D &amp;#8211; alors il y a de grande chances que l&amp;#8217;on voit VastPark arrivé dans notre navigateur Chrome sous peu non?&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Quake 2 dans votre navigateur et sans plugin c’est fait ! Merci WebGL</title>
-      <link>https://angezanetti.com/quake-2-webgl-html5/</link>
-      <pubDate>Mon, 05 Apr 2010 13:01:22 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/quake-2-webgl-html5/</guid>
-      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
-  Je vous &lt;a href=&#34;http://angezanetti.com/webgl-katalabs-mondes-virtuels/&#34;&gt;parlais il y a un mois de&lt;strong&gt; WebGL&lt;/strong&gt;&lt;/a&gt;, une technologie qui utilise &lt;strong&gt;HTML 5 &lt;/strong&gt;pour mettre de la 3d directement dans votre navigateur. Et bien je suis ce projet de près depuis ma découverte de cette techno et je viens de trouver une news qui me plait beaucoup : Quake 2 fonctionne avec cette technologie :)
-&lt;/p&gt;
-
-&lt;p style=&#34;text-align: justify;&#34;&gt;
-  Autrement dit vous pouvez maintenant jouer à un jeu vidéo sans autre logiciel que votre navigateur web et sans avoir la peine d&amp;#8217;installer le moindre plugin. Juste une url à taper et hop vous vous retrouvez un minigun à la main entrain de tuer du méchant à tour de bras. C&amp;#8217;est pas génial ça?
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>WebGL, le futur des mondes virtuels?</title>
-      <link>https://angezanetti.com/webgl-katalabs-mondes-virtuels/</link>
-      <pubDate>Sat, 06 Mar 2010 16:00:25 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/webgl-katalabs-mondes-virtuels/</guid>
-      <description>WebGL est un langage permettant d&amp;#8217;afficher de la 3D dans le navigateur sans installer le moindre plugin ou le moindre programme. Alors comment ça marche? J&amp;#8217;ai trouvé sur le blog de Fréderic Cavazzza une explication assez claire :
- _Pour rentrer un peu plus dans les détails, WebGL propose donc au sein d’une page web de lier du contenu à votre carte graphique à l’aide de javascript et d’OpenGL ES. “ES” ?</description>
-    </item>
-    
   </channel>
 </rss>
