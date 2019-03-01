@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Three.js on Xavier Coiffard</title>
-    <link>https://angezanetti.github.io/tags/three.js/</link>
+    <link>https://angezanetti.com/tags/three.js/</link>
     <description>Recent content in Three.js on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Fri, 06 Jan 2012 07:37:57 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.github.io/tags/three.js/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.com/tags/three.js/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Convertir des îles Opensim ou SecondLife en collada</title>
-      <link>https://angezanetti.github.io/convertir-des-iles-opensim-ou-secondlife-en-collada/</link>
+      <link>https://angezanetti.com/convertir-des-iles-opensim-ou-secondlife-en-collada/</link>
       <pubDate>Fri, 06 Jan 2012 07:37:57 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/convertir-des-iles-opensim-ou-secondlife-en-collada/</guid>
+      <guid>https://angezanetti.com/convertir-des-iles-opensim-ou-secondlife-en-collada/</guid>
       <description>Je ne sais pas si vous connaissez Tipodean c&amp;#8217;est une startup dirigée par Chris Collins, un ancien Linden, et qui depuis quelques mois essaye de créer un viewer Unity pour OpenSim et SecondLife. Je vous en parlais en Juillet dernier, à l&amp;#8217;époque ce n&amp;#8217;était pas vraiment au point, c&amp;#8217;était de l&amp;#8217;alpha&amp;#8230;  Mais ils ont continué à travailler et ont annoncé le 3 janvier dernier la sortie d&amp;#8217;un site web qui permet de convertir directement le contenu SecondLife ou OpenSim pour l&amp;#8217;afficher dans le navigateur via Unity3d Ou Flash !</description>
     </item>
     
     <item>
       <title>Un Boilerplate pour Three.js est sorti !</title>
-      <link>https://angezanetti.github.io/un-boilerplate-pour-three-js-est-sorti/</link>
+      <link>https://angezanetti.com/un-boilerplate-pour-three-js-est-sorti/</link>
       <pubDate>Tue, 27 Dec 2011 07:17:56 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/un-boilerplate-pour-three-js-est-sorti/</guid>
+      <guid>https://angezanetti.com/un-boilerplate-pour-three-js-est-sorti/</guid>
       <description>Je ne sais pas si vous connaissez HTML5 Boilerplate, c&amp;#8217;est un outil inspiré de la méthode DRY « don&amp;#8217;t repeat yourself ». Pour faire simple c&amp;#8217;est un ensemble de fichiers qui constitue une base commune pour vos projets web. On trouve un fichier index.html avec les balises de base comme le doctype, le , les sections etc… De même, on trouve des fichiers JS communs comme la librairie Jquery. Bref, tout ce dont on a besoin quand on se lance dans un projet web.</description>
     </item>
     

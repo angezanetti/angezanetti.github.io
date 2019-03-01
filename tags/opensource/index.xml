@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Opensource on Xavier Coiffard</title>
-    <link>https://angezanetti.github.io/tags/opensource/</link>
+    <link>https://angezanetti.com/tags/opensource/</link>
     <description>Recent content in Opensource on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sat, 04 Jan 2014 09:38:33 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.github.io/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.com/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Vim, un éditeur de texte du 21ème siècle</title>
-      <link>https://angezanetti.github.io/vim-un-editeur-de-texte-du-21eme-siecle/</link>
+      <link>https://angezanetti.com/vim-un-editeur-de-texte-du-21eme-siecle/</link>
       <pubDate>Sat, 04 Jan 2014 09:38:33 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/vim-un-editeur-de-texte-du-21eme-siecle/</guid>
+      <guid>https://angezanetti.com/vim-un-editeur-de-texte-du-21eme-siecle/</guid>
       <description>Je me rends compte que je ne vous ai jamais parlé de Vim sur ce blog. J&amp;#8217;ai un vieux brouillon qui date de 2 ans sur le sujet mais je n&amp;#8217;ai jamais publié d&amp;#8217;articles alors qu&amp;#8217;il y a matière !
 Vim, pour ceux qui ne le connaissent pas est un &amp;#8220;vieil&amp;#8221; éditeur de texte en mode texte. J&amp;#8217;ai commencé à m&amp;#8217;y intéresser il y a 2-3 ans quand je faisais des recherches sur l&amp;#8217;ergonomie du poste de travail.</description>
     </item>
     
     <item>
       <title>Freelances contribuez au libre pendant vos temps morts</title>
-      <link>https://angezanetti.github.io/contribuez-opensource-temps-libre-freelance-chomeurs/</link>
+      <link>https://angezanetti.com/contribuez-opensource-temps-libre-freelance-chomeurs/</link>
       <pubDate>Mon, 19 Aug 2013 08:47:29 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/contribuez-opensource-temps-libre-freelance-chomeurs/</guid>
+      <guid>https://angezanetti.com/contribuez-opensource-temps-libre-freelance-chomeurs/</guid>
       <description>Dans la vie professionnelle de tout indépendant il y a des temps morts. Entre deux contrats, avant ou après avoir fait de la prospection commerciale, les moments où l&amp;#8217;on est pas forcement débordé sont assez fréquents. Hors ce sont bien souvent ces temps là qui nous permettent de nous former, d&amp;#8217;apprendre, de faire de la veille.
 
 Depuis quelques temps déjà j&amp;#8217;essaye de consacrer ces temps morts à des projets opensource.</description>
@@ -34,29 +34,29 @@ Depuis quelques temps déjà j&amp;#8217;essaye de consacrer ces temps morts à 
     
     <item>
       <title>Un Boilerplate pour Three.js est sorti !</title>
-      <link>https://angezanetti.github.io/un-boilerplate-pour-three-js-est-sorti/</link>
+      <link>https://angezanetti.com/un-boilerplate-pour-three-js-est-sorti/</link>
       <pubDate>Tue, 27 Dec 2011 07:17:56 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/un-boilerplate-pour-three-js-est-sorti/</guid>
+      <guid>https://angezanetti.com/un-boilerplate-pour-three-js-est-sorti/</guid>
       <description>Je ne sais pas si vous connaissez HTML5 Boilerplate, c&amp;#8217;est un outil inspiré de la méthode DRY « don&amp;#8217;t repeat yourself ». Pour faire simple c&amp;#8217;est un ensemble de fichiers qui constitue une base commune pour vos projets web. On trouve un fichier index.html avec les balises de base comme le doctype, le , les sections etc… De même, on trouve des fichiers JS communs comme la librairie Jquery. Bref, tout ce dont on a besoin quand on se lance dans un projet web.</description>
     </item>
     
     <item>
       <title>Le Kirsten viewer passe au crowdfunding, vers un nouveau modèle de l’opensource ?</title>
-      <link>https://angezanetti.github.io/kirsten-viewer-crownfunding-secondlife-opnesource-businessplani/</link>
+      <link>https://angezanetti.com/kirsten-viewer-crownfunding-secondlife-opnesource-businessplani/</link>
       <pubDate>Tue, 18 Oct 2011 09:19:39 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/kirsten-viewer-crownfunding-secondlife-opnesource-businessplani/</guid>
+      <guid>https://angezanetti.com/kirsten-viewer-crownfunding-secondlife-opnesource-businessplani/</guid>
       <description>Hier, le 17 Octobre 2011, Lee Quick le main developpeur du Kirsten viewer , le client alternatif le plus populaire auprès de la communauté, a pris une décision assez intéressante. Il n&amp;#8217;a visiblement plus assez de temps pour maintenir son viewer à jour et sollicite l&amp;#8217;appui de la communauté pour l&amp;#8217;aider.
 Ce qui est interessant c&amp;#8217;est la façon donc il s&amp;#8217;y est pris. Car les viewers de Second Life sont opensource, et dans ce monde du code libre l&amp;#8217;aide apportée au(x) développeur(s) est souvent matérialisée sous la forme de ligne de code.</description>
     </item>
     
     <item>
       <title>Retour sur la présentation des nouveautés de VastPark 1.5</title>
-      <link>https://angezanetti.github.io/vastpark-1-5-nouveautes-imml-mondes-virtuels-immersifs/</link>
+      <link>https://angezanetti.com/vastpark-1-5-nouveautes-imml-mondes-virtuels-immersifs/</link>
       <pubDate>Sat, 11 Jun 2011 10:28:52 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/vastpark-1-5-nouveautes-imml-mondes-virtuels-immersifs/</guid>
+      <guid>https://angezanetti.com/vastpark-1-5-nouveautes-imml-mondes-virtuels-immersifs/</guid>
       <description>Hier à la Cantine se tenait une présentation de VastPark 1.5. VastPark, pour ceux qui connaissent pas encore, est un monde virtuel opensource Australien assez peu connu en France. Il est peu connu car il est très orienté développeur et que la communauté des utilisateurs est assez faible.
 La Cantine Presentation, Paris, 10th June 2011  View more presentations from craigomatic 
  Ceci étant, VastPark est incroyablement bien pensé et commence petit à petit à grappiller des places de marchés à ses concurrents.</description>
@@ -64,10 +64,10 @@ La Cantine Presentation, Paris, 10th June 2011  View more presentations from cra
     
     <item>
       <title>Teleplace lance un produit opensource de réunion immersive : OpenQwaq</title>
-      <link>https://angezanetti.github.io/teleplace-openqwaq-opensource-reunion-virtuel/</link>
+      <link>https://angezanetti.com/teleplace-openqwaq-opensource-reunion-virtuel/</link>
       <pubDate>Thu, 05 May 2011 09:28:25 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/teleplace-openqwaq-opensource-reunion-virtuel/</guid>
+      <guid>https://angezanetti.com/teleplace-openqwaq-opensource-reunion-virtuel/</guid>
       <description>Teleplace, un monde virtuel dédié aux entreprises à sorti hier une version opensource de son code serveur.
 Ce changement de stratégie à un but précis : augmenter leur base d&amp;#8217;utilisateurs. La version opensource est donc totalement identique à la version propriétaire exception faite des codecs propriétaires. Et c&amp;#8217;est une très bonne nouvelle car la plateforme de Teleplace embarque des fonctionnalités intéressantes : import de meshs, outils d&amp;#8217;édition inworld, drag &amp;amp; drop de documents MS Office depuis le bureau directement dans la 3D et un accès depuis le navigateur !</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tuto on Xavier Coiffard</title>
-    <link>https://angezanetti.github.io/tags/tuto/</link>
+    <link>https://angezanetti.com/tags/tuto/</link>
     <description>Recent content in Tuto on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 05 Jul 2017 14:36:31 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.github.io/tags/tuto/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.com/tags/tuto/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ecouter de la musique en ligne de commande avec Pianobar</title>
-      <link>https://angezanetti.github.io/radio-webradio-pandora-pianobar/</link>
+      <link>https://angezanetti.com/radio-webradio-pandora-pianobar/</link>
       <pubDate>Wed, 05 Jul 2017 14:36:31 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/radio-webradio-pandora-pianobar/</guid>
+      <guid>https://angezanetti.com/radio-webradio-pandora-pianobar/</guid>
       <description>Petite découverte du jour, si comme moi vous aimez ces petits outils qui permettent de faire pleins de trucs depuis votre terminal.
 Pianobar, est un client console pour Pandora le site de streaming de radio super populaire aux USA.
 Perso je bosse souvent en musique et j&amp;#8217;apprécie tout particulièrement les webradios, plus qu&amp;#8217;un Spotify où il faut choisir un artiste particulier.
@@ -25,10 +25,10 @@ J&amp;#8217;utilisais Youtube avant pour ça mais c&amp;#8217;est lourd, ça bou
     
     <item>
       <title>Eviter les attaques par bruteforce sur WordPress</title>
-      <link>https://angezanetti.github.io/eviter-proteger-premunir-attaques-hack-bruteforce-blog-site-wordpress/</link>
+      <link>https://angezanetti.com/eviter-proteger-premunir-attaques-hack-bruteforce-blog-site-wordpress/</link>
       <pubDate>Sun, 17 Aug 2014 10:00:58 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/eviter-proteger-premunir-attaques-hack-bruteforce-blog-site-wordpress/</guid>
+      <guid>https://angezanetti.com/eviter-proteger-premunir-attaques-hack-bruteforce-blog-site-wordpress/</guid>
       <description>A l&amp;#8217;heure où j&amp;#8217;écris cet article ce blog subit une attaque de type bruteforce depuis plusieurs heures. C&amp;#8217;est donc le moment idéal pour faire un petit tuto sur comment se protéger de ce type d&amp;#8217;attaques dont les sites WordPress sont de plus en plus la cible.
 
 Bruteforce ? Les attaques bruteforce sont les attaques les plus basiques et les plus stupides du monde. Prenez un site que vous voulez attaquer et qui est protégé par mot de passe.</description>
@@ -36,10 +36,10 @@ Bruteforce ? Les attaques bruteforce sont les attaques les plus basiques et les 
     
     <item>
       <title>Faire fonctionner le rétro-éclairage de son MacbookPro 7.1 sous Ubuntu 14.04</title>
-      <link>https://angezanetti.github.io/faire-fonctionner-retro-eclairage-backlight-macbookpro-7-1-sous-ubuntu-14-04/</link>
+      <link>https://angezanetti.com/faire-fonctionner-retro-eclairage-backlight-macbookpro-7-1-sous-ubuntu-14-04/</link>
       <pubDate>Tue, 29 Jul 2014 05:54:52 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/faire-fonctionner-retro-eclairage-backlight-macbookpro-7-1-sous-ubuntu-14-04/</guid>
+      <guid>https://angezanetti.com/faire-fonctionner-retro-eclairage-backlight-macbookpro-7-1-sous-ubuntu-14-04/</guid>
       <description>Depuis la mise à jour de mon Mac sous Ubuntu 14.04 le rétroéclairage de mon écran ne fonctionnait plus. J&amp;#8217;ai passé pas mal de temps à chercher sur le net une solution viable, j&amp;#8217;ai bidouillé pas mal de trucs pour au final tomber sur la doc communautaire qui vient d&amp;#8217;être mis à jour.
 Pour les non anglophones voici la marche à suivre :
 On commence par ouvrir un terminal et lancer la commande suivante:</description>
@@ -47,10 +47,10 @@ On commence par ouvrir un terminal et lancer la commande suivante:</description>
     
     <item>
       <title>Migrer SPIP vers WordPress</title>
-      <link>https://angezanetti.github.io/migrer-spip-vers-wordpress/</link>
+      <link>https://angezanetti.com/migrer-spip-vers-wordpress/</link>
       <pubDate>Sun, 26 Jan 2014 16:28:22 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/migrer-spip-vers-wordpress/</guid>
+      <guid>https://angezanetti.com/migrer-spip-vers-wordpress/</guid>
       <description>Il y a quelques jour on m&amp;#8217;a confié une super mission: migrer un blog SPIP vers un WordPress!
 J&amp;#8217;ai cherché un peu partout une solution simple et clé en main. Visiblement cela n&amp;#8217;existe pas vraiment&amp;#8230; Il y a bien Korben qui à fait un article la dessus, mais son code n&amp;#8217;est plus dispo.
 J&amp;#8217;ai été cherché du côté de la communauté SPIP &amp;#8211; ils sont super sympas d&amp;#8217;ailleurs n&amp;#8217;hésitez pas à aller leur faire un coucou sur IRC !</description>
@@ -58,10 +58,10 @@ J&amp;#8217;ai été cherché du côté de la communauté SPIP &amp;#8211; ils s
     
     <item>
       <title>Faire fonctionner le copier/coller avec Vim dans le terminal</title>
-      <link>https://angezanetti.github.io/faire-fonctionner-le-copiercoller-avec-vim-dans-le-terminal/</link>
+      <link>https://angezanetti.com/faire-fonctionner-le-copiercoller-avec-vim-dans-le-terminal/</link>
       <pubDate>Fri, 17 Jan 2014 13:21:33 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/faire-fonctionner-le-copiercoller-avec-vim-dans-le-terminal/</guid>
+      <guid>https://angezanetti.com/faire-fonctionner-le-copiercoller-avec-vim-dans-le-terminal/</guid>
       <description>Pour faire suite au billet de présentation de Vim que j&amp;#8217;ai publié il y a quelques jours un petit tutorial pour activé le support du copier/coller avec Vim en mode console.
 Vim n&amp;#8217;embarque pas de base la gestion du presse papier de base, et cela pour éviter de surcharger le logiciel qui n&amp;#8217;est pas forcement utilisé par des distributions avec une interface graphique &amp;#8211; sur les serveurs par exemple.
 La première chose à faire est donc de vérifier si Vim est compilé avec le support du serveur X.</description>
@@ -69,67 +69,67 @@ La première chose à faire est donc de vérifier si Vim est compilé avec le su
     
     <item>
       <title>Installer un environnement de développement avec VirtualBox</title>
-      <link>https://angezanetti.github.io/installer-un-environnement-de-developpement-avec-virtualbox/</link>
+      <link>https://angezanetti.com/installer-un-environnement-de-developpement-avec-virtualbox/</link>
       <pubDate>Mon, 26 Aug 2013 09:09:44 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/installer-un-environnement-de-developpement-avec-virtualbox/</guid>
+      <guid>https://angezanetti.com/installer-un-environnement-de-developpement-avec-virtualbox/</guid>
       <description>Travailller avec un LAMP, ou un MAMP, installé en local c&amp;#8217;est bien pour des petits projets, type création de thème/plugins WordPress, mais pour les projets plus conséquents avec des technos plus exotique que PHP il peut être nécessaire de virtualiser un système d&amp;#8217;exploitation pour travailler. Je vous conseillle d&amp;#8217;ailleurs de mettre en local le même système que votre machine de production, ça limite grandement les surprises de mise en prod !</description>
     </item>
     
     <item>
       <title>WP-CLi un outil idéal pour maintenir votre site WordPress</title>
-      <link>https://angezanetti.github.io/wp-cli-outil-ideal-maintenance-wordpress/</link>
+      <link>https://angezanetti.com/wp-cli-outil-ideal-maintenance-wordpress/</link>
       <pubDate>Wed, 03 Jul 2013 16:19:13 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/wp-cli-outil-ideal-maintenance-wordpress/</guid>
+      <guid>https://angezanetti.com/wp-cli-outil-ideal-maintenance-wordpress/</guid>
       <description>En ce moment je suis entrain de monter une offre commerciale de maintenance dédiée aux sites WordPress. Les mises à jour sont bien souvent pas faites par le propriétaire du blog et cela entraine des failles de sécurité importantes. Mais le problème est toujours le même: on oublie, on à pas envie, pas le temps ou on est pas compétent pour le faire ou pour réparer en cas de casse&amp;#8230;</description>
     </item>
     
     <item>
       <title>Installer node.js sur Debian Squeeze avec un gestionnaire de version</title>
-      <link>https://angezanetti.github.io/installer-node-js-debian-squeeze-gestionnaire-version-nvm/</link>
+      <link>https://angezanetti.com/installer-node-js-debian-squeeze-gestionnaire-version-nvm/</link>
       <pubDate>Mon, 15 Apr 2013 09:13:40 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/installer-node-js-debian-squeeze-gestionnaire-version-nvm/</guid>
+      <guid>https://angezanetti.com/installer-node-js-debian-squeeze-gestionnaire-version-nvm/</guid>
       <description>J&amp;#8217;ai fait il y a peu de temps un article sur comment avoir une version de node.js à jour sur Ubuntu, cette fois c&amp;#8217;est un serveur Debian 6 que je dois configurer, du coup je ne peux pas passer par l&amp;#8217;astuce PPA comme sur Ubuntu.
 Alors, bien sur, il y a la solution de la compilation mais bon je suis pas hyper fan&amp;#8230; D&amp;#8217;autant qu&amp;#8217;il existe pour Node.js un petit script qui permet de gérer les versions utilisées de la même façon que RVM pour Ruby.</description>
     </item>
     
     <item>
       <title>Un an (presque) sans Google, retour d’experience</title>
-      <link>https://angezanetti.github.io/un-an-sans-google-retour-experience/</link>
+      <link>https://angezanetti.com/un-an-sans-google-retour-experience/</link>
       <pubDate>Wed, 19 Dec 2012 16:36:22 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/un-an-sans-google-retour-experience/</guid>
+      <guid>https://angezanetti.com/un-an-sans-google-retour-experience/</guid>
       <description>Comme beaucoup de travailleurs du web j&amp;#8217;ai longtemps été fan de Google au point d&amp;#8217;utiliser ses produits pour à peu près toute ma vie numérique : mails, todolist, recherche, documents partagés, réseau social, organisation d&amp;#8217;événements etc&amp;#8230; Tout ce que je faisais sur le net passait par Google. J&amp;#8217;ai toujours eu conscience que Google est une société qui fait du bénéfice sur nos données personelles mais je n&amp;#8217;avais pas vraiment l&amp;#8217;envie de changer d&amp;#8217;autant que le marketing de Google est assez doué pour &amp;#8220;draguer&amp;#8221; les geeks avec leurs lot de nouveautés.</description>
     </item>
     
     <item>
       <title>Comment avoir une version de NodeJs à jour sur Ubuntu ?</title>
-      <link>https://angezanetti.github.io/version-nodejs-a-jour-sur-ubuntu-1204-compilation-ppa/</link>
+      <link>https://angezanetti.com/version-nodejs-a-jour-sur-ubuntu-1204-compilation-ppa/</link>
       <pubDate>Sun, 02 Dec 2012 11:13:13 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/version-nodejs-a-jour-sur-ubuntu-1204-compilation-ppa/</guid>
+      <guid>https://angezanetti.com/version-nodejs-a-jour-sur-ubuntu-1204-compilation-ppa/</guid>
       <description>Je me posé cette question il y a quelques jours après un upgrade de mes paquets sur un serveur qui fonctionne sous Ubuntu 12.04. Les applications misent à jour ne fonctionnaient pas, NPM non plus. Bref, un joli &amp;#8220;foutoir&amp;#8221;. J&amp;#8217;ai mis du temps à comprendre d&amp;#8217;ou venait les problèmes. Finalement un simple
 node -v Et j&amp;#8217;ai compris tout de suite, j&amp;#8217;avais sur mon serveur une vieille version de node.js (0.</description>
     </item>
     
     <item>
       <title>Ajouter un sous domaine sur son serveur dédié avec Apache2</title>
-      <link>https://angezanetti.github.io/ajouter-un-sous-domaine-serveur-dedie-apache2-configuration/</link>
+      <link>https://angezanetti.com/ajouter-un-sous-domaine-serveur-dedie-apache2-configuration/</link>
       <pubDate>Thu, 28 Jun 2012 09:36:36 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/ajouter-un-sous-domaine-serveur-dedie-apache2-configuration/</guid>
+      <guid>https://angezanetti.com/ajouter-un-sous-domaine-serveur-dedie-apache2-configuration/</guid>
       <description>Ces derniers jours j&amp;#8217;ai été confronté deux fois au problème de mise en place de sous domaine sur un serveur dédié, et à chaque fois ce fut une galère. Entre la documentaion trop complète et les différents tutos sur le web qui racontent tout et n&amp;#8217;importe quoi j&amp;#8217;ai passé plusieurs heures à chercher, modifier, effacer des fichiers de config.
 Pour éviter de me reprendre la tête, et en espérant que cela puisse servir à quelques personnes, voici la marche à suivre :</description>
     </item>
     
     <item>
       <title>Réduire le spam sur son site WordPress</title>
-      <link>https://angezanetti.github.io/reduction-spam-wordpress-sans-plugin-htaccess/</link>
+      <link>https://angezanetti.com/reduction-spam-wordpress-sans-plugin-htaccess/</link>
       <pubDate>Thu, 22 Mar 2012 14:53:50 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/reduction-spam-wordpress-sans-plugin-htaccess/</guid>
+      <guid>https://angezanetti.com/reduction-spam-wordpress-sans-plugin-htaccess/</guid>
       <description>Encore une petite note sur WordPress, suite au mail d&amp;#8217;un lecteur qui m&amp;#8217;a prévenu que le formulaire de commentaire renvoyait systématiquement vers une page 404&amp;#8230;
 J&amp;#8217;ai regardé et, effectivement, il y avait une erreur dans mon .htaccess, fichier que j&amp;#8217;avais modifié il y a quelques temps pour réduire le spam ! Bon, le fait est que cela avait bien fonctionné, un peu trop même :)
 Explications : WordPress est victime de son succès, bien souvent les blogs qui utilisent cette plateforme sont la cible de robots spammeurs qui attaquent directement wp-comment-post.</description>
@@ -137,20 +137,20 @@ Explications : WordPress est victime de son succès, bien souvent les blogs qui 
     
     <item>
       <title>La pagination WordPress sans plugin</title>
-      <link>https://angezanetti.github.io/la-pagination-wordpress-sans-plugin/</link>
+      <link>https://angezanetti.com/la-pagination-wordpress-sans-plugin/</link>
       <pubDate>Thu, 15 Mar 2012 07:26:26 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/la-pagination-wordpress-sans-plugin/</guid>
+      <guid>https://angezanetti.com/la-pagination-wordpress-sans-plugin/</guid>
       <description>Encore une petite astuce WordPress trouvée sur catswhocode cette fois. WordPress par défaut ne supporte pas de pagination avec le numéro des pages, notre moteur de bog préféré ne propose que des liens Prec/Suiv. Evidemment une multitude de plugins ont fleuris pour combler cette lacune.
 Mais comme souvent avec les plugins, il y en a des plus ou moins bon, plus ou moins codés avec les pieds. J&amp;#8217;évite donc au maximum l&amp;#8217;utilisation de ses petits bouts de code.</description>
     </item>
     
     <item>
       <title>Configurer WordPress pour utiliser SSH au lieu de FTP</title>
-      <link>https://angezanetti.github.io/configurer-wordpress-ssh-ftp-securite/</link>
+      <link>https://angezanetti.com/configurer-wordpress-ssh-ftp-securite/</link>
       <pubDate>Mon, 12 Mar 2012 17:02:10 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/configurer-wordpress-ssh-ftp-securite/</guid>
+      <guid>https://angezanetti.com/configurer-wordpress-ssh-ftp-securite/</guid>
       <description>J&amp;#8217;ai récemment (re)installé un serveur dédié pour mon ami Guillaume. Ce serveur sert, entre autres, à faire tourner un blog WordPress.
 J&amp;#8217;ai mis en place un LAMP, tout bête et expliqué à Guillaume comment utiliser SSH &amp;#8211; avec SFTP &amp;#8211; pour le transfert de fichiers sur le serveur. Ainsi j&amp;#8217;évite de mettre un serveur FTP, protocole critiqué pour sa sécurité.
  Update Sept 2012 : Depuis la rédaction de ce post il existe un plugin qui fait le boulot en deux clics :http://wordpress.</description>
@@ -158,10 +158,10 @@ J&amp;#8217;ai mis en place un LAMP, tout bête et expliqué à Guillaume commen
     
     <item>
       <title>Installer NodeJS, NPM et Express sur Ubuntu 10.04</title>
-      <link>https://angezanetti.github.io/tuto-installation-nodejs-npm-express-sur-ubuntu-10-04/</link>
+      <link>https://angezanetti.com/tuto-installation-nodejs-npm-express-sur-ubuntu-10-04/</link>
       <pubDate>Thu, 11 Aug 2011 10:04:37 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/tuto-installation-nodejs-npm-express-sur-ubuntu-10-04/</guid>
+      <guid>https://angezanetti.com/tuto-installation-nodejs-npm-express-sur-ubuntu-10-04/</guid>
       <description>Ce billet est autant un aide mémoire pour moi qu&amp;#8217;un billet explicatif pour vous. En effet depuis quelques jours j&amp;#8217;installe NodeJS sur plusieurs serveurs. Sur la version actuelle d&amp;#8217;Ubuntu &amp;#8211; 11.04 &amp;#8211; c&amp;#8217;est relativement facile :
 [bash]sudo apt-get install nodejs[/bash]
 Mais pour les versions antérieures et notamment la dernière LTS, la 10.04, c&amp;#8217;est un poil plus compliqué.
@@ -170,39 +170,39 @@ En fait vous avez deux solutions, compiler ou utiliser la version par paquets.</
     
     <item>
       <title>[Tuto] Enlever les notifications de mise à jour de WordPress sans plugin</title>
-      <link>https://angezanetti.github.io/notifications-mise-a-jour-wordpress/</link>
+      <link>https://angezanetti.com/notifications-mise-a-jour-wordpress/</link>
       <pubDate>Mon, 01 Aug 2011 09:15:16 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/notifications-mise-a-jour-wordpress/</guid>
+      <guid>https://angezanetti.com/notifications-mise-a-jour-wordpress/</guid>
       <description>WordPress est un outil formidable qui évolue très vite porté par une communauté très active. Pour un usage personnel c&amp;#8217;est formidable, les failles de sécurité sont comblées très vite et l&amp;#8217;outil s&amp;#8217;améliore de jours en jours.
 Pour un usage professionnel c&amp;#8217;est parfois plus compliqué, difficile de mettre à jour le site de tous vos clients à chaque nouvelle release. Cela depend du contrat de maintenance que vous avez conclu avec lui, de sa/votre disponibilité etc&amp;#8230;</description>
     </item>
     
     <item>
       <title>[Tuto]Créer un thème de maintenance pour votre blog wordpress</title>
-      <link>https://angezanetti.github.io/creer-theme-maintenance-pour-blog-wordpress/</link>
+      <link>https://angezanetti.com/creer-theme-maintenance-pour-blog-wordpress/</link>
       <pubDate>Tue, 30 Nov 2010 11:04:19 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/creer-theme-maintenance-pour-blog-wordpress/</guid>
+      <guid>https://angezanetti.com/creer-theme-maintenance-pour-blog-wordpress/</guid>
       <description>En ce moment je fais du wordpress, mise en place du serveur, installation de WordPress et intégration du/des thèmes. Dernièrement, enfin avant la pause Indienne on m&amp;#8217;a demandé de faire un thème maintenance pour un site. Le but étant de faire patienter les visiteurs éventuels pendant la mise en place, et accessoirement de mettre son site online avant qu&amp;#8217;il soit terminé à 100% et donc &amp;#8220;d&amp;#8217;habituer&amp;#8221; Google a votre présence sur le web :)</description>
     </item>
     
     <item>
       <title>[Tuto] Monter son serveur ftp avec utilisateurs virtuels</title>
-      <link>https://angezanetti.github.io/tutoria-serveur-ftp-avec-utilisateurs-virtuels/</link>
+      <link>https://angezanetti.com/tutoria-serveur-ftp-avec-utilisateurs-virtuels/</link>
       <pubDate>Thu, 12 Aug 2010 08:15:11 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/tutoria-serveur-ftp-avec-utilisateurs-virtuels/</guid>
+      <guid>https://angezanetti.com/tutoria-serveur-ftp-avec-utilisateurs-virtuels/</guid>
       <description>Pour ceux qui me suivent sur Twitter vous avez du voir apparaitre le hashtag #mutualab. C&amp;#8217;est en fait un projet que j&amp;#8217;ai avec @WoldenAvro. Le but étant de mettre en place une plateforme d&amp;#8217;échanges de &amp;#8220;bout de codes qui marchent&amp;#8221; entre développeurs qui bossent dans les nouveaux médias, plus particulièrement la réalité augmentée/UniversVirtuels.
 Le projet est toujours en gestation, je vous en parlerai plus en détail à la rentrée mais pour le moment je vais vous en faire une présentation technique.</description>
     </item>
     
     <item>
       <title>[Tuto] Partager son Agenda sous Mac, Ubuntu et Nokia facilement</title>
-      <link>https://angezanetti.github.io/partager-agenda-mac-ubuntu-nokia/</link>
+      <link>https://angezanetti.com/partager-agenda-mac-ubuntu-nokia/</link>
       <pubDate>Mon, 29 Mar 2010 07:07:06 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/partager-agenda-mac-ubuntu-nokia/</guid>
+      <guid>https://angezanetti.com/partager-agenda-mac-ubuntu-nokia/</guid>
       <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
   Depuis Vendredi dernier je suis l&amp;#8217;heureux possesseur d&amp;#8217;un macbook. C&amp;#8217;est une très bonne machine, et j&amp;#8217;en parlerais probablement ici un peu plus tard mais ce n&amp;#8217;est pas l&amp;#8217;objet de ce post.
 &lt;/p&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quake on Xavier Coiffard</title>
-    <link>https://angezanetti.github.io/tags/quake/</link>
+    <link>https://angezanetti.com/tags/quake/</link>
     <description>Recent content in Quake on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 05 Apr 2010 13:01:22 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.github.io/tags/quake/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.com/tags/quake/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Quake 2 dans votre navigateur et sans plugin c’est fait ! Merci WebGL</title>
-      <link>https://angezanetti.github.io/quake-2-webgl-html5/</link>
+      <link>https://angezanetti.com/quake-2-webgl-html5/</link>
       <pubDate>Mon, 05 Apr 2010 13:01:22 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/quake-2-webgl-html5/</guid>
+      <guid>https://angezanetti.com/quake-2-webgl-html5/</guid>
       <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
   Je vous &lt;a href=&#34;http://angezanetti.com/webgl-katalabs-mondes-virtuels/&#34;&gt;parlais il y a un mois de&lt;strong&gt; WebGL&lt;/strong&gt;&lt;/a&gt;, une technologie qui utilise &lt;strong&gt;HTML 5 &lt;/strong&gt;pour mettre de la 3d directement dans votre navigateur. Et bien je suis ce projet de près depuis ma découverte de cette techno et je viens de trouver une news qui me plait beaucoup : Quake 2 fonctionne avec cette technologie :)
 &lt;/p&gt;

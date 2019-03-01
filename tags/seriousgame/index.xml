@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seriousgame on Xavier Coiffard</title>
-    <link>https://angezanetti.github.io/tags/seriousgame/</link>
+    <link>https://angezanetti.com/tags/seriousgame/</link>
     <description>Recent content in Seriousgame on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 07 Jun 2012 13:25:25 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.github.io/tags/seriousgame/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.com/tags/seriousgame/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Un jeu Kinect pour aider les enfants autistes</title>
-      <link>https://angezanetti.github.io/autisme-kinect-seriousgame/</link>
+      <link>https://angezanetti.com/autisme-kinect-seriousgame/</link>
       <pubDate>Thu, 07 Jun 2012 13:25:25 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/autisme-kinect-seriousgame/</guid>
+      <guid>https://angezanetti.com/autisme-kinect-seriousgame/</guid>
       <description>Le domaine de la santé est vraiment dynamique dans le domaine de l&amp;#8217;innovation numérique, j&amp;#8217;en parlais d&amp;#8217;ailleurs il y a peu sur ce blog.
 Cette fois il s&amp;#8217;agit d&amp;#8217;aider le développement des enfants autistes en les faisant jouer avec une Kinect. Les avantages sont nombreux comme nous l&amp;#8217;apprend l&amp;#8217;article de regards sur le Numérique.
 Ce type de jeu permet de faire progresser la motricité des enfants mais aide aussi à &amp;#8221; faciliter la discussion, les questions, la résolution de problèmes ».</description>
@@ -24,10 +24,10 @@ Ce type de jeu permet de faire progresser la motricité des enfants mais aide au
     
     <item>
       <title>Les serious game orientés santé ont le vent en poupe !</title>
-      <link>https://angezanetti.github.io/serious-game-sante-2-0/</link>
+      <link>https://angezanetti.com/serious-game-sante-2-0/</link>
       <pubDate>Wed, 02 May 2012 09:15:01 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/serious-game-sante-2-0/</guid>
+      <guid>https://angezanetti.com/serious-game-sante-2-0/</guid>
       <description>Les seriousgame sont particulièrement adapté aux situations d&amp;#8217;urgence, de répétition de gestes techniques dans des conditions extrème ou difficile à rejouer.
 C&amp;#8217;est donc sans surprise que l&amp;#8217;on a vu le domaine de la santé se doter de nombreux jeux sérieux. J&amp;#8217;ai trouvé dans ma veille deux exemple de ces seriousgame orientés santé qui me paraisse intéressant, vous trouverez des vidéos ci dessous.
 Le premier jeu est une simulation de consultation médicale qui me rappelle beaucoup la V1 du seriousgame de dentallife</description>
@@ -35,40 +35,40 @@ Le premier jeu est une simulation de consultation médicale qui me rappelle beau
     
     <item>
       <title>SLKinect2, un protocole qui fait la liaison entre votre Kinect &amp; SecondLife ou OpenSim</title>
-      <link>https://angezanetti.github.io/slkinect-kinect-opensim-secondlife/</link>
+      <link>https://angezanetti.com/slkinect-kinect-opensim-secondlife/</link>
       <pubDate>Thu, 12 Jan 2012 06:15:54 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/slkinect-kinect-opensim-secondlife/</guid>
+      <guid>https://angezanetti.com/slkinect-kinect-opensim-secondlife/</guid>
       <description>Petite perle trouvée sur le site de Daneel, SLKinect est un protocole opensource permettant d&amp;#8217;envoyer les datas de votre kinect directement à votre avatar SecondLife &amp;#8211; Il semble que ça tourne aussi avec OpenSim. C&amp;#8217;est développé au NSL (Network System Laboratory) au sein de la TUIS (Tokyo University of Information Sciences).
 Le résultat est vraiment sympa puisque votre avatar reproduit vos gestes fidèlement comme le montre la vidéo ci dessous :</description>
     </item>
     
     <item>
       <title>Vidéo “causerie” sur l’enseignement et les mondes immersifs</title>
-      <link>https://angezanetti.github.io/interet-usages-enseignement-mondes-immersifs/</link>
+      <link>https://angezanetti.com/interet-usages-enseignement-mondes-immersifs/</link>
       <pubDate>Mon, 08 Aug 2011 08:41:55 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/interet-usages-enseignement-mondes-immersifs/</guid>
+      <guid>https://angezanetti.com/interet-usages-enseignement-mondes-immersifs/</guid>
       <description>J&amp;#8217;ai trouvé sur le blog de Gehan une vidéo de qualité mise en ligne par @Batier. C&amp;#8217;est sous la forme d&amp;#8217;une &amp;#8220;causerie&amp;#8221; d&amp;#8217;été entre Christophe Batier, Jean Paul Moiraud et Jacques Rodet.
 On y parle de l&amp;#8217;intérêt d&amp;#8217;un avatar comparé à une simple webcam, à la relation que cela induit. A l&amp;#8217;intérêt des environnements immersifs sur l&amp;#8217;enseignement. Beaucoup de questionnement pertinent sur la 3D, les capacités cognitives des mondes virtuels etc etc.</description>
     </item>
     
     <item>
       <title>Le cloud gaming est-il l’avenir des interfaces immersives ?</title>
-      <link>https://angezanetti.github.io/could-gaming-monde-virtuel-seriousgame/</link>
+      <link>https://angezanetti.com/could-gaming-monde-virtuel-seriousgame/</link>
       <pubDate>Mon, 25 Jul 2011 15:12:09 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/could-gaming-monde-virtuel-seriousgame/</guid>
+      <guid>https://angezanetti.com/could-gaming-monde-virtuel-seriousgame/</guid>
       <description>Après une discussion fournie sur la page FaceBook d&amp;#8217;AngeZanetti à propos de WebGL et de l&amp;#8217;avenir des mondes virtuels et autres seriousgame dans le navigateur, Henri Morlaye co-fondateur d&amp;#8217;AWorldForUs, m&amp;#8217;a fait découvrir le cloud gaming.
 Le concept est assez simple dans le principe, plutôt que de faire travailler votre machine pour afficher les jeux ils font bosser un serveur distant et streament l&amp;#8217;affichage du jeu. Simple mais terriblement efficace ! Car, du coup, la puissance demandée est ridiculement faible au point d&amp;#8217;afficher du monde virtuel sur un smartphone !</description>
     </item>
     
     <item>
       <title>Retour sur la création de Dentallife, le serious game de l’urgence en cabinet dentaire</title>
-      <link>https://angezanetti.github.io/seriousgame-dentallife-developpement-conseil/</link>
+      <link>https://angezanetti.com/seriousgame-dentallife-developpement-conseil/</link>
       <pubDate>Tue, 31 May 2011 14:21:44 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/seriousgame-dentallife-developpement-conseil/</guid>
+      <guid>https://angezanetti.com/seriousgame-dentallife-developpement-conseil/</guid>
       <description>Il y a quelques semaines sortait de façon officielle le seriousgame dentallife : &amp;#8220;Urgences en cabinet Dentaire&amp;#8221;.
 Je n&amp;#8217;ai jamais pris le temps d&amp;#8217;exposer mon retour d&amp;#8217;expérience sur ce projet, ce billet va essayer de corriger cet oubli en exposant notre démarche dans la conception et la réalisation du seriousgame.
 La conception du projet : Au début de l&amp;#8217;année 2011 Guillaume est venu me trouver pour me proposer un projet aussi passionant que culotté : faire un seriousgame en moins de 3 mois.</description>
@@ -76,39 +76,39 @@ La conception du projet : Au début de l&amp;#8217;année 2011 Guillaume est ven
     
     <item>
       <title>Laval Virtual : les serious game (2/2)</title>
-      <link>https://angezanetti.github.io/laval-virtual-les-serious-game/</link>
+      <link>https://angezanetti.com/laval-virtual-les-serious-game/</link>
       <pubDate>Sat, 16 Apr 2011 08:24:14 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/laval-virtual-les-serious-game/</guid>
+      <guid>https://angezanetti.com/laval-virtual-les-serious-game/</guid>
       <description>Je vous avais promis un deuxième article sur Laval Virtual, cette semaine à été pas mal chargée par des gros projets dont je vous parlerais bientôt, mais ça y est, j&amp;#8217;ai le temps de l&amp;#8217;écrire ! Avec le recul je me rend compte que mon premier article à pu être mal compris. Il est vrai que le ton dominant était la déception, mais en AUCUN cas je regrette de m&amp;#8217;y être rendu.</description>
     </item>
     
     <item>
       <title>R.O.G.E.R. le premier Seriousgame à utiliser le Kinect</title>
-      <link>https://angezanetti.github.io/roger-le-premier-seriousgame-a-utiliser-le-kinect/</link>
+      <link>https://angezanetti.com/roger-le-premier-seriousgame-a-utiliser-le-kinect/</link>
       <pubDate>Wed, 23 Feb 2011 09:46:50 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/roger-le-premier-seriousgame-a-utiliser-le-kinect/</guid>
+      <guid>https://angezanetti.com/roger-le-premier-seriousgame-a-utiliser-le-kinect/</guid>
       <description>R.O.G.E.R est un seriousgame en développement par une entreprise de jeux vidéos Belge : Fishing Cactus.
 Il est destiné aux patients souffrant de troubles de la mémoire. Le jeu recrée donc un environnement réaliste dans lequel le patient doit évoluer et s&amp;#8217;adapter en fonction des différents scénarios. En fait, il doit composer une valise en fonction d&amp;#8217;une destination et doit donc aller chercher dans l&amp;#8217;appartement les objets dont il aura besoin.</description>
     </item>
     
     <item>
       <title>Le marché des SeriousGame</title>
-      <link>https://angezanetti.github.io/le-marche-des-seriousgame/</link>
+      <link>https://angezanetti.com/le-marche-des-seriousgame/</link>
       <pubDate>Mon, 21 Feb 2011 10:33:22 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/le-marche-des-seriousgame/</guid>
+      <guid>https://angezanetti.com/le-marche-des-seriousgame/</guid>
       <description>Récemment j&amp;#8217;ai lu l&amp;#8217;étude FEFAUR sur le marché du e-learning. Cette étude est disponible ici : http://www.fefaur.com/&amp;amp;#8230; elle est gratuite même s&amp;#8217;il faut montrer patte blanche avant de pouvoir la recevoir.
 Cette étude date de Septembre 2010 et permet de mettre des chiffres sur le marché du e-learning, et surtout sur celui du SeriousGame. Je vais essayer ici de faire une synthèse de façon à avoir une vision claire du marché des jeux sérieux.</description>
     </item>
     
     <item>
       <title>Retours sur mes interventions de la semaine (Médiathèque des Ulis et HETIC)</title>
-      <link>https://angezanetti.github.io/intervention-hetic-epn-des-ulis/</link>
+      <link>https://angezanetti.com/intervention-hetic-epn-des-ulis/</link>
       <pubDate>Sun, 12 Dec 2010 16:47:52 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/intervention-hetic-epn-des-ulis/</guid>
+      <guid>https://angezanetti.com/intervention-hetic-epn-des-ulis/</guid>
       <description>La semaine dernière, j&amp;#8217;étais à la médiathèque des Ulis pour presenter, à des animateurs d&amp;#8217;espaces publics numériques, les mondes virtuels et les seriousgame.
 L&amp;#8217;affluence n&amp;#8217;était pas vraiment au rendez vous, la neige et Brice Hortefeux ont quelque peu fait barrière :) Mais peu importe l&amp;#8217;important n&amp;#8217;est pas le nombre mais bien la qualité des échanges ! Un peu le même cas de figure la veille ou j&amp;#8217;intervenais à l&amp;#8217;HETIC.
 Vous trouverez ci dessous les slides de mon intervention aux Ulis :</description>
@@ -116,30 +116,30 @@ Vous trouverez ci dessous les slides de mon intervention aux Ulis :</description
     
     <item>
       <title>Vidéo du Vendredi : Changing paradigms</title>
-      <link>https://angezanetti.github.io/video-du-vendredi-changing-paradigms/</link>
+      <link>https://angezanetti.com/video-du-vendredi-changing-paradigms/</link>
       <pubDate>Fri, 15 Oct 2010 08:58:09 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/video-du-vendredi-changing-paradigms/</guid>
+      <guid>https://angezanetti.com/video-du-vendredi-changing-paradigms/</guid>
       <description>Cette vidéo parle d&amp;#8217;éducation au sens large et il m&amp;#8217;a semblé interessant de la partager avec vous sur ce blog. Je l&amp;#8217;ai trouvée chez MrBoo, c&amp;#8217;est en fait un TedShow illustré par RSA Animations.
 C&amp;#8217;est assez concentré et rapide &amp;#8211; et en anglais &amp;#8211; mais le propos est intéressant. Il y a clairement beaucoup de progrès à faire dans le domaine de l&amp;#8217;éducation. Et je crois que les seriousgame peuvent d&amp;#8217;ailleurs très bien rentré dans ce mode de formation moins formel, linéaire et académique.</description>
     </item>
     
     <item>
       <title>CityOne : Le seriousgame pour expliquer l’impact de l’innovation sur nos villes</title>
-      <link>https://angezanetti.github.io/cityone-seriousgame-innavation-villes-decideurs-ibm/</link>
+      <link>https://angezanetti.com/cityone-seriousgame-innavation-villes-decideurs-ibm/</link>
       <pubDate>Wed, 06 Oct 2010 08:27:17 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/cityone-seriousgame-innavation-villes-decideurs-ibm/</guid>
+      <guid>https://angezanetti.com/cityone-seriousgame-innavation-villes-decideurs-ibm/</guid>
       <description>Le 5 Octobre 2010 sortait CityOne un seriousgame crée par IBM. Son but est multiple : vous devez aider les dirigeants d&amp;#8217;une ville à la rendre meilleure aussi bien sur le plan de l&amp;#8217;écologie que commercial, financier ou industriel. Pour cela vous avez le choix des armes, mais les problèmes que vous allez rencontrer se veulent réalistes. Tout un programme :)
 Ce jeu est clairement orienté vers les business man, les décideurs qui ne rendent pas forcement compte de l&amp;#8217;impact de l&amp;#8217;innovation sur notre environnement direct : la ville.</description>
     </item>
     
     <item>
       <title>Best Pratice : La Royal Navy met en place un serious game pour former ces recrues</title>
-      <link>https://angezanetti.github.io/royal-navy-serious-game/</link>
+      <link>https://angezanetti.com/royal-navy-serious-game/</link>
       <pubDate>Mon, 02 Aug 2010 12:30:11 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/royal-navy-serious-game/</guid>
+      <guid>https://angezanetti.com/royal-navy-serious-game/</guid>
       <description>&lt;p&gt;Il y a quelques jours j&amp;#8217;&lt;a title=&#34;Definition serious game&#34; href=&#34;http://angezanetti.com/definition-seriousgame/&#34; target=&#34;_blank&#34;&gt;essayais de vous donner &lt;/a&gt;une définition minimale d&amp;#8217;un serious game. Aujourd&amp;#8217;hui je vais essayer de vous en montrer les bénéfices.&lt;/p&gt;
 
 &lt;p&gt;Plusieurs études sont sorties dernièrement et toutes sont unanimes : les serious game sont un moyen ludique ET efficace d&amp;#8217;apprendre.&lt;/p&gt;
@@ -149,10 +149,10 @@ Ce jeu est clairement orienté vers les business man, les décideurs qui ne rend
     
     <item>
       <title>Qu’est-ce qu’un seriousgame ?</title>
-      <link>https://angezanetti.github.io/definition-seriousgame/</link>
+      <link>https://angezanetti.com/definition-seriousgame/</link>
       <pubDate>Wed, 28 Jul 2010 10:11:38 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/definition-seriousgame/</guid>
+      <guid>https://angezanetti.com/definition-seriousgame/</guid>
       <description>&lt;p&gt;La mode semble être au seriousgame. C&amp;#8217;est même un des termes préféré du marketing : &amp;#8220;seriousgame&amp;#8221;. Ca sonne anglais, et c&amp;#8217;est relevé par le mot &amp;#8220;serious&amp;#8221;, qui décidément, fait nettement plus corporate que &amp;#8220;virtuel&amp;#8221;.&lt;/p&gt;
 
 &lt;p&gt;Je vais essayer dans ce billet d&amp;#8217;éclaircir un peu cette nouvelle notion. Cela me semble nécessaire dans cette folie du &amp;#8220;tout serious game&amp;#8221;. Les amalgames sont beaucoup trop fréquents entre jeux classiques et jeux sérieux, cela me semble important de mettre un peu de limites dans tout ça.&lt;/p&gt;</description>
@@ -160,10 +160,10 @@ Ce jeu est clairement orienté vers les business man, les décideurs qui ne rend
     
     <item>
       <title>MacDonalds utilise un serious game pour former ses employés</title>
-      <link>https://angezanetti.github.io/macdonalds-serious-game/</link>
+      <link>https://angezanetti.com/macdonalds-serious-game/</link>
       <pubDate>Fri, 23 Apr 2010 13:13:05 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/macdonalds-serious-game/</guid>
+      <guid>https://angezanetti.com/macdonalds-serious-game/</guid>
       <description>&lt;p&gt;Le serious game est vraiment un secteur en pleine expansion. J&amp;#8217;ai trouvé une info sur le &lt;a href=&#34;http://www.korben.info/le-serious-game-de-mac-donalds.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+KorbensBlog-UpgradeYourMind+%28Korben%27s+Blog+-+Upgrade+Your+Mind%29&amp;amp;utm_content=Netvibes&#34;&gt;Korben.info&lt;/a&gt; qui confirme cette tendance. Mc Donalds Japon utiliserait un serious game sur NintendoDs pour former ses employés.&lt;/p&gt;
 
 &lt;p&gt;Alors quels sont les avantages?&lt;/p&gt;
@@ -175,30 +175,30 @@ Ce jeu est clairement orienté vers les business man, les décideurs qui ne rend
     
     <item>
       <title>Nouveau Projet : la Fabrique</title>
-      <link>https://angezanetti.github.io/job-lafabrique-serious-game/</link>
+      <link>https://angezanetti.com/job-lafabrique-serious-game/</link>
       <pubDate>Tue, 16 Mar 2010 13:40:33 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/job-lafabrique-serious-game/</guid>
+      <guid>https://angezanetti.com/job-lafabrique-serious-game/</guid>
       <description>Depuis quelques semaines mon activité professionnelle est divisée en deux parties.
  La principale est celle que j&amp;#8217;exerce maintenant depuis un an à savoir Consultant Mondes Virtuels, mais ce qu&amp;#8217;il y a de nouveau c&amp;#8217;est que là dessus c&amp;#8217;est greffé un quart temps pour un projet gouvernemental. Ce projet se nomme &amp;#8220;La Fabrique&amp;#8221; et à pour but de créer une plateforme open-source permettant de simplifier la création de SeriousGame. C&amp;#8217;est un projet très intéressant remporté lors de l&amp;#8217;appel à projet de l&amp;#8217;année dernière par Ingénium, une société spécialisé dans le e-learning.</description>
     </item>
     
     <item>
       <title>UnrealEngine dispo sur Iphone</title>
-      <link>https://angezanetti.github.io/unrealengine-dispo-sur-iphone/</link>
+      <link>https://angezanetti.com/unrealengine-dispo-sur-iphone/</link>
       <pubDate>Wed, 23 Dec 2009 17:36:00 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/unrealengine-dispo-sur-iphone/</guid>
+      <guid>https://angezanetti.com/unrealengine-dispo-sur-iphone/</guid>
       <description>Trouvé chez korben une info qui m&amp;#8217;a mis la puce à l&amp;#8217;oreille : le moteur d&amp;#8217;unreal tournament 3 est maintenant compatible Iphone :
 Du coup je me suis renseigné un peu sur le moteur, et oh! surprise &amp;#8220;the Unreal Engine features a high degree of portability, supporting a multitude of platforms including Microsoft Windows, Linux, Mac OS and Mac OS X on personal computers and many video game consoles including the Dreamcast, Xbox, Xbox 360, PlayStation 2, and PlayStation 3&amp;#8221; (source Wikipedia).</description>
     </item>
     
     <item>
       <title>Pulse, le serious game orienté santé</title>
-      <link>https://angezanetti.github.io/pulse-le-serious-game-oriente-sante/</link>
+      <link>https://angezanetti.com/pulse-le-serious-game-oriente-sante/</link>
       <pubDate>Fri, 04 Dec 2009 09:27:00 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/pulse-le-serious-game-oriente-sante/</guid>
+      <guid>https://angezanetti.com/pulse-le-serious-game-oriente-sante/</guid>
       <description>Le 2 décembre dernier, Richard nous présentait un nouveau serious game dédié à la formation des médecins. Pulse, c&amp;#8217;est son petit nom, est tout simplement le serious game le plus cher de l&amp;#8217;histoire avec quelques 14 millions de dollars d&amp;#8217;investissement ! Le jeu est scénarisé, le médecin apprenant devant poser un diagnostic en fonction des signes cliniques du &amp;#8220;patient&amp;#8221;. Apparemment c&amp;#8217;est plutôt réaliste et la palette d&amp;#8217;interaction est vraiment importante. Aussi bien du coté des réactions du patient virtuel que des possibilités d&amp;#8217;actions sur celui ci -médicaments compris.</description>
     </item>
     

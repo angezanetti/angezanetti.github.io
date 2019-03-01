@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Symfony on Xavier Coiffard</title>
-    <link>https://angezanetti.github.io/tags/symfony/</link>
+    <link>https://angezanetti.com/tags/symfony/</link>
     <description>Recent content in Symfony on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 27 Apr 2015 12:13:51 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.github.io/tags/symfony/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.com/tags/symfony/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fuite mémoire avec curl et NSS sous RedHat</title>
-      <link>https://angezanetti.github.io/fuite-memoire-curl-php-red-hat-nss/</link>
+      <link>https://angezanetti.com/fuite-memoire-curl-php-red-hat-nss/</link>
       <pubDate>Mon, 27 Apr 2015 12:13:51 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/fuite-memoire-curl-php-red-hat-nss/</guid>
+      <guid>https://angezanetti.com/fuite-memoire-curl-php-red-hat-nss/</guid>
       <description>Depuis plusieurs mois je travaille pour une startup qui fait de la lutte contre la fraude. En deux mots, les clients nous envoient des flux XML et nous leur renvoyons note correspondant à l&amp;#8217;indice de confiance de la transaction.
 Et, début Janvier nous avons intégré un GROS client. Du genre à faire pâlir les sysadmin. Cela nous à forcer à reconstruire une partie du code, à revoir l&amp;#8217;architecture de l&amp;#8217;application (qui est au passage devenue une application symfony2).</description>
     </item>

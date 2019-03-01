@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Openwonderland on Xavier Coiffard</title>
-    <link>https://angezanetti.github.io/tags/openwonderland/</link>
+    <link>https://angezanetti.com/tags/openwonderland/</link>
     <description>Recent content in Openwonderland on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Fri, 18 Jun 2010 16:22:24 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.github.io/tags/openwonderland/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.com/tags/openwonderland/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>La vidéo du vendredi : OpenWonderland</title>
-      <link>https://angezanetti.github.io/la-video-du-vendredi-openwonderland/</link>
+      <link>https://angezanetti.com/la-video-du-vendredi-openwonderland/</link>
       <pubDate>Fri, 18 Jun 2010 16:22:24 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/la-video-du-vendredi-openwonderland/</guid>
+      <guid>https://angezanetti.com/la-video-du-vendredi-openwonderland/</guid>
       <description>La vidéo de ce Vendredi traite d&amp;#8217;un monde virtuel que j&amp;#8217;ai découvert il y a peu. Ce monde a une histoire intéressante car OpenWonderland est en fait une variante d&amp;#8217;un projet de Sun Labs appelé &amp;#8220;Project Wonderland&amp;#8221;. Sun à décidé il y a quelques mois de fermé les portes de son monde virtuel.
 La communauté à décidé de reprendre le projet et de publier les sources.
 La vidéo qui suit vous présente donc les fonctionnalités de ce monde virtuel opensource et plutôt orienté business.</description>

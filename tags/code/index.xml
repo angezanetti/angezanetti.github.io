@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code on Xavier Coiffard</title>
-    <link>https://angezanetti.github.io/tags/code/</link>
+    <link>https://angezanetti.com/tags/code/</link>
     <description>Recent content in Code on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 30 Apr 2014 11:42:20 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.github.io/tags/code/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.com/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Non, ne faites pas de nos enfants des développeurs</title>
-      <link>https://angezanetti.github.io/apprendre-a-coder-aux-enfants/</link>
+      <link>https://angezanetti.com/apprendre-a-coder-aux-enfants/</link>
       <pubDate>Wed, 30 Apr 2014 11:42:20 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/apprendre-a-coder-aux-enfants/</guid>
+      <guid>https://angezanetti.com/apprendre-a-coder-aux-enfants/</guid>
       <description>Depuis quelques mois on parle d&amp;#8217;apprendre à coder aux enfants comme une solution aux bouleversements d&amp;#8217;internet. Dernièrement il y a encore eu un article dans les Echos en ce sens.
 Je ne suis pas un expert de l&amp;#8217;éducation mais j&amp;#8217;ai vraiment l&amp;#8217;impression que ce discours, souvent servi avec un arrière fond économique, se trompe de combat, je m&amp;#8217;explique:
 La thèse soutenue par les défenseurs du &amp;#8220;code à l&amp;#8217;école&amp;#8221; est relativement simple:</description>
@@ -24,10 +24,10 @@ La thèse soutenue par les défenseurs du &amp;#8220;code à l&amp;#8217;école&
     
     <item>
       <title>Utiliser Vim comme éditeur LSL</title>
-      <link>https://angezanetti.github.io/utiliser-vim-comme-editeur-lsl/</link>
+      <link>https://angezanetti.com/utiliser-vim-comme-editeur-lsl/</link>
       <pubDate>Mon, 21 May 2012 09:51:37 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/utiliser-vim-comme-editeur-lsl/</guid>
+      <guid>https://angezanetti.com/utiliser-vim-comme-editeur-lsl/</guid>
       <description>&amp;nbsp;
 Depuis quelques jours je suis de retour sur SecondLife le nez dans le code de la V2 de Dentallife. Pas mal d&amp;#8217;eau a coulé sous les ponts depuis la conception et la réalisation de la V1, je me suis mis au Javascript et à la programmation orientée objet.
 Je vous laisse imaginer à quel point le retour au LSL est dur ! La pauvreté de ce langage est affligeante, sans parler du lag quand on veut échanger des infos avec un serveur externe.</description>
@@ -35,10 +35,10 @@ Je vous laisse imaginer à quel point le retour au LSL est dur ! La pauvreté de
     
     <item>
       <title>Un Boilerplate pour Three.js est sorti !</title>
-      <link>https://angezanetti.github.io/un-boilerplate-pour-three-js-est-sorti/</link>
+      <link>https://angezanetti.com/un-boilerplate-pour-three-js-est-sorti/</link>
       <pubDate>Tue, 27 Dec 2011 07:17:56 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/un-boilerplate-pour-three-js-est-sorti/</guid>
+      <guid>https://angezanetti.com/un-boilerplate-pour-three-js-est-sorti/</guid>
       <description>Je ne sais pas si vous connaissez HTML5 Boilerplate, c&amp;#8217;est un outil inspiré de la méthode DRY « don&amp;#8217;t repeat yourself ». Pour faire simple c&amp;#8217;est un ensemble de fichiers qui constitue une base commune pour vos projets web. On trouve un fichier index.html avec les balises de base comme le doctype, le , les sections etc… De même, on trouve des fichiers JS communs comme la librairie Jquery. Bref, tout ce dont on a besoin quand on se lance dans un projet web.</description>
     </item>
     

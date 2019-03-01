@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teleplace on Xavier Coiffard</title>
-    <link>https://angezanetti.github.io/tags/teleplace/</link>
+    <link>https://angezanetti.com/tags/teleplace/</link>
     <description>Recent content in Teleplace on Xavier Coiffard</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 05 May 2011 09:28:25 +0000</lastBuildDate>
     
-	<atom:link href="https://angezanetti.github.io/tags/teleplace/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://angezanetti.com/tags/teleplace/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Teleplace lance un produit opensource de réunion immersive : OpenQwaq</title>
-      <link>https://angezanetti.github.io/teleplace-openqwaq-opensource-reunion-virtuel/</link>
+      <link>https://angezanetti.com/teleplace-openqwaq-opensource-reunion-virtuel/</link>
       <pubDate>Thu, 05 May 2011 09:28:25 +0000</pubDate>
       
-      <guid>https://angezanetti.github.io/teleplace-openqwaq-opensource-reunion-virtuel/</guid>
+      <guid>https://angezanetti.com/teleplace-openqwaq-opensource-reunion-virtuel/</guid>
       <description>Teleplace, un monde virtuel dédié aux entreprises à sorti hier une version opensource de son code serveur.
 Ce changement de stratégie à un but précis : augmenter leur base d&amp;#8217;utilisateurs. La version opensource est donc totalement identique à la version propriétaire exception faite des codecs propriétaires. Et c&amp;#8217;est une très bonne nouvelle car la plateforme de Teleplace embarque des fonctionnalités intéressantes : import de meshs, outils d&amp;#8217;édition inworld, drag &amp;amp; drop de documents MS Office depuis le bureau directement dans la 3D et un accès depuis le navigateur !</description>
     </item>
