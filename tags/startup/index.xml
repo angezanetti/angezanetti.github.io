@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Startup on Xavier Coiffard</title>
+    <link>https://angezanetti.com/tags/startup/</link>
+    <description>Recent content in Startup on Xavier Coiffard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 26 Apr 2019 19:26:41 +0200</lastBuildDate>
+    
+	<atom:link href="https://angezanetti.com/tags/startup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Starting My Own Company</title>
+      <link>https://angezanetti.com/posts/2019/04/starting-my-own-company/</link>
+      <pubDate>Fri, 26 Apr 2019 19:26:41 +0200</pubDate>
+      
+      <guid>https://angezanetti.com/posts/2019/04/starting-my-own-company/</guid>
+      <description>I spent the last 3 years in the startup ecosystem of the Silicon Valley. As an employee of a big company first. My mission then was to study the US market and to create a subsidiary there.
+So my job suddenly went from Lead Developer to CTO, even CxO (I was the only one in charge on the US soil) so I did all the jobs needed in an early stage company: marketing, HR, tech, business strategy, and even Sales!</description>
+    </item>
+    
+  </channel>
+</rss>
