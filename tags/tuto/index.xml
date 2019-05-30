@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tuto on Xavier Coiffard</title>
+    <title>Tuto on /AngeZanetti.com</title>
     <link>https://angezanetti.com/tags/tuto/</link>
-    <description>Recent content in Tuto on Xavier Coiffard</description>
+    <description>Recent content in Tuto on /AngeZanetti.com</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Wed, 05 Jul 2017 14:36:31 +0000</lastBuildDate>
     
@@ -112,60 +113,6 @@ Alors, bien sur, il y a la solution de la compilation mais bon je suis pas hyper
       <guid>https://angezanetti.com/version-nodejs-a-jour-sur-ubuntu-1204-compilation-ppa/</guid>
       <description>Je me posé cette question il y a quelques jours après un upgrade de mes paquets sur un serveur qui fonctionne sous Ubuntu 12.04. Les applications misent à jour ne fonctionnaient pas, NPM non plus. Bref, un joli &amp;#8220;foutoir&amp;#8221;. J&amp;#8217;ai mis du temps à comprendre d&amp;#8217;ou venait les problèmes. Finalement un simple
 node -v Et j&amp;#8217;ai compris tout de suite, j&amp;#8217;avais sur mon serveur une vieille version de node.js (0.</description>
-    </item>
-    
-    <item>
-      <title>Ajouter un sous domaine sur son serveur dédié avec Apache2</title>
-      <link>https://angezanetti.com/ajouter-un-sous-domaine-serveur-dedie-apache2-configuration/</link>
-      <pubDate>Thu, 28 Jun 2012 09:36:36 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/ajouter-un-sous-domaine-serveur-dedie-apache2-configuration/</guid>
-      <description>Ces derniers jours j&amp;#8217;ai été confronté deux fois au problème de mise en place de sous domaine sur un serveur dédié, et à chaque fois ce fut une galère. Entre la documentaion trop complète et les différents tutos sur le web qui racontent tout et n&amp;#8217;importe quoi j&amp;#8217;ai passé plusieurs heures à chercher, modifier, effacer des fichiers de config.
-Pour éviter de me reprendre la tête, et en espérant que cela puisse servir à quelques personnes, voici la marche à suivre :</description>
-    </item>
-    
-    <item>
-      <title>Réduire le spam sur son site WordPress</title>
-      <link>https://angezanetti.com/reduction-spam-wordpress-sans-plugin-htaccess/</link>
-      <pubDate>Thu, 22 Mar 2012 14:53:50 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/reduction-spam-wordpress-sans-plugin-htaccess/</guid>
-      <description>Encore une petite note sur WordPress, suite au mail d&amp;#8217;un lecteur qui m&amp;#8217;a prévenu que le formulaire de commentaire renvoyait systématiquement vers une page 404&amp;#8230;
-J&amp;#8217;ai regardé et, effectivement, il y avait une erreur dans mon .htaccess, fichier que j&amp;#8217;avais modifié il y a quelques temps pour réduire le spam ! Bon, le fait est que cela avait bien fonctionné, un peu trop même :)
-Explications : WordPress est victime de son succès, bien souvent les blogs qui utilisent cette plateforme sont la cible de robots spammeurs qui attaquent directement wp-comment-post.</description>
-    </item>
-    
-    <item>
-      <title>La pagination WordPress sans plugin</title>
-      <link>https://angezanetti.com/la-pagination-wordpress-sans-plugin/</link>
-      <pubDate>Thu, 15 Mar 2012 07:26:26 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/la-pagination-wordpress-sans-plugin/</guid>
-      <description>Encore une petite astuce WordPress trouvée sur catswhocode cette fois. WordPress par défaut ne supporte pas de pagination avec le numéro des pages, notre moteur de bog préféré ne propose que des liens Prec/Suiv. Evidemment une multitude de plugins ont fleuris pour combler cette lacune.
-Mais comme souvent avec les plugins, il y en a des plus ou moins bon, plus ou moins codés avec les pieds. J&amp;#8217;évite donc au maximum l&amp;#8217;utilisation de ses petits bouts de code.</description>
-    </item>
-    
-    <item>
-      <title>Configurer WordPress pour utiliser SSH au lieu de FTP</title>
-      <link>https://angezanetti.com/configurer-wordpress-ssh-ftp-securite/</link>
-      <pubDate>Mon, 12 Mar 2012 17:02:10 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/configurer-wordpress-ssh-ftp-securite/</guid>
-      <description>J&amp;#8217;ai récemment (re)installé un serveur dédié pour mon ami Guillaume. Ce serveur sert, entre autres, à faire tourner un blog WordPress.
-J&amp;#8217;ai mis en place un LAMP, tout bête et expliqué à Guillaume comment utiliser SSH &amp;#8211; avec SFTP &amp;#8211; pour le transfert de fichiers sur le serveur. Ainsi j&amp;#8217;évite de mettre un serveur FTP, protocole critiqué pour sa sécurité.
- Update Sept 2012 : Depuis la rédaction de ce post il existe un plugin qui fait le boulot en deux clics :http://wordpress.</description>
-    </item>
-    
-    <item>
-      <title>Installer NodeJS, NPM et Express sur Ubuntu 10.04</title>
-      <link>https://angezanetti.com/tuto-installation-nodejs-npm-express-sur-ubuntu-10-04/</link>
-      <pubDate>Thu, 11 Aug 2011 10:04:37 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/tuto-installation-nodejs-npm-express-sur-ubuntu-10-04/</guid>
-      <description>Ce billet est autant un aide mémoire pour moi qu&amp;#8217;un billet explicatif pour vous. En effet depuis quelques jours j&amp;#8217;installe NodeJS sur plusieurs serveurs. Sur la version actuelle d&amp;#8217;Ubuntu &amp;#8211; 11.04 &amp;#8211; c&amp;#8217;est relativement facile :
-[bash]sudo apt-get install nodejs[/bash]
-Mais pour les versions antérieures et notamment la dernière LTS, la 10.04, c&amp;#8217;est un poil plus compliqué.
-En fait vous avez deux solutions, compiler ou utiliser la version par paquets.</description>
     </item>
     
   </channel>

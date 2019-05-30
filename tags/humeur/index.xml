@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Humeur on Xavier Coiffard</title>
+    <title>Humeur on /AngeZanetti.com</title>
     <link>https://angezanetti.com/tags/humeur/</link>
-    <description>Recent content in Humeur on Xavier Coiffard</description>
+    <description>Recent content in Humeur on /AngeZanetti.com</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Tue, 17 Jul 2018 22:04:44 +0100</lastBuildDate>
     
@@ -13,10 +14,10 @@
     
     <item>
       <title>On Algorythm During Interview</title>
-      <link>https://angezanetti.com/posts/2018/07/on-algorythm-during-interview/</link>
+      <link>https://angezanetti.com/posts/on-algorythm-during-interview/</link>
       <pubDate>Tue, 17 Jul 2018 22:04:44 +0100</pubDate>
       
-      <guid>https://angezanetti.com/posts/2018/07/on-algorythm-during-interview/</guid>
+      <guid>https://angezanetti.com/posts/on-algorythm-during-interview/</guid>
       <description>I was recently into an interview process for a big company. I did 2 “in person” interview with the CEO and the CTO, I was looking for an Engineering Manager position.
 And I Ended by doing a Algorithm test on hackerrank.com. Few hours on a chair, trying to find the more optimize way to sort lists.
 Wait, really? I know, you want to test my tech skills, you want to check if I’m techie enough.</description>
@@ -111,58 +112,6 @@ Hadopi donc, sensé lutter contre ce monde &amp;#8220;sans foi ni loi&amp;#8221;
       <description>Depuis que je farfouille Internet j&amp;#8217;entends parler d&amp;#8217;une génération miracle, une tranche d&amp;#8217;age entière qui serait aguerrie aux usages de l&amp;#8217;internet et qui sera, c&amp;#8217;est sur, l&amp;#8217;avenir de la nation.
 La définition Wikipédia de cette génération est claire :
  Le terme « génération Y » désigne les personnes nées entre la fin des années 1970 et le milieu des années 1990. Il tire son nom de la génération précédente, nommée génération X.</description>
-    </item>
-    
-    <item>
-      <title>Le mulot va-t-il mourir?</title>
-      <link>https://angezanetti.com/le-mulot-va-t-il-mourir/</link>
-      <pubDate>Mon, 22 Jun 2009 14:41:00 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/le-mulot-va-t-il-mourir/</guid>
-      <description>Je ne sais pas vous mais des fois moi je me pose des questions. En ce moment il y en a une qui tourne en boucle c&amp;#8217;est : pourquoi vouloir virer la souris de nos ordinateurs?
-Alors je comprends bien que pour des raisons d&amp;#8217;accessibilités la souris n&amp;#8217;est pas vraiment géniale, pour des malvoyants des handicapés etc etc &amp;#8230; Mais pour les valides?
-La souris c&amp;#8217;est efficace, plutôt précis et de plus en plus ergonomique.</description>
-    </item>
-    
-    <item>
-      <title>LeMonde.fr redécouvre Second Life</title>
-      <link>https://angezanetti.com/lemonde-fr-redecouvre-second-life/</link>
-      <pubDate>Thu, 11 Jun 2009 07:47:00 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/lemonde-fr-redecouvre-second-life/</guid>
-      <description>Certains disent que je suis un évangéliste. Je ne suis pas fan de ce terme clairement connoté religieux mais c&amp;#8217;est vrai, montrer aux gens comment et pourquoi les univers virtuels sont de vrais outils novateurs fait parti de mon travail et du plaisir à le faire.
-Le problème quand on veut prêcher la bonne parole c&amp;#8217;est qu&amp;#8217;il faut avoir un public. Alors bien sur j&amp;#8217;ai ce blog qui me permet de donner mon point de vue, mais je suis loin d&amp;#8217;avoir une audience suffisante pour faire passer un message à grande échelle.</description>
-    </item>
-    
-    <item>
-      <title>La fin du tunnel pour Second Life ?</title>
-      <link>https://angezanetti.com/la-fin-du-tunnel-pour-second-life/</link>
-      <pubDate>Tue, 12 May 2009 06:27:00 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/la-fin-du-tunnel-pour-second-life/</guid>
-      <description>photo de telmo32   Ce matin, je suis debout de bonne heure et plutôt de bonne humeur et je me rend compte que cela fait longtemps que je n&amp;#8217;ai pas fait de billet positif. J&amp;#8217;ai surement trop la &amp;#8220;tête dans le guidon&amp;#8221; à attendre LE contrat. Du coup je bougonne.
-Mais ce matin, non. J&amp;#8217;ai eu ce que les alcooliques anonyme appellent un &amp;#8220;éclair de lucidité&amp;#8221; !
-&amp;lt;p&amp;gt; Tout va bien en fait.</description>
-    </item>
-    
-    <item>
-      <title>Entreprenez qu’il disait !</title>
-      <link>https://angezanetti.com/entreprenez-quil-disait/</link>
-      <pubDate>Fri, 17 Apr 2009 10:21:00 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/entreprenez-quil-disait/</guid>
-      <description>photo de maéli (Flickr)
-
-Le &amp;#8220;il&amp;#8221; est au singulier et fait référence direct à celui qui dirige la France de sa main de fer et qui fait culpabiliser ceux qui se lève tard, en opposition à ceux, courageux qui se lèvent à l&amp;#8217;aube. Il se trouve que moi j&amp;#8217;ai choisi il y a quelques mois de passer de la 2ème à la 1ère catégorie. Me lever tôt, entreprendre, faire marcher cette économie souveraine, et accessoirement me payer à manger.</description>
-    </item>
-    
-    <item>
-      <title>Medias &amp; Second life (suite)</title>
-      <link>https://angezanetti.com/medias-second-life-suite/</link>
-      <pubDate>Thu, 26 Mar 2009 13:09:00 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/medias-second-life-suite/</guid>
-      <description>Il y a quelques jours je publiai sur ce blog un post qui n&amp;#8217;était pas vraiment tendre avec les &amp;#8220;médias de masses ni avec l&amp;#8217;experte invitée pour l&amp;#8217;occasion&amp;#8221;. C&amp;#8217;est qu&amp;#8217;on appelle une &amp;#8220;gueulante&amp;#8221; inspirée de beaucoup par le post de Pierre Olivier Carles. Bon je n&amp;#8217;y allait pas de main morte, mais cela reflète complètement le fond de ma pensée. Comme j&amp;#8217;aime pas trop hurler dans le vide j&amp;#8217;ai envoyé un mail à Mme Sophie Girieud, trouvée sur FaceBook.</description>
     </item>
     
   </channel>

@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Web 2.0 on Xavier Coiffard</title>
+    <title>Web 2.0 on /AngeZanetti.com</title>
     <link>https://angezanetti.com/tags/web-2.0/</link>
-    <description>Recent content in Web 2.0 on Xavier Coiffard</description>
+    <description>Recent content in Web 2.0 on /AngeZanetti.com</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 14 Oct 2011 08:57:28 +0000</lastBuildDate>
     
@@ -121,40 +122,6 @@ En théorie.
 Depuis le mois de Janvier je me suis inscrit à beaucoup d&amp;#8217;applications en ligne. Ma boîte mail déborde de message de confirmation d&amp;#8217;inscription et mon blog est de plus en plus fouilli je trouve.
 
 En plus je commence à douter de l&amp;#8217;efficacité de ma démarche.</description>
-    </item>
-    
-    <item>
-      <title>Second Life et le web 2.0</title>
-      <link>https://angezanetti.com/second-life-et-le-web-2-0/</link>
-      <pubDate>Sat, 05 Apr 2008 08:54:00 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/second-life-et-le-web-2-0/</guid>
-      <description>La nouvelle version du client est arrivée depuis hier, c&amp;#8217;est la fameuse version qui permet d&amp;#8216;afficher du HTML sur les prims et de streamer autre chose que du .mov
-Enfin le web devient accessible pour tous, ce n&amp;#8217;est pas trop tôt. Bref, j&amp;#8217;ai beaucoup réfléchi aux applications que l&amp;#8217;on pourrait tirer de cette fonctionnalité. J&amp;#8217;ai bien sur pensé au web2.0 qui me passionne depuis quelques temps.
-J&amp;#8217;ai cherché ce qui se faisait déjà, notamment en matière de Blog, tweeter ou de réseaux sociaux.</description>
-    </item>
-    
-    <item>
-      <title>Les réseaux sociaux pour les métaverses débarquent sur le web!</title>
-      <link>https://angezanetti.com/les-reseaux-sociaux-pour-les-metaverses-debarquent-sur-le-web/</link>
-      <pubDate>Wed, 26 Mar 2008 11:33:00 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/les-reseaux-sociaux-pour-les-metaverses-debarquent-sur-le-web/</guid>
-      <description>Deux sites ont attirés mon attention dans ma blogroll, myRl &amp;amp; Teleporteur.com.
-Ces deux sites proposent des services bien connus des internautes adepte du web 2.0 : garder le contact avec ces &amp;#8220;amis&amp;#8221;, partager, voter etc&amp;#8230;.
-Les deux sites sont en cours de construction.
-myRL est clairement en beta, il faut un code pour y accéder. J&amp;#8217;ai fait la demande hier, rien de neuf pour l&amp;#8217;instant ( Hugo si tu as des précisions à apporter il me semble que tu as un compte myRL).</description>
-    </item>
-    
-    <item>
-      <title>Je suis sur Seesmic !</title>
-      <link>https://angezanetti.com/je-suis-sur-seesmic/</link>
-      <pubDate>Wed, 27 Feb 2008 17:07:00 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/je-suis-sur-seesmic/</guid>
-      <description>Je me suis inscrit hier sur un nouveau site ( version alpha pour l&amp;#8217;instant ) seesmic. Les créateurs sont deux français expatrié aux USA. Le concept est plutôt simple, c&amp;#8217;est du chat mais en vidéo, il suffit d&amp;#8217;enregistrer sa petite vidéo directement sur le site et hop elle est publique !
-Ça donne bien évidemment lieu de d&amp;#8217;interminable débats plus ou moins élevés mais c&amp;#8217;est vraiment fun !
-C&amp;#8217;est un joli aboutissement du web 2.</description>
     </item>
     
   </channel>

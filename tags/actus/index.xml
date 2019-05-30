@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Actus on Xavier Coiffard</title>
+    <title>Actus on /AngeZanetti.com</title>
     <link>https://angezanetti.com/tags/actus/</link>
-    <description>Recent content in Actus on Xavier Coiffard</description>
+    <description>Recent content in Actus on /AngeZanetti.com</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Thu, 20 Sep 2012 08:27:22 +0000</lastBuildDate>
     
@@ -141,56 +142,6 @@ Je vais donc longuement vous parlé des test de LA fonctionnalité nouvelle : l&
       
       <guid>https://angezanetti.com/virtual-world-camp-paris-vastpark-imaginer/</guid>
       <description>Vendredi dernier était organisé un barcamp orienté mondes virtuels. Après avoir hésité entre participer depuis Second Life ou bien me rendre sur place j&amp;#8217;ai finalement opté pour la solution SNCF+RATP qui, il faut bien le dire, est quand même mieux sur le plan humain et permet de networker beaucoup plus. L&amp;#8217;équipe de la bibliotheque était au rendez vous puisque nous avions pour mission de mettre en place un espace de réalité mixte de façon à pouvoir faire intervenir les avatars depuis Second Life.</description>
-    </item>
-    
-    <item>
-      <title>Avatar le film</title>
-      <link>https://angezanetti.com/avatar-le-film/</link>
-      <pubDate>Sun, 20 Dec 2009 09:31:00 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/avatar-le-film/</guid>
-      <description>source de l&amp;#8217;image 
-
-Je ne vous parle pas souvent de cinéma sur ce blog, on peut même dire que je n&amp;#8217;en parle jamais. Mais là, James Cameron me force à le faire. 
-J&amp;#8217;ai été voir Avatar vendredi dernier et je me devait de vous en parler ici. Déjà rien que pour le titre ce film avait la place ici et puis les images de synthèse dont il est constitué à 90% en font une prouesse technique dans le domaine de la 3D qui mérite d&amp;#8217;être souligné.</description>
-    </item>
-    
-    <item>
-      <title>Une exposition universelle et virtuelle pour présenter l’innovation des entreprises</title>
-      <link>https://angezanetti.com/une-exposition-universelle-et-virtuelle-pour-presenter-linnovation-des-entreprises/</link>
-      <pubDate>Thu, 03 Dec 2009 10:43:00 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/une-exposition-universelle-et-virtuelle-pour-presenter-linnovation-des-entreprises/</guid>
-      <description>La fabrique du futur révolutionne le concept d&amp;#8217;exposition universelle, comment? Tout simplement en délocalisant le Grand Palais dans le &amp;#8220;virtuel&amp;#8221;, facilitant ainsi l&amp;#8217;accès à l&amp;#8217;expo aux non Parisiens sans oublier de souligner le caractère écolo de la manifestation. Ce lieu virtuel est accessible depuis le navigateur (http://www.expo-univ21.com/), facilement personnalisable avec la création possible de widgets.  &amp;#8220;Les objectifs de cette Expo virtuelle sont multiples :
-• Offrir aux entreprises et organisations des espaces pour promouvoir leurs innovations (dès lors qu’il s’agit d’innovations durables et responsables)</description>
-    </item>
-    
-    <item>
-      <title>XstreetSL change ses tarifs</title>
-      <link>https://angezanetti.com/xstreetsl-change-ses-tarifs/</link>
-      <pubDate>Sun, 22 Nov 2009 13:26:00 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/xstreetsl-change-ses-tarifs/</guid>
-      <description>XstreetSL est la plateforme de vente d&amp;#8217;objet virtuelle qui a été rachetée par LindenLabs -l&amp;#8217;entreprise éditrice de Second Life- il y a quelques mois  .  Il y a peu LindenLabs annonçait qu&amp;#8217;ils allaient changé les conditions de tarifications de vente. Rappelons que sur la plateforme à chaque fois que vous vendez un objet, LL prend un pourcentage. Si vous ne vendez rien, ils ne touchent rien.  Mais cela va changer, maintenant le simple fait d&amp;#8217;afficher des objets va devenir payant.</description>
-    </item>
-    
-    <item>
-      <title>IBM, Nokia et VTT s’allient pour créer l’outil collaboratif de demain</title>
-      <link>https://angezanetti.com/ibm-nokia-et-vtt-sallient-pour-creer-loutil-collaboratif-de-demain/</link>
-      <pubDate>Tue, 20 Oct 2009 11:48:00 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/ibm-nokia-et-vtt-sallient-pour-creer-loutil-collaboratif-de-demain/</guid>
-      <description>L&amp;#8217;ubiquité ne sera peut être plus vraiment un rêve dans quelques années !   Des équipes d&amp;#8217;IBM, Nokia &amp; VTT ont participé à la réalisation d&amp;#8217;un prototype permettant de mixer réalité, monde virtuels et réalité augmentée. La cible de cette nouvelle technologie est clairement les espaces collaboratifs d&amp;#8217;entreprises. Le but étant simplement de rassembler dans la même pièce physique des personnes réelles des avatars grandeurs nature et des objets partagés !</description>
-    </item>
-    
-    <item>
-      <title>LeMonde.fr redécouvre Second Life</title>
-      <link>https://angezanetti.com/lemonde-fr-redecouvre-second-life/</link>
-      <pubDate>Thu, 11 Jun 2009 07:47:00 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/lemonde-fr-redecouvre-second-life/</guid>
-      <description>Certains disent que je suis un évangéliste. Je ne suis pas fan de ce terme clairement connoté religieux mais c&amp;#8217;est vrai, montrer aux gens comment et pourquoi les univers virtuels sont de vrais outils novateurs fait parti de mon travail et du plaisir à le faire.
-Le problème quand on veut prêcher la bonne parole c&amp;#8217;est qu&amp;#8217;il faut avoir un public. Alors bien sur j&amp;#8217;ai ce blog qui me permet de donner mon point de vue, mais je suis loin d&amp;#8217;avoir une audience suffisante pour faire passer un message à grande échelle.</description>
     </item>
     
   </channel>

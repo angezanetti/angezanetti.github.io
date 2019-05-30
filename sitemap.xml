@@ -3,13 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://angezanetti.com/</loc>
+    <lastmod>2019-04-26T19:26:41+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://angezanetti.com/posts/</loc>
     <lastmod>2019-04-26T19:26:41+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://angezanetti.com/posts/2019/04/starting-my-own-company/</loc>
+    <loc>https://angezanetti.com/posts/starting-my-own-company/</loc>
     <lastmod>2019-04-26T19:26:41+02:00</lastmod>
   </url>
   
@@ -21,12 +27,6 @@
   
   <url>
     <loc>https://angezanetti.com/tags/</loc>
-    <lastmod>2019-04-26T19:26:41+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/</loc>
     <lastmod>2019-04-26T19:26:41+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -44,12 +44,12 @@
   </url>
   
   <url>
-    <loc>https://angezanetti.com/posts/2018/07/on-algorythm-during-interview/</loc>
+    <loc>https://angezanetti.com/posts/on-algorythm-during-interview/</loc>
     <lastmod>2018-07-17T22:04:44+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://angezanetti.com/posts/2018/02/from-diving-instructor-to-web-developer-here-is-the-7-things-i-learned/</loc>
+    <loc>https://angezanetti.com/posts/from-diving-instructor-to-coder/</loc>
     <lastmod>2018-02-02T21:52:33+01:00</lastmod>
   </url>
   
@@ -60,7 +60,7 @@
   </url>
   
   <url>
-    <loc>https://angezanetti.com/posts/2018/01/fresh-start-switch-from-french-to-english-more/</loc>
+    <loc>https://angezanetti.com/posts/restart-the-blog-in-english/</loc>
     <lastmod>2018-01-26T21:46:20+01:00</lastmod>
   </url>
   
@@ -2885,11 +2885,6 @@
   <url>
     <loc>https://angezanetti.com/about/</loc>
     <lastmod>2006-04-17T12:28:11+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/index.html</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

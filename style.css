@@ -1,3 +1,16 @@
+html, #site-header, #mobile-menu {
+  background: #fff;
+}
+body, button, input, select, textarea, a {
+  color: #000;
+}
+a {
+  border-bottom: 3px solid transparent;
+}
+a:hover {
+  border-bottom: 3px solid #FE5185;
+  color: #333;
+}
 .content a:hover {
     background-color: #FE5185;
 }
@@ -7,9 +20,6 @@
     box-shadow: inset 0 -4px 0 #FE5185;
     transition-property: background-color;
 }
-.post-info a:hover {
-    border-bottom: 1px solid #FE5185;
-}
 .content a.anchor:hover {
     color: #FE5185;
-}
+

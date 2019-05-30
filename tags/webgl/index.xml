@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WebGL on Xavier Coiffard</title>
+    <title>WebGL on /AngeZanetti.com</title>
     <link>https://angezanetti.com/tags/webgl/</link>
-    <description>Recent content in WebGL on Xavier Coiffard</description>
+    <description>Recent content in WebGL on /AngeZanetti.com</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Tue, 06 Aug 2013 15:14:07 +0000</lastBuildDate>
     
@@ -108,62 +109,6 @@ Il modélise les 3,7 millions d&amp;#8217;adresses référencées par local.ch s
       
       <guid>https://angezanetti.com/client-leger-navigateur-unity-webgl-opensim-secondlife/</guid>
       <description>Les mondes virtuels n&amp;#8217;ont pas eu le succès attendu. C&amp;#8217;est un fait. Nous sommes beaucoup à penser que cela est du, entre autre, a un vrai problème d&amp;#8217;accessibilité de ces plate-formes. Il faut installer un client lourd, s&amp;#8217;enregister, apprendre à se déplacer en 3D, retrouver ses amis etc etc&amp;#8230; En un mot c&amp;#8217;est dur, trop compliqué pour le visiteur lambda qui cherche juste à visiter une expo, assister à un spectacle et pas à devenir le builder qui va révolutionner le metavers.</description>
-    </item>
-    
-    <item>
-      <title>WebGL : les performances par l’exemple.</title>
-      <link>https://angezanetti.com/webgl-performances-optimisatio/</link>
-      <pubDate>Fri, 20 May 2011 08:09:36 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/webgl-performances-optimisatio/</guid>
-      <description>Depuis quelques temps je surveille ce qui ce fait en WebGL. Et régulièrement la même critique revient : WebGL c&amp;#8217;est bien mais ça supportera pas la charge.
-N&amp;#8217;ayant pas encore mis les mains dans le code je ne savais pas trop quoi répondre. Mais, hier, je suis tombé sur cette vidéo tirée du Google I/O.
-Et ça change tout. Vous verrez qu&amp;#8217;en optimisant le code JS Gregg Tavares arrive à animer 40 000 objets dans une page web.</description>
-    </item>
-    
-    <item>
-      <title>Retour sur mes interventions découverte des mondes virtuels à l’HETIC</title>
-      <link>https://angezanetti.com/interventions-mondes-virtuels-hetic/</link>
-      <pubDate>Mon, 07 Mar 2011 09:54:37 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/interventions-mondes-virtuels-hetic/</guid>
-      <description>La semaine dernière se tenait ma dernière intervention devant les H4 &amp;#8211; comprenez Bac+4- de l&amp;#8216;HETIC. Pour ceux qui ne connaitraient pas, l&amp;#8217;HETIC est la Haute Ecole des Technologies de l&amp;#8217;Information et de la Communication. Autrement dit, une école de l&amp;#8217;Internet. Chaque année 70 étudiants sortent de cette école et vont rejoindre les rangs des web-agencies, start-up ou autre acteur du web.
-L&amp;#8217;année dernière avec Serge Soudoplatoff, nous avions monté un projet afin de mettre HETIC dans un monde virtuel.</description>
-    </item>
-    
-    <item>
-      <title>WebGL devient de plus en plus mature</title>
-      <link>https://angezanetti.com/webgl-mondesvirtuels-seriousgame/</link>
-      <pubDate>Tue, 18 Jan 2011 08:59:03 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/webgl-mondesvirtuels-seriousgame/</guid>
-      <description>Je ne sais pas vous mais moi quand je vois la vidéo ci dessus, je me dit que le temps où l&amp;#8217;on accedera à nos mondes virtuels ou à nos seriousgame préférés avec WebGL n&amp;#8217;est plus si loin que ça !
-Tout y est, complexité des objets, nombre de primitives et grandeur de l&amp;#8217;environnement. Alors il reste probablement des contraintes techniques mais elles se réduisent de plus en plus.</description>
-    </item>
-    
-    <item>
-      <title>Body Browser, de la 3D en WebGL pour nous faire réviser l’anatomie humaine</title>
-      <link>https://angezanetti.com/body-browser-de-la-3d-en-webgl-pour-nous-faire-reviser-lanatomie-humaine/</link>
-      <pubDate>Fri, 17 Dec 2010 07:51:31 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/body-browser-de-la-3d-en-webgl-pour-nous-faire-reviser-lanatomie-humaine/</guid>
-      <description>En mai dernier, j&amp;#8217;avais un article un peu euphorique sur le thème &amp;#8221; Youpi Google sort son SDK WebGL&amp;#8221;. Bon, il faut bien le dire; l&amp;#8217;article était un peu incompréhansible pour le non Geek et globalement , depuis, plus grand chose.
-Le &amp;#8220;Youpi&amp;#8221;, c&amp;#8217;était donc transformé en &amp;#8220;ouais bon il faut attendre encore un peu&amp;#8221;. Mais hier je suis tombé sur l&amp;#8217;article de Rémi (qui est aussi Geek que medecin d&amp;#8217;ailleurs) et qui m&amp;#8217;a fait découvrir Google Body Browser.</description>
-    </item>
-    
-    <item>
-      <title>Unity3d ou WebGL comme futur standard d’un Internet 3D ?</title>
-      <link>https://angezanetti.com/unity3d-google-opensim/</link>
-      <pubDate>Thu, 20 May 2010 09:18:55 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/unity3d-google-opensim/</guid>
-      <description>&lt;p&gt;Google à sorti son &amp;#8220;&lt;em&gt;native client&lt;/em&gt;&amp;#8221; il y a quelques jours comme je vous l&amp;#8217;annonçait &lt;a title=&#34;Google native client&#34; href=&#34;http://angezanetti.com/google-native-client-sdk/&#34; target=&#34;_blank&#34;&gt;dans cet article&lt;/a&gt; mais je ne croyais pas que ça bougerait aussi vite.&lt;/p&gt;
-
-&lt;p&gt;Hier, &lt;strong&gt;Unity3D,&lt;/strong&gt; le moteur de jeu vidéo sur lequel est basé &lt;a title=&#34;assemblive&#34; href=&#34;http://angezanetti.com/assemblive-v1-8-francais-api/&#34; target=&#34;_blank&#34;&gt;Assemblive&lt;/a&gt; par exemple, à annoncé qu&amp;#8217;ilvdéveloppait une application native pour Chrome. Concrétement cela veut dite que Unity3d n&amp;#8217;aura plus besoin de plugin pour fonctionner dans le navigateur de Google. On aura de la 3d aussi facilement que l&amp;#8217;on affiche des pages web, simplement en cliquant.&lt;/p&gt;
-
-&lt;p&gt;Ce qui est marrant c&amp;#8217;est qu&amp;#8217;ils font cette annonce en plein boum du &lt;strong&gt;WebGL&lt;/strong&gt; et à peine 2 jours après que Google annonce qu&amp;#8217;il supporte officiellement cette nouvelle technologie basée sur HTML5. Ou plutôt, pour le dire dans le bon sens&lt;a title=&#34;Google arrête O3D&#34; href=&#34;http://www.silicon.fr/fr/news/2010/05/10/technologies_web___google_abandonne_o3d&#34; target=&#34;_blank&#34;&gt;, qu&amp;#8217;il arrête le projet O3&lt;/a&gt;D qui était un concurrent à WebGL.&lt;/p&gt;
-
-&lt;p&gt;La bataille pour le standard de l&amp;#8217;internet 3D à commencé :)&lt;/p&gt;</description>
     </item>
     
   </channel>

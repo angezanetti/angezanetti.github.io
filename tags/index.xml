@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Xavier Coiffard</title>
+    <title>Tags on /AngeZanetti.com</title>
     <link>https://angezanetti.com/tags/</link>
-    <description>Recent content in Tags on Xavier Coiffard</description>
+    <description>Recent content in Tags on /AngeZanetti.com</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 26 Apr 2019 19:26:41 +0200</lastBuildDate>
     
@@ -98,51 +99,6 @@
       <pubDate>Mon, 27 Apr 2015 12:13:51 +0000</pubDate>
       
       <guid>https://angezanetti.com/tags/php/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>symfony</title>
-      <link>https://angezanetti.com/tags/symfony/</link>
-      <pubDate>Mon, 27 Apr 2015 12:13:51 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/tags/symfony/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WordPress</title>
-      <link>https://angezanetti.com/tags/wordpress/</link>
-      <pubDate>Sun, 17 Aug 2014 10:00:58 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/tags/wordpress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ubuntu</title>
-      <link>https://angezanetti.com/tags/ubuntu/</link>
-      <pubDate>Tue, 29 Jul 2014 05:54:52 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/tags/ubuntu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conférences</title>
-      <link>https://angezanetti.com/tags/conf%C3%A9rences/</link>
-      <pubDate>Fri, 11 Jul 2014 11:45:25 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/tags/conf%C3%A9rences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Innovation</title>
-      <link>https://angezanetti.com/tags/innovation/</link>
-      <pubDate>Fri, 11 Jul 2014 11:45:25 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/tags/innovation/</guid>
       <description></description>
     </item>
     

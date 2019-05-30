@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SeriousGame on Xavier Coiffard</title>
+    <title>SeriousGame on /AngeZanetti.com</title>
     <link>https://angezanetti.com/tags/seriousgame/</link>
-    <description>Recent content in SeriousGame on Xavier Coiffard</description>
+    <description>Recent content in SeriousGame on /AngeZanetti.com</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Thu, 07 Jun 2012 13:25:25 +0000</lastBuildDate>
     
@@ -112,65 +113,6 @@ Cette étude date de Septembre 2010 et permet de mettre des chiffres sur le marc
       <description>La semaine dernière, j&amp;#8217;étais à la médiathèque des Ulis pour presenter, à des animateurs d&amp;#8217;espaces publics numériques, les mondes virtuels et les seriousgame.
 L&amp;#8217;affluence n&amp;#8217;était pas vraiment au rendez vous, la neige et Brice Hortefeux ont quelque peu fait barrière :) Mais peu importe l&amp;#8217;important n&amp;#8217;est pas le nombre mais bien la qualité des échanges ! Un peu le même cas de figure la veille ou j&amp;#8217;intervenais à l&amp;#8217;HETIC.
 Vous trouverez ci dessous les slides de mon intervention aux Ulis :</description>
-    </item>
-    
-    <item>
-      <title>Vidéo du Vendredi : Changing paradigms</title>
-      <link>https://angezanetti.com/video-du-vendredi-changing-paradigms/</link>
-      <pubDate>Fri, 15 Oct 2010 08:58:09 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/video-du-vendredi-changing-paradigms/</guid>
-      <description>Cette vidéo parle d&amp;#8217;éducation au sens large et il m&amp;#8217;a semblé interessant de la partager avec vous sur ce blog. Je l&amp;#8217;ai trouvée chez MrBoo, c&amp;#8217;est en fait un TedShow illustré par RSA Animations.
-C&amp;#8217;est assez concentré et rapide &amp;#8211; et en anglais &amp;#8211; mais le propos est intéressant. Il y a clairement beaucoup de progrès à faire dans le domaine de l&amp;#8217;éducation. Et je crois que les seriousgame peuvent d&amp;#8217;ailleurs très bien rentré dans ce mode de formation moins formel, linéaire et académique.</description>
-    </item>
-    
-    <item>
-      <title>CityOne : Le seriousgame pour expliquer l’impact de l’innovation sur nos villes</title>
-      <link>https://angezanetti.com/cityone-seriousgame-innavation-villes-decideurs-ibm/</link>
-      <pubDate>Wed, 06 Oct 2010 08:27:17 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/cityone-seriousgame-innavation-villes-decideurs-ibm/</guid>
-      <description>Le 5 Octobre 2010 sortait CityOne un seriousgame crée par IBM. Son but est multiple : vous devez aider les dirigeants d&amp;#8217;une ville à la rendre meilleure aussi bien sur le plan de l&amp;#8217;écologie que commercial, financier ou industriel. Pour cela vous avez le choix des armes, mais les problèmes que vous allez rencontrer se veulent réalistes. Tout un programme :)
-Ce jeu est clairement orienté vers les business man, les décideurs qui ne rendent pas forcement compte de l&amp;#8217;impact de l&amp;#8217;innovation sur notre environnement direct : la ville.</description>
-    </item>
-    
-    <item>
-      <title>Best Pratice : La Royal Navy met en place un serious game pour former ces recrues</title>
-      <link>https://angezanetti.com/royal-navy-serious-game/</link>
-      <pubDate>Mon, 02 Aug 2010 12:30:11 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/royal-navy-serious-game/</guid>
-      <description>&lt;p&gt;Il y a quelques jours j&amp;#8217;&lt;a title=&#34;Definition serious game&#34; href=&#34;http://angezanetti.com/definition-seriousgame/&#34; target=&#34;_blank&#34;&gt;essayais de vous donner &lt;/a&gt;une définition minimale d&amp;#8217;un serious game. Aujourd&amp;#8217;hui je vais essayer de vous en montrer les bénéfices.&lt;/p&gt;
-
-&lt;p&gt;Plusieurs études sont sorties dernièrement et toutes sont unanimes : les serious game sont un moyen ludique ET efficace d&amp;#8217;apprendre.&lt;/p&gt;
-
-&lt;p&gt;Je vais vous en présenter une dans ce billet, le but étant de regrouper sur ce blog des &amp;#8220;best pratices&amp;#8221;, comprenez des usages intéressants de ces nouveaux outils, de trouver des points commun et donc les aspects que l&amp;#8217;on pourra considérer comme étant généraux aux serious game.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Qu’est-ce qu’un seriousgame ?</title>
-      <link>https://angezanetti.com/definition-seriousgame/</link>
-      <pubDate>Wed, 28 Jul 2010 10:11:38 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/definition-seriousgame/</guid>
-      <description>&lt;p&gt;La mode semble être au seriousgame. C&amp;#8217;est même un des termes préféré du marketing : &amp;#8220;seriousgame&amp;#8221;. Ca sonne anglais, et c&amp;#8217;est relevé par le mot &amp;#8220;serious&amp;#8221;, qui décidément, fait nettement plus corporate que &amp;#8220;virtuel&amp;#8221;.&lt;/p&gt;
-
-&lt;p&gt;Je vais essayer dans ce billet d&amp;#8217;éclaircir un peu cette nouvelle notion. Cela me semble nécessaire dans cette folie du &amp;#8220;tout serious game&amp;#8221;. Les amalgames sont beaucoup trop fréquents entre jeux classiques et jeux sérieux, cela me semble important de mettre un peu de limites dans tout ça.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>MacDonalds utilise un serious game pour former ses employés</title>
-      <link>https://angezanetti.com/macdonalds-serious-game/</link>
-      <pubDate>Fri, 23 Apr 2010 13:13:05 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/macdonalds-serious-game/</guid>
-      <description>&lt;p&gt;Le serious game est vraiment un secteur en pleine expansion. J&amp;#8217;ai trouvé une info sur le &lt;a href=&#34;http://www.korben.info/le-serious-game-de-mac-donalds.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+KorbensBlog-UpgradeYourMind+%28Korben%27s+Blog+-+Upgrade+Your+Mind%29&amp;amp;utm_content=Netvibes&#34;&gt;Korben.info&lt;/a&gt; qui confirme cette tendance. Mc Donalds Japon utiliserait un serious game sur NintendoDs pour former ses employés.&lt;/p&gt;
-
-&lt;p&gt;Alors quels sont les avantages?&lt;/p&gt;
-
-&lt;p style=&#34;text-align: left;&#34;&gt;
-  &lt;a href=&#34;https://i1.wp.com/farm3.static.flickr.com/2188/2208592098_35ebddc991.jpg&#34;&gt;&lt;img class=&#34;aligncenter&#34; title=&#34;Mc Donalds Serious game Japan&#34; src=&#34;https://i1.wp.com/farm3.static.flickr.com/2188/2208592098_35ebddc991.jpg?resize=500%2C333&#34; alt=&#34;&#34; width=&#34;500&#34; height=&#34;333&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;/a&gt;
-&lt;/p&gt;</description>
     </item>
     
   </channel>

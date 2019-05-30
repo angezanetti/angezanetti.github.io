@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Xavier Coiffard</title>
+    <title>Blog on /AngeZanetti.com</title>
     <link>https://angezanetti.com/tags/blog/</link>
-    <description>Recent content in Blog on Xavier Coiffard</description>
+    <description>Recent content in Blog on /AngeZanetti.com</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 26 Jan 2018 21:46:20 +0100</lastBuildDate>
     
@@ -13,10 +14,10 @@
     
     <item>
       <title>Fresh start - switch from French to English &amp; more</title>
-      <link>https://angezanetti.com/posts/2018/01/fresh-start-switch-from-french-to-english-more/</link>
+      <link>https://angezanetti.com/posts/restart-the-blog-in-english/</link>
       <pubDate>Fri, 26 Jan 2018 21:46:20 +0100</pubDate>
       
-      <guid>https://angezanetti.com/posts/2018/01/fresh-start-switch-from-french-to-english-more/</guid>
+      <guid>https://angezanetti.com/posts/restart-the-blog-in-english/</guid>
       <description>It’s not really a 2018 resolution, but i need a fresh start.
 I’ve been blogging for almost 10 years now, not in English tho, and the last 4 years was not very productive in that area and I really miss it !
 During the last 4 years I worked in my first “real” job, like, with a boss, a contract and a long term duration. Before that I was a Freelancer.</description>
@@ -112,28 +113,6 @@ Hé oui déjà l&amp;#8217;été ! Synonyme de vacances pour beaucoup, pour moi 
       <guid>https://angezanetti.com/nouvelle-identite-graphique/</guid>
       <description>Ceux qui ont déjà reçu ma carte de visite sont au courant depuis quelques temps. Mais aujourd&amp;#8217;hui c&amp;#8217;est officiel, j&amp;#8217;ai une vraie identité graphique ! Ça aura pris du temps, c&amp;#8217;est vrai, mais mieux vaut tard que jamais parait il !
 Le design est en dans les tiroirs depuis un mois je crois mais il a fallu faire l&amp;#8217;intégration CSS du blog, faire mon &amp;#8220;office&amp;#8221; dans Second life, modifier un peu le look de ma page twitter etc etc&amp;#8230;</description>
-    </item>
-    
-    <item>
-      <title>Today’s my blog day</title>
-      <link>https://angezanetti.com/todays-my-blog-day/</link>
-      <pubDate>Fri, 06 Feb 2009 15:21:00 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/todays-my-blog-day/</guid>
-      <description>Aujourd&amp;#8217;hui est un jour spécial, non pas parce que c&amp;#8217;est la journée anti téléphone portable mais parce qu&amp;#8217;il y a 1 an tout rond je publias mon premier article. J&amp;#8217;ai commencé à blogger pour me faire connaître pour essayer de retrouver les fameux conférenciers de la conf NET 2007. Je me suis rapidement rendu compte qu&amp;#8217;il y avait de la place pour un blog faisant de la veille sur les univers virtuels.</description>
-    </item>
-    
-    <item>
-      <title>Pourquoi tout ça?</title>
-      <link>https://angezanetti.com/pourquoi-tout-ca/</link>
-      <pubDate>Tue, 29 Apr 2008 14:55:00 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/pourquoi-tout-ca/</guid>
-      <description>Je suis depuis quelques mois le nez plongé dans le web 2.0, celui sur lequel on se fait des amis et qui nous rend la navigation beaucoup plus simple.
-En théorie.
-Depuis le mois de Janvier je me suis inscrit à beaucoup d&amp;#8217;applications en ligne. Ma boîte mail déborde de message de confirmation d&amp;#8217;inscription et mon blog est de plus en plus fouilli je trouve.
-
-En plus je commence à douter de l&amp;#8217;efficacité de ma démarche.</description>
     </item>
     
   </channel>

@@ -1,14 +1,122 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xavier Coiffard</title>
-    <link>https://angezanetti.com/index.html</link>
-    <description>Recent content on Xavier Coiffard</description>
+    <title>/AngeZanetti.com</title>
+    <link>https://angezanetti.com/</link>
+    <description>Recent content on /AngeZanetti.com</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 26 Apr 2019 19:26:41 +0200</lastBuildDate>
     
 	<atom:link href="https://angezanetti.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Starting My Own Company</title>
+      <link>https://angezanetti.com/posts/starting-my-own-company/</link>
+      <pubDate>Fri, 26 Apr 2019 19:26:41 +0200</pubDate>
+      
+      <guid>https://angezanetti.com/posts/starting-my-own-company/</guid>
+      <description>I spent the last 3 years in the startup ecosystem of the Silicon Valley. As an employee of a big company first. My mission then was to study the US market and to create a subsidiary there.
+So my job suddenly went from Lead Developer to CTO, even CxO (I was the only one in charge on the US soil) so I did all the jobs needed in an early stage company: marketing, HR, tech, business strategy, and even Sales!</description>
+    </item>
+    
+    <item>
+      <title>On Algorythm During Interview</title>
+      <link>https://angezanetti.com/posts/on-algorythm-during-interview/</link>
+      <pubDate>Tue, 17 Jul 2018 22:04:44 +0100</pubDate>
+      
+      <guid>https://angezanetti.com/posts/on-algorythm-during-interview/</guid>
+      <description>I was recently into an interview process for a big company. I did 2 “in person” interview with the CEO and the CTO, I was looking for an Engineering Manager position.
+And I Ended by doing a Algorithm test on hackerrank.com. Few hours on a chair, trying to find the more optimize way to sort lists.
+Wait, really? I know, you want to test my tech skills, you want to check if I’m techie enough.</description>
+    </item>
+    
+    <item>
+      <title>From diving instructor to web developer, here is the 7 things I learned</title>
+      <link>https://angezanetti.com/posts/from-diving-instructor-to-coder/</link>
+      <pubDate>Fri, 02 Feb 2018 21:52:33 +0100</pubDate>
+      
+      <guid>https://angezanetti.com/posts/from-diving-instructor-to-coder/</guid>
+      <description>1 — It’s never been easier to jump on the bandwaggon I’m a self taught coder, I didn’t study Computer Science at school. I only did ~20hours of computer science lessons during my studies. I was not a geek, I didn’t start coding at 12yo, no what I liked so much during my childhood was going underwater, not computers :)
+You don’t need to be a geek/nerd/hero or whatever to be a developer  No you don&amp;rsquo;t, it&amp;rsquo;s a myth - and starting at 12 means nothing, what did they code at 12?</description>
+    </item>
+    
+    <item>
+      <title>Fresh start - switch from French to English &amp; more</title>
+      <link>https://angezanetti.com/posts/restart-the-blog-in-english/</link>
+      <pubDate>Fri, 26 Jan 2018 21:46:20 +0100</pubDate>
+      
+      <guid>https://angezanetti.com/posts/restart-the-blog-in-english/</guid>
+      <description>It’s not really a 2018 resolution, but i need a fresh start.
+I’ve been blogging for almost 10 years now, not in English tho, and the last 4 years was not very productive in that area and I really miss it !
+During the last 4 years I worked in my first “real” job, like, with a boss, a contract and a long term duration. Before that I was a Freelancer.</description>
+    </item>
+    
+    <item>
+      <title>Ecouter de la musique en ligne de commande avec Pianobar</title>
+      <link>https://angezanetti.com/radio-webradio-pandora-pianobar/</link>
+      <pubDate>Wed, 05 Jul 2017 14:36:31 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/radio-webradio-pandora-pianobar/</guid>
+      <description>Petite découverte du jour, si comme moi vous aimez ces petits outils qui permettent de faire pleins de trucs depuis votre terminal.
+Pianobar, est un client console pour Pandora le site de streaming de radio super populaire aux USA.
+Perso je bosse souvent en musique et j&amp;#8217;apprécie tout particulièrement les webradios, plus qu&amp;#8217;un Spotify où il faut choisir un artiste particulier.
+J&amp;#8217;utilisais Youtube avant pour ça mais c&amp;#8217;est lourd, ça bouffe de la ram et même en autoplay il faut y revenir au moins 1 fois par heure pour avoir quelque de constant.</description>
+    </item>
+    
+    <item>
+      <title>Conférence de Zuckerberg à voir!</title>
+      <link>https://angezanetti.com/conference-de-zuckerberg-a-voir/</link>
+      <pubDate>Fri, 26 May 2017 03:57:39 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/conference-de-zuckerberg-a-voir/</guid>
+      <description>Je suis tombé sur cette vidéo Facebook cet après midi. Dans un groupe orienté entreprenariat, je l&amp;#8217;ai ouvert pour voir. J&amp;#8217;ai pas réussi à la refermer, et elle dure 30 minutes.
+Zuck nous parle de sa vision, de comment des gens comme lui essaye de changer le monde et quels sont ces objectifs pour notre société.
+Ca fait d&amp;#8217;ailleurs écho à un billet qui doit toujours être dans mes brouillons et qui s&amp;#8217;appelait pompeusement &amp;#8220;Les entrepreneurs changent le monde&amp;#8221;, ce gars là en fait partie.</description>
+    </item>
+    
+    <item>
+      <title>De retour, en attendant les visas</title>
+      <link>https://angezanetti.com/de-retour-en-attendant-les-visas/</link>
+      <pubDate>Mon, 17 Apr 2017 07:27:29 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/de-retour-en-attendant-les-visas/</guid>
+      <description>Je me rends compte que je n&amp;#8217;ai jamais posté ici un retour d&amp;#8217;expérience sur mes 3 mois dans la Silicon Valley; il y a même pas mal de personnes qui pensent que j&amp;#8217;y suis toujours. Je profite de ce week-end prolongé pour vous faire un post !
+TheRefiners Nous sommes rentrés fin 2016, après 3 mois dans l&amp;#8217;accélérateur TheRefiners. J&amp;#8217;ai passé trois mois super motivant, le milieu startup est vraiment 1000 fois plus dynamique et motivant que celui du salariat!</description>
+    </item>
+    
+    <item>
+      <title>Je suis à San Francisco !</title>
+      <link>https://angezanetti.com/je-suis-a-san-francisco/</link>
+      <pubDate>Wed, 05 Oct 2016 20:23:18 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/je-suis-a-san-francisco/</guid>
+      <description>Plusieurs mois après le billet qui l&amp;#8217;annonçait, ça y est j&amp;#8217;y suis ! Je suis à San Francisco, dans la Silicon Valley pour tester notre produit sur le marché US ! Nous sommes dans un accélérateur TheRefiners, ils nous aident à faire grossir notre réseau ici et à nous adapter aux moeurs américains!
+Cela fait un bien fou de se retrouver dans une ambiance d&amp;#8217;entrepreneurs, des gens motivés par leurs projets qui sont là pour avancer.</description>
+    </item>
+    
+    <item>
+      <title>Je pars monter une boîte aux US !</title>
+      <link>https://angezanetti.com/je-pars-monter-une-boite-aux-us/</link>
+      <pubDate>Thu, 26 May 2016 10:01:14 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/je-pars-monter-une-boite-aux-us/</guid>
+      <description>Cela fait plus de deux ans que je bosse chez Sellsecure, quand je suis arrivé il fallait tout changer, ou presque. 30 mois plus tard nous avons changé de méthodes de travail, mis en place des revues de code systématique, nous utilisons Git, il y a des tests plus ou moins automatisés sur les projets et surtout nous avons refondu quasiment 100 % des appplicatifs.
+Tout le vieux PHP legacy a disparu, et à été remplacé par du Symfony2.</description>
+    </item>
+    
+    <item>
+      <title>Entrepreneur salarié, 3 ans après</title>
+      <link>https://angezanetti.com/entrepreneur-salarie-3-ans-apres/</link>
+      <pubDate>Mon, 04 Jan 2016 12:42:09 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/entrepreneur-salarie-3-ans-apres/</guid>
+      <description>Il y a 3 ans maintenant je suis passé d&amp;#8217;autoentrepreneur à entrepreneur salarié, au sein de grandsensemble. J&amp;#8217;en avais parlé rapidement sur ce post, mais rien de précis.
+Trois ans après, je suis toujours sous ce statut. Cela m&amp;#8217;a beaucoup aidé sur pleins de choses, et même si je suis toujours à la recherche du statut idéal je pense que celui d&amp;#8217;entrepreneur salarié me convient pas trop mal.
+Du coup, j&amp;#8217;ai pensé que ça pourrait toujours être utile de faire un post sur cette solution de création d&amp;#8217;entreprise assez peu connue.</description>
+    </item>
     
   </channel>
 </rss>

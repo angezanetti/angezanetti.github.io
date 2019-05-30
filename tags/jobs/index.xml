@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jobs on Xavier Coiffard</title>
+    <title>Jobs on /AngeZanetti.com</title>
     <link>https://angezanetti.com/tags/jobs/</link>
-    <description>Recent content in Jobs on Xavier Coiffard</description>
+    <description>Recent content in Jobs on /AngeZanetti.com</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Tue, 17 Jul 2018 22:04:44 +0100</lastBuildDate>
     
@@ -13,10 +14,10 @@
     
     <item>
       <title>On Algorythm During Interview</title>
-      <link>https://angezanetti.com/posts/2018/07/on-algorythm-during-interview/</link>
+      <link>https://angezanetti.com/posts/on-algorythm-during-interview/</link>
       <pubDate>Tue, 17 Jul 2018 22:04:44 +0100</pubDate>
       
-      <guid>https://angezanetti.com/posts/2018/07/on-algorythm-during-interview/</guid>
+      <guid>https://angezanetti.com/posts/on-algorythm-during-interview/</guid>
       <description>I was recently into an interview process for a big company. I did 2 “in person” interview with the CEO and the CTO, I was looking for an Engineering Manager position.
 And I Ended by doing a Algorithm test on hackerrank.com. Few hours on a chair, trying to find the more optimize way to sort lists.
 Wait, really? I know, you want to test my tech skills, you want to check if I’m techie enough.</description>
@@ -24,10 +25,10 @@ Wait, really? I know, you want to test my tech skills, you want to check if I’
     
     <item>
       <title>From diving instructor to web developer, here is the 7 things I learned</title>
-      <link>https://angezanetti.com/posts/2018/02/from-diving-instructor-to-web-developer-here-is-the-7-things-i-learned/</link>
+      <link>https://angezanetti.com/posts/from-diving-instructor-to-coder/</link>
       <pubDate>Fri, 02 Feb 2018 21:52:33 +0100</pubDate>
       
-      <guid>https://angezanetti.com/posts/2018/02/from-diving-instructor-to-web-developer-here-is-the-7-things-i-learned/</guid>
+      <guid>https://angezanetti.com/posts/from-diving-instructor-to-coder/</guid>
       <description>1 — It’s never been easier to jump on the bandwaggon I’m a self taught coder, I didn’t study Computer Science at school. I only did ~20hours of computer science lessons during my studies. I was not a geek, I didn’t start coding at 12yo, no what I liked so much during my childhood was going underwater, not computers :)
 You don’t need to be a geek/nerd/hero or whatever to be a developer  No you don&amp;rsquo;t, it&amp;rsquo;s a myth - and starting at 12 means nothing, what did they code at 12?</description>
     </item>
@@ -116,59 +117,6 @@ Depuis quelques temps déjà j&amp;#8217;essaye de consacrer ces temps morts à 
       
       <guid>https://angezanetti.com/webgl-adoption-usages-angezanetti-consultant/</guid>
       <description>Depuis que je travaille comme consultant et développeur dans le monde de la 3D je suis confronté à des débats sur les technos. Cela à commencé avec SecondLife, Opensim puis Unity3d, WebGL, Flash etc &amp;#8230;   Avec des arguments plus ou moins bien choisi, mais il y a toujours cette problématique du choix de technos. Je vais essayer de vous convaincre, dans ce billet, de tester WebGL.          WebG quoi ?</description>
-    </item>
-    
-    <item>
-      <title>Pourquoi les freelances sont aussi déprimés… ou pas</title>
-      <link>https://angezanetti.com/pourquoi-les-freelances-sont-aussi-deprimes-ou-pas/</link>
-      <pubDate>Thu, 28 Feb 2013 10:44:53 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/pourquoi-les-freelances-sont-aussi-deprimes-ou-pas/</guid>
-      <description>Je suis tombé hier, au fil de ma veille, sur un article de fastcompany qui a pour titre : &amp;#8220;Why freelancers are so depressed&amp;#8221;.
-Un bon gros titre qui fait peur, qui fait buzzer et pleurer dans les chaumières, on se croirait sur TF1. Je vais me permettre dans ce billet de répondre à ce post, parce que je suis freelance depuis presque 5 ans maintenant et aussi parce les problématiques des nouvelles formes de travail m&amp;#8217;intéressent beaucoup.</description>
-    </item>
-    
-    <item>
-      <title>Les news de la rentrée</title>
-      <link>https://angezanetti.com/rentree-2012-projets-grandsensemble-maintenantautravail-dentallife/</link>
-      <pubDate>Mon, 17 Sep 2012 09:34:40 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/rentree-2012-projets-grandsensemble-maintenantautravail-dentallife/</guid>
-      <description>Mon blog est en sommeil depuis plusieurs mois. Je le sais, ce n&amp;#8217;est pas une volonté de ma part mais plus un manque de temps. Dur de tenir le rythme d&amp;#8217;article que je m&amp;#8217;étais imposé depuis son lancement. J&amp;#8217;ai été pas mal occupé durant l&amp;#8217;été, pas mal de changement et des projets en cours !
-3 mois de changements à rattraper en un post cela ne va pas être facile, je vais essayer de faire court :</description>
-    </item>
-    
-    <item>
-      <title>Utiliser Vim comme éditeur LSL</title>
-      <link>https://angezanetti.com/utiliser-vim-comme-editeur-lsl/</link>
-      <pubDate>Mon, 21 May 2012 09:51:37 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/utiliser-vim-comme-editeur-lsl/</guid>
-      <description>&amp;nbsp;
-Depuis quelques jours je suis de retour sur SecondLife le nez dans le code de la V2 de Dentallife. Pas mal d&amp;#8217;eau a coulé sous les ponts depuis la conception et la réalisation de la V1, je me suis mis au Javascript et à la programmation orientée objet.
-Je vous laisse imaginer à quel point le retour au LSL est dur ! La pauvreté de ce langage est affligeante, sans parler du lag quand on veut échanger des infos avec un serveur externe.</description>
-    </item>
-    
-    <item>
-      <title>Bonne et heureuse année 2012 !</title>
-      <link>https://angezanetti.com/bonne-et-heureuse-annee-2012/</link>
-      <pubDate>Thu, 05 Jan 2012 07:06:18 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/bonne-et-heureuse-annee-2012/</guid>
-      <description>Comme le veut la tradition je tenais à vous souhaiter une bonne et heureuse année 2012.
-J&amp;#8217;espère bien que cette année tiendra ces promesses &amp;#8211; du moins celle que l&amp;#8217;on peut lire depuis 5 jours sur les blogs !
-
-Je ne vais pas rajouter une couche de prédictions, de nombreux bloggeurs s&amp;#8217;y sont mis avant moi. Par contre, je vais profiter de ce billet pour faire le bilan.</description>
-    </item>
-    
-    <item>
-      <title>Je veux devenir un Ninja !</title>
-      <link>https://angezanetti.com/je-veux-devenir-un-ninja/</link>
-      <pubDate>Fri, 14 Oct 2011 08:57:28 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/je-veux-devenir-un-ninja/</guid>
-      <description>Je pense que vous avez remarqué, depuis mon retour de vacances je blog moins. Mon fil twitter est toujours aussi actif mais ce blog, lui, était un peu en veille. Deux raisons à cela, mais pas d&amp;#8217;inquiétude ce sont des bonnes nouvelles !
-Premièrement à mon retour de vacances j&amp;#8217;ai été super pris par 2 gros projets. Le genre de projets super excitant, qui vous prend beaucoup temps mais qui est tout aussi passionnant que chronophage.</description>
     </item>
     
   </channel>

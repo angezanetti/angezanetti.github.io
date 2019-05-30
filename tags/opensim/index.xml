@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Opensim on Xavier Coiffard</title>
+    <title>Opensim on /AngeZanetti.com</title>
     <link>https://angezanetti.com/tags/opensim/</link>
-    <description>Recent content in Opensim on Xavier Coiffard</description>
+    <description>Recent content in Opensim on /AngeZanetti.com</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Tue, 26 Mar 2013 09:33:14 +0000</lastBuildDate>
     
@@ -113,61 +114,6 @@ On comprend assez bien le but, il est tristement simple : pouvoir s&amp;#8217;é
 Mais aussi, et surtout, de faire découvrir toutes les initiatives innovantes que l&amp;#8217;on trouve dans ces univers. Que ce soit dans le domaine culturel, scientifique, musical ou professionnel.
 D&amp;#8217;après le communiqué officiel :
  Il s&amp;#8217;agira de circuler à travers plusieurs mondes : Second Life , Francogrid, Opensim</description>
-    </item>
-    
-    <item>
-      <title>Virtual World Camp 2010</title>
-      <link>https://angezanetti.com/virtual-world-camp-2010/</link>
-      <pubDate>Wed, 10 Nov 2010 10:24:37 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/virtual-world-camp-2010/</guid>
-      <description>Je suis plutôt content de vous annoncer la troisième version d&amp;#8217;un événement qui me plaît particulièrement : le Virtual Worlds Camp.
-Pour ceux qui ne baignerait pas dans le monde de l&amp;#8217;internet un barcamp est une &amp;#8220;non-conférence&amp;#8221;, un lieu d&amp;#8217;échange ouvert, chacun est libre de venir y présenter son travail, d&amp;#8217;y soumettre ses idées ou de lancer des débats.
-Le problème pour moi, et pour la majorité d&amp;#8217;entre nous, je n&amp;#8217;habite pas Paris.</description>
-    </item>
-    
-    <item>
-      <title>OpenSim est maintenant compatible avec le viewer 2 de Second Life</title>
-      <link>https://angezanetti.com/opensim-071-compatible-viewer-2-de-second-life/</link>
-      <pubDate>Wed, 11 Aug 2010 13:25:59 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/opensim-071-compatible-viewer-2-de-second-life/</guid>
-      <description>&lt;p&gt;Le fameux viewer 2 de Second Life est sorti en Février dernier, il a été beaucoup décrié pour ses quelques bugs et son changement total d&amp;#8217;ergonomie qui à destabiliser les résidents SL. Mais d&amp;#8217;un point de vue professionnel, ou pour un débutant il faut bien avouer que ce nouvel outil est tout simplement une révolution.&lt;/p&gt;
-
-&lt;p&gt;La fonctionnalité phare de ce Viewer 2 est bien entendu le Web sur les objets. Autrement dit, depuis cette nouvelle version, il est possible de plaquer n&amp;#8217;importe quelle page web sur tous les objets présent dans SL. Le résultat est bluffant et cela augmente les fonctionnalités de ce monde virtuel de façon considérable.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Unity3d ou WebGL comme futur standard d’un Internet 3D ?</title>
-      <link>https://angezanetti.com/unity3d-google-opensim/</link>
-      <pubDate>Thu, 20 May 2010 09:18:55 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/unity3d-google-opensim/</guid>
-      <description>&lt;p&gt;Google à sorti son &amp;#8220;&lt;em&gt;native client&lt;/em&gt;&amp;#8221; il y a quelques jours comme je vous l&amp;#8217;annonçait &lt;a title=&#34;Google native client&#34; href=&#34;http://angezanetti.com/google-native-client-sdk/&#34; target=&#34;_blank&#34;&gt;dans cet article&lt;/a&gt; mais je ne croyais pas que ça bougerait aussi vite.&lt;/p&gt;
-
-&lt;p&gt;Hier, &lt;strong&gt;Unity3D,&lt;/strong&gt; le moteur de jeu vidéo sur lequel est basé &lt;a title=&#34;assemblive&#34; href=&#34;http://angezanetti.com/assemblive-v1-8-francais-api/&#34; target=&#34;_blank&#34;&gt;Assemblive&lt;/a&gt; par exemple, à annoncé qu&amp;#8217;ilvdéveloppait une application native pour Chrome. Concrétement cela veut dite que Unity3d n&amp;#8217;aura plus besoin de plugin pour fonctionner dans le navigateur de Google. On aura de la 3d aussi facilement que l&amp;#8217;on affiche des pages web, simplement en cliquant.&lt;/p&gt;
-
-&lt;p&gt;Ce qui est marrant c&amp;#8217;est qu&amp;#8217;ils font cette annonce en plein boum du &lt;strong&gt;WebGL&lt;/strong&gt; et à peine 2 jours après que Google annonce qu&amp;#8217;il supporte officiellement cette nouvelle technologie basée sur HTML5. Ou plutôt, pour le dire dans le bon sens&lt;a title=&#34;Google arrête O3D&#34; href=&#34;http://www.silicon.fr/fr/news/2010/05/10/technologies_web___google_abandonne_o3d&#34; target=&#34;_blank&#34;&gt;, qu&amp;#8217;il arrête le projet O3&lt;/a&gt;D qui était un concurrent à WebGL.&lt;/p&gt;
-
-&lt;p&gt;La bataille pour le standard de l&amp;#8217;internet 3D à commencé :)&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Un viewer Opensim basé sur Unity3d ?</title>
-      <link>https://angezanetti.com/un-viewer-opensim-base-sur-unity3d/</link>
-      <pubDate>Thu, 12 Nov 2009 15:56:00 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/un-viewer-opensim-base-sur-unity3d/</guid>
-      <description>C&amp;#8217;est la nouvelle du jour : il y a un petit malin qui s&amp;#8217;amuse à créer un viewer OpenSim avec Unity3d -qui est gratuit depuis peu ! Unity3d c&amp;#8217;est un peu la version 3d de flash : une interface vraiment bien faite avec laquelle on peut construire des jeux vidéos, des mondes virtuels avec juste du drag &amp; drop. C&amp;#8217;est loin d&amp;#8217;être aussi facile d&amp;#8217;approche que du OpenSim ou du Second Life mais le résultat est vraiment impressionnant.</description>
-    </item>
-    
-    <item>
-      <title>ProspecTIC : Le teaser</title>
-      <link>https://angezanetti.com/prospectic-le-teaser/</link>
-      <pubDate>Mon, 12 Oct 2009 13:35:00 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/prospectic-le-teaser/</guid>
-      <description>ProspecTIC est un livre écrit par Jean Michel Cornu dont le but est de mieux &amp;#8220;comprendre et maîtriser les différents choix technologiques auxquels nous sommes confrontés&amp;#8221;, mais c&amp;#8217;est aussi depuis 2008 un projet commun avec la Bibliothèque Francophone de cartographie du savoir. Représenter en trois dimensions des notions complexes de façon à les partager, les retenir plus facilement. Ce projet se construit doucement, notamment grâce aux étudiants que je forme et aux efforts considérable de Tao Vacano &amp;#8211; membre de la biblio &amp;#8211; Et c&amp;#8217;est tao qui est l&amp;#8217;auteur du petit teaser que je me devais de vous présenter ici, l&amp;#8217;île n&amp;#8217;est pas encore finie mais cela commence à prendre forme :</description>
     </item>
     
   </channel>

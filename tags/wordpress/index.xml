@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WordPress on Xavier Coiffard</title>
+    <title>WordPress on /AngeZanetti.com</title>
     <link>https://angezanetti.com/tags/wordpress/</link>
-    <description>Recent content in WordPress on Xavier Coiffard</description>
+    <description>Recent content in WordPress on /AngeZanetti.com</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 17 Aug 2014 10:00:58 +0000</lastBuildDate>
     
@@ -112,24 +113,6 @@ J&amp;#8217;ai mis en place un LAMP, tout bête et expliqué à Guillaume commen
       <guid>https://angezanetti.com/notifications-mise-a-jour-wordpress/</guid>
       <description>WordPress est un outil formidable qui évolue très vite porté par une communauté très active. Pour un usage personnel c&amp;#8217;est formidable, les failles de sécurité sont comblées très vite et l&amp;#8217;outil s&amp;#8217;améliore de jours en jours.
 Pour un usage professionnel c&amp;#8217;est parfois plus compliqué, difficile de mettre à jour le site de tous vos clients à chaque nouvelle release. Cela depend du contrat de maintenance que vous avez conclu avec lui, de sa/votre disponibilité etc&amp;#8230;</description>
-    </item>
-    
-    <item>
-      <title>[Tuto]Créer un thème de maintenance pour votre blog wordpress</title>
-      <link>https://angezanetti.com/creer-theme-maintenance-pour-blog-wordpress/</link>
-      <pubDate>Tue, 30 Nov 2010 11:04:19 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/creer-theme-maintenance-pour-blog-wordpress/</guid>
-      <description>En ce moment je fais du wordpress, mise en place du serveur, installation de WordPress et intégration du/des thèmes. Dernièrement, enfin avant la pause Indienne on m&amp;#8217;a demandé de faire un thème maintenance pour un site. Le but étant de faire patienter les visiteurs éventuels pendant la mise en place, et accessoirement de mettre son site online avant qu&amp;#8217;il soit terminé à 100% et donc &amp;#8220;d&amp;#8217;habituer&amp;#8221; Google a votre présence sur le web :)</description>
-    </item>
-    
-    <item>
-      <title>Retour d’expérience sur ma migration Blogger -&gt; WordPress</title>
-      <link>https://angezanetti.com/migration-blogger-wordpress-2/</link>
-      <pubDate>Thu, 11 Mar 2010 08:47:00 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/migration-blogger-wordpress-2/</guid>
-      <description>Il y a deux semaines je décidais de migrer mon (vieux) blog blogger sous WordPress. Mes raisons étaient nombreuses, d&amp;#8217;abord l&amp;#8217;envie de tester de nouvelles plateformes mais surtout gagner en rapidité d&amp;#8217;affichage et en qualité d&amp;#8217;ergonomie. Finalement je ne suis pas déçu. WordPress est tout simplement un moteur de blog génial. L&amp;#8217;installation se fait en douceur, pas vraiment besoin de mettre les mains dans le code. Dans mon cas j&amp;#8217;ai du jouer un peu avec les DNS pour faire pointer angezanetti.</description>
     </item>
     
   </channel>
