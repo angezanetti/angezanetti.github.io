@@ -6,8 +6,66 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Fri, 26 Apr 2019 19:26:41 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 30 May 2019 21:56:31 +0200</lastBuildDate>
 		<atom:link href="https://angezanetti.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Switching From Wordpress to a static website (hugo)</title>
+			<link>https://angezanetti.com/posts/switching-from-wordpress-gohugo/</link>
+			<pubDate>Thu, 30 May 2019 21:56:31 +0200</pubDate>
+			
+			<guid>https://angezanetti.com/posts/switching-from-wordpress-gohugo/</guid>
+			<description>I&amp;rsquo;m a big fan of Wordpress, I start using it almost 10 years ago, I also created/adapt a ton of plugins/themes during the first part of my career. It&amp;rsquo;s a wonderful tool to create a website in a few minutes, the backoffice is really easy for the non-techy and so on. But, it&amp;rsquo;s also a pain in the ___ to maintain, you have to have a SQL database, to update the plugins on a regular basis, you need to check the spam folder etc…</description>
+			<content type="html"><![CDATA[
+
+<p>I&rsquo;m a big fan of Wordpress, I start using it almost <a href="https://angezanetti.com/tags/wordpress/">10 years ago</a>, I also created/adapt a ton of plugins/themes during the first part of my career.
+It&rsquo;s a wonderful tool to create a website in a few minutes, the backoffice is really easy for the non-techy and so on.
+But, it&rsquo;s also a pain in the ___ to maintain, you have to have a SQL database, to update the plugins on a regular basis, you need to check the spam folder etc…</p>
+
+<h2 id="medium">Medium?</h2>
+
+<h2 id="i-wanted-something-lighter">I wanted something lighter</h2>
+
+<p>I think you get my point, I&rsquo;m tired of the all actions needed to maintain a WP blog. Even a server, I just want a place somewhere to publish some (too) occasionnal blog posts.
+No database, no apache, no plugins, no comments (i.e. no spam), no cache, no PHP.</p>
+
+<p>HTML + CSS + content.
+That&rsquo;s it
+At this time I didn&rsquo;t had a strong opinion on the engine, Jekyll, Hugo, Pelican, whatever langage, as soon as I have clean HTML at the exit!</p>
+
+<h2 id="i-feared-the-migration">I feared the migration</h2>
+
+<p>Also, I don&rsquo;t know if you ever tried but, moving a WP blog from a server to another is so much pain. You need to dig into the db, change the url. 1 time out of 2 you lost a day on a migration.
+So, I was ok to migrate to a cooler/lighter blog engine but I definitely don&rsquo;t have the time to spend a day on crashing my blog.</p>
+
+<p>And I discovered the doc of gohugo.io and it&rsquo;s plugin  WordPress to Hugo Exporter. Look at the description: <code>
+One-click WordPress plugin that converts all posts, pages, taxonomies, metadata, and settings to Markdown and YAML which can be dropped into Hugo.</code></p>
+
+<h2 id="one-click-really">One click? Really?</h2>
+
+<p>I gave it a try, and yes, it&rsquo;s insane but it works in 2 lines.</p>
+
+<pre><code>php hugo-export-cli.php
+wp hugo-export &gt; export.zip
+</code></pre>
+
+<p>And BOOM all your posts can be dropped to Hugo, then copy/paste them into the <code>content</code> section, launch your local server with <code>hugo server</code> and VOILA.</p>
+
+<h2 id="hosting-design">Hosting + Design</h2>
+
+<p>For the design 2 solutions: you take a theme in the theme library on the hugo doc&rsquo;s website. Or you build your own.
+I choose the hermit theme, tweak it a bit - I hope you like the shiny pink color :O</p>
+
+<p>For the hosting you can it&rsquo;s easy because it&rsquo;s HTML + CSS after all. So you can drop it pretty much wherever you want.
+I choose Github Pages, because I&rsquo;m a fan of Github and you need to version your code after all!
+Once again, the doc is pretty well written, so just follow it and you should be good!</p>
+
+<h2 id="editing">Editing</h2>
+
+<p>MArkdown
+Zettlr</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>Starting My Own Company</title>
