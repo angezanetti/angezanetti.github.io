@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 30 May 2019 21:56:31 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2014 10:00:58 +0000</lastBuildDate>
     
 	<atom:link href="https://angezanetti.com/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Switching From Wordpress to a static website (hugo)</title>
-      <link>https://angezanetti.com/posts/switching-from-wordpress-gohugo/</link>
-      <pubDate>Thu, 30 May 2019 21:56:31 +0200</pubDate>
-      
-      <guid>https://angezanetti.com/posts/switching-from-wordpress-gohugo/</guid>
-      <description>I&amp;rsquo;m a big fan of Wordpress, I start using it almost 10 years ago, I also created/adapt a ton of plugins/themes during the first part of my career. It&amp;rsquo;s a wonderful tool to create a website in a few minutes, the backoffice is really easy for the non-techy and so on. But, it&amp;rsquo;s also a pain in the ___ to maintain, you have to have a SQL database, to update the plugins on a regular basis, you need to check the spam folder etc…</description>
-    </item>
     
     <item>
       <title>Eviter les attaques par bruteforce sur WordPress</title>
@@ -112,6 +103,16 @@ Mais comme souvent avec les plugins, il y en a des plus ou moins bon, plus ou mo
       <description>J&amp;#8217;ai récemment (re)installé un serveur dédié pour mon ami Guillaume. Ce serveur sert, entre autres, à faire tourner un blog WordPress.
 J&amp;#8217;ai mis en place un LAMP, tout bête et expliqué à Guillaume comment utiliser SSH &amp;#8211; avec SFTP &amp;#8211; pour le transfert de fichiers sur le serveur. Ainsi j&amp;#8217;évite de mettre un serveur FTP, protocole critiqué pour sa sécurité.
  Update Sept 2012 : Depuis la rédaction de ce post il existe un plugin qui fait le boulot en deux clics :http://wordpress.</description>
+    </item>
+    
+    <item>
+      <title>[Tuto] Enlever les notifications de mise à jour de WordPress sans plugin</title>
+      <link>https://angezanetti.com/notifications-mise-a-jour-wordpress/</link>
+      <pubDate>Mon, 01 Aug 2011 09:15:16 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/notifications-mise-a-jour-wordpress/</guid>
+      <description>WordPress est un outil formidable qui évolue très vite porté par une communauté très active. Pour un usage personnel c&amp;#8217;est formidable, les failles de sécurité sont comblées très vite et l&amp;#8217;outil s&amp;#8217;améliore de jours en jours.
+Pour un usage professionnel c&amp;#8217;est parfois plus compliqué, difficile de mettre à jour le site de tous vos clients à chaque nouvelle release. Cela depend du contrat de maintenance que vous avez conclu avec lui, de sa/votre disponibilité etc&amp;#8230;</description>
     </item>
     
   </channel>

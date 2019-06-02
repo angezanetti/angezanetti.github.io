@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 30 May 2019 21:56:31 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2018 21:46:20 +0100</lastBuildDate>
     
 	<atom:link href="https://angezanetti.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Switching From Wordpress to a static website (hugo)</title>
-      <link>https://angezanetti.com/posts/switching-from-wordpress-gohugo/</link>
-      <pubDate>Thu, 30 May 2019 21:56:31 +0200</pubDate>
-      
-      <guid>https://angezanetti.com/posts/switching-from-wordpress-gohugo/</guid>
-      <description>I&amp;rsquo;m a big fan of Wordpress, I start using it almost 10 years ago, I also created/adapt a ton of plugins/themes during the first part of my career. It&amp;rsquo;s a wonderful tool to create a website in a few minutes, the backoffice is really easy for the non-techy and so on. But, it&amp;rsquo;s also a pain in the ___ to maintain, you have to have a SQL database, to update the plugins on a regular basis, you need to check the spam folder etc…</description>
-    </item>
     
     <item>
       <title>Fresh start - switch from French to English &amp; more</title>
@@ -112,6 +103,16 @@ Pour partir en beauté, je me suis dit que rien ne valait un bon vieux troll bie
       <description>photo de christing-O-
 
 Hé oui déjà l&amp;#8217;été ! Synonyme de vacances pour beaucoup, pour moi ça n&amp;#8217;est plus le cas depuis plusieurs années déjà. Pour ceux qui ne le savent pas encore, je suis moniteur de plongée. Cette année je retourne donc au bord de la mer pour travailler. C&amp;#8217;est certainement la dernière année d&amp;#8217;ailleurs, à voir. Ange Zanetti &amp;#8211; l&amp;#8217;entreprise &amp;#8211; se porte pas trop mal et si cela continu sur cette lancée je n&amp;#8217;aurai pas forcement besoin de partir en saison l&amp;#8217;année prochaine pour boucler le budget annuel.</description>
+    </item>
+    
+    <item>
+      <title>Nouvelle identité graphique</title>
+      <link>https://angezanetti.com/nouvelle-identite-graphique/</link>
+      <pubDate>Thu, 07 May 2009 13:59:00 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/nouvelle-identite-graphique/</guid>
+      <description>Ceux qui ont déjà reçu ma carte de visite sont au courant depuis quelques temps. Mais aujourd&amp;#8217;hui c&amp;#8217;est officiel, j&amp;#8217;ai une vraie identité graphique ! Ça aura pris du temps, c&amp;#8217;est vrai, mais mieux vaut tard que jamais parait il !
+Le design est en dans les tiroirs depuis un mois je crois mais il a fallu faire l&amp;#8217;intégration CSS du blog, faire mon &amp;#8220;office&amp;#8221; dans Second life, modifier un peu le look de ma page twitter etc etc&amp;#8230;</description>
     </item>
     
   </channel>

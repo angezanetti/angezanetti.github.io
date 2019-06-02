@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 30 May 2019 21:56:31 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2019 19:26:41 +0200</lastBuildDate>
     
 	<atom:link href="https://angezanetti.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Switching From Wordpress to a static website (hugo)</title>
-      <link>https://angezanetti.com/posts/switching-from-wordpress-gohugo/</link>
-      <pubDate>Thu, 30 May 2019 21:56:31 +0200</pubDate>
-      
-      <guid>https://angezanetti.com/posts/switching-from-wordpress-gohugo/</guid>
-      <description>I&amp;rsquo;m a big fan of Wordpress, I start using it almost 10 years ago, I also created/adapt a ton of plugins/themes during the first part of my career. It&amp;rsquo;s a wonderful tool to create a website in a few minutes, the backoffice is really easy for the non-techy and so on. But, it&amp;rsquo;s also a pain in the ___ to maintain, you have to have a SQL database, to update the plugins on a regular basis, you need to check the spam folder etc…</description>
-    </item>
     
     <item>
       <title>Starting My Own Company</title>
@@ -114,6 +105,17 @@ Cela fait un bien fou de se retrouver dans une ambiance d&amp;#8217;entrepreneur
       <guid>https://angezanetti.com/je-pars-monter-une-boite-aux-us/</guid>
       <description>Cela fait plus de deux ans que je bosse chez Sellsecure, quand je suis arrivé il fallait tout changer, ou presque. 30 mois plus tard nous avons changé de méthodes de travail, mis en place des revues de code systématique, nous utilisons Git, il y a des tests plus ou moins automatisés sur les projets et surtout nous avons refondu quasiment 100 % des appplicatifs.
 Tout le vieux PHP legacy a disparu, et à été remplacé par du Symfony2.</description>
+    </item>
+    
+    <item>
+      <title>Entrepreneur salarié, 3 ans après</title>
+      <link>https://angezanetti.com/entrepreneur-salarie-3-ans-apres/</link>
+      <pubDate>Mon, 04 Jan 2016 12:42:09 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/entrepreneur-salarie-3-ans-apres/</guid>
+      <description>Il y a 3 ans maintenant je suis passé d&amp;#8217;autoentrepreneur à entrepreneur salarié, au sein de grandsensemble. J&amp;#8217;en avais parlé rapidement sur ce post, mais rien de précis.
+Trois ans après, je suis toujours sous ce statut. Cela m&amp;#8217;a beaucoup aidé sur pleins de choses, et même si je suis toujours à la recherche du statut idéal je pense que celui d&amp;#8217;entrepreneur salarié me convient pas trop mal.
+Du coup, j&amp;#8217;ai pensé que ça pourrait toujours être utile de faire un post sur cette solution de création d&amp;#8217;entreprise assez peu connue.</description>
     </item>
     
   </channel>
