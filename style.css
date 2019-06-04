@@ -3,6 +3,7 @@ html, #site-header, #mobile-menu {
 }
 body, button, input, select, textarea, a {
   color: #000;
+  font-family: 'Open Sans', sans-serif;
 }
 a {
   border-bottom: 3px solid transparent;
@@ -11,8 +12,14 @@ a:hover {
   border-bottom: 3px solid #FE5185;
   color: #333;
 }
-h1 {
+#home-title {
   font-size: 1.6em;
+}
+h1, h2, h3, .next-post, .prev-post, .site-branding a, .post-year, .post-day, .post-info, .tag a {
+  font-family: 'Unica One', cursive;
+}
+pre, pre code {
+  background: #7d828a;
 }
 .content a:hover {
   background-color: #FE5185;
@@ -26,4 +33,11 @@ h1 {
 .content a.anchor:hover {
   color: #FE5185;
 }
+.post-info a:hover {
+  border-bottom: 1px solid #FE5185;
+}
+.posts-group .post-item {
+  border-bottom: 1px dashed #eee;
+}
+
 
