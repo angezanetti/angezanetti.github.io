@@ -6,8 +6,118 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Tue, 04 Jun 2019 08:56:31 +0200</lastBuildDate>
+		<lastBuildDate>Sat, 15 Jun 2019 09:27:29 +0200</lastBuildDate>
 		<atom:link href="https://angezanetti.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Why you need a VPN and how to install one</title>
+			<link>https://angezanetti.com/posts/how-to-install-openvpn/</link>
+			<pubDate>Sat, 15 Jun 2019 09:27:29 +0200</pubDate>
+			
+			<guid>https://angezanetti.com/posts/how-to-install-openvpn/</guid>
+			<description>What&amp;rsquo;s a VPN A VPN is a tunnel, an encrypted one. Every request you made on your computer goes in that tunnel, fully encrypted. The exit of the tunnel is on the server where you setup the VPN, the server decrypts the request and send it to the website. Then, when the website responds to you, the server puts the response in the same tunnel and your computer decrypt it so you can see it as you do with a normal Internet connection.</description>
+			<content type="html"><![CDATA[
+
+<h2 id="what-s-a-vpn">What&rsquo;s a VPN</h2>
+
+<p>A VPN is a tunnel, an encrypted one. Every request you made on your computer
+goes in that tunnel, fully encrypted. The exit of the tunnel is on the server where
+you setup the VPN, the server decrypts the request and send it to the website.
+Then, when the website responds to you, the server puts the response in the same
+tunnel and your computer decrypt it so you can see it as you do with a normal
+Internet connection.
+A VPN is just a way to create &ldquo;<em>wormhole</em>&rdquo; in the Internet, a tunnel where all
+infos are private.</p>
+
+<h2 id="why-you-need-a-vpn">Why you need a VPN</h2>
+
+<p>We all need a VPN, not because we&rsquo;re all hackers (with hoodies), but because
+we all spend time outside with a laptop, or a phone. We all connect to unknown
+public wifi. These wifi are shared with strangers, and you don&rsquo;t want to trust
+strangers.</p>
+
+<p>No, you don&rsquo;t.</p>
+
+<p>Especially when it&rsquo;s about your bank account, your
+facebook account, or whatever personal stuff that you check on the Internet
+while being outside.</p>
+
+<p>Because, yes, when you connect to public wifi, like in your coworking space,
+in a McDonald&rsquo;s, an airport etc&hellip; EVERY people connected to that particular
+network can <em>sniff</em> ALL the traffic. It means, that, if the traffic is in clear
+(HTTP without the <em>S</em>, i.e. not with the green icon), <strong>EVERY</strong> stranger on the same wifi as you can basically see what you do on your
+laptop.</p>
+
+<p>And that&rsquo;s sucks, big time!</p>
+
+<p>With a VPN, someone who would spy your connection will only see a wormhole, with all the data encrypted.</p>
+
+<p>PS: Where you&rsquo;re home, there is no stranger on your wifi (usually), but all
+your traffic is visible by your ISP, which can be also an issue.</p>
+
+<h2 id="why-you-need-your-own-vpn">Why you need your OWN VPN</h2>
+
+<p>There is a lot of commercial VPN out here, even free ones. But you don&rsquo;t want
+them</p>
+
+<blockquote>
+<p>if it&rsquo;s free it&rsquo;s because you are the product.</p>
+</blockquote>
+
+<p>VPN makes no exception here. If the VPN is free, I&rsquo;m pretty sure someone is
+analyzing what&rsquo;s come out of the tunnel. Maybe for marketing, maybe because
+they want your credentials, maybe they resell your identity&hellip; But either way,
+you don&rsquo;t want it!</p>
+
+<p>Some of the paid VPN are good, but if you know just a bit of server
+administration you really should consider making your own.
+Because it&rsquo;s EASY</p>
+
+<h2 id="setup-your-vpn-server">Setup your VPN server</h2>
+
+<p><a href="https://openvpn.org">OpenVPN</a> is an opensource software, you can install it on any Linux server and
+you can find a client for Linux, MacOs, windows, Android and IOs.</p>
+
+<p>Back in 2010 it was a pain to install, you had to fight with Linux network
+interfaces but nowadays it&rsquo;s really easy! You just need to know how to connect
+to a server with ssh.</p>
+
+<h3 id="first-you-need-a-server">First you need a server</h3>
+
+<p>Yes, you need a server to install your own VPN. Don&rsquo;t panic you can find a VPS
+(virtual server) for a few bucks by Amazon, OVH or virmach.
+Choose the smallest one, you don&rsquo;t need any compute performance or memory to
+run a VPN, even the $1 version of the Virmach VPN can do the job.
+Then install a basic Debian/Ubuntu/CentOs on it</p>
+
+<h3 id="run-a-script">Run a script</h3>
+
+<p>I told you it&rsquo;s easy to setup an OpenVpn, check it out:
+Just run this in your terminal:</p>
+
+<pre><code>wget https://git.io/vpn -O openvpn-install.sh &amp;&amp; bash openvpn-install.sh
+</code></pre>
+
+<p>Follow the instructions, they will ask you some basics info and you&rsquo;re good!</p>
+
+<h3 id="connect-to-the-server">Connect to the server</h3>
+
+<p>At the end of the script, you should have given a name for the client (it&rsquo;s
+<code>client.opvpn</code> by default and it should be located in <code>/root</code>.</p>
+
+<p>Just copy it with <code>scp</code> to your local machine and use it to connect to your VPN server.</p>
+
+<p>I use MacOSX, so I connect with <a href="https://tunnelblick.net"><strong>Tunnelblick</strong></a>, but there is plenty of
+alternatives for Linux/Windows/*BSD, just find the one you like the most! (even
+if you should prefer opensource software for this kind of security matters)</p>
+
+<p>So, just drag &amp; drop your file into the tunnelblick icon, wait 30 sec and
+VOILA. You should be connected to your own VPN. If you want to double check,
+just open <a href="https://www.whatsmyip.org/">https://www.whatsmyip.org/</a>, you should see the IP of your server!</p>
+
+<p>Now you can enjoy your own privacy <em>wormhole</em> in the Internet, Enjoy!</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>Switching From Wordpress to a static website (hugo)</title>
@@ -15,10 +125,10 @@
 			<pubDate>Tue, 04 Jun 2019 08:56:31 +0200</pubDate>
 			
 			<guid>https://angezanetti.com/posts/switching-from-wordpress-gohugo/</guid>
-			<description>I&amp;rsquo;m a big fan of Wordpress, I start using it almost 10 years ago, I also created/adapted a ton of plugins/themes during the first part of my career. It&amp;rsquo;s a wonderful tool to create a website in a few minutes, the back-office is really easy for the non-techs people. But, it&amp;rsquo;s also a pain in the a** to maintain, you have to have a SQL database, to update the plugins on a regular basis, you need to check the spam folder, etc…</description>
+			<description>I&amp;rsquo;m a big fan of Wordpress, I started using it almost 10 years ago, I also created/adapted a ton of plugins/themes during the first part of my career. It&amp;rsquo;s a wonderful tool to create a website in a few minutes, the back-office is really easy for the non-techs people. But, it&amp;rsquo;s also a pain in the a** to maintain, you have to have a SQL database, to update the plugins on a regular basis, you need to check the spam folder, etc…</description>
 			<content type="html"><![CDATA[
 
-<p>I&rsquo;m a big fan of Wordpress, I start using it almost <a href="https://angezanetti.com/tags/wordpress/">10 years ago</a>, I also created/adapted a ton of plugins/themes during the first part of my career.
+<p>I&rsquo;m a big fan of Wordpress, I started using it almost <a href="https://angezanetti.com/tags/wordpress/">10 years ago</a>, I also created/adapted a ton of plugins/themes during the first part of my career.
 It&rsquo;s a wonderful tool to create a website in a few minutes, the back-office is really easy for the non-techs people.
 But, it&rsquo;s also a pain in the a** to maintain, you have to have a SQL database, to update the plugins on a regular basis, you need to check the spam folder, etc…</p>
 

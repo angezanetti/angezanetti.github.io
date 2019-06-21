@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 05 Jul 2017 14:36:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2019 09:27:29 +0200</lastBuildDate>
     
 	<atom:link href="https://angezanetti.com/tags/tuto/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why you need a VPN and how to install one</title>
+      <link>https://angezanetti.com/posts/how-to-install-openvpn/</link>
+      <pubDate>Sat, 15 Jun 2019 09:27:29 +0200</pubDate>
+      
+      <guid>https://angezanetti.com/posts/how-to-install-openvpn/</guid>
+      <description>What&amp;rsquo;s a VPN A VPN is a tunnel, an encrypted one. Every request you made on your computer goes in that tunnel, fully encrypted. The exit of the tunnel is on the server where you setup the VPN, the server decrypts the request and send it to the website. Then, when the website responds to you, the server puts the response in the same tunnel and your computer decrypt it so you can see it as you do with a normal Internet connection.</description>
+    </item>
     
     <item>
       <title>Ecouter de la musique en ligne de commande avec Pianobar</title>
@@ -103,16 +112,6 @@ Alors, bien sur, il y a la solution de la compilation mais bon je suis pas hyper
       
       <guid>https://angezanetti.com/un-an-sans-google-retour-experience/</guid>
       <description>Comme beaucoup de travailleurs du web j&amp;#8217;ai longtemps été fan de Google au point d&amp;#8217;utiliser ses produits pour à peu près toute ma vie numérique : mails, todolist, recherche, documents partagés, réseau social, organisation d&amp;#8217;événements etc&amp;#8230; Tout ce que je faisais sur le net passait par Google. J&amp;#8217;ai toujours eu conscience que Google est une société qui fait du bénéfice sur nos données personelles mais je n&amp;#8217;avais pas vraiment l&amp;#8217;envie de changer d&amp;#8217;autant que le marketing de Google est assez doué pour &amp;#8220;draguer&amp;#8221; les geeks avec leurs lot de nouveautés.</description>
-    </item>
-    
-    <item>
-      <title>Comment avoir une version de NodeJs à jour sur Ubuntu ?</title>
-      <link>https://angezanetti.com/version-nodejs-a-jour-sur-ubuntu-1204-compilation-ppa/</link>
-      <pubDate>Sun, 02 Dec 2012 11:13:13 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/version-nodejs-a-jour-sur-ubuntu-1204-compilation-ppa/</guid>
-      <description>Je me posé cette question il y a quelques jours après un upgrade de mes paquets sur un serveur qui fonctionne sous Ubuntu 12.04. Les applications misent à jour ne fonctionnaient pas, NPM non plus. Bref, un joli &amp;#8220;foutoir&amp;#8221;. J&amp;#8217;ai mis du temps à comprendre d&amp;#8217;ou venait les problèmes. Finalement un simple
-node -v Et j&amp;#8217;ai compris tout de suite, j&amp;#8217;avais sur mon serveur une vieille version de node.js (0.</description>
     </item>
     
   </channel>

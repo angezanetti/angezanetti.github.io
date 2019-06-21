@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 04 Jun 2019 08:56:31 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2019 09:27:29 +0200</lastBuildDate>
     
 	<atom:link href="https://angezanetti.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tuto</title>
+      <link>https://angezanetti.com/tags/tuto/</link>
+      <pubDate>Sat, 15 Jun 2019 09:27:29 +0200</pubDate>
+      
+      <guid>https://angezanetti.com/tags/tuto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openvpn</title>
+      <link>https://angezanetti.com/tags/openvpn/</link>
+      <pubDate>Sat, 15 Jun 2019 09:27:29 +0200</pubDate>
+      
+      <guid>https://angezanetti.com/tags/openvpn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Blog</title>
@@ -58,15 +76,6 @@
     </item>
     
     <item>
-      <title>Tuto</title>
-      <link>https://angezanetti.com/tags/tuto/</link>
-      <pubDate>Wed, 05 Jul 2017 14:36:31 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/tags/tuto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Entrepreneur</title>
       <link>https://angezanetti.com/tags/entrepreneur/</link>
       <pubDate>Fri, 26 May 2017 03:57:39 +0000</pubDate>
@@ -90,15 +99,6 @@
       <pubDate>Wed, 05 Oct 2016 20:23:18 +0000</pubDate>
       
       <guid>https://angezanetti.com/tags/usa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dev</title>
-      <link>https://angezanetti.com/tags/dev/</link>
-      <pubDate>Mon, 27 Apr 2015 12:13:51 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/tags/dev/</guid>
       <description></description>
     </item>
     

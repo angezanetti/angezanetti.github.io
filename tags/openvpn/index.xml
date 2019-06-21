@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>openvpn on /AngeZanetti.com</title>
+    <link>https://angezanetti.com/tags/openvpn/</link>
+    <description>Recent content in openvpn on /AngeZanetti.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 15 Jun 2019 09:27:29 +0200</lastBuildDate>
+    
+	<atom:link href="https://angezanetti.com/tags/openvpn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why you need a VPN and how to install one</title>
+      <link>https://angezanetti.com/posts/how-to-install-openvpn/</link>
+      <pubDate>Sat, 15 Jun 2019 09:27:29 +0200</pubDate>
+      
+      <guid>https://angezanetti.com/posts/how-to-install-openvpn/</guid>
+      <description>What&amp;rsquo;s a VPN A VPN is a tunnel, an encrypted one. Every request you made on your computer goes in that tunnel, fully encrypted. The exit of the tunnel is on the server where you setup the VPN, the server decrypts the request and send it to the website. Then, when the website responds to you, the server puts the response in the same tunnel and your computer decrypt it so you can see it as you do with a normal Internet connection.</description>
+    </item>
+    
+  </channel>
+</rss>

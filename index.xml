@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 04 Jun 2019 08:56:31 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2019 09:27:29 +0200</lastBuildDate>
     
 	<atom:link href="https://angezanetti.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why you need a VPN and how to install one</title>
+      <link>https://angezanetti.com/posts/how-to-install-openvpn/</link>
+      <pubDate>Sat, 15 Jun 2019 09:27:29 +0200</pubDate>
+      
+      <guid>https://angezanetti.com/posts/how-to-install-openvpn/</guid>
+      <description>What&amp;rsquo;s a VPN A VPN is a tunnel, an encrypted one. Every request you made on your computer goes in that tunnel, fully encrypted. The exit of the tunnel is on the server where you setup the VPN, the server decrypts the request and send it to the website. Then, when the website responds to you, the server puts the response in the same tunnel and your computer decrypt it so you can see it as you do with a normal Internet connection.</description>
+    </item>
     
     <item>
       <title>Switching From Wordpress to a static website (hugo)</title>
@@ -18,7 +27,7 @@
       <pubDate>Tue, 04 Jun 2019 08:56:31 +0200</pubDate>
       
       <guid>https://angezanetti.com/posts/switching-from-wordpress-gohugo/</guid>
-      <description>I&amp;rsquo;m a big fan of Wordpress, I start using it almost 10 years ago, I also created/adapted a ton of plugins/themes during the first part of my career. It&amp;rsquo;s a wonderful tool to create a website in a few minutes, the back-office is really easy for the non-techs people. But, it&amp;rsquo;s also a pain in the a** to maintain, you have to have a SQL database, to update the plugins on a regular basis, you need to check the spam folder, etc…</description>
+      <description>I&amp;rsquo;m a big fan of Wordpress, I started using it almost 10 years ago, I also created/adapted a ton of plugins/themes during the first part of my career. It&amp;rsquo;s a wonderful tool to create a website in a few minutes, the back-office is really easy for the non-techs people. But, it&amp;rsquo;s also a pain in the a** to maintain, you have to have a SQL database, to update the plugins on a regular basis, you need to check the spam folder, etc…</description>
     </item>
     
     <item>
@@ -104,16 +113,6 @@ TheRefiners Nous sommes rentrés fin 2016, après 3 mois dans l&amp;#8217;accél
       <guid>https://angezanetti.com/je-suis-a-san-francisco/</guid>
       <description>Plusieurs mois après le billet qui l&amp;#8217;annonçait, ça y est j&amp;#8217;y suis ! Je suis à San Francisco, dans la Silicon Valley pour tester notre produit sur le marché US ! Nous sommes dans un accélérateur TheRefiners, ils nous aident à faire grossir notre réseau ici et à nous adapter aux moeurs américains!
 Cela fait un bien fou de se retrouver dans une ambiance d&amp;#8217;entrepreneurs, des gens motivés par leurs projets qui sont là pour avancer.</description>
-    </item>
-    
-    <item>
-      <title>Je pars monter une boîte aux US !</title>
-      <link>https://angezanetti.com/je-pars-monter-une-boite-aux-us/</link>
-      <pubDate>Thu, 26 May 2016 10:01:14 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/je-pars-monter-une-boite-aux-us/</guid>
-      <description>Cela fait plus de deux ans que je bosse chez Sellsecure, quand je suis arrivé il fallait tout changer, ou presque. 30 mois plus tard nous avons changé de méthodes de travail, mis en place des revues de code systématique, nous utilisons Git, il y a des tests plus ou moins automatisés sur les projets et surtout nous avons refondu quasiment 100 % des appplicatifs.
-Tout le vieux PHP legacy a disparu, et à été remplacé par du Symfony2.</description>
     </item>
     
   </channel>
