@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 27 Apr 2015 12:13:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2019 20:22:07 -0400</lastBuildDate>
     
 	<atom:link href="https://angezanetti.com/tags/dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Develop a Wordpress Theme locally With Docker</title>
+      <link>https://angezanetti.com/posts/develop-wordpress-theme-with-docker/</link>
+      <pubDate>Sun, 06 Oct 2019 20:22:07 -0400</pubDate>
+      
+      <guid>https://angezanetti.com/posts/develop-wordpress-theme-with-docker/</guid>
+      <description>In the last few days, I had to put my hands into Wordpress again. When I was a freelancer, 5 years ago, a major part of my job was to develop themes &amp;amp; plugins for Wordpress. I stopped when I started to work for SellSecure.
+There is no way I install MAMP on my mac! In 5 years a LOT of things changed in my way to work. The biggest one is probably Docker, of course.</description>
+    </item>
     
     <item>
       <title>Fuite mémoire avec curl et NSS sous RedHat</title>

@@ -7,17 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 15 Jun 2019 09:27:29 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2019 20:22:07 -0400</lastBuildDate>
     
 	<atom:link href="https://angezanetti.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Dev</title>
+      <link>https://angezanetti.com/tags/dev/</link>
+      <pubDate>Sun, 06 Oct 2019 20:22:07 -0400</pubDate>
+      
+      <guid>https://angezanetti.com/tags/dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tuto</title>
       <link>https://angezanetti.com/tags/tuto/</link>
-      <pubDate>Sat, 15 Jun 2019 09:27:29 +0200</pubDate>
+      <pubDate>Sun, 06 Oct 2019 20:22:07 -0400</pubDate>
       
       <guid>https://angezanetti.com/tags/tuto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WordPress</title>
+      <link>https://angezanetti.com/tags/wordpress/</link>
+      <pubDate>Sun, 06 Oct 2019 20:22:07 -0400</pubDate>
+      
+      <guid>https://angezanetti.com/tags/wordpress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opensource</title>
+      <link>https://angezanetti.com/tags/opensource/</link>
+      <pubDate>Sun, 06 Oct 2019 20:22:07 -0400</pubDate>
+      
+      <guid>https://angezanetti.com/tags/opensource/</guid>
       <description></description>
     </item>
     
@@ -36,15 +63,6 @@
       <pubDate>Tue, 04 Jun 2019 08:56:31 +0200</pubDate>
       
       <guid>https://angezanetti.com/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WordPress</title>
-      <link>https://angezanetti.com/tags/wordpress/</link>
-      <pubDate>Tue, 04 Jun 2019 08:56:31 +0200</pubDate>
-      
-      <guid>https://angezanetti.com/tags/wordpress/</guid>
       <description></description>
     </item>
     
@@ -81,24 +99,6 @@
       <pubDate>Fri, 26 May 2017 03:57:39 +0000</pubDate>
       
       <guid>https://angezanetti.com/tags/entrepreneur/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vidéo</title>
-      <link>https://angezanetti.com/tags/vid%C3%A9o/</link>
-      <pubDate>Fri, 26 May 2017 03:57:39 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/tags/vid%C3%A9o/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>USA</title>
-      <link>https://angezanetti.com/tags/usa/</link>
-      <pubDate>Wed, 05 Oct 2016 20:23:18 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/tags/usa/</guid>
       <description></description>
     </item>
     

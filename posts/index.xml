@@ -6,8 +6,91 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Sat, 15 Jun 2019 09:27:29 +0200</lastBuildDate>
+		<lastBuildDate>Sun, 06 Oct 2019 20:22:07 -0400</lastBuildDate>
 		<atom:link href="https://angezanetti.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Develop a Wordpress Theme locally With Docker</title>
+			<link>https://angezanetti.com/posts/develop-wordpress-theme-with-docker/</link>
+			<pubDate>Sun, 06 Oct 2019 20:22:07 -0400</pubDate>
+			
+			<guid>https://angezanetti.com/posts/develop-wordpress-theme-with-docker/</guid>
+			<description>In the last few days, I had to put my hands into Wordpress again. When I was a freelancer, 5 years ago, a major part of my job was to develop themes &amp;amp; plugins for Wordpress. I stopped when I started to work for SellSecure.
+There is no way I install MAMP on my mac! In 5 years a LOT of things changed in my way to work. The biggest one is probably Docker, of course.</description>
+			<content type="html"><![CDATA[
+
+<p>In the last few days, I had to put my hands into Wordpress again. When I was a
+freelancer, 5 years ago,  a major part of my job was to develop themes &amp; plugins for Wordpress.
+I stopped when I started to work for SellSecure.</p>
+
+<h2 id="there-is-no-way-i-install-mamp-on-my-mac">There is no way I install MAMP on my mac!</h2>
+
+<p>In 5 years a <em>LOT</em> of things changed in my way to work.
+The biggest one is probably Docker, of course. I don&rsquo;t want to install a LAMP
+stack anymore (Do you remember MAMP, the local PHP server for Mac?)</p>
+
+<h2 id="let-s-go-with-docker">Let&rsquo;s go with Docker!</h2>
+
+<p>First, good news, Wordpress is a pretty basic solution, we&rsquo;ll need PHP, a SQL database and a
+webserver.
+Second good news, Wordpress has a huuuge community so there is a nice Docker
+compose file to use - as a first step.</p>
+
+<p>Here is the <code>docker-compose.yml</code> file:</p>
+
+<pre><code>version: '3.3'
+
+services:
+   db:
+     image: mysql:5.7
+     volumes:
+       - db_data:/var/lib/mysql
+     restart: always
+     environment:
+       MYSQL_ROOT_PASSWORD: somewordpress
+       MYSQL_DATABASE: wordpress
+       MYSQL_USER: wordpress
+       MYSQL_PASSWORD: wordpress
+
+   wordpress:
+     depends_on:
+       - db
+     image: wordpress:latest
+     ports:
+       - &quot;8000:80&quot;
+     restart: always
+     environment:
+       WORDPRESS_DB_HOST: db:3306
+       WORDPRESS_DB_USER: wordpress
+       WORDPRESS_DB_PASSWORD: wordpress
+       WORDPRESS_DB_NAME: wordpress
+volumes:
+    db_data: {}
+</code></pre>
+
+<p>With this you&rsquo;ll have a standalone WP instance running on your computer, you
+just need to finish the install - by setting your username and password, and
+you&rsquo;re good to go.
+But, this basic compose file is painfull: you need to ssh into your container
+to change files or, even worse, use the WP editor.</p>
+
+<h2 id="where-is-my-autoreload">Where is my autoreload?</h2>
+
+<p>To have a good setup we need to work with files on your host and make Docker
+refresh the WP after every modification. That way, it&rsquo;s easy to version, it&rsquo;s
+faster to debug, and it&rsquo;s still fancy &lsquo;cause you&rsquo;re using containers (Woo!)</p>
+
+<p>Just add these 2 lines in your <code>docker-compose.yml</code> right after the
+<code>WORDPRESS_DB_*</code> lines</p>
+
+<pre><code>working_dir: /var/www/html
+volumes:
+	- ./wp-content:/var/www/html/wp-content
+</code></pre>
+
+<p>And you&rsquo;re good to go, Happy WP design!</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>Why you need a VPN and how to install one</title>

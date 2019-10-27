@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 04 Jun 2019 08:56:31 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2019 20:22:07 -0400</lastBuildDate>
     
 	<atom:link href="https://angezanetti.com/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Develop a Wordpress Theme locally With Docker</title>
+      <link>https://angezanetti.com/posts/develop-wordpress-theme-with-docker/</link>
+      <pubDate>Sun, 06 Oct 2019 20:22:07 -0400</pubDate>
+      
+      <guid>https://angezanetti.com/posts/develop-wordpress-theme-with-docker/</guid>
+      <description>In the last few days, I had to put my hands into Wordpress again. When I was a freelancer, 5 years ago, a major part of my job was to develop themes &amp;amp; plugins for Wordpress. I stopped when I started to work for SellSecure.
+There is no way I install MAMP on my mac! In 5 years a LOT of things changed in my way to work. The biggest one is probably Docker, of course.</description>
+    </item>
     
     <item>
       <title>Switching From Wordpress to a static website (hugo)</title>
@@ -101,17 +111,6 @@ Explications : WordPress est victime de son succès, bien souvent les blogs qui 
       <guid>https://angezanetti.com/la-pagination-wordpress-sans-plugin/</guid>
       <description>Encore une petite astuce WordPress trouvée sur catswhocode cette fois. WordPress par défaut ne supporte pas de pagination avec le numéro des pages, notre moteur de bog préféré ne propose que des liens Prec/Suiv. Evidemment une multitude de plugins ont fleuris pour combler cette lacune.
 Mais comme souvent avec les plugins, il y en a des plus ou moins bon, plus ou moins codés avec les pieds. J&amp;#8217;évite donc au maximum l&amp;#8217;utilisation de ses petits bouts de code.</description>
-    </item>
-    
-    <item>
-      <title>Configurer WordPress pour utiliser SSH au lieu de FTP</title>
-      <link>https://angezanetti.com/configurer-wordpress-ssh-ftp-securite/</link>
-      <pubDate>Mon, 12 Mar 2012 17:02:10 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/configurer-wordpress-ssh-ftp-securite/</guid>
-      <description>J&amp;#8217;ai récemment (re)installé un serveur dédié pour mon ami Guillaume. Ce serveur sert, entre autres, à faire tourner un blog WordPress.
-J&amp;#8217;ai mis en place un LAMP, tout bête et expliqué à Guillaume comment utiliser SSH &amp;#8211; avec SFTP &amp;#8211; pour le transfert de fichiers sur le serveur. Ainsi j&amp;#8217;évite de mettre un serveur FTP, protocole critiqué pour sa sécurité.
- Update Sept 2012 : Depuis la rédaction de ce post il existe un plugin qui fait le boulot en deux clics :http://wordpress.</description>
     </item>
     
   </channel>
