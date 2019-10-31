@@ -4,7 +4,42 @@
   
   <url>
     <loc>https://angezanetti.com/</loc>
-    <lastmod>2019-10-06T20:22:07-04:00</lastmod>
+    <lastmod>2019-10-30T20:26:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://angezanetti.com/tags/entrepreneur/</loc>
+    <lastmod>2019-10-30T20:26:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://angezanetti.com/tags/jobs/</loc>
+    <lastmod>2019-10-30T20:26:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://angezanetti.com/posts/logology-meaningful-logos-for-startups/</loc>
+    <lastmod>2019-10-30T20:26:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://angezanetti.com/posts/</loc>
+    <lastmod>2019-10-30T20:26:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://angezanetti.com/tags/startup/</loc>
+    <lastmod>2019-10-30T20:26:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://angezanetti.com/tags/</loc>
+    <lastmod>2019-10-30T20:26:36-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -17,18 +52,6 @@
   <url>
     <loc>https://angezanetti.com/posts/develop-wordpress-theme-with-docker/</loc>
     <lastmod>2019-10-06T20:22:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/posts/</loc>
-    <lastmod>2019-10-06T20:22:07-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/tags/</loc>
-    <lastmod>2019-10-06T20:22:07-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -77,19 +100,7 @@
   </url>
   
   <url>
-    <loc>https://angezanetti.com/tags/startup/</loc>
-    <lastmod>2019-04-26T19:26:41+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://angezanetti.com/tags/humeur/</loc>
-    <lastmod>2018-07-17T22:04:44+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/tags/jobs/</loc>
     <lastmod>2018-07-17T22:04:44+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -117,12 +128,6 @@
   <url>
     <loc>https://angezanetti.com/conference-de-zuckerberg-a-voir/</loc>
     <lastmod>2017-05-26T03:57:39+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/tags/entrepreneur/</loc>
-    <lastmod>2017-05-26T03:57:39+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

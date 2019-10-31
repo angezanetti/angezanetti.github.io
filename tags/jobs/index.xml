@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 17 Jul 2018 22:04:44 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2019 20:26:36 -0400</lastBuildDate>
     
 	<atom:link href="https://angezanetti.com/tags/jobs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New project: Logology</title>
+      <link>https://angezanetti.com/posts/logology-meaningful-logos-for-startups/</link>
+      <pubDate>Wed, 30 Oct 2019 20:26:36 -0400</pubDate>
+      
+      <guid>https://angezanetti.com/posts/logology-meaningful-logos-for-startups/</guid>
+      <description>I&amp;rsquo;ve been working in the tech industry for more than 10 years now. I Started as a contractor, then worked in a big company.
+I learned so much.
+In tech, but also, thanks to the years I spent in the silicon valley, in marketing, product and strategy. So when I quit my last company, I didn&amp;rsquo;t want to apply to a regular job. I did not want to be a freelancer either.</description>
+    </item>
     
     <item>
       <title>On Algorythm During Interview</title>
@@ -108,15 +119,6 @@ Devant la palette de technologies, d&amp;#8217;outils qui sont disponibles j&amp
       <description>Dans la vie professionnelle de tout indépendant il y a des temps morts. Entre deux contrats, avant ou après avoir fait de la prospection commerciale, les moments où l&amp;#8217;on est pas forcement débordé sont assez fréquents. Hors ce sont bien souvent ces temps là qui nous permettent de nous former, d&amp;#8217;apprendre, de faire de la veille.
 
 Depuis quelques temps déjà j&amp;#8217;essaye de consacrer ces temps morts à des projets opensource.</description>
-    </item>
-    
-    <item>
-      <title>Pourquoi vous devriez utiliser WebGL</title>
-      <link>https://angezanetti.com/webgl-adoption-usages-angezanetti-consultant/</link>
-      <pubDate>Wed, 10 Apr 2013 09:06:29 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/webgl-adoption-usages-angezanetti-consultant/</guid>
-      <description>Depuis que je travaille comme consultant et développeur dans le monde de la 3D je suis confronté à des débats sur les technos. Cela à commencé avec SecondLife, Opensim puis Unity3d, WebGL, Flash etc &amp;#8230;   Avec des arguments plus ou moins bien choisi, mais il y a toujours cette problématique du choix de technos. Je vais essayer de vous convaincre, dans ce billet, de tester WebGL.          WebG quoi ?</description>
     </item>
     
   </channel>

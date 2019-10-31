@@ -6,8 +6,53 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Sun, 06 Oct 2019 20:22:07 -0400</lastBuildDate>
+		<lastBuildDate>Wed, 30 Oct 2019 20:26:36 -0400</lastBuildDate>
 		<atom:link href="https://angezanetti.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>New project: Logology</title>
+			<link>https://angezanetti.com/posts/logology-meaningful-logos-for-startups/</link>
+			<pubDate>Wed, 30 Oct 2019 20:26:36 -0400</pubDate>
+			
+			<guid>https://angezanetti.com/posts/logology-meaningful-logos-for-startups/</guid>
+			<description>I&amp;rsquo;ve been working in the tech industry for more than 10 years now. I Started as a contractor, then worked in a big company.
+I learned so much.
+In tech, but also, thanks to the years I spent in the silicon valley, in marketing, product and strategy. So when I quit my last company, I didn&amp;rsquo;t want to apply to a regular job. I did not want to be a freelancer either.</description>
+			<content type="html"><![CDATA[
+
+<p>I&rsquo;ve been working in the tech industry for more than <a href="/posts">10 years now</a>. I Started as a contractor, then worked in a big company.</p>
+
+<p>I learned so much.</p>
+
+<p>In  tech, but also, thanks to the years I spent in the silicon valley, in marketing, product and strategy.
+So when I quit my last company, I didn&rsquo;t want to apply to a regular job. I did not want to be a freelancer either.</p>
+
+<p>No, I wanted to build a product, to work for myself, to be part of the entrepreneur game!</p>
+
+<h2 id="the-team">The team</h2>
+
+<p><a href="https://instagram.com/luciebaratte">Lucie</a> &amp; <a href="https://twitter.com/dagorenouf">Dagobert</a>  are good friends of mine, for 8 years now. We used to work together on several projects when we were coworkers at <a href="https://mutualab.org">mutualab</a>.
+So when they told me they were working on a project I got interested pretty quickly.
+Lucie is one of the best graphic designer I know and Dago is a very
+good UX developer. I&rsquo;m pretty sure we can make great things together.</p>
+
+<p>The project is named <a href="https://logology.co">Logology</a>! Tada!</p>
+
+<p><img src="https://www.logology.co/static/headerBlog-975580e43aba98a48d4e094a9eaba07e.png" alt="alt text" title="Logology logo" /></p>
+
+<p>We&rsquo;re creating a new way to generate meaningful logos based on the needs of the entrepreneurs.
+A product to help founders to have a better visual identity without spending
+too much time &amp; money!</p>
+
+<p>And, after months of work on the product, we&rsquo;re almost there: <a href="https://logology.co">Logology</a> is open as a private beta.</p>
+
+<p>I&rsquo;m so excited to launch my product, do my own choices (and mistakes). That will be an exciting trip!</p>
+
+<p>So if you&rsquo;re a startup entrepreneur who needs an high-quality logo, <a href="https://www.logology.co/get-invited-to-the-beta/">register to the beta</a> or subscribe to our <a href="https://www.logology.co">newsletter</a>!</p>
+
+<p>Also, feel free to reach out on <a href="https://twitter.com/angezanetti">Twitter</a></p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>Develop a Wordpress Theme locally With Docker</title>

@@ -17,7 +17,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://angezanetti.com/" />
 
-<meta property="og:updated_time" content="2019-10-06T20:22:07-04:00"/>
+<meta property="og:updated_time" content="2019-10-30T20:26:36-04:00"/>
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="/AngeZanetti.com"/>
 <meta name="twitter:description" content=""/>
@@ -70,6 +70,7 @@ if (!doNotTrack) {
 </script>
 <script async src='https://www.google-analytics.com/analytics.js'></script>
 
+
 <script>
 (function(f, a, t, h, o, m){
 	a[h]=a[h]||function(){
@@ -84,6 +85,15 @@ fathom('set', 'siteId', 'WNPWI');
 fathom('trackPageview');
 </script>
 
+
+<script>
+var links = document.links;
+for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+   if (links[i].hostname != window.location.hostname) {
+       links[i].target = '_blank';
+   }
+}
+</script>
 
 </body>
 
