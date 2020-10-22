@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 30 Oct 2019 20:26:36 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2020 12:41:26 -0400</lastBuildDate>
     
 	<atom:link href="https://angezanetti.com/tags/jobs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>6 Projects in 6 Months Challenge</title>
+      <link>https://angezanetti.com/posts/6-projects-6-months-challenge/</link>
+      <pubDate>Thu, 22 Oct 2020 12:41:26 -0400</pubDate>
+      
+      <guid>https://angezanetti.com/posts/6-projects-6-months-challenge/</guid>
+      <description>I spent the last 10+yrs to code, and the last 4yrs in the startup ecosystem. During all that time I was focus on the product more than anything else. I need a change. I want to learn the other parts of building a product and I want something challenging!
+So I decided to (try to) launch 6 products in the next 6 months!
+I want to remove my developer bias As a coder, you always want to build stuff.</description>
+    </item>
     
     <item>
       <title>New project: Logology</title>
@@ -108,17 +119,6 @@ Devant la palette de technologies, d&amp;#8217;outils qui sont disponibles j&amp
       
       <guid>https://angezanetti.com/installer-un-environnement-de-developpement-avec-virtualbox/</guid>
       <description>Travailller avec un LAMP, ou un MAMP, installé en local c&amp;#8217;est bien pour des petits projets, type création de thème/plugins WordPress, mais pour les projets plus conséquents avec des technos plus exotique que PHP il peut être nécessaire de virtualiser un système d&amp;#8217;exploitation pour travailler. Je vous conseillle d&amp;#8217;ailleurs de mettre en local le même système que votre machine de production, ça limite grandement les surprises de mise en prod !</description>
-    </item>
-    
-    <item>
-      <title>Freelances contribuez au libre pendant vos temps morts</title>
-      <link>https://angezanetti.com/contribuez-opensource-temps-libre-freelance-chomeurs/</link>
-      <pubDate>Mon, 19 Aug 2013 08:47:29 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/contribuez-opensource-temps-libre-freelance-chomeurs/</guid>
-      <description>Dans la vie professionnelle de tout indépendant il y a des temps morts. Entre deux contrats, avant ou après avoir fait de la prospection commerciale, les moments où l&amp;#8217;on est pas forcement débordé sont assez fréquents. Hors ce sont bien souvent ces temps là qui nous permettent de nous former, d&amp;#8217;apprendre, de faire de la veille.
-
-Depuis quelques temps déjà j&amp;#8217;essaye de consacrer ces temps morts à des projets opensource.</description>
     </item>
     
   </channel>

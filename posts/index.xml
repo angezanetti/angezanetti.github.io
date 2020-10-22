@@ -6,8 +6,69 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Wed, 30 Oct 2019 20:26:36 -0400</lastBuildDate>
+		<lastBuildDate>Thu, 22 Oct 2020 12:41:26 -0400</lastBuildDate>
 		<atom:link href="https://angezanetti.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>6 Projects in 6 Months Challenge</title>
+			<link>https://angezanetti.com/posts/6-projects-6-months-challenge/</link>
+			<pubDate>Thu, 22 Oct 2020 12:41:26 -0400</pubDate>
+			
+			<guid>https://angezanetti.com/posts/6-projects-6-months-challenge/</guid>
+			<description>I spent the last 10+yrs to code, and the last 4yrs in the startup ecosystem. During all that time I was focus on the product more than anything else. I need a change. I want to learn the other parts of building a product and I want something challenging!
+So I decided to (try to) launch 6 products in the next 6 months!
+I want to remove my developer bias As a coder, you always want to build stuff.</description>
+			<content type="html"><![CDATA[
+
+<p>I spent the last 10+yrs to code, and the last 4yrs in the startup ecosystem. During all that time I was focus on the product more than anything else. I need a change. I want to learn the other parts of building a product and I want something challenging!</p>
+
+<p>So I decided to (try to) launch <strong>6 products in the next 6 months</strong>!</p>
+
+<h3 id="i-want-to-remove-my-developer-bias">I want to remove my developer bias</h3>
+
+<p>As a coder, you always want to build stuff. To start coding. And that&rsquo;s a bad habit: as soon as you start coding something you lose your focus. You want to improve that MVP, implement a new feature, fix a bug, etc…</p>
+
+<p>As an early-stage maker you need to focus on 2 things:</p>
+
+<ul>
+<li>How much value do I bring?</li>
+<li>How can I distribute that value?</li>
+</ul>
+
+<p>The way you provide that value is secondary.</p>
+
+<p>With a super strict timeframe, I will have to make some extreme choices. I&rsquo;ll try to code as little as possible and spend less than 50% of my time on the product. Most of the time will be allocated to the distribution and customer feedback.</p>
+
+<h3 id="i-want-to-test-all-these-ideas">I want to test all these ideas</h3>
+
+<p>We all have ideas of business, but we all know that they worth nothing. All the value is in the execution.
+I want to test them,  fast. To know quickly if they can make a sustainable business.
+Ideas have an expiration date. The faster you ship, the faster you have feedback.</p>
+
+<p>And it&rsquo;s ok to fail when you spend only a few weeks on a project. That&rsquo;s way easier than fail 2 years&rsquo; projects!</p>
+
+<h3 id="i-want-to-learn-fast">I want to learn fast</h3>
+
+<p>All the steps of building, launching, selling, growing are super hard. Most of us are specialized in one or two steps. I want to test them all.<br />
+If I complete the challenge I&rsquo;ll ship more products in 6 months than most of the entrepreneurs. I&rsquo;m sure I&rsquo;ll learn a lot!</p>
+
+<p>The idea is to build fast, launch fast, and learn as much as possible!</p>
+
+<p>We also all know that a huge percentage of the project just fails. I want to understand how to recognize a good business and what makes it works!</p>
+
+<h3 id="i-want-to-learn-from-others">I want to learn from others</h3>
+
+<p>All the projects will be built in public. I lost the habit of sharing everything, I really want to do it again. To build a community but also to learn from others.</p>
+
+<p>It&rsquo;s incredible how many people I met since I&rsquo;m a solo founder, I want to increase that leverage!</p>
+
+<h3 id="onward">Onward!</h3>
+
+<p>I already have a few ideas on what product I&rsquo;ll build. The first one is almost done and should be out in the next few days.</p>
+
+<p>If you want to follow my challenge I&rsquo;ll share everything on Twitter → <a href="https://twitter.com/angezanetti">https://twitter.com/angezanetti</a></p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>New project: Logology</title>

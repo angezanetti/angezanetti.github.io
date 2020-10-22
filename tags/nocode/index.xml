@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NoCode on /AngeZanetti.com</title>
+    <link>https://angezanetti.com/tags/nocode/</link>
+    <description>Recent content in NoCode on /AngeZanetti.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 22 Oct 2020 12:41:26 -0400</lastBuildDate>
+    
+	<atom:link href="https://angezanetti.com/tags/nocode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>6 Projects in 6 Months Challenge</title>
+      <link>https://angezanetti.com/posts/6-projects-6-months-challenge/</link>
+      <pubDate>Thu, 22 Oct 2020 12:41:26 -0400</pubDate>
+      
+      <guid>https://angezanetti.com/posts/6-projects-6-months-challenge/</guid>
+      <description>I spent the last 10+yrs to code, and the last 4yrs in the startup ecosystem. During all that time I was focus on the product more than anything else. I need a change. I want to learn the other parts of building a product and I want something challenging!
+So I decided to (try to) launch 6 products in the next 6 months!
+I want to remove my developer bias As a coder, you always want to build stuff.</description>
+    </item>
+    
+  </channel>
+</rss>

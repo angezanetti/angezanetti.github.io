@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 30 Oct 2019 20:26:36 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2020 12:41:26 -0400</lastBuildDate>
     
 	<atom:link href="https://angezanetti.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>6 Projects in 6 Months Challenge</title>
+      <link>https://angezanetti.com/posts/6-projects-6-months-challenge/</link>
+      <pubDate>Thu, 22 Oct 2020 12:41:26 -0400</pubDate>
+      
+      <guid>https://angezanetti.com/posts/6-projects-6-months-challenge/</guid>
+      <description>I spent the last 10+yrs to code, and the last 4yrs in the startup ecosystem. During all that time I was focus on the product more than anything else. I need a change. I want to learn the other parts of building a product and I want something challenging!
+So I decided to (try to) launch 6 products in the next 6 months!
+I want to remove my developer bias As a coder, you always want to build stuff.</description>
+    </item>
     
     <item>
       <title>New project: Logology</title>
@@ -103,17 +114,6 @@ During the last 4 years I worked in my first “real” job, like, with a boss, 
 Pianobar, est un client console pour Pandora le site de streaming de radio super populaire aux USA.
 Perso je bosse souvent en musique et j&amp;#8217;apprécie tout particulièrement les webradios, plus qu&amp;#8217;un Spotify où il faut choisir un artiste particulier.
 J&amp;#8217;utilisais Youtube avant pour ça mais c&amp;#8217;est lourd, ça bouffe de la ram et même en autoplay il faut y revenir au moins 1 fois par heure pour avoir quelque de constant.</description>
-    </item>
-    
-    <item>
-      <title>Conférence de Zuckerberg à voir!</title>
-      <link>https://angezanetti.com/conference-de-zuckerberg-a-voir/</link>
-      <pubDate>Fri, 26 May 2017 03:57:39 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/conference-de-zuckerberg-a-voir/</guid>
-      <description>Je suis tombé sur cette vidéo Facebook cet après midi. Dans un groupe orienté entreprenariat, je l&amp;#8217;ai ouvert pour voir. J&amp;#8217;ai pas réussi à la refermer, et elle dure 30 minutes.
-Zuck nous parle de sa vision, de comment des gens comme lui essaye de changer le monde et quels sont ces objectifs pour notre société.
-Ca fait d&amp;#8217;ailleurs écho à un billet qui doit toujours être dans mes brouillons et qui s&amp;#8217;appelait pompeusement &amp;#8220;Les entrepreneurs changent le monde&amp;#8221;, ce gars là en fait partie.</description>
     </item>
     
   </channel>
