@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 22 Oct 2020 12:41:26 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2020 13:06:07 -0400</lastBuildDate>
     
 	<atom:link href="https://angezanetti.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>BuildInPublic</title>
       <link>https://angezanetti.com/tags/buildinpublic/</link>
-      <pubDate>Thu, 22 Oct 2020 12:41:26 -0400</pubDate>
+      <pubDate>Tue, 27 Oct 2020 13:06:07 -0400</pubDate>
       
       <guid>https://angezanetti.com/tags/buildinpublic/</guid>
       <description></description>
@@ -24,9 +24,27 @@
     <item>
       <title>Entrepreneur</title>
       <link>https://angezanetti.com/tags/entrepreneur/</link>
-      <pubDate>Thu, 22 Oct 2020 12:41:26 -0400</pubDate>
+      <pubDate>Tue, 27 Oct 2020 13:06:07 -0400</pubDate>
       
       <guid>https://angezanetti.com/tags/entrepreneur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NoCode</title>
+      <link>https://angezanetti.com/tags/nocode/</link>
+      <pubDate>Tue, 27 Oct 2020 13:06:07 -0400</pubDate>
+      
+      <guid>https://angezanetti.com/tags/nocode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Startup</title>
+      <link>https://angezanetti.com/tags/startup/</link>
+      <pubDate>Tue, 27 Oct 2020 13:06:07 -0400</pubDate>
+      
+      <guid>https://angezanetti.com/tags/startup/</guid>
       <description></description>
     </item>
     
@@ -36,24 +54,6 @@
       <pubDate>Thu, 22 Oct 2020 12:41:26 -0400</pubDate>
       
       <guid>https://angezanetti.com/tags/jobs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NoCode</title>
-      <link>https://angezanetti.com/tags/nocode/</link>
-      <pubDate>Thu, 22 Oct 2020 12:41:26 -0400</pubDate>
-      
-      <guid>https://angezanetti.com/tags/nocode/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Startup</title>
-      <link>https://angezanetti.com/tags/startup/</link>
-      <pubDate>Thu, 22 Oct 2020 12:41:26 -0400</pubDate>
-      
-      <guid>https://angezanetti.com/tags/startup/</guid>
       <description></description>
     </item>
     

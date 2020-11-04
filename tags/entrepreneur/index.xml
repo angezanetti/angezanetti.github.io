@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 22 Oct 2020 12:41:26 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2020 13:06:07 -0400</lastBuildDate>
     
 	<atom:link href="https://angezanetti.com/tags/entrepreneur/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How I validated and pre-sold my first info product</title>
+      <link>https://angezanetti.com/posts/how-i-validate-and-preorders-spreadtheworld/</link>
+      <pubDate>Tue, 27 Oct 2020 13:06:07 -0400</pubDate>
+      
+      <guid>https://angezanetti.com/posts/how-i-validate-and-preorders-spreadtheworld/</guid>
+      <description>Idea validation This product idea came from a list I made for my previous project. That was a list of 100+ directories where you can post your startup.
+I made it for myself, to expand the reach of the product I was working on. I sorted all the websites, removed dead links, tag them, and used it to promote our project. Then, I wondered if it can be useful for others and share it here and on Reddit.</description>
+    </item>
     
     <item>
       <title>6 Projects in 6 Months Challenge</title>
@@ -105,16 +115,6 @@ Un bon gros titre qui fait peur, qui fait buzzer et pleurer dans les chaumières
       <description>Jeudi prochain aura lieu le barcamp FairePlay au CoworkingLille.
 C&amp;#8217;est un barcamp un peu spécial car il sera réalisé en même temps dans 3 lieux différents : CoworkingLille à Lille, Les petits débrouillards en région parisienne et dans un espace de coworking porté par l&amp;#8217;agence Groupe AOS à Abidjan.
 Les thèmes sont d&amp;#8217;actualité puisque l&amp;#8217;on parlera de comment «Travailler autrement», «Entreprendre autrement», «Apprendre autrement». Ces thématiques sont-elles justifiées autrement que par le marketing des outils ?</description>
-    </item>
-    
-    <item>
-      <title>L’interview de Philip Rosedale par Kevin Rose</title>
-      <link>https://angezanetti.com/linterview-de-philip-rosedale-par-kevin-rose/</link>
-      <pubDate>Thu, 10 Mar 2011 08:45:13 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/linterview-de-philip-rosedale-par-kevin-rose/</guid>
-      <description>Je ne sais pas si vous êtes comme moi, mais les interventions de Philip Rosedale m&amp;#8217;ont toujours marquées. Quand il était CEO de LindenLabs, ses interventions étaient suivies de près et, clairement, il avait la capacité de partager une vision de son entreprise. Depuis, il a quitté la tête de LindenLabs et à monté une startup nommée LoveMachineInc, tout un programme :)
-J&amp;#8217;ai découvert, grâce à Robert Vinet, une superbe vidéo interview de Rosedale par Kevin Rose &amp;#8211; Fondateur de Digg et présentateur de TechTV.</description>
     </item>
     
   </channel>

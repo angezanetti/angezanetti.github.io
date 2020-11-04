@@ -6,8 +6,69 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Thu, 22 Oct 2020 12:41:26 -0400</lastBuildDate>
+		<lastBuildDate>Tue, 27 Oct 2020 13:06:07 -0400</lastBuildDate>
 		<atom:link href="https://angezanetti.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>How I validated and pre-sold my first info product</title>
+			<link>https://angezanetti.com/posts/how-i-validate-and-preorders-spreadtheworld/</link>
+			<pubDate>Tue, 27 Oct 2020 13:06:07 -0400</pubDate>
+			
+			<guid>https://angezanetti.com/posts/how-i-validate-and-preorders-spreadtheworld/</guid>
+			<description>Idea validation This product idea came from a list I made for my previous project. That was a list of 100+ directories where you can post your startup.
+I made it for myself, to expand the reach of the product I was working on. I sorted all the websites, removed dead links, tag them, and used it to promote our project. Then, I wondered if it can be useful for others and share it here and on Reddit.</description>
+			<content type="html"><![CDATA[
+
+<h3 id="idea-validation">Idea validation</h3>
+
+<p>This product idea came from a list I made for my previous project. That was a list of 100+ directories where you can post your startup.</p>
+
+<p>I made it for myself, to expand the reach of the product I was working on. I sorted all the websites, removed dead links, tag them, and used it to promote our project.
+Then, I wondered if it can be useful for others and share it here and on Reddit.</p>
+
+<p>These posts just blow up. It got a total of 1200 upvotes total and 200 comments!</p>
+
+<p>Some of the comment was even telling me that I should create a product out of it!</p>
+
+<p>I did not post that list to test the audience in the first place but that was a strong validation of an existing pain!</p>
+
+<h3 id="talk-to-people">Talk to people</h3>
+
+<p>A few weeks later, I was free so I decided to tackle it! My first idea was to make a product by automating the submission to all these directories. The value seemed obvious: you don&rsquo;t need to spend hours filling out forms, a bot will do it for you.</p>
+
+<p>I put together a quick landing page with Carrd, show it to a few people, and get them on Zoom.</p>
+
+<p>And… they didn&rsquo;t like it.</p>
+
+<p>They felt like the overall value of a bot pushing their product on these directories was quite low.
+You need to spend time preparing your launch(es). Nobody wants an automated Product hunt launch from a simple pitch. You need to tailor your content for every communities.</p>
+
+<p>The real value is  about pushing the right content, to the right people at the right time.</p>
+
+<p>So I &ldquo;pivoted&rdquo;.</p>
+
+<p>Instead of automating the submission, I started to curate more resources. I wanted to bring more value for the makers.</p>
+
+<p>It took me some weeks to curate, sort, and tag every link.
+At the end of the process, I gathered 400+ resources where to post your product. Including directories, but also Facebook groups, online communities, Slack/Discord, and guest post opportunities.</p>
+
+<h3 id="pre-orders">Pre-orders</h3>
+
+<p>The pain was validated, now I needed to validate the product.</p>
+
+<p>There is only one way to really validate a concept: does anyone willing to pay for it? Or, even better, can you have some people pre-order the product?</p>
+
+<p>So I created a landing page with a demo version of the database and set up a Gumroad product.
+I send the page to small communities and some friends. My goal was to have <sup>100</sup>&frasl;<sub>200</sub> visitors and see what happens.
+If you can&rsquo;t make a sale out of a few hundred visitors then you should consider pivoting again…</p>
+
+<p>But it worked!</p>
+
+<p>Out of the 100 visitors, I made a few pre-orders!</p>
+
+<p>The product is now launched (since yesterday evening, still with early pricing). If you want to check it out → <a href="https://spreadtheworld.net/?utm_source=angezanetti&amp;utm_medium=web&amp;utm_campaign=how-i-validate-product">spreadtheworld.net</a></p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>6 Projects in 6 Months Challenge</title>

@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 22 Oct 2020 12:41:26 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2020 13:06:07 -0400</lastBuildDate>
     
 	<atom:link href="https://angezanetti.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How I validated and pre-sold my first info product</title>
+      <link>https://angezanetti.com/posts/how-i-validate-and-preorders-spreadtheworld/</link>
+      <pubDate>Tue, 27 Oct 2020 13:06:07 -0400</pubDate>
+      
+      <guid>https://angezanetti.com/posts/how-i-validate-and-preorders-spreadtheworld/</guid>
+      <description>Idea validation This product idea came from a list I made for my previous project. That was a list of 100+ directories where you can post your startup.
+I made it for myself, to expand the reach of the product I was working on. I sorted all the websites, removed dead links, tag them, and used it to promote our project. Then, I wondered if it can be useful for others and share it here and on Reddit.</description>
+    </item>
     
     <item>
       <title>6 Projects in 6 Months Challenge</title>
@@ -102,18 +112,6 @@ You don’t need to be a geek/nerd/hero or whatever to be a developer  No you do
       <description>It’s not really a 2018 resolution, but i need a fresh start.
 I’ve been blogging for almost 10 years now, not in English tho, and the last 4 years was not very productive in that area and I really miss it !
 During the last 4 years I worked in my first “real” job, like, with a boss, a contract and a long term duration. Before that I was a Freelancer.</description>
-    </item>
-    
-    <item>
-      <title>Ecouter de la musique en ligne de commande avec Pianobar</title>
-      <link>https://angezanetti.com/radio-webradio-pandora-pianobar/</link>
-      <pubDate>Wed, 05 Jul 2017 14:36:31 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/radio-webradio-pandora-pianobar/</guid>
-      <description>Petite découverte du jour, si comme moi vous aimez ces petits outils qui permettent de faire pleins de trucs depuis votre terminal.
-Pianobar, est un client console pour Pandora le site de streaming de radio super populaire aux USA.
-Perso je bosse souvent en musique et j&amp;#8217;apprécie tout particulièrement les webradios, plus qu&amp;#8217;un Spotify où il faut choisir un artiste particulier.
-J&amp;#8217;utilisais Youtube avant pour ça mais c&amp;#8217;est lourd, ça bouffe de la ram et même en autoplay il faut y revenir au moins 1 fois par heure pour avoir quelque de constant.</description>
     </item>
     
   </channel>
