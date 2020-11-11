@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 06 Oct 2019 20:22:07 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2020 10:30:06 -0400</lastBuildDate>
     
 	<atom:link href="https://angezanetti.com/tags/tuto/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Deploy Lumnen on a Vps</title>
+      <link>https://angezanetti.com/posts/how-to-deploy-lumnen-vps/</link>
+      <pubDate>Wed, 11 Nov 2020 10:30:06 -0400</pubDate>
+      
+      <guid>https://angezanetti.com/posts/how-to-deploy-lumnen-vps/</guid>
+      <description>I built a super simple app last week, it gets a ping when sales have been made on my Gumroad product and send it to a Slack channel. I know I could have done it with Zapier of IFTT but they&amp;rsquo;re either super limited or super slow.
+I wanted a minimalistic framework to do it (it&amp;rsquo;s 1 route and 1 API call). I also wanted a PHP based framework, it&amp;rsquo;s way easier to host on my VPS.</description>
+    </item>
     
     <item>
       <title>Develop a Wordpress Theme locally With Docker</title>
@@ -103,16 +113,6 @@ La première chose à faire est donc de vérifier si Vim est compilé avec le su
       
       <guid>https://angezanetti.com/wp-cli-outil-ideal-maintenance-wordpress/</guid>
       <description>En ce moment je suis entrain de monter une offre commerciale de maintenance dédiée aux sites WordPress. Les mises à jour sont bien souvent pas faites par le propriétaire du blog et cela entraine des failles de sécurité importantes. Mais le problème est toujours le même: on oublie, on à pas envie, pas le temps ou on est pas compétent pour le faire ou pour réparer en cas de casse&amp;#8230;</description>
-    </item>
-    
-    <item>
-      <title>Installer node.js sur Debian Squeeze avec un gestionnaire de version</title>
-      <link>https://angezanetti.com/installer-node-js-debian-squeeze-gestionnaire-version-nvm/</link>
-      <pubDate>Mon, 15 Apr 2013 09:13:40 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/installer-node-js-debian-squeeze-gestionnaire-version-nvm/</guid>
-      <description>J&amp;#8217;ai fait il y a peu de temps un article sur comment avoir une version de node.js à jour sur Ubuntu, cette fois c&amp;#8217;est un serveur Debian 6 que je dois configurer, du coup je ne peux pas passer par l&amp;#8217;astuce PPA comme sur Ubuntu.
-Alors, bien sur, il y a la solution de la compilation mais bon je suis pas hyper fan&amp;#8230; D&amp;#8217;autant qu&amp;#8217;il existe pour Node.js un petit script qui permet de gérer les versions utilisées de la même façon que RVM pour Ruby.</description>
     </item>
     
   </channel>

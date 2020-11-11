@@ -6,8 +6,72 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Tue, 27 Oct 2020 13:06:07 -0400</lastBuildDate>
+		<lastBuildDate>Wed, 11 Nov 2020 10:30:06 -0400</lastBuildDate>
 		<atom:link href="https://angezanetti.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>How to Deploy Lumnen on a Vps</title>
+			<link>https://angezanetti.com/posts/how-to-deploy-lumnen-vps/</link>
+			<pubDate>Wed, 11 Nov 2020 10:30:06 -0400</pubDate>
+			
+			<guid>https://angezanetti.com/posts/how-to-deploy-lumnen-vps/</guid>
+			<description>I built a super simple app last week, it gets a ping when sales have been made on my Gumroad product and send it to a Slack channel. I know I could have done it with Zapier of IFTT but they&amp;rsquo;re either super limited or super slow.
+I wanted a minimalistic framework to do it (it&amp;rsquo;s 1 route and 1 API call). I also wanted a PHP based framework, it&amp;rsquo;s way easier to host on my VPS.</description>
+			<content type="html"><![CDATA[<p>I built a super simple app last week, it gets a ping when sales have been made on my <a href="https://gumroad.com/xvrc">Gumroad product</a> and send it to a Slack channel. I know I could have done it with Zapier of IFTT but they&rsquo;re either super limited or super slow.</p>
+
+<p>I wanted a minimalistic framework to do it (it&rsquo;s 1 route and 1 API call). I also wanted a  <a href="https://angezanetti.com/tags/php/">PHP</a> based framework, it&rsquo;s way easier to host on my VPS.</p>
+
+<p>I chose <a href="https://lumen.laravel.com">Lumen</a>, it&rsquo;s a &ldquo;mini-Laravel&rdquo;. I didn&rsquo;t know it, it looked pretty well done and easy to use. So I gave it a try.</p>
+
+<p>The problem is, the documentation is also super minimalistic… I spend some time browsing the web looking for a tutorial on how to deploy Lumen in production on a VPS. I didn&rsquo;t find any, so here is how I did it:</p>
+
+<ul>
+<li>Git clone or zip your project and put it in your web folder, usually <code>/var/www/html/</code></li>
+<li>Double-check the permissions, it should be readable by <code>www-data</code></li>
+<li>Install composer, and run <code>composer install</code></li>
+</ul>
+
+<p>I use nginx as a webserver, to install a new app copy the default config file: 
+<code>cp /etc/nginx/sites-available/default /etc/nginx/sites-available/mynewapp.conf</code></p>
+
+<p>And remplace the content by: </p>
+
+<pre><code>server {
+	listen 80;
+	root /var/www/html/mynewapp/public;
+
+	index index.html index.htm index.php;
+
+	server_name mynewapp.com;
+
+	location / {
+	   try_files $uri $uri/ /index.php?$args;
+       }
+
+	# pass PHP scripts to FastCGI server
+	location ~ \.php$ {
+		include snippets/fastcgi-php.conf;
+
+		# With php-fpm (or other unix sockets):
+		fastcgi_pass unix:/run/php/php7.3-fpm.sock;
+	}
+
+	# If you want to cache the static files
+	location ~* .(js|css|png|jpg|jpeg|gif|ico)$ {
+		expires max;
+		log_not_found off;
+	}
+	#
+}
+</code></pre>
+
+<p>Then link your file to the site-enabled directory: <code>ln -s /etc/nginx/sites-available/mynewapp /etc/nginx/sites-enabled/</code></p>
+
+<p>Check the nginx configuration: <code>nginx -t</code>, and restart it <code>service nginx restart</code>. You should be good!</p>
+
+<p>It was quite easy after all, but it&rsquo;s better with a tutorial, isn&rsquo;t it?</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>How I validated and pre-sold my first info product</title>
