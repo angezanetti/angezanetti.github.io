@@ -14,10 +14,10 @@
     
     <item>
       <title>How to Deploy Lumen on a Vps</title>
-      <link>https://angezanetti.com/posts/how-to-deploy-lumnen-vps/</link>
+      <link>https://angezanetti.com/posts/how-to-deploy-lumen-vps/</link>
       <pubDate>Wed, 11 Nov 2020 10:30:06 -0400</pubDate>
       
-      <guid>https://angezanetti.com/posts/how-to-deploy-lumnen-vps/</guid>
+      <guid>https://angezanetti.com/posts/how-to-deploy-lumen-vps/</guid>
       <description>I built a super simple app last week, it gets a ping when sales have been made on my Gumroad product and send it to a Slack channel. I know I could have done it with Zapier of IFTT but they&amp;rsquo;re either super limited or super slow.
 I wanted a minimalistic framework to do it (it&amp;rsquo;s 1 route and 1 API call). I also wanted a PHP based framework, it&amp;rsquo;s way easier to host on my VPS.</description>
     </item>
