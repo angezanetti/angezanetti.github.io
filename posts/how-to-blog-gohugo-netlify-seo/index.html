@@ -15,7 +15,7 @@ For the last 2 years, I found a solution that really fits my needs and allows me
 
 <meta itemprop="datePublished" content="2021-01-13T20:11:21-04:00" />
 <meta itemprop="dateModified" content="2021-01-13T20:11:21-04:00" />
-<meta itemprop="wordCount" content="736">
+<meta itemprop="wordCount" content="769">
 
 
 
@@ -93,6 +93,8 @@ set up a blog, work on the SEO, pushes some content, etc…</p>
 to have a blazing fast blog with no maintenance, good SEO performance and easy
 to set up. It takes 30 minutes total and it&rsquo;s free of charge.</p>
 
+<p>I basically use it for every blog I own, like this one but also for my professional blogs (<a href="https://blog.remotefr.com">job board</a> and <a href="https://blog.spreadtheworld.net">launching strategy</a>).</p>
+
 <p><em>Disclaimer: You need to know how to use Git/Github for this method. And you
 also need to be OK with using the terminal</em></p>
 
@@ -112,7 +114,7 @@ useful for plugins or themes.</p>
 
 <p>First, you&rsquo;ll need to install it on your computer (remember, everything is done
 offline)
-I&rsquo;m running a MacOS so all I need to do is: </p>
+I&rsquo;m running a MacOS so all I need to do is:</p>
 
 <p><code>brew install hugo</code>
 <em>If you have another OS check their <a href="https://gohugo.io/getting-started/installing">install
@@ -126,11 +128,14 @@ doc</a></em></p>
 
 <p>Most of us create a blog to get some traffic, to improve our SEO. The very
 important tip here is to be super cautious of your theme choice.
-What I do is: 
-1. Choosing a theme based on the functionality/appearance.
-2. Open the demo with Chrome
-3. Check the SEO score on LightHouse.
-4. Good themes has 90, <sup>95</sup>&frasl;<sub>100</sub> on Lighthouse. <strong>DO NOT USE OTHERS</strong></p>
+What I do is:</p>
+
+<ol>
+<li>Choosing a theme based on the functionality/appearance.</li>
+<li>Open the demo with Chrome</li>
+<li>Check the SEO score on LightHouse.</li>
+<li>Good themes has 90, <sup>95</sup>&frasl;<sub>100</sub> on Lighthouse. <strong>DO NOT USE OTHERS</strong></li>
+</ol>
 
 <p>If you really want a theme with a bad SEO score, you can fork it and make the
 modification on your own repo. That&rsquo;s what I made for my <a href="https://github.com/angezanetti/hugo-log">theme</a>.</p>
@@ -142,7 +147,7 @@ git init
 git submodule add https://github.com/angezanetti/hugo-log themes/hugo-log
 </code></pre>
 
-<p>Then, last step, update the config file: </p>
+<p>Then, last step, update the config file:</p>
 
 <p><code>echo 'theme = &quot;hugo-log&quot;' &gt;&gt; config.toml</code></p>
 
@@ -158,7 +163,7 @@ infos to fill.</p>
 <p><code>hugo new posts/my-first-post.md</code></p>
 
 <p>That will generate a new markdown file, open it, and start writing. On the top
-of the markdown file you should find something like: </p>
+of the markdown file you should find something like:</p>
 
 <pre><code>---
 title: &quot;My First Post&quot;
@@ -167,7 +172,7 @@ draft: true
 description: my desc is awesome
 toc: false
 images:
-tags: 
+tags:
   - tag1
   - tag2
   - ...
@@ -176,7 +181,7 @@ tags:
 
 <p>That&rsquo;s the metadata of your post, as well as the status of it. <code>draft: true</code>
 means that the post is a WIP and won&rsquo;t be posted to the production version.
-Now, we&rsquo;ll &ldquo;build&rdquo; the blog to see how it will show once online: </p>
+Now, we&rsquo;ll &ldquo;build&rdquo; the blog to see how it will show once online:</p>
 
 <p><code>hugo server -D</code> <em>-D is for development</em></p>
 
@@ -187,7 +192,7 @@ Now, we&rsquo;ll &ldquo;build&rdquo; the blog to see how it will show once onlin
 <h2 id="publish-your-blog-for-free">Publish your blog for free<a href="#publish-your-blog-for-free" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
 
 <p>The big advantage of having static files only is: it&rsquo;s super easy (and cheap)
-to host. We&rsquo;ll do it with  <a href="https://www.netlify.com/">Netlify</a>. The Starter plan is free and more than
+to host. We&rsquo;ll do it with <a href="https://www.netlify.com/">Netlify</a>. The Starter plan is free and more than
 enough for most of our blogs. You can create as many website as you want, as
 soon as your traffic doesn&rsquo;t exceed 100Gb(!).</p>
 
@@ -198,7 +203,7 @@ your GitHub/Gitlab account to it (push your blog to it beforehand).</p>
 and try to build it.</p>
 
 <p>It should fail! Because we need to tell to Netlify how to build our blog, just
-add this file to the root of your project: </p>
+add this file to the root of your project:</p>
 
 <pre><code>[build]
 publish = &quot;public&quot;
@@ -218,13 +223,15 @@ SSL certificate (for free).</p>
 <p>And that&rsquo;s it! You now have a brand new blog, super-fast, resilient, no
 maintenance and for free!</p>
 
+<p><strong>→ If you want more tips about blogging &amp; indiehacking follow me on <a href="https://twitter.com/angezanetti">Twitter</a></strong></p>
+
 			</div>
 			<hr class="post-end">
 			<footer class="post-info">
 				<p>
 					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg><span class="tag"><a href="https://angezanetti.com/tags/gohugo">GoHugo</a></span><span class="tag"><a href="https://angezanetti.com/tags/blog">Blog</a></span><span class="tag"><a href="https://angezanetti.com/tags/netlify">Netlify</a></span><span class="tag"><a href="https://angezanetti.com/tags/seo">SEO</a></span>
 				</p>
-				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>736 Words</p>
+				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>769 Words</p>
 				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>2021-01-13 20:11 -0400</p>
 			</footer>
 		</article>
