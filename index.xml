@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 11 Nov 2020 10:30:06 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jan 2021 20:11:21 -0400</lastBuildDate>
     
 	<atom:link href="https://angezanetti.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to create your blog with Gohugo and Netlify</title>
+      <link>https://angezanetti.com/posts/how-to-blog-gohugo-netlify-seo/</link>
+      <pubDate>Wed, 13 Jan 2021 20:11:21 -0400</pubDate>
+      
+      <guid>https://angezanetti.com/posts/how-to-blog-gohugo-netlify-seo/</guid>
+      <description>We all know that content marketing and SEO are the real winners when you want to get some traffic in the long term. But it always sounds super complicated, set up a blog, work on the SEO, pushes some content, etc…
+For the last 2 years, I found a solution that really fits my needs and allows me to have a blazing fast blog with no maintenance, good SEO performance and easy to set up.</description>
+    </item>
     
     <item>
       <title>How to Deploy Lumen on a Vps</title>
@@ -101,16 +111,6 @@ So my job suddenly went from Lead Developer to CTO, even CxO (I was the only one
       <description>I was recently into an interview process for a big company. I did 2 “in person” interview with the CEO and the CTO, I was looking for an Engineering Manager position.
 And I Ended by doing a Algorithm test on hackerrank.com. Few hours on a chair, trying to find the more optimize way to sort lists.
 Wait, really? I know, you want to test my tech skills, you want to check if I’m techie enough.</description>
-    </item>
-    
-    <item>
-      <title>From diving instructor to web developer, here is the 7 things I learned</title>
-      <link>https://angezanetti.com/posts/from-diving-instructor-to-coder/</link>
-      <pubDate>Fri, 02 Feb 2018 21:52:33 +0100</pubDate>
-      
-      <guid>https://angezanetti.com/posts/from-diving-instructor-to-coder/</guid>
-      <description>1 — It’s never been easier to jump on the bandwaggon I’m a self taught coder, I didn’t study Computer Science at school. I only did ~20hours of computer science lessons during my studies. I was not a geek, I didn’t start coding at 12yo, no what I liked so much during my childhood was going underwater, not computers :)
-You don’t need to be a geek/nerd/hero or whatever to be a developer  No you don&amp;rsquo;t, it&amp;rsquo;s a myth - and starting at 12 means nothing, what did they code at 12?</description>
     </item>
     
   </channel>

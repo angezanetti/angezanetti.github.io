@@ -4,7 +4,48 @@
   
   <url>
     <loc>https://angezanetti.com/</loc>
-    <lastmod>2020-11-11T10:30:06-04:00</lastmod>
+    <lastmod>2021-01-13T20:11:21-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://angezanetti.com/tags/blog/</loc>
+    <lastmod>2021-01-13T20:11:21-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://angezanetti.com/tags/gohugo/</loc>
+    <lastmod>2021-01-13T20:11:21-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://angezanetti.com/posts/how-to-blog-gohugo-netlify-seo/</loc>
+    <lastmod>2021-01-13T20:11:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://angezanetti.com/tags/netlify/</loc>
+    <lastmod>2021-01-13T20:11:21-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://angezanetti.com/posts/</loc>
+    <lastmod>2021-01-13T20:11:21-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://angezanetti.com/tags/seo/</loc>
+    <lastmod>2021-01-13T20:11:21-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://angezanetti.com/tags/</loc>
+    <lastmod>2021-01-13T20:11:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -15,18 +56,6 @@
   
   <url>
     <loc>https://angezanetti.com/tags/php/</loc>
-    <lastmod>2020-11-11T10:30:06-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/posts/</loc>
-    <lastmod>2020-11-11T10:30:06-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/tags/</loc>
     <lastmod>2020-11-11T10:30:06-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -113,12 +142,6 @@
   <url>
     <loc>https://angezanetti.com/tags/openvpn/</loc>
     <lastmod>2019-06-15T09:27:29+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/tags/blog/</loc>
-    <lastmod>2019-06-04T08:56:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   

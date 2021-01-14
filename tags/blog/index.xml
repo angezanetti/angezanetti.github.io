@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 04 Jun 2019 08:56:31 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jan 2021 20:11:21 -0400</lastBuildDate>
     
 	<atom:link href="https://angezanetti.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to create your blog with Gohugo and Netlify</title>
+      <link>https://angezanetti.com/posts/how-to-blog-gohugo-netlify-seo/</link>
+      <pubDate>Wed, 13 Jan 2021 20:11:21 -0400</pubDate>
+      
+      <guid>https://angezanetti.com/posts/how-to-blog-gohugo-netlify-seo/</guid>
+      <description>We all know that content marketing and SEO are the real winners when you want to get some traffic in the long term. But it always sounds super complicated, set up a blog, work on the SEO, pushes some content, etc…
+For the last 2 years, I found a solution that really fits my needs and allows me to have a blazing fast blog with no maintenance, good SEO performance and easy to set up.</description>
+    </item>
     
     <item>
       <title>Switching From Wordpress to a static website (hugo)</title>
@@ -101,17 +111,6 @@ Pour partir en beauté, je me suis dit que rien ne valait un bon vieux troll bie
       
       <guid>https://angezanetti.com/je-fais-ma-rentree/</guid>
       <description>(photo d&amp;#8217;Olibac)    Et hop fin de l&amp;#8217;été, après avoir passé 2 mois dans l&amp;#8217;eau me voici de retour sur le web. Et ce retour s&amp;#8217;accompagne de pas mal de bonnes nouvelles comme la nouvelle fonction llMediaAPI mise en place par Linden Labs pendant le mois d&amp;#8217;Aout mais aussi la sortie en version finale d&amp;#8217;Avaline. Mais il y a aussi JustLeapIn qui annonce sa compatibilité avec FireFox 3.</description>
-    </item>
-    
-    <item>
-      <title>C’est l’été !</title>
-      <link>https://angezanetti.com/cest-lete/</link>
-      <pubDate>Tue, 30 Jun 2009 07:13:00 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/cest-lete/</guid>
-      <description>photo de christing-O-
-
-Hé oui déjà l&amp;#8217;été ! Synonyme de vacances pour beaucoup, pour moi ça n&amp;#8217;est plus le cas depuis plusieurs années déjà. Pour ceux qui ne le savent pas encore, je suis moniteur de plongée. Cette année je retourne donc au bord de la mer pour travailler. C&amp;#8217;est certainement la dernière année d&amp;#8217;ailleurs, à voir. Ange Zanetti &amp;#8211; l&amp;#8217;entreprise &amp;#8211; se porte pas trop mal et si cela continu sur cette lancée je n&amp;#8217;aurai pas forcement besoin de partir en saison l&amp;#8217;année prochaine pour boucler le budget annuel.</description>
     </item>
     
   </channel>

@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 11 Nov 2020 10:30:06 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jan 2021 20:11:21 -0400</lastBuildDate>
     
 	<atom:link href="https://angezanetti.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog</title>
+      <link>https://angezanetti.com/tags/blog/</link>
+      <pubDate>Wed, 13 Jan 2021 20:11:21 -0400</pubDate>
+      
+      <guid>https://angezanetti.com/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GoHugo</title>
+      <link>https://angezanetti.com/tags/gohugo/</link>
+      <pubDate>Wed, 13 Jan 2021 20:11:21 -0400</pubDate>
+      
+      <guid>https://angezanetti.com/tags/gohugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Netlify</title>
+      <link>https://angezanetti.com/tags/netlify/</link>
+      <pubDate>Wed, 13 Jan 2021 20:11:21 -0400</pubDate>
+      
+      <guid>https://angezanetti.com/tags/netlify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEO</title>
+      <link>https://angezanetti.com/tags/seo/</link>
+      <pubDate>Wed, 13 Jan 2021 20:11:21 -0400</pubDate>
+      
+      <guid>https://angezanetti.com/tags/seo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PHP</title>
@@ -63,42 +99,6 @@
       <pubDate>Tue, 27 Oct 2020 13:06:07 -0400</pubDate>
       
       <guid>https://angezanetti.com/tags/startup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jobs</title>
-      <link>https://angezanetti.com/tags/jobs/</link>
-      <pubDate>Thu, 22 Oct 2020 12:41:26 -0400</pubDate>
-      
-      <guid>https://angezanetti.com/tags/jobs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dev</title>
-      <link>https://angezanetti.com/tags/dev/</link>
-      <pubDate>Sun, 06 Oct 2019 20:22:07 -0400</pubDate>
-      
-      <guid>https://angezanetti.com/tags/dev/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WordPress</title>
-      <link>https://angezanetti.com/tags/wordpress/</link>
-      <pubDate>Sun, 06 Oct 2019 20:22:07 -0400</pubDate>
-      
-      <guid>https://angezanetti.com/tags/wordpress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>opensource</title>
-      <link>https://angezanetti.com/tags/opensource/</link>
-      <pubDate>Sun, 06 Oct 2019 20:22:07 -0400</pubDate>
-      
-      <guid>https://angezanetti.com/tags/opensource/</guid>
       <description></description>
     </item>
     

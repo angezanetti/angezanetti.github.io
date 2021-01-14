@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="theme-color" content="#FE5185">
+	<meta name="msapplication-TileColor" content="#FE5185">
+
+<meta itemprop="name" content="How to create your blog with Gohugo and Netlify">
+<meta itemprop="description" content="We all know that content marketing and SEO are the real winners when you want to get some traffic in the long term. But it always sounds super complicated, set up a blog, work on the SEO, pushes some content, etc…
+For the last 2 years, I found a solution that really fits my needs and allows me to have a blazing fast blog with no maintenance, good SEO performance and easy to set up.">
+
+
+<meta itemprop="datePublished" content="2021-01-13T20:11:21-04:00" />
+<meta itemprop="dateModified" content="2021-01-13T20:11:21-04:00" />
+<meta itemprop="wordCount" content="736">
+
+
+
+<meta itemprop="keywords" content="GoHugo,Blog,Netlify,SEO," />
+<meta property="og:title" content="How to create your blog with Gohugo and Netlify" />
+<meta property="og:description" content="We all know that content marketing and SEO are the real winners when you want to get some traffic in the long term. But it always sounds super complicated, set up a blog, work on the SEO, pushes some content, etc…
+For the last 2 years, I found a solution that really fits my needs and allows me to have a blazing fast blog with no maintenance, good SEO performance and easy to set up." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://angezanetti.com/posts/how-to-blog-gohugo-netlify-seo/" />
+<meta property="article:published_time" content="2021-01-13T20:11:21-04:00"/>
+<meta property="article:modified_time" content="2021-01-13T20:11:21-04:00"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="How to create your blog with Gohugo and Netlify"/>
+<meta name="twitter:description" content="We all know that content marketing and SEO are the real winners when you want to get some traffic in the long term. But it always sounds super complicated, set up a blog, work on the SEO, pushes some content, etc…
+For the last 2 years, I found a solution that really fits my needs and allows me to have a blazing fast blog with no maintenance, good SEO performance and easy to set up."/>
+
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="">
+	<link rel="shortcut icon" href="/favicon.ico">
+
+	<title>How to create your blog with Gohugo and Netlify</title>
+	<link rel="stylesheet" href="https://angezanetti.com/css/style.min.01f62fff7ba9e2888ea91c3cd0097e6a3f65d5d14863514fb3886453cca80599.css" integrity="sha256-AfYv/3up4oiOqRw80Al+aj9l1dFIY1FPs4hkU8yoBZk=" crossorigin="anonymous">
+	
+	<link rel="stylesheet" href="https://angezanetti.com/style.css">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans|Unica+One&display=swap" rel="stylesheet">
+
+
+</head>
+
+<body id="page">
+	
+	<header id="site-header" class="animated slideInUp">
+		<div class="hdr-wrapper section-inner">
+			<div class="hdr-left">
+				<div class="site-branding">
+					<a href="https://angezanetti.com">/AngeZanetti.com</a>
+				</div>
+				<nav class="site-nav hide-in-mobile">
+					
+				<a href="https://angezanetti.com/posts/">Blog</a>
+				<a href="https://angezanetti.com/about/">About</a>
+
+				</nav>
+			</div>
+			<div class="hdr-right hdr-icons">
+				<span class="hdr-social hide-in-mobile"><a href="https://twitter.com/angezanetti" target="_blank" rel="noopener me" title="Twitter"><svg xmlns="http://www.w3.org/2000/svg" class="feather" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path></svg></a><a href="https://github.com/angezanetti" target="_blank" rel="noopener me" title="Github"><svg xmlns="http://www.w3.org/2000/svg" class="feather" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg></a><a href="https://www.linkedin.com/in/xaviercoiffard/" target="_blank" rel="noopener me" title="Linkedin"><svg xmlns="http://www.w3.org/2000/svg" class="feather" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg></a><a href="https://stackoverflow.com/users/1112901/xavier" target="_blank" rel="noopener me" title="Stackoverflow"><svg xmlns="http://www.w3.org/2000/svg" class="feather" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2.913 16.041v6.848h17.599v-6.848M7.16 18.696h8.925M7.65 13.937l8.675 1.8M9.214 9.124l8.058 3.758M12.086 4.65l6.849 5.66M15.774 1.111l5.313 7.162"/></svg></a></span><button id="menu-btn" class="hdr-btn" title="Menu"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg></button>
+			</div>
+		</div>
+	</header>
+	<div id="mobile-menu" class="animated fast">
+		<ul>
+			<li><a href="https://angezanetti.com/posts/">Blog</a></li>
+			<li><a href="https://angezanetti.com/about/">About</a></li>
+		</ul>
+	</div>
+
+
+	<main class="site-main section-inner animated fadeIn faster">
+		<article class="thin">
+			<header class="post-header">
+				<div class="post-meta"><span>Jan 13, 2021</span></div>
+				<h1>How to create your blog with Gohugo and Netlify</h1>
+			</header>
+			<div class="content">
+				
+
+<p>We all know that content marketing and SEO are the real winners when you want
+to get some traffic in the long term. But it always sounds super complicated,
+set up a blog, work on the SEO, pushes some content, etc…</p>
+
+<p>For the last 2 years, I found a solution that really fits my needs and allows me
+to have a blazing fast blog with no maintenance, good SEO performance and easy
+to set up. It takes 30 minutes total and it&rsquo;s free of charge.</p>
+
+<p><em>Disclaimer: You need to know how to use Git/Github for this method. And you
+also need to be OK with using the terminal</em></p>
+
+<h2 id="a-static-site-generator">A static site generator<a href="#a-static-site-generator" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>The easiest way to publish content is to create some basic HTML files, without
+any server interaction. A static site generator lets you write your article
+offline and will generate all the HTML files afterward. All you need to do is
+take these files and put them on a webserver.
+There is plenty of SSG, I choose <a href="https://gohugo.io/">Hugo</a> a few years ago
+because it&rsquo;s one of the faster and because the community is huge - that&rsquo;s super
+useful for plugins or themes.</p>
+
+<p>Let&rsquo;s see how to install Hugo and create your blog:</p>
+
+<h3 id="install">Install<a href="#install" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+
+<p>First, you&rsquo;ll need to install it on your computer (remember, everything is done
+offline)
+I&rsquo;m running a MacOS so all I need to do is: </p>
+
+<p><code>brew install hugo</code>
+<em>If you have another OS check their <a href="https://gohugo.io/getting-started/installing">install
+doc</a></em></p>
+
+<p>Then, create a new site:</p>
+
+<p><code>hugo new site myblog</code></p>
+
+<h3 id="a-seo-friendly-theme">A SEO friendly theme<a href="#a-seo-friendly-theme" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+
+<p>Most of us create a blog to get some traffic, to improve our SEO. The very
+important tip here is to be super cautious of your theme choice.
+What I do is: 
+1. Choosing a theme based on the functionality/appearance.
+2. Open the demo with Chrome
+3. Check the SEO score on LightHouse.
+4. Good themes has 90, <sup>95</sup>&frasl;<sub>100</sub> on Lighthouse. <strong>DO NOT USE OTHERS</strong></p>
+
+<p>If you really want a theme with a bad SEO score, you can fork it and make the
+modification on your own repo. That&rsquo;s what I made for my <a href="https://github.com/angezanetti/hugo-log">theme</a>.</p>
+
+<p>Once you choose your theme, let&rsquo;s add it to your blog:</p>
+
+<pre><code>cd quickstart
+git init
+git submodule add https://github.com/angezanetti/hugo-log themes/hugo-log
+</code></pre>
+
+<p>Then, last step, update the config file: </p>
+
+<p><code>echo 'theme = &quot;hugo-log&quot;' &gt;&gt; config.toml</code></p>
+
+<p>Make sure to check the configuration file of the theme, especially for a theme SEO focused, you&rsquo;ll have some extra
+infos to fill.</p>
+
+<p>And that&rsquo;s it, you configured your new blog!</p>
+
+<h3 id="create-some-content">Create some content<a href="#create-some-content" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+
+<p>To create a new post we run:</p>
+
+<p><code>hugo new posts/my-first-post.md</code></p>
+
+<p>That will generate a new markdown file, open it, and start writing. On the top
+of the markdown file you should find something like: </p>
+
+<pre><code>---
+title: &quot;My First Post&quot;
+date: 2019-03-26T08:47:11+01:00
+draft: true
+description: my desc is awesome
+toc: false
+images:
+tags: 
+  - tag1
+  - tag2
+  - ...
+---
+</code></pre>
+
+<p>That&rsquo;s the metadata of your post, as well as the status of it. <code>draft: true</code>
+means that the post is a WIP and won&rsquo;t be posted to the production version.
+Now, we&rsquo;ll &ldquo;build&rdquo; the blog to see how it will show once online: </p>
+
+<p><code>hugo server -D</code> <em>-D is for development</em></p>
+
+<p>Open <code>localhost:1313</code> and you&rsquo;ll see the first version of your blog!</p>
+
+<p>Let&rsquo;s see how we can publish it now.</p>
+
+<h2 id="publish-your-blog-for-free">Publish your blog for free<a href="#publish-your-blog-for-free" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+
+<p>The big advantage of having static files only is: it&rsquo;s super easy (and cheap)
+to host. We&rsquo;ll do it with  <a href="https://www.netlify.com/">Netlify</a>. The Starter plan is free and more than
+enough for most of our blogs. You can create as many website as you want, as
+soon as your traffic doesn&rsquo;t exceed 100Gb(!).</p>
+
+<p>So first, create an account on app.netlify.com, then it will ask you to connect
+your GitHub/Gitlab account to it (push your blog to it beforehand).</p>
+
+<p>To create a new site, Select <code>New site from git.</code>, select your blog repository
+and try to build it.</p>
+
+<p>It should fail! Because we need to tell to Netlify how to build our blog, just
+add this file to the root of your project: </p>
+
+<pre><code>[build]
+publish = &quot;public&quot;
+command = &quot;hugo --gc --minify&quot;
+
+[context.production.environment]
+HUGO_VERSION = &quot;0.55.6&quot;
+HUGO_ENV = &quot;production&quot;
+HUGO_ENABLEGITINFO = &quot;true&quot;
+</code></pre>
+
+<p>Now, try to build it again and you should be good!</p>
+
+<p>You can now set up a (sub)domain for it, Netlify also provide you a
+SSL certificate (for free).</p>
+
+<p>And that&rsquo;s it! You now have a brand new blog, super-fast, resilient, no
+maintenance and for free!</p>
+
+			</div>
+			<hr class="post-end">
+			<footer class="post-info">
+				<p>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg><span class="tag"><a href="https://angezanetti.com/tags/gohugo">GoHugo</a></span><span class="tag"><a href="https://angezanetti.com/tags/blog">Blog</a></span><span class="tag"><a href="https://angezanetti.com/tags/netlify">Netlify</a></span><span class="tag"><a href="https://angezanetti.com/tags/seo">SEO</a></span>
+				</p>
+				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>736 Words</p>
+				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>2021-01-13 20:11 -0400</p>
+			</footer>
+		</article>
+		<div class="post-nav thin">
+			<a class="prev-post" href="https://angezanetti.com/posts/how-to-deploy-lumen-vps/">
+				<span class="post-nav-label">Older&nbsp;<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-right"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></span><br><span>How to Deploy Lumen on a Vps</span>
+			</a>
+		</div>
+		<div id="comments" class="thin">
+</div>
+	</main>
+
+	<footer id="site-footer" class="section-inner thin animated fadeIn faster">
+		<p>&copy; 2021 <a href="https://angezanetti.com">Xavier Coiffard</a> &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></p>
+		<p>
+			Made with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> &#183; Theme <a href="https://github.com/Track3/hermit" target="_blank" rel="noopener">Hermit</a> &#183; <a href="https://angezanetti.com/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a>
+		</p>
+	</footer>
+
+
+
+	<script src="https://angezanetti.com/js/bundle.min.490e43e5af6db5906f28afa49a4e16bf9f626b758e3fca92f146b870eb94bb37.js" integrity="sha256-SQ5D5a9ttZBvKK+kmk4Wv59ia3WOP8qS8Ua4cOuUuzc=" crossorigin="anonymous"></script>
+	
+<script async defer data-domain="angezanetti.com" src="https://plausible.io/js/plausible.js"></script>
+
+<script>
+var links = document.links;
+for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+   if (links[i].hostname != window.location.hostname) {
+       links[i].target = '_blank';
+   }
+}
+</script>
+
+
+</body>
+
+</html>
