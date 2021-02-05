@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 27 Oct 2020 13:06:07 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 05 Feb 2021 09:30:40 -0400</lastBuildDate>
     
 	<atom:link href="https://angezanetti.com/tags/nocode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>I shipped 3 products in 3 months, here is what I learned (so far)</title>
+      <link>https://angezanetti.com/posts/6-products-6months-half-way-there/</link>
+      <pubDate>Fri, 05 Feb 2021 09:30:40 -0400</pubDate>
+      
+      <guid>https://angezanetti.com/posts/6-products-6months-half-way-there/</guid>
+      <description>Last October, I started a new challenge: Build and ship 6 products in 6 months. I spent the previous 5 years in the startup ecosystem, spending all my time focusing on one product only, and I needed a change!
+Objectives Learn faster than usual startups As I said, when you start a startup, you go all in. You are spending all your time on one product, focusing on one market.</description>
+    </item>
     
     <item>
       <title>How I validated and pre-sold my first info product</title>

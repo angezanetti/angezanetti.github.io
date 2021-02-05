@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 27 Oct 2020 13:06:07 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 05 Feb 2021 09:30:40 -0400</lastBuildDate>
     
 	<atom:link href="https://angezanetti.com/tags/entrepreneur/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>I shipped 3 products in 3 months, here is what I learned (so far)</title>
+      <link>https://angezanetti.com/posts/6-products-6months-half-way-there/</link>
+      <pubDate>Fri, 05 Feb 2021 09:30:40 -0400</pubDate>
+      
+      <guid>https://angezanetti.com/posts/6-products-6months-half-way-there/</guid>
+      <description>Last October, I started a new challenge: Build and ship 6 products in 6 months. I spent the previous 5 years in the startup ecosystem, spending all my time focusing on one product only, and I needed a change!
+Objectives Learn faster than usual startups As I said, when you start a startup, you go all in. You are spending all your time on one product, focusing on one market.</description>
+    </item>
     
     <item>
       <title>How I validated and pre-sold my first info product</title>
@@ -104,17 +114,6 @@ Un bon gros titre qui fait peur, qui fait buzzer et pleurer dans les chaumières
       <guid>https://angezanetti.com/rentree-2012-projets-grandsensemble-maintenantautravail-dentallife/</guid>
       <description>Mon blog est en sommeil depuis plusieurs mois. Je le sais, ce n&amp;#8217;est pas une volonté de ma part mais plus un manque de temps. Dur de tenir le rythme d&amp;#8217;article que je m&amp;#8217;étais imposé depuis son lancement. J&amp;#8217;ai été pas mal occupé durant l&amp;#8217;été, pas mal de changement et des projets en cours !
 3 mois de changements à rattraper en un post cela ne va pas être facile, je vais essayer de faire court :</description>
-    </item>
-    
-    <item>
-      <title>Faire Play : Un barcamp au coworkinglille le 29/09/11</title>
-      <link>https://angezanetti.com/faire-play-coworkinglille/</link>
-      <pubDate>Mon, 26 Sep 2011 12:55:53 +0000</pubDate>
-      
-      <guid>https://angezanetti.com/faire-play-coworkinglille/</guid>
-      <description>Jeudi prochain aura lieu le barcamp FairePlay au CoworkingLille.
-C&amp;#8217;est un barcamp un peu spécial car il sera réalisé en même temps dans 3 lieux différents : CoworkingLille à Lille, Les petits débrouillards en région parisienne et dans un espace de coworking porté par l&amp;#8217;agence Groupe AOS à Abidjan.
-Les thèmes sont d&amp;#8217;actualité puisque l&amp;#8217;on parlera de comment «Travailler autrement», «Entreprendre autrement», «Apprendre autrement». Ces thématiques sont-elles justifiées autrement que par le marketing des outils ?</description>
     </item>
     
   </channel>
