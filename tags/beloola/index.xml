@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beloola on /AngeZanetti.com</title>
@@ -7,18 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 16 Aug 2011 10:12:18 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/beloola/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 16 Aug 2011 10:12:18 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/beloola/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beloola : présentation en vidéo</title>
       <link>https://angezanetti.com/beloola-presentation-en-video/</link>
       <pubDate>Tue, 16 Aug 2011 10:12:18 +0000</pubDate>
       
       <guid>https://angezanetti.com/beloola-presentation-en-video/</guid>
-      <description>Beloola est un monde virtuel français &amp;#8211; développé par v-cult une société Lilloise. Son créneau est assez précis : un monde virtuel 3D dans le navigateur dédié à l&amp;#8217;art et à la culture. Dans l&amp;#8217;interview de Tom son fondateur on apprend :
+      <description>Beloola est un monde virtuel français – développé par v-cult une société Lilloise. Son créneau est assez précis : un monde virtuel 3D dans le navigateur dédié à l’art et à la culture. Dans l’interview de Tom son fondateur on apprend :
  Avec ce projet, le but n’est pas de créer un énième réseau social mais au contraire d’agréger des contenus communautaires ; ainsi au cœur de Beloola, tu auras accès à ton wall Facebook, Twitter etc.</description>
     </item>
     

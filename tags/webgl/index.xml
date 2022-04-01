@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WebGL on /AngeZanetti.com</title>
@@ -7,19 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 06 Aug 2013 15:14:07 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/webgl/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 06 Aug 2013 15:14:07 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/webgl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SketchFab: le Youtube de la 3D en WebGL</title>
       <link>https://angezanetti.com/sketchfab-le-youtube-de-la-3d-en-webgl/</link>
       <pubDate>Tue, 06 Aug 2013 15:14:07 +0000</pubDate>
       
       <guid>https://angezanetti.com/sketchfab-le-youtube-de-la-3d-en-webgl/</guid>
-      <description>Je me rends compte que j&amp;#8217;ai jamais parlé ici de Sketchfab, le service français qui monte. Le principe est simple: faire un outil qui permette d&amp;#8217;afficher de la 3d dans vos articles de blog, sur votre site web aussi facilement qu&amp;#8217;on le fait avec les vidéos Youtube.
-Le tout sans plugin, juste un bout de code à copier coller et hop avoir sa dernière création qui s&amp;#8217;affiche en 3D animée dans votre portfolio.</description>
+      <description>Je me rends compte que j’ai jamais parlé ici de Sketchfab, le service français qui monte. Le principe est simple: faire un outil qui permette d’afficher de la 3d dans vos articles de blog, sur votre site web aussi facilement qu’on le fait avec les vidéos Youtube.
+Le tout sans plugin, juste un bout de code à copier coller et hop avoir sa dernière création qui s’affiche en 3D animée dans votre portfolio.</description>
     </item>
     
     <item>
@@ -28,7 +24,7 @@ Le tout sans plugin, juste un bout de code à copier coller et hop avoir sa dern
       <pubDate>Wed, 10 Apr 2013 09:06:29 +0000</pubDate>
       
       <guid>https://angezanetti.com/webgl-adoption-usages-angezanetti-consultant/</guid>
-      <description>Depuis que je travaille comme consultant et développeur dans le monde de la 3D je suis confronté à des débats sur les technos. Cela à commencé avec SecondLife, Opensim puis Unity3d, WebGL, Flash etc &amp;#8230;   Avec des arguments plus ou moins bien choisi, mais il y a toujours cette problématique du choix de technos. Je vais essayer de vous convaincre, dans ce billet, de tester WebGL.          WebG quoi ?</description>
+      <description>WebG quoi ?  &amp;lt;p&amp;gt; A noter qu&amp;amp;#8217;&amp;lt;a title=&amp;quot;IE11 webGL support&amp;quot; href=&amp;quot;http://www.techradar.com/news/internet/web/microsoft-s-internet-explorer-11-to-include-webgl-graphics-after-all--1141713&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;internet explorer 11 devrait supporter WebGL&amp;lt;/a&amp;gt;, c&amp;amp;#8217;est du moins les rumeurs qui courent sur Twitter. Autrement dit, à part iOS qui fait le blocus, vous pouvez afficher du WebGL à peu près partout pour peu que vous ayez un ordinateur potable, avec un navigateur mis à jour ou une tablette Android. &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; Si on en crois le site &amp;lt;a title=&amp;quot;WebGL stats&amp;quot; href=&amp;quot;http://webglstats.</description>
     </item>
     
     <item>
@@ -37,7 +33,7 @@ Le tout sans plugin, juste un bout de code à copier coller et hop avoir sa dern
       <pubDate>Thu, 28 Mar 2013 10:59:46 +0000</pubDate>
       
       <guid>https://angezanetti.com/le-moteur-dunreal-3-porte-sur-le-web-avec-webgl/</guid>
-      <description>Mozilla et depuis quelques temps pas mal porté sur le jeu, notamment avec ses games challenges le tout en HTML5 bien sur. Ils ont une vraie politique de porté et de soutenir WebGL notamment et une volonté de faire du web une plateforme de jeu à part entière. Cette fois ils ont sévi avec Epic Games en portant le moteur d&amp;#8217;Unreal Tournament, porté sous Flash il y a 2 ans, sur le web cette fois et en WebGL s&amp;#8217;il vous plaît!</description>
+      <description>Mozilla et depuis quelques temps pas mal porté sur le jeu, notamment avec ses games challengesle tout en HTML5bien sur. Ils ont une vraie politique de porté et de soutenir WebGLnotamment et une volonté de faire du web une plateforme de jeu à part entière. Cette fois ils ont sévi avec Epic Games en portant le moteur d’Unreal Tournament, porté sous Flash il y a 2 ans, sur le web cette fois et en WebGLs’il vous plaît!</description>
     </item>
     
     <item>
@@ -46,7 +42,7 @@ Le tout sans plugin, juste un bout de code à copier coller et hop avoir sa dern
       <pubDate>Fri, 06 Jan 2012 07:37:57 +0000</pubDate>
       
       <guid>https://angezanetti.com/convertir-des-iles-opensim-ou-secondlife-en-collada/</guid>
-      <description>Je ne sais pas si vous connaissez Tipodean c&amp;#8217;est une startup dirigée par Chris Collins, un ancien Linden, et qui depuis quelques mois essaye de créer un viewer Unity pour OpenSim et SecondLife. Je vous en parlais en Juillet dernier, à l&amp;#8217;époque ce n&amp;#8217;était pas vraiment au point, c&amp;#8217;était de l&amp;#8217;alpha&amp;#8230;  Mais ils ont continué à travailler et ont annoncé le 3 janvier dernier la sortie d&amp;#8217;un site web qui permet de convertir directement le contenu SecondLife ou OpenSim pour l&amp;#8217;afficher dans le navigateur via Unity3d Ou Flash !</description>
+      <description></description>
     </item>
     
     <item>
@@ -55,10 +51,9 @@ Le tout sans plugin, juste un bout de code à copier coller et hop avoir sa dern
       <pubDate>Thu, 29 Dec 2011 11:55:23 +0000</pubDate>
       
       <guid>https://angezanetti.com/minecraft-webgl-mondesvirtuels/</guid>
-      <description>source de l&#39;image : http://www.next-nintendo.com/  &amp;nbsp;
-Je ne sais pas si vous connaissez MineCraft, c&amp;#8217;est un monde virtuel assez basique qui permet de créer des univers délirants avec de gros cube pixélisés.
+      <description>Je ne sais pas si vous connaissez MineCraft, c’est un monde virtuel assez basique qui permet de créer des univers délirants avec de gros cube pixélisés.
 Alors bien sur dit comme ça cela ne fait pas trop envie mais vraiment Minecraft est devenu devenu un véritable phénomène de société.
- &amp;#8220;[…]Minecraft est un chef d&amp;#8217;œuvre de minimalisme qui rejette l&amp;#8217;artifice pour se concentrer sur l&amp;#8217;essentiel, c&amp;#8217;est-à-dire les mécanismes de pure gameplay.</description>
+ “[…]Minecraft est un chef d’œuvre de minimalisme qui rejette l’artifice pour se concentrer sur l’essentiel, c’est-à-dire les mécanismes de pure gameplay.</description>
     </item>
     
     <item>
@@ -67,7 +62,7 @@ Alors bien sur dit comme ça cela ne fait pas trop envie mais vraiment Minecraft
       <pubDate>Tue, 27 Dec 2011 07:17:56 +0000</pubDate>
       
       <guid>https://angezanetti.com/un-boilerplate-pour-three-js-est-sorti/</guid>
-      <description>Je ne sais pas si vous connaissez HTML5 Boilerplate, c&amp;#8217;est un outil inspiré de la méthode DRY « don&amp;#8217;t repeat yourself ». Pour faire simple c&amp;#8217;est un ensemble de fichiers qui constitue une base commune pour vos projets web. On trouve un fichier index.html avec les balises de base comme le doctype, le , les sections etc… De même, on trouve des fichiers JS communs comme la librairie Jquery. Bref, tout ce dont on a besoin quand on se lance dans un projet web.</description>
+      <description>Je ne sais pas si vous connaissez HTML5 Boilerplate, c’est un outil inspiré de la méthode DRY « don’t repeat yourself ». Pour faire simple c’est un ensemble de fichiers qui constitue une base commune pour vos projets web. On trouve un fichier index.html avec les balises de base comme le doctype, le , les sections etc… De même, on trouve des fichiers JS communs comme la librairie Jquery. Bref, tout ce dont on a besoin quand on se lance dans un projet web.</description>
     </item>
     
     <item>
@@ -76,9 +71,8 @@ Alors bien sur dit comme ça cela ne fait pas trop envie mais vraiment Minecraft
       <pubDate>Fri, 02 Dec 2011 08:50:39 +0000</pubDate>
       
       <guid>https://angezanetti.com/unity-webgl-html5/</guid>
-      <description>&amp;nbsp;
-J&amp;#8217;ai lu une news sur Gamasutra hier qui &amp;#8216;ma fiat bondir de mon siège &amp;#8211; ou presque. Unity technologies annonce qu&amp;#8217;il supportera probablement HTML5 dès que cette technologie &amp;#8220;sera prête pour le gaming&amp;#8221;.
-Le CEO, David Helgason explique que le moteur HTML5 est très bien pour faire de la datavisualisation par exemple mais que cette techno n&amp;#8217;est pas encore mûre pour faire du jeu. D&amp;#8217;après lui celui va changer avec le temps et Unity surveille de près ces changements pour pouvoir proposer une compatibilité rapidement.</description>
+      <description>J’ai lu une news sur Gamasutrahier qui ‘ma fiat bondir de mon siège – ou presque. Unity technologies annonce qu’il supportera probablement HTML5 dès que cette technologie “sera prête pour le gaming”.
+Le CEO, David Helgason explique que le moteur HTML5 est très bien pour faire de la datavisualisation par exemple mais que cette techno n’est pas encore mûre pour faire du jeu. D’après lui celui va changer avec le temps et Unity surveille de près ces changements pour pouvoir proposer une compatibilité rapidement.</description>
     </item>
     
     <item>
@@ -87,9 +81,9 @@ Le CEO, David Helgason explique que le moteur HTML5 est très bien pour faire de
       <pubDate>Mon, 24 Oct 2011 08:40:45 +0000</pubDate>
       
       <guid>https://angezanetti.com/data-visualisation-webgl-html5/</guid>
-      <description>Jonas Wagner est un hacker qui travaille pour local.ch, un moteur de recherche qui ressemble à notre pagesjaunes.fr.
-Il était apparemment, depuis quelques temps, à la recherche d&amp;#8217;un outil de datavisualisation sympa pour représenter toutes les données de local.ch. Il a finalement choisi WebGL et le résultat est bluffant.
-Il modélise les 3,7 millions d&amp;#8217;adresses référencées par local.ch sous la forme d&amp;#8217;un point rouge. Les données sont géolocalisées en 3D, on peut donc facilement reconnaître les contours de la suisse mais aussi les reliefs &amp;#8211; lacs, montagnes etc.</description>
+      <description>Jonas Wagnerest un hacker qui travaille pour local.ch, un moteur de recherche qui ressemble à notre pagesjaunes.fr.
+Il était apparemment, depuis quelques temps, à la recherche d’un outil de datavisualisation sympa pour représenter toutes les données de local.ch. Il a finalement choisi WebGL et le résultat est bluffant.
+Il modélise les 3,7 millions d’adresses référencées par local.ch sous la forme d’un point rouge. Les données sont géolocalisées en 3D, on peut donc facilement reconnaître les contours de la suisse mais aussi les reliefs – lacs, montagnes etc.</description>
     </item>
     
     <item>
@@ -98,7 +92,7 @@ Il modélise les 3,7 millions d&amp;#8217;adresses référencées par local.ch s
       <pubDate>Tue, 16 Aug 2011 10:12:18 +0000</pubDate>
       
       <guid>https://angezanetti.com/beloola-presentation-en-video/</guid>
-      <description>Beloola est un monde virtuel français &amp;#8211; développé par v-cult une société Lilloise. Son créneau est assez précis : un monde virtuel 3D dans le navigateur dédié à l&amp;#8217;art et à la culture. Dans l&amp;#8217;interview de Tom son fondateur on apprend :
+      <description>Beloola est un monde virtuel français – développé par v-cult une société Lilloise. Son créneau est assez précis : un monde virtuel 3D dans le navigateur dédié à l’art et à la culture. Dans l’interview de Tom son fondateur on apprend :
  Avec ce projet, le but n’est pas de créer un énième réseau social mais au contraire d’agréger des contenus communautaires ; ainsi au cœur de Beloola, tu auras accès à ton wall Facebook, Twitter etc.</description>
     </item>
     
@@ -108,7 +102,7 @@ Il modélise les 3,7 millions d&amp;#8217;adresses référencées par local.ch s
       <pubDate>Fri, 15 Jul 2011 08:54:50 +0000</pubDate>
       
       <guid>https://angezanetti.com/client-leger-navigateur-unity-webgl-opensim-secondlife/</guid>
-      <description>Les mondes virtuels n&amp;#8217;ont pas eu le succès attendu. C&amp;#8217;est un fait. Nous sommes beaucoup à penser que cela est du, entre autre, a un vrai problème d&amp;#8217;accessibilité de ces plate-formes. Il faut installer un client lourd, s&amp;#8217;enregister, apprendre à se déplacer en 3D, retrouver ses amis etc etc&amp;#8230; En un mot c&amp;#8217;est dur, trop compliqué pour le visiteur lambda qui cherche juste à visiter une expo, assister à un spectacle et pas à devenir le builder qui va révolutionner le metavers.</description>
+      <description>Les mondes virtuels n’ont pas eu le succès attendu. C’est un fait. Nous sommes beaucoup à penser que cela est du, entre autre, a un vrai problème d’accessibilité de ces plate-formes. Il faut installer un client lourd, s’enregister, apprendre à se déplacer en 3D, retrouver ses amis etc etc… En un mot c’est dur, trop compliqué pour le visiteur lambda qui cherche juste à visiter une expo, assister à un spectacle et pas à devenir le builder qui va révolutionner le metavers.</description>
     </item>
     
   </channel>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Minecraft on /AngeZanetti.com</title>
@@ -7,21 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 29 Dec 2011 11:55:23 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/minecraft/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 29 Dec 2011 11:55:23 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/minecraft/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Une adaptation de Minecraft en WebGL</title>
       <link>https://angezanetti.com/minecraft-webgl-mondesvirtuels/</link>
       <pubDate>Thu, 29 Dec 2011 11:55:23 +0000</pubDate>
       
       <guid>https://angezanetti.com/minecraft-webgl-mondesvirtuels/</guid>
-      <description>source de l&#39;image : http://www.next-nintendo.com/  &amp;nbsp;
-Je ne sais pas si vous connaissez MineCraft, c&amp;#8217;est un monde virtuel assez basique qui permet de créer des univers délirants avec de gros cube pixélisés.
+      <description>Je ne sais pas si vous connaissez MineCraft, c’est un monde virtuel assez basique qui permet de créer des univers délirants avec de gros cube pixélisés.
 Alors bien sur dit comme ça cela ne fait pas trop envie mais vraiment Minecraft est devenu devenu un véritable phénomène de société.
- &amp;#8220;[…]Minecraft est un chef d&amp;#8217;œuvre de minimalisme qui rejette l&amp;#8217;artifice pour se concentrer sur l&amp;#8217;essentiel, c&amp;#8217;est-à-dire les mécanismes de pure gameplay.</description>
+ “[…]Minecraft est un chef d’œuvre de minimalisme qui rejette l’artifice pour se concentrer sur l’essentiel, c’est-à-dire les mécanismes de pure gameplay.</description>
     </item>
     
   </channel>

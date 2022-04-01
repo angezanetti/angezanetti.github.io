@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conférences on /AngeZanetti.com</title>
@@ -7,20 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 11 Jul 2014 11:45:25 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/conf%C3%A9rences/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 11 Jul 2014 11:45:25 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/conf%C3%A9rences/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ce que change vraiment Internet</title>
       <link>https://angezanetti.com/la-revolution-internet/</link>
       <pubDate>Fri, 11 Jul 2014 11:45:25 +0000</pubDate>
       
       <guid>https://angezanetti.com/la-revolution-internet/</guid>
-      <description>Sur ce blog je parle beaucoup de révolution des méthodes de travail, et même plus généralement de la &amp;#8220;révolution Internet&amp;#8221;
-Les impacts sur notre société de l&amp;#8217;arrivée d&amp;#8217;internet sont nombreux. A tel que c&amp;#8217;est complexe à expliquer à un novice. Surtout en 15min.
-Mais ce n&amp;#8217;est pas le cas de ce TED talk de Joi Ito, en moins de 20 minutes il explique brillamment quel bouleversement énorme est entrain de se produire et pouruoi nous devons laisser tomber nos veilles méthodes &amp;#8220;B.</description>
+      <description>Sur ce blog je parle beaucoup de révolution des méthodes de travail, et même plus généralement de la “révolution Internet”
+Les impacts sur notre société de l’arrivée d’internet sont nombreux. A tel que c’est complexe à expliquer à un novice. Surtout en 15min.
+Mais ce n’est pas le cas de ce TED talk de Joi Ito, en moins de 20 minutes il explique brillamment quel bouleversement énorme est entrain de se produire et pouruoi nous devons laisser tomber nos veilles méthodes “B.</description>
     </item>
     
     <item>
@@ -29,9 +25,9 @@ Mais ce n&amp;#8217;est pas le cas de ce TED talk de Joi Ito, en moins de 20 min
       <pubDate>Tue, 12 Jun 2012 10:07:48 +0000</pubDate>
       
       <guid>https://angezanetti.com/immersive-labs-amphi-b-solution-3d-conferences-mondesvirtuels/</guid>
-      <description>La semaine dernière ImmersiveLabs, l&amp;#8217;entreprise béarnaise spécialisée dans les mondes virtuels et dirigée par @davidcastera, à lancé Amphi-B.
+      <description>La semaine dernière ImmersiveLabs, l’entreprise béarnaise spécialisée dans les mondes virtuels et dirigée par @davidcastera, à lancé Amphi-B.
 Amphi-B est une solution immersive basée sur Unity3d qui permet de louer des espaces virtuels pour organiser des conférences à distance.
-Comme vous pouvez le voir sur la photo ci dessus, l&amp;#8217;interface est minimaliste assez simple à comprendre et se résume à un chat, une liste des connectés et quelques paramètres. La navigation se fait au clavier uniquement avec les touches directionnelles et l&amp;#8217;environnement embarque également la VoIP.</description>
+Comme vous pouvez le voir sur la photo ci dessus, l’interface est minimaliste assez simple à comprendre et se résume à un chat, une liste des connectés et quelques paramètres. La navigation se fait au clavier uniquement avec les touches directionnelles et l’environnement embarque également la VoIP.</description>
     </item>
     
     <item>
@@ -40,8 +36,8 @@ Comme vous pouvez le voir sur la photo ci dessus, l&amp;#8217;interface est mini
       <pubDate>Sun, 19 Jun 2011 15:32:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/la-biblio-propose-la-web-3d-art-exhibition-a-la-16eme-conference-acm-web3d/</guid>
-      <description>Du 20 au 22 Juin prochain se tiendra à Paris la 16ème conférence annuelle ACM Web3D. Cette conférence va présenter des intervenants qui pensent et partagent l&amp;#8217;amélioration du Weben trois dimensions. On y parlera de WebGL, de X3D, d&amp;#8217;interface immersive, de seriousgame etc.
-Mais on y parlera aussi art contemporain, et c&amp;#8217;est la Bibliothèque Francophone qui organise cet aspect de la manifestation. Je serais donc dès demain, avec Audrey et Roger à Paris pour mettre en place la technique pour le Web3D Art exhibition.</description>
+      <description>Du 20 au 22 Juin prochain se tiendra à Paris la 16ème conférence annuelle ACM Web3D. Cette conférence va présenter des intervenants qui pensent et partagent l’amélioration du Weben trois dimensions. On y parlera de WebGL, de X3D, d’interface immersive, de seriousgame etc.
+Mais on y parlera aussi art contemporain, et c’est la Bibliothèque Francophone qui organise cet aspect de la manifestation. Je serais donc dès demain, avec Audrey et Roger à Paris pour mettre en place la technique pour le Web3D Art exhibition.</description>
     </item>
     
     <item>
@@ -51,12 +47,9 @@ Mais on y parlera aussi art contemporain, et c&amp;#8217;est la Bibliothèque Fr
       
       <guid>https://angezanetti.com/virtual-world-conference/</guid>
       <description>&lt;p&gt;Le 15 Septembre 2010 aura lieu un évenement qui est une première mondiale il me sembe : la Virtual World Conference. Le programme est dispo sur le site web dédié &lt;a href=&#34;http://thevirtualworldconference.org/&#34;&gt;http://thevirtualworldconference.org/&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;24h de conférence non stop sur les univers virtuels et leur utilisation en entreprise et dans le domaine de la formation. De nombreux speakers seront présents, venant de tout autour du globe. C&amp;#8217;est d&amp;#8217;ailleurs pour cela que cet évenement est sur 24h je présume, histoire de pouvoir faire intervenir aussi bien ceux qui habitent a Sydney, Paris ou San Francisco. Je ne vais pas vous faire la liste des speakers, elle est longue, mais je peux vous dire qu&amp;#8217;il y a de tout : des entrepreneurs, des chercheurs, des profs etc&amp;#8230;&lt;/p&gt;
-
+&lt;p&gt;24h de conférence non stop sur les univers virtuels et leur utilisation en entreprise et dans le domaine de la formation. De nombreux speakers seront présents, venant de tout autour du globe. C’est d’ailleurs pour cela que cet évenement est sur 24h je présume, histoire de pouvoir faire intervenir aussi bien ceux qui habitent a Sydney, Paris ou San Francisco. Je ne vais pas vous faire la liste des speakers, elle est longue, mais je peux vous dire qu’il y a de tout : des entrepreneurs, des chercheurs, des profs etc…&lt;/p&gt;
 &lt;p&gt;Beaucoup de choses intéressantes, le tout condensé, cela promet :)&lt;/p&gt;
-
-&lt;p&gt;J&amp;#8217;espère qu&amp;#8217;il y aura des retransmissions de prévues car j&amp;#8217;ai bien peur de ne pas de tenir les 24 heures non stop !&lt;/p&gt;</description>
+&lt;p&gt;J’espère qu’il y aura des retransmissions de prévues car j’ai bien peur de ne pas de tenir les 24 heures non stop !&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -65,7 +58,7 @@ Mais on y parlera aussi art contemporain, et c&amp;#8217;est la Bibliothèque Fr
       <pubDate>Mon, 07 Jun 2010 08:59:02 +0000</pubDate>
       
       <guid>https://angezanetti.com/bibliotheque-francophone-bbf/</guid>
-      <description>&lt;p&gt;Pour fêter la sortie du n° 3, 2010 du &lt;em&gt;BBF&lt;/em&gt; consacré au &lt;strong&gt;concept de collection&lt;/strong&gt; (&lt;a href=&#34;http://bbf.enssib.fr/sommaire/2010/3&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://bbf.enssib.fr/sommaire/2010/3&#34;&gt;http://bbf.enssib.fr/sommaire/2010/3&lt;/a&gt;&lt;/a&gt;), la revue organise une conférence sur &amp;#8220;Second Life&amp;#8221;. Le Bulletin des Bibliothèques de France est le fruit d&amp;#8217;un travail collaboratif de la communauté des bibliothécaires et un périodique de référence. Vous pourrez donc jeudi découvrir sa genèse et son histoire, ainsi que débattre et échanger sur le contenu &lt;a href=&#34;http://bbf.enssib.fr/sommaire/2010/3&#34;&gt;du dernier numéro consacré au concept de collection&lt;/a&gt;. Nous aurons le plaisir de recevoir le rédacteur en chef Yves Desrichard qui se lance dans l&amp;#8217;expérience tridimensionnelle avec nous.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Pour fêter la sortie du n° 3, 2010 du &lt;em&gt;BBF&lt;/em&gt; consacré au &lt;strong&gt;concept de collection&lt;/strong&gt; (&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;http://bbf.enssib.fr/sommaire/2010/3&#34;&gt;http://bbf.enssib.fr/sommaire/2010/3&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;), la revue organise une conférence sur “Second Life”. Le Bulletin des Bibliothèques de France est le fruit d’un travail collaboratif de la communauté des bibliothécaires et un périodique de référence. Vous pourrez donc jeudi découvrir sa genèse et son histoire, ainsi que débattre et échanger sur le contenu &lt;a href=&#34;http://bbf.enssib.fr/sommaire/2010/3&#34;&gt;du dernier numéro consacré au concept de collection&lt;/a&gt;. Nous aurons le plaisir de recevoir le rédacteur en chef Yves Desrichard qui se lance dans l’expérience tridimensionnelle avec nous.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -74,11 +67,9 @@ Mais on y parlera aussi art contemporain, et c&amp;#8217;est la Bibliothèque Fr
       <pubDate>Sat, 15 May 2010 09:39:17 +0000</pubDate>
       
       <guid>https://angezanetti.com/journee-numerique-paris-descartes-realite-mixt/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://i0.wp.com/3.bp.blogspot.com/_iEl8M6gISVA/S-gsdXI70oI/AAAAAAAAEvw/KSAClX-bo3U/s1600/jnumcamp.png&#34; onblur=&#34;try {parent.deselectBloggerImageGracefully();} catch(e) {}&#34;&gt;&lt;img id=&#34;BLOGGER_PHOTO_ID_5469670630380786306&#34; class=&#34;alignleft&#34; style=&#34;border: 0pt none;&#34; src=&#34;https://i2.wp.com/3.bp.blogspot.com/_iEl8M6gISVA/S-gsdXI70oI/AAAAAAAAEvw/KSAClX-bo3U/s400/jnumcamp.png?resize=150%2C213&#34; border=&#34;0&#34; alt=&#34;&#34; width=&#34;150&#34; height=&#34;213&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;/a&gt;Pour la troisième année la &lt;a title=&#34;Bibliotheque Francophone du metavers&#34; href=&#34;http://www.bibliotheque-francophone.org/&#34; target=&#34;_blank&#34;&gt;bibliothèque francophone du metavers&lt;/a&gt; est partenaire des &lt;a href=&#34;http://jnum10.parisdescartes.fr/&#34;&gt;Journées Numériques&lt;/a&gt; qui se tiendront les 17 et 18 mai 2010 à l&amp;#8217;université paris-Descartes.&lt;/p&gt;
-
-&lt;p&gt;Nous vous proposons un barcamp en réalité mixte dans la lignée de celui que nous avons organisé avec le &lt;a href=&#34;http://metalab3d.blogspot.com/2010/02/virtual-world-camp-paris-capitalisation.html&#34;&gt;Metalab et la Cantine pour le Virtual World Camp&lt;/a&gt; : une table, des personnes physiquement présentes et d&amp;#8217;autres incarnées en monde virtuel participant à une rencontre publique et ouverte à tous autour du thème &amp;#8220;Enseignement et nouveaux environnements immersifs&amp;#8221;.&lt;/p&gt;
-
-&lt;p&gt;C&amp;#8217;est ouvert à tous et gratuit.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Pour la troisième année la &lt;!-- raw HTML omitted --&gt;bibliothèque francophone du metavers&lt;!-- raw HTML omitted --&gt; est partenaire des &lt;a href=&#34;http://jnum10.parisdescartes.fr/&#34;&gt;Journées Numériques&lt;/a&gt; qui se tiendront les 17 et 18 mai 2010 à l’université paris-Descartes.&lt;/p&gt;
+&lt;p&gt;Nous vous proposons un barcamp en réalité mixte dans la lignée de celui que nous avons organisé avec le &lt;a href=&#34;http://metalab3d.blogspot.com/2010/02/virtual-world-camp-paris-capitalisation.html&#34;&gt;Metalab et la Cantine pour le Virtual World Camp&lt;/a&gt; : une table, des personnes physiquement présentes et d’autres incarnées en monde virtuel participant à une rencontre publique et ouverte à tous autour du thème “Enseignement et nouveaux environnements immersifs”.&lt;/p&gt;
+&lt;p&gt;C’est ouvert à tous et gratuit.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -87,7 +78,7 @@ Mais on y parlera aussi art contemporain, et c&amp;#8217;est la Bibliothèque Fr
       <pubDate>Thu, 17 Dec 2009 09:37:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/tao-vacano-nous-presente-les-fonds-marseillais/</guid>
-      <description>Tao Vacano nous présentera demain Vendredi 18 décembre une reconstitution de l&amp;#8217;île du Planier dans Francogrid. Il en profitera pour faire une présentation d&amp;#8217;une plante méconnue et pourtant oh combien importante dans l&amp;#8217;écosystème méditerranéen : la posidonie. En cette période du sommet de Copenhague, savoir comment fonctionne le poumon de la Méditerrennée me parait important.
+      <description>Tao Vacano nous présentera demain Vendredi 18 décembre une reconstitution de l’île du Planier dans Francogrid. Il en profitera pour faire une présentation d’une plante méconnue et pourtant oh combien importante dans l’écosystème méditerranéen : la posidonie. En cette période du sommet de Copenhague, savoir comment fonctionne le poumon de la Méditerrennée me parait important.
 Ensuite Tao vous fera visiter une épave célèbre de tous les Marseillais : la chaouen !</description>
     </item>
     
@@ -97,9 +88,7 @@ Ensuite Tao vous fera visiter une épave célèbre de tous les Marseillais : la 
       <pubDate>Sun, 13 Sep 2009 09:03:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/hubert-reeves-ne-sera-pas-en-direct-de-la-biblio/</guid>
-      <description>Suite à un événement indépendant de la volonté de l&amp;#8217;équipe de la biblio cette conférence sera annulée&amp;#8230; J&amp;#8217;espère que vous conserverez malgré tout la confiance et le soutien que vous nous avez toujours manifesté.&amp;#8221;  Plus d&amp;#8217;info sur le blog de la biblio
-
-On ne présente plus Hubert Reeves, astrophysicien canadien mais aussi humaniste et vulgarisateur hors pair. Nous préférons vous renvoyer à  son article sur Wikipédia pour découvrir sa biographie, bibliographie et filmographie.</description>
+      <description>Plus d’info surle blog de la biblio</description>
     </item>
     
     <item>
@@ -108,7 +97,7 @@ On ne présente plus Hubert Reeves, astrophysicien canadien mais aussi humaniste
       <pubDate>Thu, 10 Sep 2009 13:50:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/le-1er-virtual-world-camp-se-tiendra-le-10-11-octobre-2009/</guid>
-      <description>Le Virtual Worlds Camp est un évènement basé sur le système du BarCamp mais qui se déroule dans un univers virtuel (ici, il s’agit de plusieurs mondes virtuels basés sur OpenSim). C’est à dire que cette « non-conférence » n’a pas de sujet pré-défini. Chaque participant peut, si il le souhaite, apporter un thème de discutions le jour J.    Comment ca marche ?  Pour rejoindre ce premier Virtual Worlds Camp, vous devez, au minimum, vous inscrire sur un des mondes virtuels participant afin de nous rejoindre le jour J.</description>
+      <description></description>
     </item>
     
     <item>
@@ -117,8 +106,7 @@ On ne présente plus Hubert Reeves, astrophysicien canadien mais aussi humaniste
       <pubDate>Tue, 28 Apr 2009 08:56:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/les-education-days-sur-orange-island/</guid>
-      <description>Aujourd&amp;#8217;hui et demain aura lieu sur Orange Island les Educations days: 2 jours de conférences sur le thème de l&amp;#8217;éducation dans les mondes virtuels. Encore une fois, et c&amp;#8217;est le choix d&amp;#8217;Orange, les horaires sont plutôt orientés USA mais les intervenants sont de qualité, je pense que cela vaut le coup de rester éveillé.
-&amp;lt;p&amp;gt; Voici le programme avec les &amp;lt;span style=&amp;quot;font-weight: bold;&amp;quot;&amp;gt;heures françaises&amp;lt;/span&amp;gt; : &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;b&amp;gt;&amp;lt;u&amp;gt;Mardi 28 Avril 2009 : &amp;lt;/u&amp;gt;&amp;lt;/b&amp;gt; &amp;lt;/p&amp;gt;</description>
+      <description>&amp;lt;p&amp;gt; Voici le programme avec les &amp;lt;span style=&amp;quot;font-weight: bold;&amp;quot;&amp;gt;heures françaises&amp;lt;/span&amp;gt; : &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;b&amp;gt;&amp;lt;u&amp;gt;Mardi 28 Avril 2009 : &amp;lt;/u&amp;gt;&amp;lt;/b&amp;gt; &amp;lt;/p&amp;gt;  &amp;lt;p&amp;gt; &amp;lt;/span&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p style=&amp;quot;text-align: justify;&amp;quot;&amp;gt; &amp;lt;span style=&amp;quot;font-family:sans-serif;&amp;quot;&amp;gt;&amp;lt;u&amp;gt;&amp;lt;span style=&amp;quot;font-weight: bold;&amp;quot;&amp;gt;Mercredi 29 Avril 2009 :&amp;lt;/span&amp;gt;&amp;lt;/u&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p style=&amp;quot;text-align: justify;&amp;quot;&amp;gt; &amp;lt;span style=&amp;quot;font-family:sans-serif;&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;20.00 : &amp;lt;/strong&amp;gt;&amp;lt;strong&amp;gt;How to integrate virtual courses into a university program&amp;lt;/strong&amp;gt; (part 1)&amp;lt;br /&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;font-family:sans-serif;&amp;quot;&amp;gt;Intervenants &amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;font-family:sans-serif;&amp;quot;&amp;gt;: Horace Moody (Drexel University), Hiro Sheridan (Oral Roberts University, Oklahoma)&amp;lt;strong&amp;gt;&amp;lt;br /&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/span&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;div style=&amp;quot;text-align: justify;&amp;quot;&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;p style=&amp;quot;text-align: justify;&amp;quot;&amp;gt; &amp;lt;span style=&amp;quot;font-family:sans-serif;&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;21.</description>
     </item>
     
   </channel>

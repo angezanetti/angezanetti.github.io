@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MondesVirtuels on /AngeZanetti.com</title>
@@ -7,19 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 29 Apr 2013 11:03:44 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/mondesvirtuels/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 29 Apr 2013 11:03:44 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/mondesvirtuels/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cloud Party, maintenant avec un moteur physique et une vraie API</title>
       <link>https://angezanetti.com/cloud-party-maintenant-avec-un-moteur-physique-et-une-vraie-api/</link>
       <pubDate>Mon, 29 Apr 2013 11:03:44 +0000</pubDate>
       
       <guid>https://angezanetti.com/cloud-party-maintenant-avec-un-moteur-physique-et-une-vraie-api/</guid>
-      <description>Cela fait longtemps que je n&amp;#8217;était pas retourné sur Cloud Party, le clone en WebGL de SecondLife. Depuis son lancement en fait, en Juin 2012.
-A l&amp;#8217;époque j&amp;#8217;avais été bluffé par la techno mais le monde était vide et il n&amp;#8217;y avait pas de possibilité de scripter vraiment ni de vendre ses créations. Depuis beaucoup de choses ont changées. C&amp;#8217;est d&amp;#8217;ailleurs une news qui m&amp;#8217;a fait revenir dans ce monde virtuel.</description>
+      <description>Cela fait longtemps que je n’était pas retourné sur Cloud Party, le clone en WebGLde SecondLife. Depuis son lancement en fait, en Juin 2012.
+A l’époque j’avais été bluffé par la techno mais le monde était vide et il n’y avait pas de possibilité de scripter vraiment ni de vendre ses créations. Depuis beaucoup de choses ont changées. C’est d’ailleurs une news qui m’a fait revenir dans ce monde virtuel.</description>
     </item>
     
     <item>
@@ -28,9 +24,8 @@ A l&amp;#8217;époque j&amp;#8217;avais été bluffé par la techno mais le mond
       <pubDate>Fri, 23 Nov 2012 10:25:45 +0000</pubDate>
       
       <guid>https://angezanetti.com/realxtend-meshmoon-mondes-virtuels-virtual-worlds-hebergment/</guid>
-      <description>&amp;nbsp;
-Cela fait des années que je suis de près le projet Realxtend. Ils ont toujours eu un positionnement orienté entreprise, ils ont depuis longtemps abandonné beaucoup de ce que je reproche à Second Life ou OpenSim, et je ne parle pas QUE du LSL :) !
-Mais ces choix technologiques ont eu des conséquences assez terribles : ils se sont dissociés de la communauté OpenSim, ils se sont d&amp;#8217;abord orientés sur une techno 100% windows et la prise en main de leur solution 3D est un peu plus hardue que celle d&amp;#8217;une sim classique.</description>
+      <description>Cela fait des années que je suis de près le projet Realxtend. Ils ont toujours eu un positionnement orienté entreprise, ils ont depuis longtemps abandonné beaucoup de ce que je reproche à Second Life ou OpenSim, et je ne parle pas QUE du LSL :) !
+Mais ces choix technologiques ont eu des conséquences assez terribles : ils se sont dissociés de la communauté OpenSim, ils se sont d’abord orientés sur une techno 100% windows et la prise en main de leur solution 3D est un peu plus hardue que celle d’une sim classique.</description>
     </item>
     
     <item>
@@ -39,9 +34,9 @@ Mais ces choix technologiques ont eu des conséquences assez terribles : ils se 
       <pubDate>Tue, 18 Sep 2012 09:55:55 +0000</pubDate>
       
       <guid>https://angezanetti.com/kinetre-un-projet-kinect-pour-animer-facilement-les-objets/</guid>
-      <description>J&amp;#8217;ai vu passer il y a quelques jours une news intéressante pour ceux qui aiment, comme moi, le Kinect.
-Microsoft research lab a sorti une techno capable de mapper les mouvement du corps que n&amp;#8217;importe quel objet de scène 3D. Le but étant de faciliter la création d&amp;#8217;animation 3D.
-Avec cette technique il suffit de scanner l&amp;#8217;objet que vous voulez animer, et, une fois votre corps reconnu, de bouger pour faire s&amp;#8217;animer l&amp;#8217;objet.</description>
+      <description>J’ai vu passer il y a quelques jours une news intéressante pour ceux qui aiment, comme moi, le Kinect.
+Microsoft research lab a sorti une techno capable de mapper les mouvement du corps que n’importe quel objet de scène 3D. Le but étant de faciliter la création d’animation 3D.
+Avec cette technique il suffit de scanner l’objet que vous voulez animer, et, une fois votre corps reconnu, de bouger pour faire s’animer l’objet.</description>
     </item>
     
     <item>
@@ -50,7 +45,7 @@ Avec cette technique il suffit de scanner l&amp;#8217;objet que vous voulez anim
       <pubDate>Tue, 10 Jul 2012 13:14:34 +0000</pubDate>
       
       <guid>https://angezanetti.com/aushopping-centre-commercial-monde-virtuel-immersif/</guid>
-      <description>Je vous avais parlé d&amp;#8217;Aushopping il y a un an et demi sur ce blog. A l&amp;#8217;époque j&amp;#8217;avais expliqué pourquoi, à mon avis, ce monde ne toucherait pas sa cible. Depuis de nombreuses modifications ont été apportées et la plateforme est passée en beta publique il y a quelques semaines. L&amp;#8217;occasion pour moi de faire un point et de vous donner mon avis sur ce monde virtuel qui, décidément, a du mal à sortir du cycle des bêtas.</description>
+      <description>Je vous avais parlé d’Aushopping il y a un an et demi sur ce blog. A l’époque j’avais expliqué pourquoi, à mon avis, ce monde ne toucherait pas sa cible. Depuis de nombreuses modifications ont été apportées et la plateforme est passée en beta publique il y a quelques semaines. L’occasion pour moi de faire un point et de vous donner mon avis sur ce monde virtuel qui, décidément, a du mal à sortir du cycle des bêtas.</description>
     </item>
     
     <item>
@@ -59,8 +54,8 @@ Avec cette technique il suffit de scanner l&amp;#8217;objet que vous voulez anim
       <pubDate>Tue, 19 Jun 2012 18:24:45 +0000</pubDate>
       
       <guid>https://angezanetti.com/cloudparty-secondlife-like-navigateur-webgl-facebook/</guid>
-      <description>Alors que Second Life est dans un pente descendante depuis plusieurs mois un ancien Linden vient de sortir une application Facebook qui risque bien d&amp;#8217;accélérer sa chute.
-Cloud Party, c&amp;#8217;est le nom de la fameuse appli à été créee par Cory Ondrejka (co-fondateur de Second Life) et Bruce Rogers l&amp;#8217;ancien CTO de Cryptic Studio. Honnêtement j&amp;#8217;y suis allé sans vraiment m&amp;#8217;attendre à trouver le Saint Graal. D&amp;#8217;autant plus que je devais me logger via Facebook&amp;#8230;</description>
+      <description>Alors que Second Life est dans un pente descendante depuis plusieurs mois un ancien Linden vient de sortir une application Facebook qui risque bien d’accélérer sa chute.
+Cloud Party, c’est le nom de la fameuse appli à été créee par Cory Ondrejka (co-fondateur de Second Life) et Bruce Rogers l’ancien CTO de Cryptic Studio. Honnêtement j’y suis allé sans vraiment m’attendre à trouver le Saint Graal. D’autant plus que je devais me logger via Facebook…</description>
     </item>
     
     <item>
@@ -69,9 +64,9 @@ Cloud Party, c&amp;#8217;est le nom de la fameuse appli à été créee par Cor
       <pubDate>Tue, 19 Jun 2012 07:00:39 +0000</pubDate>
       
       <guid>https://angezanetti.com/unity3d-arrive-sous-linux/</guid>
-      <description>Si vous suivez ce blog vous connaissez probablement Unity3D. Ce moteur de jeu est de plus en plus populaire et, sa volonté d&amp;#8217;être présent sur tous les supports est une des clés de son succès. On peut en effet jouer à des jeux unity dans son navigateur, sur son téléphone, sa console ou encore avec sa tablette.
+      <description>Si vous suivez ce blog vous connaissez probablement Unity3D. Ce moteur de jeu est de plus en plus populaire et, sa volonté d’être présent sur tous les supports est une des clés de son succès. On peut en effet jouer à des jeux unity dans son navigateur, sur son téléphone, sa console ou encore avec sa tablette.
 Mais, ombre au tableau, pas sous un PC tournant sous Linux !
-Avec la nouvelle mouture d&amp;#8217;Unity 4.</description>
+Avec la nouvelle mouture d’Unity 4.</description>
     </item>
     
     <item>
@@ -80,9 +75,9 @@ Avec la nouvelle mouture d&amp;#8217;Unity 4.</description>
       <pubDate>Tue, 12 Jun 2012 10:07:48 +0000</pubDate>
       
       <guid>https://angezanetti.com/immersive-labs-amphi-b-solution-3d-conferences-mondesvirtuels/</guid>
-      <description>La semaine dernière ImmersiveLabs, l&amp;#8217;entreprise béarnaise spécialisée dans les mondes virtuels et dirigée par @davidcastera, à lancé Amphi-B.
+      <description>La semaine dernière ImmersiveLabs, l’entreprise béarnaise spécialisée dans les mondes virtuels et dirigée par @davidcastera, à lancé Amphi-B.
 Amphi-B est une solution immersive basée sur Unity3d qui permet de louer des espaces virtuels pour organiser des conférences à distance.
-Comme vous pouvez le voir sur la photo ci dessus, l&amp;#8217;interface est minimaliste assez simple à comprendre et se résume à un chat, une liste des connectés et quelques paramètres. La navigation se fait au clavier uniquement avec les touches directionnelles et l&amp;#8217;environnement embarque également la VoIP.</description>
+Comme vous pouvez le voir sur la photo ci dessus, l’interface est minimaliste assez simple à comprendre et se résume à un chat, une liste des connectés et quelques paramètres. La navigation se fait au clavier uniquement avec les touches directionnelles et l’environnement embarque également la VoIP.</description>
     </item>
     
     <item>
@@ -91,8 +86,8 @@ Comme vous pouvez le voir sur la photo ci dessus, l&amp;#8217;interface est mini
       <pubDate>Fri, 17 Feb 2012 11:28:26 +0000</pubDate>
       
       <guid>https://angezanetti.com/nantes-1757-realxtend-ensad-histoire-mondes-virtuels/</guid>
-      <description>L&amp;#8217;ENSAD et plus spécifiquement l&amp;#8217;EN_ER &amp;#8211; Programme de recherche Espace Numérique – Extension du Réel &amp;#8211; dirigé par François Garnier vient de sortir un univers 3D qui sert d&amp;#8217;espace de collaboration mais aussi de base documentaire. Le tout sur le thème du 18ème sciècle, vous l&amp;#8217;aurez compris.
-D&amp;#8217;un point de vue technique, la plateforme tourne sur un serveur RealXtend &amp;#8211; d&amp;#8217;ailleurs l&amp;#8217;ENSAD doit être le seul acteur français vraiment au point sur cette techno.</description>
+      <description>L’ENSAD et plus spécifiquement l’EN_ER – Programme de recherche Espace Numérique – Extension du Réel – dirigé par François Garnier vient de sortir un univers 3D qui sert d’espace de collaboration mais aussi de base documentaire. Le tout sur le thème du 18ème sciècle, vous l’aurez compris.
+D’un point de vue technique, la plateforme tourne sur un serveur RealXtend – d’ailleurs l’ENSAD doit être le seul acteur français vraiment au point sur cette techno.</description>
     </item>
     
     <item>
@@ -101,10 +96,9 @@ D&amp;#8217;un point de vue technique, la plateforme tourne sur un serveur RealX
       <pubDate>Thu, 29 Dec 2011 11:55:23 +0000</pubDate>
       
       <guid>https://angezanetti.com/minecraft-webgl-mondesvirtuels/</guid>
-      <description>source de l&#39;image : http://www.next-nintendo.com/  &amp;nbsp;
-Je ne sais pas si vous connaissez MineCraft, c&amp;#8217;est un monde virtuel assez basique qui permet de créer des univers délirants avec de gros cube pixélisés.
+      <description>Je ne sais pas si vous connaissez MineCraft, c’est un monde virtuel assez basique qui permet de créer des univers délirants avec de gros cube pixélisés.
 Alors bien sur dit comme ça cela ne fait pas trop envie mais vraiment Minecraft est devenu devenu un véritable phénomène de société.
- &amp;#8220;[…]Minecraft est un chef d&amp;#8217;œuvre de minimalisme qui rejette l&amp;#8217;artifice pour se concentrer sur l&amp;#8217;essentiel, c&amp;#8217;est-à-dire les mécanismes de pure gameplay.</description>
+ “[…]Minecraft est un chef d’œuvre de minimalisme qui rejette l’artifice pour se concentrer sur l’essentiel, c’est-à-dire les mécanismes de pure gameplay.</description>
     </item>
     
     <item>
@@ -113,9 +107,8 @@ Alors bien sur dit comme ça cela ne fait pas trop envie mais vraiment Minecraft
       <pubDate>Fri, 02 Dec 2011 08:50:39 +0000</pubDate>
       
       <guid>https://angezanetti.com/unity-webgl-html5/</guid>
-      <description>&amp;nbsp;
-J&amp;#8217;ai lu une news sur Gamasutra hier qui &amp;#8216;ma fiat bondir de mon siège &amp;#8211; ou presque. Unity technologies annonce qu&amp;#8217;il supportera probablement HTML5 dès que cette technologie &amp;#8220;sera prête pour le gaming&amp;#8221;.
-Le CEO, David Helgason explique que le moteur HTML5 est très bien pour faire de la datavisualisation par exemple mais que cette techno n&amp;#8217;est pas encore mûre pour faire du jeu. D&amp;#8217;après lui celui va changer avec le temps et Unity surveille de près ces changements pour pouvoir proposer une compatibilité rapidement.</description>
+      <description>J’ai lu une news sur Gamasutrahier qui ‘ma fiat bondir de mon siège – ou presque. Unity technologies annonce qu’il supportera probablement HTML5 dès que cette technologie “sera prête pour le gaming”.
+Le CEO, David Helgason explique que le moteur HTML5 est très bien pour faire de la datavisualisation par exemple mais que cette techno n’est pas encore mûre pour faire du jeu. D’après lui celui va changer avec le temps et Unity surveille de près ces changements pour pouvoir proposer une compatibilité rapidement.</description>
     </item>
     
   </channel>

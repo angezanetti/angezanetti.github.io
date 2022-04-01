@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jobs on /AngeZanetti.com</title>
@@ -7,22 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 22 Oct 2020 12:41:26 -0400</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/jobs/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>6 Projects in 6 Months Challenge</title>
-      <link>https://angezanetti.com/posts/6-projects-6-months-challenge/</link>
-      <pubDate>Thu, 22 Oct 2020 12:41:26 -0400</pubDate>
-      
-      <guid>https://angezanetti.com/posts/6-projects-6-months-challenge/</guid>
-      <description>I spent the last 10+yrs to code, and the last 4yrs in the startup ecosystem. During all that time I was focus on the product more than anything else. I need a change. I want to learn the other parts of building a product and I want something challenging!
-So I decided to (try to) launch 6 products in the next 6 months!
-I want to remove my developer bias As a coder, you always want to build stuff.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 30 Oct 2019 20:26:36 -0400</lastBuildDate><atom:link href="https://angezanetti.com/tags/jobs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New project: Logology</title>
       <link>https://angezanetti.com/posts/logology-meaningful-logos-for-startups/</link>
@@ -61,8 +46,8 @@ You don’t need to be a geek/nerd/hero or whatever to be a developer  No you do
       <pubDate>Mon, 27 Apr 2015 12:13:51 +0000</pubDate>
       
       <guid>https://angezanetti.com/fuite-memoire-curl-php-red-hat-nss/</guid>
-      <description>Depuis plusieurs mois je travaille pour une startup qui fait de la lutte contre la fraude. En deux mots, les clients nous envoient des flux XML et nous leur renvoyons note correspondant à l&amp;#8217;indice de confiance de la transaction.
-Et, début Janvier nous avons intégré un GROS client. Du genre à faire pâlir les sysadmin. Cela nous à forcer à reconstruire une partie du code, à revoir l&amp;#8217;architecture de l&amp;#8217;application (qui est au passage devenue une application symfony2).</description>
+      <description>Depuis plusieurs mois je travaille pour une startupqui fait de la lutte contre la fraude. En deux mots, les clients nous envoient des flux XML et nous leur renvoyons note correspondant à l’indice de confiance de la transaction.
+Et, début Janvier nous avons intégré un GROS client. Du genre à faire pâlir les sysadmin. Cela nous à forcer à reconstruire une partie du code, à revoir l’architecture de l’application (qui est au passage devenue une application symfony2).</description>
     </item>
     
     <item>
@@ -71,10 +56,10 @@ Et, début Janvier nous avons intégré un GROS client. Du genre à faire pâlir
       <pubDate>Mon, 28 Jul 2014 12:08:58 +0000</pubDate>
       
       <guid>https://angezanetti.com/comment-produire-code-qualite-methodes-travail-developpeur/</guid>
-      <description>C&amp;#8217;est une question qui m&amp;#8217;a été posée en entretien d&amp;#8217;embauche il y a peu de temps:
- &amp;#8220;Comment un autodidacte comme vous peut-il être sur que son code est de bonne qualité?&amp;#8221;
- Ça peut paraître une question naïve, surtout venant d&amp;#8217;un RH, mais ça me fait pas mal cogiter depuis, au delà de la technique.
-Pendant l&amp;#8217;entretien j&amp;#8217;ai répondu un truc bâteau, qui a d&amp;#8217;ailleurs eu l&amp;#8217;air de lui plaire, mais il me semble que cette question de comment je produit du code et pourquoi il est bon ou mauvais mérite bien un petit article.</description>
+      <description>C’est une question qui m’a été posée en entretien d’embauche il y a peu de temps:
+ “Comment un autodidacte comme vous peut-il être sur que son code est de bonne qualité?”
+ Ça peut paraître une question naïve, surtout venant d’un RH, mais ça me fait pas mal cogiter depuis, au delà de la technique.
+Pendant l’entretien j’ai répondu un truc bâteau, qui a d’ailleurs eu l’air de lui plaire, mais il me semble que cette question de comment je produit du code et pourquoi il est bon ou mauvais mérite bien un petitarticle.</description>
     </item>
     
     <item>
@@ -83,10 +68,10 @@ Pendant l&amp;#8217;entretien j&amp;#8217;ai répondu un truc bâteau, qui a d&a
       <pubDate>Thu, 06 Mar 2014 13:08:19 +0000</pubDate>
       
       <guid>https://angezanetti.com/silex-framework-minimaliste-php-symfony/</guid>
-      <description>Silex est un micro framework édité par SensioLabs, la société qui édite le fameux framework Symfony.
-Un micro Framework Silex est micro, vraiment micro. Même l&amp;#8217;installation tiens en deux lignes:
-$ curl -sS https://getcomposer.org/installer | php $ composer.phar install Une fois ces deux lignes exécutées vous vous trouvez avec:
- un répertoire vendor qui embarque Pimple, une librairie pour l&amp;#8217;injection de dépendances et les modules de gestion HTTP de Symfony ( pour gérer les routes, les requêtes etc.</description>
+      <description>Silexest un micro framework édité par SensioLabs, la société qui édite le fameux framework Symfony.
+Un micro Framework Silexest micro, vraiment micro. Même l’installation tiens en deux lignes:
+Une fois ces deux lignes exécutées vous vous trouvez avec:
+ un répertoire vendor qui embarque Pimple, une librairie pour l’injection de dépendances et les modules de gestion HTTP de Symfony ( pour gérer les routes, les requêtes etc..) un répertoire web dans lequel se trouve un fichier index contenant toute voter application (rien pour le moment) et un Composer pour installer en deux coups de cuillère à pot n’importe quelle librairie super utile.</description>
     </item>
     
     <item>
@@ -95,9 +80,9 @@ $ curl -sS https://getcomposer.org/installer | php $ composer.phar install Une f
       <pubDate>Sun, 26 Jan 2014 16:28:22 +0000</pubDate>
       
       <guid>https://angezanetti.com/migrer-spip-vers-wordpress/</guid>
-      <description>Il y a quelques jour on m&amp;#8217;a confié une super mission: migrer un blog SPIP vers un WordPress!
-J&amp;#8217;ai cherché un peu partout une solution simple et clé en main. Visiblement cela n&amp;#8217;existe pas vraiment&amp;#8230; Il y a bien Korben qui à fait un article la dessus, mais son code n&amp;#8217;est plus dispo.
-J&amp;#8217;ai été cherché du côté de la communauté SPIP &amp;#8211; ils sont super sympas d&amp;#8217;ailleurs n&amp;#8217;hésitez pas à aller leur faire un coucou sur IRC !</description>
+      <description>Il y a quelques jour on m’a confié une super mission: migrer un blog SPIP vers un WordPress!
+J’ai cherché un peu partout une solution simple et clé en main. Visiblement cela n’existe pas vraiment… Il y a bien Korbenqui à fait un article la dessus, mais son code n’est plus dispo.
+J’ai été cherché du côté de la communauté SPIP – ils sont super sympas d’ailleurs n’hésitez pas à aller leur faire un coucou sur IRC !</description>
     </item>
     
     <item>
@@ -106,10 +91,10 @@ J&amp;#8217;ai été cherché du côté de la communauté SPIP &amp;#8211; ils s
       <pubDate>Sun, 22 Sep 2013 16:11:09 +0000</pubDate>
       
       <guid>https://angezanetti.com/pour-sortir-du-lot-mettez-vous-dans-une-niche/</guid>
-      <description>Depuis que les mondes virtuels sont en baisse, que je ne peux plus vivre avec cette activité il m&amp;#8217;a fallu changer de cap, me recycler.
+      <description>Depuis que les mondes virtuels sont en baisse, que je ne peux plus vivre avec cette activité il m’a fallu changer de cap, me recycler.
 Et je me suis perdu.
 
-Devant la palette de technologies, d&amp;#8217;outils qui sont disponibles j&amp;#8217;ai testé pas mal de trucs: NodeJS, WebGL, Ruby on Rails, WordPress, Jekyll, Symfony, Zend et à chaque fois il faut apprendre de nouveau les bases du framework, recommencer à comprendre les grands concepts etc&amp;#8230; Si j&amp;#8217;ai testé autant de technos c&amp;#8217;est que j&amp;#8217;aime ça, découvrir de nouveaux outils m&amp;#8217;a toujours plu et, au delà du défi &amp;#8220;geek&amp;#8220;, ça permet aussi d&amp;#8217;améliorer sa compréhension de l&amp;#8217;univers du web.</description>
+Devant la palette de technologies, d’outils qui sont disponibles j’ai testé pas mal de trucs: NodeJS, WebGL, Ruby on Rails, WordPress, Jekyll, Symfony, Zend et à chaque fois il faut apprendre de nouveau les bases du framework, recommencer à comprendre les grands concepts etc… Si j’ai testé autant de technos c’est que j’aime ça, découvrir de nouveaux outils m’a toujours plu et, au delà du défi “geek“, ça permet aussi d’améliorer sa compréhension de l’univers du web.</description>
     </item>
     
     <item>
@@ -118,7 +103,18 @@ Devant la palette de technologies, d&amp;#8217;outils qui sont disponibles j&amp
       <pubDate>Mon, 26 Aug 2013 09:09:44 +0000</pubDate>
       
       <guid>https://angezanetti.com/installer-un-environnement-de-developpement-avec-virtualbox/</guid>
-      <description>Travailller avec un LAMP, ou un MAMP, installé en local c&amp;#8217;est bien pour des petits projets, type création de thème/plugins WordPress, mais pour les projets plus conséquents avec des technos plus exotique que PHP il peut être nécessaire de virtualiser un système d&amp;#8217;exploitation pour travailler. Je vous conseillle d&amp;#8217;ailleurs de mettre en local le même système que votre machine de production, ça limite grandement les surprises de mise en prod !</description>
+      <description>Travailller avec un LAMP, ou un MAMP, installé en local c’est bien pour des petits projets, type création de thème/plugins WordPress, mais pour les projets plus conséquents avec des technos plus exotique que PHP il peut être nécessaire de virtualiser un système d’exploitation pour travailler. Je vous conseillle d’ailleurs de mettre en local le même système que votre machine de production, ça limite grandement les surprises de mise en prod !</description>
+    </item>
+    
+    <item>
+      <title>Freelances contribuez au libre pendant vos temps morts</title>
+      <link>https://angezanetti.com/contribuez-opensource-temps-libre-freelance-chomeurs/</link>
+      <pubDate>Mon, 19 Aug 2013 08:47:29 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/contribuez-opensource-temps-libre-freelance-chomeurs/</guid>
+      <description>Dans la vie professionnelle de tout indépendant il y a des temps morts. Entre deux contrats, avant ou après avoir fait de la prospection commerciale, les moments où l’on est pas forcement débordé sont assez fréquents. Hors ce sont bien souvent ces temps là qui nous permettent de nous former, d’apprendre, de faire de la veille.
+
+Depuis quelques temps déjà j’essaye de consacrer ces temps morts à des projets opensource.</description>
     </item>
     
   </channel>

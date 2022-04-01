@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Entrepreneur on /AngeZanetti.com</title>
@@ -7,42 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 05 Feb 2021 09:30:40 -0400</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/entrepreneur/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>I shipped 3 products in 3 months, here is what I learned (so far)</title>
-      <link>https://angezanetti.com/posts/6-products-6months-half-way-there/</link>
-      <pubDate>Fri, 05 Feb 2021 09:30:40 -0400</pubDate>
-      
-      <guid>https://angezanetti.com/posts/6-products-6months-half-way-there/</guid>
-      <description>Last October, I started a new challenge: Build and ship 6 products in 6 months. I spent the previous 5 years in the startup ecosystem, spending all my time focusing on one product only, and I needed a change!
-Objectives Learn faster than usual startups As I said, when you start a startup, you go all in. You are spending all your time on one product, focusing on one market.</description>
-    </item>
-    
-    <item>
-      <title>How I validated and pre-sold my first info product</title>
-      <link>https://angezanetti.com/posts/how-i-validate-and-preorders-spreadtheworld/</link>
-      <pubDate>Tue, 27 Oct 2020 13:06:07 -0400</pubDate>
-      
-      <guid>https://angezanetti.com/posts/how-i-validate-and-preorders-spreadtheworld/</guid>
-      <description>Idea validation This product idea came from a list I made for my previous project. That was a list of 100+ directories where you can post your startup.
-I made it for myself, to expand the reach of the product I was working on. I sorted all the websites, removed dead links, tag them, and used it to promote our project. Then, I wondered if it can be useful for others and share it here and on Reddit.</description>
-    </item>
-    
-    <item>
-      <title>6 Projects in 6 Months Challenge</title>
-      <link>https://angezanetti.com/posts/6-projects-6-months-challenge/</link>
-      <pubDate>Thu, 22 Oct 2020 12:41:26 -0400</pubDate>
-      
-      <guid>https://angezanetti.com/posts/6-projects-6-months-challenge/</guid>
-      <description>I spent the last 10+yrs to code, and the last 4yrs in the startup ecosystem. During all that time I was focus on the product more than anything else. I need a change. I want to learn the other parts of building a product and I want something challenging!
-So I decided to (try to) launch 6 products in the next 6 months!
-I want to remove my developer bias As a coder, you always want to build stuff.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 30 Oct 2019 20:26:36 -0400</lastBuildDate><atom:link href="https://angezanetti.com/tags/entrepreneur/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New project: Logology</title>
       <link>https://angezanetti.com/posts/logology-meaningful-logos-for-startups/</link>
@@ -60,9 +25,9 @@ In tech, but also, thanks to the years I spent in the silicon valley, in marketi
       <pubDate>Fri, 26 May 2017 03:57:39 +0000</pubDate>
       
       <guid>https://angezanetti.com/conference-de-zuckerberg-a-voir/</guid>
-      <description>Je suis tombé sur cette vidéo Facebook cet après midi. Dans un groupe orienté entreprenariat, je l&amp;#8217;ai ouvert pour voir. J&amp;#8217;ai pas réussi à la refermer, et elle dure 30 minutes.
+      <description>Je suis tombé sur cette vidéo Facebook cet après midi. Dans un groupe orienté entreprenariat, je l’ai ouvert pour voir. J’ai pas réussi à la refermer, et elle dure 30 minutes.
 Zuck nous parle de sa vision, de comment des gens comme lui essaye de changer le monde et quels sont ces objectifs pour notre société.
-Ca fait d&amp;#8217;ailleurs écho à un billet qui doit toujours être dans mes brouillons et qui s&amp;#8217;appelait pompeusement &amp;#8220;Les entrepreneurs changent le monde&amp;#8221;, ce gars là en fait partie.</description>
+Ca fait d’ailleurs écho à un billet qui doit toujours être dans mes brouillons et qui s’appelait pompeusement “Les entrepreneurs changent le monde”, ce gars là en fait partie.</description>
     </item>
     
     <item>
@@ -71,8 +36,8 @@ Ca fait d&amp;#8217;ailleurs écho à un billet qui doit toujours être dans mes
       <pubDate>Wed, 05 Oct 2016 20:23:18 +0000</pubDate>
       
       <guid>https://angezanetti.com/je-suis-a-san-francisco/</guid>
-      <description>Plusieurs mois après le billet qui l&amp;#8217;annonçait, ça y est j&amp;#8217;y suis ! Je suis à San Francisco, dans la Silicon Valley pour tester notre produit sur le marché US ! Nous sommes dans un accélérateur TheRefiners, ils nous aident à faire grossir notre réseau ici et à nous adapter aux moeurs américains!
-Cela fait un bien fou de se retrouver dans une ambiance d&amp;#8217;entrepreneurs, des gens motivés par leurs projets qui sont là pour avancer.</description>
+      <description>Plusieurs mois après le billet qui l’annonçait, ça y est j’y suis ! Je suis à San Francisco, dans la Silicon Valley pour tester notre produit sur le marché US ! Nous sommes dans un accélérateur TheRefiners, ils nous aident à faire grossir notre réseau ici et à nous adapter aux moeurs américains!
+Cela fait un bien fou de se retrouver dans une ambiance d’entrepreneurs, des gens motivés par leurs projets qui sont là pour avancer.</description>
     </item>
     
     <item>
@@ -81,7 +46,8 @@ Cela fait un bien fou de se retrouver dans une ambiance d&amp;#8217;entrepreneur
       <pubDate>Mon, 30 Dec 2013 14:30:44 +0000</pubDate>
       
       <guid>https://angezanetti.com/je-nai-quun-seul-client-et-il-sappelle-coworking/</guid>
-      <description>L&amp;#8217;année 2013 touche à sa fin et je fais le bilan de mon activité. Durant ce bilan, je me suis rendu compte d&amp;#8217;un fait marquant: 100 % de mon chiffre d&amp;#8217;affaire de freelance provient du CoworkingLille. 100%!  Tous les clients avec lesquels j&amp;#8217;ai travaillés en 2013 sont des coworkers Lillois ou ce sont des clients qui ont été orientés vers moi par ce réseau. J&amp;#8217;ai d&amp;#8217;ailleurs presque arrêté de faire des articles sur mon blog &amp;#8211; qui me ramenait pas mal de clients jadis.</description>
+      <description>C’est magique. Tout simplement. Alors que l’on a toujours du mal à trouver un business model pour les Coworkings. Du malà faire de ses lieux d’échanges des lieux économiquement viables sans être sous perfusion des acteurs publics, les retombées pour les membres sont assez hallucinant : 100% du CA !
+Alimenter l’éco-système Plus je réfléchi, plus je débat avec mes copains du Mutualabsur les différentes possibilités de financer notre lieu et plus je suis convaincu que les seules vraies solutions sont dans tout ce qui alimente la machine: monter des projets qui créer de l’activité pour les membres, qui à leur tour monteront des projets qui créeront de l’activité etc, etc… Cela marche, j’en suis un exemple vivant -et je ne suis pas seul – et c’est probablement la seule solution viable dans le temps.</description>
     </item>
     
     <item>
@@ -90,10 +56,10 @@ Cela fait un bien fou de se retrouver dans une ambiance d&amp;#8217;entrepreneur
       <pubDate>Sun, 22 Sep 2013 16:11:09 +0000</pubDate>
       
       <guid>https://angezanetti.com/pour-sortir-du-lot-mettez-vous-dans-une-niche/</guid>
-      <description>Depuis que les mondes virtuels sont en baisse, que je ne peux plus vivre avec cette activité il m&amp;#8217;a fallu changer de cap, me recycler.
+      <description>Depuis que les mondes virtuels sont en baisse, que je ne peux plus vivre avec cette activité il m’a fallu changer de cap, me recycler.
 Et je me suis perdu.
 
-Devant la palette de technologies, d&amp;#8217;outils qui sont disponibles j&amp;#8217;ai testé pas mal de trucs: NodeJS, WebGL, Ruby on Rails, WordPress, Jekyll, Symfony, Zend et à chaque fois il faut apprendre de nouveau les bases du framework, recommencer à comprendre les grands concepts etc&amp;#8230; Si j&amp;#8217;ai testé autant de technos c&amp;#8217;est que j&amp;#8217;aime ça, découvrir de nouveaux outils m&amp;#8217;a toujours plu et, au delà du défi &amp;#8220;geek&amp;#8220;, ça permet aussi d&amp;#8217;améliorer sa compréhension de l&amp;#8217;univers du web.</description>
+Devant la palette de technologies, d’outils qui sont disponibles j’ai testé pas mal de trucs: NodeJS, WebGL, Ruby on Rails, WordPress, Jekyll, Symfony, Zend et à chaque fois il faut apprendre de nouveau les bases du framework, recommencer à comprendre les grands concepts etc… Si j’ai testé autant de technos c’est que j’aime ça, découvrir de nouveaux outils m’a toujours plu et, au delà du défi “geek“, ça permet aussi d’améliorer sa compréhension de l’univers du web.</description>
     </item>
     
     <item>
@@ -102,8 +68,8 @@ Devant la palette de technologies, d&amp;#8217;outils qui sont disponibles j&amp
       <pubDate>Thu, 28 Feb 2013 10:44:53 +0000</pubDate>
       
       <guid>https://angezanetti.com/pourquoi-les-freelances-sont-aussi-deprimes-ou-pas/</guid>
-      <description>Je suis tombé hier, au fil de ma veille, sur un article de fastcompany qui a pour titre : &amp;#8220;Why freelancers are so depressed&amp;#8221;.
-Un bon gros titre qui fait peur, qui fait buzzer et pleurer dans les chaumières, on se croirait sur TF1. Je vais me permettre dans ce billet de répondre à ce post, parce que je suis freelance depuis presque 5 ans maintenant et aussi parce les problématiques des nouvelles formes de travail m&amp;#8217;intéressent beaucoup.</description>
+      <description>Je suis tombé hier, au fil de ma veille, sur un article de fastcompanyqui a pour titre : “Why freelancers are so depressed”.
+Un bon gros titre qui fait peur, qui fait buzzer et pleurer dans les chaumières, on se croirait sur TF1. Je vais me permettre dans ce billet de répondre à ce post, parce que je suis freelance depuis presque 5 ans maintenant et aussi parce les problématiques des nouvelles formes de travail m’intéressent beaucoup.</description>
     </item>
     
     <item>
@@ -112,8 +78,29 @@ Un bon gros titre qui fait peur, qui fait buzzer et pleurer dans les chaumières
       <pubDate>Mon, 17 Sep 2012 09:34:40 +0000</pubDate>
       
       <guid>https://angezanetti.com/rentree-2012-projets-grandsensemble-maintenantautravail-dentallife/</guid>
-      <description>Mon blog est en sommeil depuis plusieurs mois. Je le sais, ce n&amp;#8217;est pas une volonté de ma part mais plus un manque de temps. Dur de tenir le rythme d&amp;#8217;article que je m&amp;#8217;étais imposé depuis son lancement. J&amp;#8217;ai été pas mal occupé durant l&amp;#8217;été, pas mal de changement et des projets en cours !
+      <description>Mon blog est en sommeil depuis plusieurs mois. Je le sais, ce n’est pas une volonté de ma part mais plus un manque de temps. Dur de tenir le rythme d’article que je m’étais imposé depuis son lancement. J’ai été pas mal occupé durant l’été, pas mal de changement et des projets en cours !
 3 mois de changements à rattraper en un post cela ne va pas être facile, je vais essayer de faire court :</description>
+    </item>
+    
+    <item>
+      <title>Faire Play : Un barcamp au coworkinglille le 29/09/11</title>
+      <link>https://angezanetti.com/faire-play-coworkinglille/</link>
+      <pubDate>Mon, 26 Sep 2011 12:55:53 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/faire-play-coworkinglille/</guid>
+      <description>Jeudi prochain aura lieu le barcamp FairePlay au CoworkingLille.
+C’est un barcamp un peu spécial car il sera réalisé en même temps dans 3 lieux différents : CoworkingLille à Lille, Les petits débrouillards en région parisienne et dans un espace de coworking porté par l’agence Groupe AOS à Abidjan.
+Les thèmes sont d’actualité puisque l’on parlera de comment «Travailler autrement», «Entreprendre autrement», «Apprendre autrement». Ces thématiques sont-elles justifiées autrement que par le marketing des outils ?</description>
+    </item>
+    
+    <item>
+      <title>L’interview de Philip Rosedale par Kevin Rose</title>
+      <link>https://angezanetti.com/linterview-de-philip-rosedale-par-kevin-rose/</link>
+      <pubDate>Thu, 10 Mar 2011 08:45:13 +0000</pubDate>
+      
+      <guid>https://angezanetti.com/linterview-de-philip-rosedale-par-kevin-rose/</guid>
+      <description>Je ne sais pas si vous êtes comme moi, mais les interventions de Philip Rosedale m’ont toujours marquées. Quand il était CEO de LindenLabs, ses interventions étaient suivies de près et, clairement, il avait la capacité de partager une vision de son entreprise. Depuis, il a quitté la tête de LindenLabs et à monté une startup nommée LoveMachineInc, tout un programme :)
+J’ai découvert, grâce à Robert Vinet, une superbe vidéo interview de Rosedale par Kevin Rose – Fondateur de Digg et présentateur de TechTV.</description>
     </item>
     
   </channel>

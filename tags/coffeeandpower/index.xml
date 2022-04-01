@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CoffeeAndPower on /AngeZanetti.com</title>
@@ -7,19 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 16 Jan 2012 05:28:09 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/coffeeandpower/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 16 Jan 2012 05:28:09 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/coffeeandpower/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le coworking créateur de richesse ?</title>
       <link>https://angezanetti.com/le-coworking-createur-de-richesse/</link>
       <pubDate>Mon, 16 Jan 2012 05:28:09 +0000</pubDate>
       
       <guid>https://angezanetti.com/le-coworking-createur-de-richesse/</guid>
-      <description>Coworking et rentabilité Le coworking à un problème endémique: il n&amp;#8217;est pas rentable. Il génère bien de la valeur ajoutée, sinon les espaces ne seraient pas en constante évolution, mais cette valeur est difficilement &amp;#8220;monétisable&amp;#8221;. Le coworking crée de la richesse humaine et intellectuelle, tous les coworkers le savent bien, mais la richesse pécuniaire, est, elle, plus compliquée à créer.
-C&amp;#8217;est une problématique que l&amp;#8217;on connait bien au CoworkingLille, mais en revenant des conférences de Coworking Europe nous nous sommes rendus compte que tous les espaces av aient le même soucis.</description>
+      <description>Coworking et rentabilité Le coworking à un problème endémique: il n’est pas rentable. Il génère bien de la valeur ajoutée, sinon les espaces ne seraient pas en constante évolution, mais cette valeur est difficilement “monétisable”. Le coworking crée de la richesse humaine et intellectuelle, tous les coworkers le savent bien, mais la richesse pécuniaire, est, elle, plus compliquée à créer.
+C’est une problématique que l’on connait bien au CoworkingLille, mais en revenant des conférences de Coworking Europenous nous sommes rendus compte que tous les espaces av aient le même soucis.</description>
     </item>
     
   </channel>

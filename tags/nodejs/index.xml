@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NodeJS on /AngeZanetti.com</title>
@@ -7,19 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 15 Apr 2013 09:13:40 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 15 Apr 2013 09:13:40 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installer node.js sur Debian Squeeze avec un gestionnaire de version</title>
       <link>https://angezanetti.com/installer-node-js-debian-squeeze-gestionnaire-version-nvm/</link>
       <pubDate>Mon, 15 Apr 2013 09:13:40 +0000</pubDate>
       
       <guid>https://angezanetti.com/installer-node-js-debian-squeeze-gestionnaire-version-nvm/</guid>
-      <description>J&amp;#8217;ai fait il y a peu de temps un article sur comment avoir une version de node.js à jour sur Ubuntu, cette fois c&amp;#8217;est un serveur Debian 6 que je dois configurer, du coup je ne peux pas passer par l&amp;#8217;astuce PPA comme sur Ubuntu.
-Alors, bien sur, il y a la solution de la compilation mais bon je suis pas hyper fan&amp;#8230; D&amp;#8217;autant qu&amp;#8217;il existe pour Node.js un petit script qui permet de gérer les versions utilisées de la même façon que RVM pour Ruby.</description>
+      <description>J’ai fait il y a peu de temps un article sur comment avoir une version de node.js à jour sur Ubuntu, cette fois c’est un serveur Debian 6 que je dois configurer, du coup je ne peux pas passer par l’astuce PPA comme sur Ubuntu.
+Alors, bien sur, il y a la solution de la compilation mais bon je suis pas hyper fan… D’autant qu’il existe pour Node.jsun petit script qui permet de gérer les versions utilisées de la même façon que RVMpour Ruby.</description>
     </item>
     
     <item>
@@ -28,8 +24,8 @@ Alors, bien sur, il y a la solution de la compilation mais bon je suis pas hyper
       <pubDate>Sun, 02 Dec 2012 11:13:13 +0000</pubDate>
       
       <guid>https://angezanetti.com/version-nodejs-a-jour-sur-ubuntu-1204-compilation-ppa/</guid>
-      <description>Je me posé cette question il y a quelques jours après un upgrade de mes paquets sur un serveur qui fonctionne sous Ubuntu 12.04. Les applications misent à jour ne fonctionnaient pas, NPM non plus. Bref, un joli &amp;#8220;foutoir&amp;#8221;. J&amp;#8217;ai mis du temps à comprendre d&amp;#8217;ou venait les problèmes. Finalement un simple
-node -v Et j&amp;#8217;ai compris tout de suite, j&amp;#8217;avais sur mon serveur une vieille version de node.js (0.</description>
+      <description>Je me posé cette question il y a quelques jours après un upgrade de mes paquets sur un serveur qui fonctionne sous Ubuntu 12.04. Les applications misent à jour ne fonctionnaient pas, NPMnon plus. Bref, un joli “foutoir”. J’ai mis du temps à comprendre d’ou venait les problèmes. Finalement un simple
+Et j’ai compris tout de suite, j’avais sur mon serveur une vieille version de node.js(0.6) alors que npm et mes applications étaient à jour.</description>
     </item>
     
     <item>
@@ -38,10 +34,10 @@ node -v Et j&amp;#8217;ai compris tout de suite, j&amp;#8217;avais sur mon serve
       <pubDate>Thu, 11 Aug 2011 10:04:37 +0000</pubDate>
       
       <guid>https://angezanetti.com/tuto-installation-nodejs-npm-express-sur-ubuntu-10-04/</guid>
-      <description>Ce billet est autant un aide mémoire pour moi qu&amp;#8217;un billet explicatif pour vous. En effet depuis quelques jours j&amp;#8217;installe NodeJS sur plusieurs serveurs. Sur la version actuelle d&amp;#8217;Ubuntu &amp;#8211; 11.04 &amp;#8211; c&amp;#8217;est relativement facile :
+      <description>Ce billet est autant un aide mémoire pour moi qu’un billet explicatif pour vous. En effet depuis quelques jours j’installe NodeJS sur plusieurs serveurs. Sur la version actuelle d’Ubuntu – 11.04 – c’est relativement facile :
 [bash]sudo apt-get install nodejs[/bash]
-Mais pour les versions antérieures et notamment la dernière LTS, la 10.04, c&amp;#8217;est un poil plus compliqué.
-En fait vous avez deux solutions, compiler ou utiliser la version par paquets.</description>
+Mais pour les versions antérieures et notamment la dernière LTS, la 10.04, c’est un poil plus compliqué.
+En fait vous avez deux solutions, compiler ou utiliser la version par paquets. Personnellement j’ai choisi la deuxième méthode mais si vous voulez un NodeJS plus à jour je vous conseille la première méthode.</description>
     </item>
     
   </channel>

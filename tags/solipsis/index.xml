@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Solipsis on /AngeZanetti.com</title>
@@ -7,20 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 20 Feb 2009 14:53:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/solipsis/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 20 Feb 2009 14:53:00 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/solipsis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Solipsis</title>
       <link>https://angezanetti.com/solipsis/</link>
       <pubDate>Fri, 20 Feb 2009 14:53:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/solipsis/</guid>
-      <description>Betty Renoir m&amp;#8217;a mis l&amp;#8217;eau à la bouche il y a quelques jours avec plusieurs tweets plus que prometteurs sur Solipsis.
-Je vous ai déjà parlé de ce monde virtuel (oui rappelez vous c&amp;#8217;est dans ce post) différents puisque qu&amp;#8217;avec une architecture en P2P. Le 15 Avril 2008 je titrai :
-&amp;#8220;Solipsis un métaverse différent à surveiller&amp;#8221; effectivement un an plus tard une nouvelle version est sortie et elle est très prometteuse.</description>
+      <description>Betty Renoir m’a mis l’eau à la bouche il y a quelques jours avec plusieurs tweets plus que prometteurs sur Solipsis.
+Je vous ai déjà parlé de ce monde virtuel (oui rappelez vous c’est dans ce post) différents puisque qu’avec une architecture en P2P. Le 15 Avril 2008 je titrai :
+“Solipsis un métaverse différent à surveiller”effectivement un an plus tard une nouvelle version est sortie et elle est très prometteuse.</description>
     </item>
     
     <item>
@@ -29,8 +25,8 @@ Je vous ai déjà parlé de ce monde virtuel (oui rappelez vous c&amp;#8217;est 
       <pubDate>Tue, 15 Apr 2008 09:53:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/solipsis-un-metaverse-different-a-surveiller/</guid>
-      <description>Décidemment les tweets d&amp;#8217;hugo sont vraiment précieux ! J&amp;#8217;ai décidé de le partager ici car j&amp;#8217;ai de plus en plus de lecteurs et j&amp;#8217;aime à penser que ce sont des passionnés des mondes 3d et pas forcement de Second Life the virtual world.
-Il s&amp;#8217;agissait donc d&amp;#8217;un message sur Solipsis un métaverse basé sur du peer to peer ( prononcez P2P ). Qu&amp;#8217;est ce que le P2P ? C&amp;#8217;est emulr, les torrents etc&amp;#8230; Le principe est le partage, chacun héberge un petit bout du monde de la même façon que l&amp;#8217;on partage ses fichiers pour les mettre à disposition des utilisateurs.</description>
+      <description>Décidemment les tweets d’hugo sont vraiment précieux ! J’ai décidé de le partager ici car j’ai de plus en plus de lecteurs et j’aime à penser que ce sont des passionnés des mondes 3d et pas forcement de Second Life the virtual world.
+Il s’agissait donc d’un message sur Solipsis un métaverse basé sur du peer to peer ( prononcez P2P ). Qu’est ce que le P2P ? C’est emulr, les torrents etc… Le principe est le partage, chacun héberge un petit bout du monde de la même façon que l’on partage ses fichiers pour les mettre à disposition des utilisateurs.</description>
     </item>
     
   </channel>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SeriousGame on /AngeZanetti.com</title>
@@ -7,20 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 07 Jun 2012 13:25:25 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/seriousgame/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 07 Jun 2012 13:25:25 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/seriousgame/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Un jeu Kinect pour aider les enfants autistes</title>
       <link>https://angezanetti.com/autisme-kinect-seriousgame/</link>
       <pubDate>Thu, 07 Jun 2012 13:25:25 +0000</pubDate>
       
       <guid>https://angezanetti.com/autisme-kinect-seriousgame/</guid>
-      <description>Le domaine de la santé est vraiment dynamique dans le domaine de l&amp;#8217;innovation numérique, j&amp;#8217;en parlais d&amp;#8217;ailleurs il y a peu sur ce blog.
-Cette fois il s&amp;#8217;agit d&amp;#8217;aider le développement des enfants autistes en les faisant jouer avec une Kinect. Les avantages sont nombreux comme nous l&amp;#8217;apprend l&amp;#8217;article de regards sur le Numérique.
-Ce type de jeu permet de faire progresser la motricité des enfants mais aide aussi à &amp;#8221; faciliter la discussion, les questions, la résolution de problèmes ».</description>
+      <description>Le domaine de la santé est vraiment dynamique dans le domaine de l’innovation numérique, j’en parlais d’ailleurs il y a peu sur ce blog.
+Cette fois il s’agit d’aider le développement des enfants autistes en les faisant jouer avec une Kinect. Les avantages sont nombreux comme nous l’apprend l’article de regards sur le Numérique.
+Ce type de jeu permet de faire progresser la motricité des enfants mais aide aussi à ” faciliter la discussion, les questions, la résolution de problèmes ».</description>
     </item>
     
     <item>
@@ -29,9 +25,9 @@ Ce type de jeu permet de faire progresser la motricité des enfants mais aide au
       <pubDate>Wed, 02 May 2012 09:15:01 +0000</pubDate>
       
       <guid>https://angezanetti.com/serious-game-sante-2-0/</guid>
-      <description>Les seriousgame sont particulièrement adapté aux situations d&amp;#8217;urgence, de répétition de gestes techniques dans des conditions extrème ou difficile à rejouer.
-C&amp;#8217;est donc sans surprise que l&amp;#8217;on a vu le domaine de la santé se doter de nombreux jeux sérieux. J&amp;#8217;ai trouvé dans ma veille deux exemple de ces seriousgame orientés santé qui me paraisse intéressant, vous trouverez des vidéos ci dessous.
-Le premier jeu est une simulation de consultation médicale qui me rappelle beaucoup la V1 du seriousgame de dentallife</description>
+      <description>Les seriousgame sont particulièrement adapté aux situations d’urgence, de répétition de gestes techniques dans des conditions extrème ou difficile à rejouer.
+C’est donc sans surprise que l’on a vu le domaine de la santé se doter de nombreux jeux sérieux. J’ai trouvé dans ma veille deux exemple de ces seriousgame orientés santé qui me paraisse intéressant, vous trouverez des vidéos ci dessous.
+Le premier jeu est une simulation de consultation médicale qui me rappelle beaucoup la V1 du seriousgame de dentallife  Le deuxième ressemble beaucoup à un RPG – jeu de rôle – classique mais à pour but de réduire les dépression chez les ados.</description>
     </item>
     
     <item>
@@ -40,7 +36,7 @@ Le premier jeu est une simulation de consultation médicale qui me rappelle beau
       <pubDate>Thu, 12 Jan 2012 06:15:54 +0000</pubDate>
       
       <guid>https://angezanetti.com/slkinect-kinect-opensim-secondlife/</guid>
-      <description>Petite perle trouvée sur le site de Daneel, SLKinect est un protocole opensource permettant d&amp;#8217;envoyer les datas de votre kinect directement à votre avatar SecondLife &amp;#8211; Il semble que ça tourne aussi avec OpenSim. C&amp;#8217;est développé au NSL (Network System Laboratory) au sein de la TUIS (Tokyo University of Information Sciences).
+      <description>Petite perle trouvée sur le site de Daneel, SLKinectest un protocole opensource permettant d’envoyer les datas de votre kinect directement à votre avatar SecondLife – Il semble que ça tourne aussi avec OpenSim. C’est développé au NSL (Network System Laboratory) au sein de la TUIS (Tokyo University of Information Sciences).
 Le résultat est vraiment sympa puisque votre avatar reproduit vos gestes fidèlement comme le montre la vidéo ci dessous :</description>
     </item>
     
@@ -50,8 +46,8 @@ Le résultat est vraiment sympa puisque votre avatar reproduit vos gestes fidèl
       <pubDate>Mon, 08 Aug 2011 08:41:55 +0000</pubDate>
       
       <guid>https://angezanetti.com/interet-usages-enseignement-mondes-immersifs/</guid>
-      <description>J&amp;#8217;ai trouvé sur le blog de Gehan une vidéo de qualité mise en ligne par @Batier. C&amp;#8217;est sous la forme d&amp;#8217;une &amp;#8220;causerie&amp;#8221; d&amp;#8217;été entre Christophe Batier, Jean Paul Moiraud et Jacques Rodet.
-On y parle de l&amp;#8217;intérêt d&amp;#8217;un avatar comparé à une simple webcam, à la relation que cela induit. A l&amp;#8217;intérêt des environnements immersifs sur l&amp;#8217;enseignement. Beaucoup de questionnement pertinent sur la 3D, les capacités cognitives des mondes virtuels etc etc.</description>
+      <description>J’ai trouvé sur le blog de Gehanune vidéo de qualité mise en ligne par @Batier. C’est sous la forme d’une “causerie” d’été entre Christophe Batier, Jean Paul Moiraud et Jacques Rodet.
+On y parle de l’intérêt d’un avatar comparé à une simple webcam, à la relation que cela induit. A l’intérêt des environnements immersifs sur l’enseignement. Beaucoup de questionnement pertinent sur la 3D, les capacités cognitives des mondes virtuels etc etc.</description>
     </item>
     
     <item>
@@ -60,8 +56,8 @@ On y parle de l&amp;#8217;intérêt d&amp;#8217;un avatar comparé à une simple
       <pubDate>Mon, 25 Jul 2011 15:12:09 +0000</pubDate>
       
       <guid>https://angezanetti.com/could-gaming-monde-virtuel-seriousgame/</guid>
-      <description>Après une discussion fournie sur la page FaceBook d&amp;#8217;AngeZanetti à propos de WebGL et de l&amp;#8217;avenir des mondes virtuels et autres seriousgame dans le navigateur, Henri Morlaye co-fondateur d&amp;#8217;AWorldForUs, m&amp;#8217;a fait découvrir le cloud gaming.
-Le concept est assez simple dans le principe, plutôt que de faire travailler votre machine pour afficher les jeux ils font bosser un serveur distant et streament l&amp;#8217;affichage du jeu. Simple mais terriblement efficace ! Car, du coup, la puissance demandée est ridiculement faible au point d&amp;#8217;afficher du monde virtuel sur un smartphone !</description>
+      <description>Après une discussion fournie sur la page FaceBook d’AngeZanettià propos de WebGL et de l’avenir des mondes virtuels et autres seriousgame dans le navigateur, Henri Morlaye co-fondateur d’AWorldForUs, m’a fait découvrir le cloud gaming.
+Le concept est assez simple dans le principe, plutôt que de faire travailler votre machine pour afficher les jeux ils font bosser un serveur distant et streament l’affichage du jeu. Simple mais terriblement efficace ! Car, du coup, la puissance demandée est ridiculement faible au point d’afficher du monde virtuel sur un smartphone !</description>
     </item>
     
     <item>
@@ -70,9 +66,9 @@ Le concept est assez simple dans le principe, plutôt que de faire travailler vo
       <pubDate>Tue, 31 May 2011 14:21:44 +0000</pubDate>
       
       <guid>https://angezanetti.com/seriousgame-dentallife-developpement-conseil/</guid>
-      <description>Il y a quelques semaines sortait de façon officielle le seriousgame dentallife : &amp;#8220;Urgences en cabinet Dentaire&amp;#8221;.
-Je n&amp;#8217;ai jamais pris le temps d&amp;#8217;exposer mon retour d&amp;#8217;expérience sur ce projet, ce billet va essayer de corriger cet oubli en exposant notre démarche dans la conception et la réalisation du seriousgame.
-La conception du projet : Au début de l&amp;#8217;année 2011 Guillaume est venu me trouver pour me proposer un projet aussi passionant que culotté : faire un seriousgame en moins de 3 mois.</description>
+      <description>Il y a quelques semaines sortait de façon officielle le seriousgame dentallife : “Urgences en cabinet Dentaire”.
+Je n’ai jamais pris le temps d’exposer mon retour d’expérience sur ce projet, ce billet va essayer de corriger cet oubli en exposant notre démarche dans la conception et la réalisation du seriousgame.
+La conception du projet : Au début de l’année 2011 Guillaume est venu me trouver pour me proposer un projet aussi passionant que culotté : faire un seriousgame en moins de 3 mois.</description>
     </item>
     
     <item>
@@ -81,7 +77,8 @@ La conception du projet : Au début de l&amp;#8217;année 2011 Guillaume est ven
       <pubDate>Sat, 16 Apr 2011 08:24:14 +0000</pubDate>
       
       <guid>https://angezanetti.com/laval-virtual-les-serious-game/</guid>
-      <description>Je vous avais promis un deuxième article sur Laval Virtual, cette semaine à été pas mal chargée par des gros projets dont je vous parlerais bientôt, mais ça y est, j&amp;#8217;ai le temps de l&amp;#8217;écrire ! Avec le recul je me rend compte que mon premier article à pu être mal compris. Il est vrai que le ton dominant était la déception, mais en AUCUN cas je regrette de m&amp;#8217;y être rendu.</description>
+      <description>Avec le recul je me rend compte que mon premier article à pu être mal compris. Il est vrai que le ton dominant était la déception, mais en AUCUN cas je regrette de m’y être rendu. Cette grande messe du virtuel vaut absolument le détour. D’autant plus avec ce que je vais vous expliquer ci dessous !
+Car en terme de formations “virtuelle” Laval Virtual à clairement tenu ces promesses. Autant pour ce qui est de l’immersion et du collaboratif les “petites” solutions que nous mettons en place peuvent rivaliser avec celles des grands groupes.</description>
     </item>
     
     <item>
@@ -91,7 +88,7 @@ La conception du projet : Au début de l&amp;#8217;année 2011 Guillaume est ven
       
       <guid>https://angezanetti.com/roger-le-premier-seriousgame-a-utiliser-le-kinect/</guid>
       <description>R.O.G.E.R est un seriousgame en développement par une entreprise de jeux vidéos Belge : Fishing Cactus.
-Il est destiné aux patients souffrant de troubles de la mémoire. Le jeu recrée donc un environnement réaliste dans lequel le patient doit évoluer et s&amp;#8217;adapter en fonction des différents scénarios. En fait, il doit composer une valise en fonction d&amp;#8217;une destination et doit donc aller chercher dans l&amp;#8217;appartement les objets dont il aura besoin.</description>
+Il est destiné aux patients souffrant de troubles de la mémoire. Le jeu recrée donc un environnement réaliste dans lequel le patient doit évoluer et s’adapter en fonction des différents scénarios. En fait, il doit composer une valise en fonction d’une destination et doit donc aller chercher dans l’appartement les objets dont il aura besoin.</description>
     </item>
     
     <item>
@@ -100,7 +97,7 @@ Il est destiné aux patients souffrant de troubles de la mémoire. Le jeu recré
       <pubDate>Mon, 21 Feb 2011 10:33:22 +0000</pubDate>
       
       <guid>https://angezanetti.com/le-marche-des-seriousgame/</guid>
-      <description>Récemment j&amp;#8217;ai lu l&amp;#8217;étude FEFAUR sur le marché du e-learning. Cette étude est disponible ici : http://www.fefaur.com/&amp;amp;#8230; elle est gratuite même s&amp;#8217;il faut montrer patte blanche avant de pouvoir la recevoir.
+      <description>Récemment j’ai lu l’étude FEFAUR sur le marché du e-learning. Cette étude est disponible ici : http://www.fefaur.com/&amp;amp;#8230;elle est gratuite même s’il faut montrer patte blanche avant de pouvoir la recevoir.
 Cette étude date de Septembre 2010 et permet de mettre des chiffres sur le marché du e-learning, et surtout sur celui du SeriousGame. Je vais essayer ici de faire une synthèse de façon à avoir une vision claire du marché des jeux sérieux.</description>
     </item>
     
@@ -110,8 +107,8 @@ Cette étude date de Septembre 2010 et permet de mettre des chiffres sur le marc
       <pubDate>Sun, 12 Dec 2010 16:47:52 +0000</pubDate>
       
       <guid>https://angezanetti.com/intervention-hetic-epn-des-ulis/</guid>
-      <description>La semaine dernière, j&amp;#8217;étais à la médiathèque des Ulis pour presenter, à des animateurs d&amp;#8217;espaces publics numériques, les mondes virtuels et les seriousgame.
-L&amp;#8217;affluence n&amp;#8217;était pas vraiment au rendez vous, la neige et Brice Hortefeux ont quelque peu fait barrière :) Mais peu importe l&amp;#8217;important n&amp;#8217;est pas le nombre mais bien la qualité des échanges ! Un peu le même cas de figure la veille ou j&amp;#8217;intervenais à l&amp;#8217;HETIC.
+      <description>La semaine dernière, j’étais à la médiathèque des Ulis pour presenter, à des animateurs d’espaces publics numériques, les mondes virtuels et les seriousgame.
+L’affluence n’était pas vraiment au rendez vous, la neige et Brice Hortefeux ont quelque peu fait barrière :) Mais peu importe l’important n’est pas le nombre mais bien la qualité des échanges ! Un peu le même cas de figure la veille ou j’intervenais à l’HETIC.
 Vous trouverez ci dessous les slides de mon intervention aux Ulis :</description>
     </item>
     

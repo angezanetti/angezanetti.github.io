@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>teleplace on /AngeZanetti.com</title>
@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 05 May 2011 09:28:25 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/teleplace/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 05 May 2011 09:28:25 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/teleplace/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teleplace lance un produit opensource de réunion immersive : OpenQwaq</title>
       <link>https://angezanetti.com/teleplace-openqwaq-opensource-reunion-virtuel/</link>
@@ -19,7 +15,7 @@
       
       <guid>https://angezanetti.com/teleplace-openqwaq-opensource-reunion-virtuel/</guid>
       <description>Teleplace, un monde virtuel dédié aux entreprises à sorti hier une version opensource de son code serveur.
-Ce changement de stratégie à un but précis : augmenter leur base d&amp;#8217;utilisateurs. La version opensource est donc totalement identique à la version propriétaire exception faite des codecs propriétaires. Et c&amp;#8217;est une très bonne nouvelle car la plateforme de Teleplace embarque des fonctionnalités intéressantes : import de meshs, outils d&amp;#8217;édition inworld, drag &amp;amp; drop de documents MS Office depuis le bureau directement dans la 3D et un accès depuis le navigateur !</description>
+Ce changement de stratégie à un but précis : augmenter leur base d’utilisateurs. La version opensource est donc totalement identique à la version propriétaire exception faite des codecs propriétaires. Et c’est une très bonne nouvelle car la plateforme de Teleplace embarque des fonctionnalités intéressantes : import de meshs, outils d’édition inworld, drag &amp;amp; drop de documents MS Office depuis le bureau directement dans la 3D et un accès depuis le navigateur !</description>
     </item>
     
   </channel>

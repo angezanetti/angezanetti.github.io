@@ -7,32 +7,25 @@
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="theme-color" content="#FE5185">
 	<meta name="msapplication-TileColor" content="#FE5185">
-
 <meta itemprop="name" content="Faire fonctionner le copier/coller avec Vim dans le terminal">
-<meta itemprop="description" content="Pour faire suite au billet de présentation de Vim que j&#8217;ai publié il y a quelques jours un petit tutorial pour activé le support du copier/coller avec Vim en mode console.
-Vim n&#8217;embarque pas de base la gestion du presse papier de base, et cela pour éviter de surcharger le logiciel qui n&#8217;est pas forcement utilisé par des distributions avec une interface graphique &#8211; sur les serveurs par exemple.
-La première chose à faire est donc de vérifier si Vim est compilé avec le support du serveur X.">
-
-
-<meta itemprop="datePublished" content="2014-01-17T13:21:33&#43;00:00" />
+<meta itemprop="description" content="Pour faire suite au billet de présentation de Vim que j’ai publié il y a quelques jours un petit tutorial pour activé le support du copier/coller avec Vim en mode console.
+Vim n’embarque pas de base la gestion du presse papier de base, et cela pour éviter de surcharger le logiciel qui n’est pas forcement utilisé par des distributions avec une interface graphique – sur les serveurs par exemple.
+La première chose à faire est donc de vérifier si Vim est compilé avec le support du serveur X."><meta itemprop="datePublished" content="2014-01-17T13:21:33&#43;00:00" />
 <meta itemprop="dateModified" content="2014-01-17T13:21:33&#43;00:00" />
-<meta itemprop="wordCount" content="233">
-
-
-
-<meta itemprop="keywords" content="Tuto,Vim," />
-<meta property="og:title" content="Faire fonctionner le copier/coller avec Vim dans le terminal" />
-<meta property="og:description" content="Pour faire suite au billet de présentation de Vim que j&#8217;ai publié il y a quelques jours un petit tutorial pour activé le support du copier/coller avec Vim en mode console.
-Vim n&#8217;embarque pas de base la gestion du presse papier de base, et cela pour éviter de surcharger le logiciel qui n&#8217;est pas forcement utilisé par des distributions avec une interface graphique &#8211; sur les serveurs par exemple.
+<meta itemprop="wordCount" content="200">
+<meta itemprop="keywords" content="Tuto,Vim," /><meta property="og:title" content="Faire fonctionner le copier/coller avec Vim dans le terminal" />
+<meta property="og:description" content="Pour faire suite au billet de présentation de Vim que j’ai publié il y a quelques jours un petit tutorial pour activé le support du copier/coller avec Vim en mode console.
+Vim n’embarque pas de base la gestion du presse papier de base, et cela pour éviter de surcharger le logiciel qui n’est pas forcement utilisé par des distributions avec une interface graphique – sur les serveurs par exemple.
 La première chose à faire est donc de vérifier si Vim est compilé avec le support du serveur X." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://angezanetti.com/faire-fonctionner-le-copiercoller-avec-vim-dans-le-terminal/" />
-<meta property="article:published_time" content="2014-01-17T13:21:33&#43;00:00"/>
-<meta property="article:modified_time" content="2014-01-17T13:21:33&#43;00:00"/>
+<meta property="og:url" content="https://angezanetti.com/faire-fonctionner-le-copiercoller-avec-vim-dans-le-terminal/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2014-01-17T13:21:33&#43;00:00" />
+<meta property="article:modified_time" content="2014-01-17T13:21:33&#43;00:00" />
+
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Faire fonctionner le copier/coller avec Vim dans le terminal"/>
-<meta name="twitter:description" content="Pour faire suite au billet de présentation de Vim que j&#8217;ai publié il y a quelques jours un petit tutorial pour activé le support du copier/coller avec Vim en mode console.
-Vim n&#8217;embarque pas de base la gestion du presse papier de base, et cela pour éviter de surcharger le logiciel qui n&#8217;est pas forcement utilisé par des distributions avec une interface graphique &#8211; sur les serveurs par exemple.
+<meta name="twitter:description" content="Pour faire suite au billet de présentation de Vim que j’ai publié il y a quelques jours un petit tutorial pour activé le support du copier/coller avec Vim en mode console.
+Vim n’embarque pas de base la gestion du presse papier de base, et cela pour éviter de surcharger le logiciel qui n’est pas forcement utilisé par des distributions avec une interface graphique – sur les serveurs par exemple.
 La première chose à faire est donc de vérifier si Vim est compilé avec le support du serveur X."/>
 
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -43,7 +36,7 @@ La première chose à faire est donc de vérifier si Vim est compilé avec le su
 	<link rel="shortcut icon" href="/favicon.ico">
 
 	<title>Faire fonctionner le copier/coller avec Vim dans le terminal</title>
-	<link rel="stylesheet" href="https://angezanetti.com/css/style.min.01f62fff7ba9e2888ea91c3cd0097e6a3f65d5d14863514fb3886453cca80599.css" integrity="sha256-AfYv/3up4oiOqRw80Al+aj9l1dFIY1FPs4hkU8yoBZk=" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://angezanetti.com/css/style.min.f74778e3020c87c304fb5982e09b92ba63a5c7f202996d4c7283d6057acfe9c1.css" integrity="sha256-90d44wIMh8ME+1mC4JuSumOlx/ICmW1McoPWBXrP6cE=" crossorigin="anonymous">
 	
 	<link rel="stylesheet" href="https://angezanetti.com/style.css">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans|Unica+One&display=swap" rel="stylesheet">
@@ -82,68 +75,51 @@ La première chose à faire est donc de vérifier si Vim est compilé avec le su
 	<main class="site-main section-inner thin animated fadeIn faster">
 		<h1>Faire fonctionner le copier/coller avec Vim dans le terminal</h1>
 		<div class="content">
-			<p>Pour faire suite au billet de présentation de Vim que j&#8217;ai publié il y a quelques jours un petit tutorial pour activé le support du copier/coller avec Vim en mode console.</p>
-
-<p>Vim n&#8217;embarque pas de base la gestion du presse papier de base, et cela pour éviter de surcharger le logiciel qui n&#8217;est pas forcement utilisé par des distributions avec une interface graphique &#8211; sur les serveurs par exemple.</p>
-
+			<p>Pour faire suite au billet de présentation de Vim que j’ai publié il y a quelques jours un petit tutorial pour activé le support du copier/coller avec Vim en mode console.</p>
+<p>Vim n’embarque pas de base la gestion du presse papier de base, et cela pour éviter de surcharger le logiciel qui n’est pas forcement utilisé par des distributions avec une interface graphique – sur les serveurs par exemple.</p>
 <p>La première chose à faire est donc de vérifier si Vim est compilé avec le support du serveur X. Pour cela lancez un terminal avec la commande :</p>
-
-<div lang="x-western">
-  <div dir="ltr">
-    <div>
-      <div>
-        <pre>vim --version | grep xterm</pre>
-        
-        <p>
-          si dans la liste qu&#8217;il vous retourne vous voyez
-        </p>
-        
-        <pre> -xterm_clipboard</pre>
-        
-        <p>
-          Alors vous avez un Vim sans support de X&#8230; Mais pas de panique, il suffit d&#8217;installer<strong> vim-gui-common</strong> ou <strong>Gvim/MacVim</strong> pour avoir une version de Vim compatible.
-        </p>
-        
-        <p>
-          Une fois installé vous pouvez utilisé la syntaxe Vim pour mettre vos parties copiées dans le registre du presse papier avec <strong><em>&#8220;+y.</em></strong>
-        </p>
-        
-        <p>
-          Si comme moi, vous êtes pas fan des combinaisons de plus de 2 touches je vous propose les mappings suivant:
-        </p>
-      </div>
-      
-
-<pre><code>  &lt;pre&gt;&quot; Copy to the clipboard -- need +xterm-clipboard
+<!-- raw HTML omitted -->
+<pre><code>    &lt;p&gt;
+      si dans la liste qu&amp;#8217;il vous retourne vous voyez
+    &lt;/p&gt;
+    
+    &lt;pre&gt; -xterm_clipboard&lt;/pre&gt;
+    
+    &lt;p&gt;
+      Alors vous avez un Vim sans support de X&amp;#8230; Mais pas de panique, il suffit d&amp;#8217;installer&lt;strong&gt; vim-gui-common&lt;/strong&gt; ou &lt;strong&gt;Gvim/MacVim&lt;/strong&gt; pour avoir une version de Vim compatible.
+    &lt;/p&gt;
+    
+    &lt;p&gt;
+      Une fois installé vous pouvez utilisé la syntaxe Vim pour mettre vos parties copiées dans le registre du presse papier avec &lt;strong&gt;&lt;em&gt;&amp;#8220;+y.&lt;/em&gt;&lt;/strong&gt;
+    &lt;/p&gt;
+    
+    &lt;p&gt;
+      Si comme moi, vous êtes pas fan des combinaisons de plus de 2 touches je vous propose les mappings suivant:
+    &lt;/p&gt;
+  &lt;/div&gt;
+  
+  &lt;pre&gt;&quot; Copy to the clipboard -- need +xterm-clipboard
 </code></pre>
-
-<p>nmap &lt;Leader&gt;y &ldquo;+y&lt;CR&gt;</pre>
-    </div></p>
-
+<p>nmap &lt;Leader&gt;y &ldquo;+y&lt;CR&gt;<!-- raw HTML omitted -->
+<!-- raw HTML omitted --></p>
 <pre><code>&lt;p&gt;
   Ou
 &lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;set clipboard=unnamedplus&lt;/code&gt;&lt;/pre&gt;
 </code></pre>
-
-<p></div></p>
-
-<p><p>
-    En bonus, une petite astuce pour ne pas mettre dans les registres les morceaux de code que vous couper.
-  </p></p>
-
-<p><pre>&rdquo; Permet de couper du code avec d sans écraser le contenu du registre
- nmap &lt;Leader&gt;d &ldquo;_d&lt;CR&gt;</pre>
-</div></p>
-
-<p>&nbsp;</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p> </p>
 
 		</div>
 	</main>
 
 	<footer id="site-footer" class="section-inner thin animated fadeIn faster">
-		<p>&copy; 2021 <a href="https://angezanetti.com">Xavier Coiffard</a> &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></p>
+		<p>&copy; 2022 <a href="https://angezanetti.com">Xavier Coiffard</a> &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></p>
 		<p>
 			Made with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> &#183; Theme <a href="https://github.com/Track3/hermit" target="_blank" rel="noopener">Hermit</a> &#183; <a href="https://angezanetti.com/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a>
 		</p>
@@ -151,7 +127,7 @@ La première chose à faire est donc de vérifier si Vim est compilé avec le su
 
 
 
-	<script src="https://angezanetti.com/js/bundle.min.490e43e5af6db5906f28afa49a4e16bf9f626b758e3fca92f146b870eb94bb37.js" integrity="sha256-SQ5D5a9ttZBvKK+kmk4Wv59ia3WOP8qS8Ua4cOuUuzc=" crossorigin="anonymous"></script>
+	<script src="https://angezanetti.com/js/bundle.min.7d8545daa55d62427355498dd8da13f98ff79a7938ce7d2a5e2ae1ec0de3beb8.js" integrity="sha256-fYVF2qVdYkJzVUmN2NoT+Y/3mnk4zn0qXirh7A3jvrg=" crossorigin="anonymous"></script>
 	
 <script async defer data-domain="angezanetti.com" src="https://plausible.io/js/plausible.js"></script>
 

@@ -7,29 +7,22 @@
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="theme-color" content="#FE5185">
 	<meta name="msapplication-TileColor" content="#FE5185">
-
 <meta itemprop="name" content="[Tuto] Monter son serveur ftp avec utilisateurs virtuels">
-<meta itemprop="description" content="Pour ceux qui me suivent sur Twitter vous avez du voir apparaitre le hashtag #mutualab. C&#8217;est en fait un projet que j&#8217;ai avec @WoldenAvro. Le but étant de mettre en place une plateforme d&#8217;échanges de &#8220;bout de codes qui marchent&#8221; entre développeurs qui bossent dans les nouveaux médias, plus particulièrement la réalité augmentée/UniversVirtuels.
-Le projet est toujours en gestation, je vous en parlerai plus en détail à la rentrée mais pour le moment je vais vous en faire une présentation technique.">
-
-
-<meta itemprop="datePublished" content="2010-08-12T08:15:11&#43;00:00" />
+<meta itemprop="description" content="Pour ceux qui me suivent sur Twitter vous avez du voir apparaitre le hashtag #mutualab. C’est en fait un projet que j’ai avec @WoldenAvro. Le but étant de mettre en place une plateforme d’échanges de “bout de codes qui marchent” entre développeurs qui bossent dans les nouveaux médias, plus particulièrement la réalité augmentée/UniversVirtuels.
+Le projet est toujours en gestation, je vous en parlerai plus en détail à la rentrée mais pour le moment je vais vous en faire une présentation technique."><meta itemprop="datePublished" content="2010-08-12T08:15:11&#43;00:00" />
 <meta itemprop="dateModified" content="2010-08-12T08:15:11&#43;00:00" />
-<meta itemprop="wordCount" content="1499">
-
-
-
-<meta itemprop="keywords" content="AdminServ,Tuto,Ubuntu," />
-<meta property="og:title" content="[Tuto] Monter son serveur ftp avec utilisateurs virtuels" />
-<meta property="og:description" content="Pour ceux qui me suivent sur Twitter vous avez du voir apparaitre le hashtag #mutualab. C&#8217;est en fait un projet que j&#8217;ai avec @WoldenAvro. Le but étant de mettre en place une plateforme d&#8217;échanges de &#8220;bout de codes qui marchent&#8221; entre développeurs qui bossent dans les nouveaux médias, plus particulièrement la réalité augmentée/UniversVirtuels.
+<meta itemprop="wordCount" content="998">
+<meta itemprop="keywords" content="AdminServ,Tuto,Ubuntu," /><meta property="og:title" content="[Tuto] Monter son serveur ftp avec utilisateurs virtuels" />
+<meta property="og:description" content="Pour ceux qui me suivent sur Twitter vous avez du voir apparaitre le hashtag #mutualab. C’est en fait un projet que j’ai avec @WoldenAvro. Le but étant de mettre en place une plateforme d’échanges de “bout de codes qui marchent” entre développeurs qui bossent dans les nouveaux médias, plus particulièrement la réalité augmentée/UniversVirtuels.
 Le projet est toujours en gestation, je vous en parlerai plus en détail à la rentrée mais pour le moment je vais vous en faire une présentation technique." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://angezanetti.com/tutoria-serveur-ftp-avec-utilisateurs-virtuels/" />
-<meta property="article:published_time" content="2010-08-12T08:15:11&#43;00:00"/>
-<meta property="article:modified_time" content="2010-08-12T08:15:11&#43;00:00"/>
+<meta property="og:url" content="https://angezanetti.com/tutoria-serveur-ftp-avec-utilisateurs-virtuels/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2010-08-12T08:15:11&#43;00:00" />
+<meta property="article:modified_time" content="2010-08-12T08:15:11&#43;00:00" />
+
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="[Tuto] Monter son serveur ftp avec utilisateurs virtuels"/>
-<meta name="twitter:description" content="Pour ceux qui me suivent sur Twitter vous avez du voir apparaitre le hashtag #mutualab. C&#8217;est en fait un projet que j&#8217;ai avec @WoldenAvro. Le but étant de mettre en place une plateforme d&#8217;échanges de &#8220;bout de codes qui marchent&#8221; entre développeurs qui bossent dans les nouveaux médias, plus particulièrement la réalité augmentée/UniversVirtuels.
+<meta name="twitter:description" content="Pour ceux qui me suivent sur Twitter vous avez du voir apparaitre le hashtag #mutualab. C’est en fait un projet que j’ai avec @WoldenAvro. Le but étant de mettre en place une plateforme d’échanges de “bout de codes qui marchent” entre développeurs qui bossent dans les nouveaux médias, plus particulièrement la réalité augmentée/UniversVirtuels.
 Le projet est toujours en gestation, je vous en parlerai plus en détail à la rentrée mais pour le moment je vais vous en faire une présentation technique."/>
 
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -40,7 +33,7 @@ Le projet est toujours en gestation, je vous en parlerai plus en détail à la r
 	<link rel="shortcut icon" href="/favicon.ico">
 
 	<title>[Tuto] Monter son serveur ftp avec utilisateurs virtuels</title>
-	<link rel="stylesheet" href="https://angezanetti.com/css/style.min.01f62fff7ba9e2888ea91c3cd0097e6a3f65d5d14863514fb3886453cca80599.css" integrity="sha256-AfYv/3up4oiOqRw80Al+aj9l1dFIY1FPs4hkU8yoBZk=" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://angezanetti.com/css/style.min.f74778e3020c87c304fb5982e09b92ba63a5c7f202996d4c7283d6057acfe9c1.css" integrity="sha256-90d44wIMh8ME+1mC4JuSumOlx/ICmW1McoPWBXrP6cE=" crossorigin="anonymous">
 	
 	<link rel="stylesheet" href="https://angezanetti.com/style.css">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans|Unica+One&display=swap" rel="stylesheet">
@@ -79,185 +72,53 @@ Le projet est toujours en gestation, je vous en parlerai plus en détail à la r
 	<main class="site-main section-inner thin animated fadeIn faster">
 		<h1>[Tuto] Monter son serveur ftp avec utilisateurs virtuels</h1>
 		<div class="content">
-			
-
-<p>Pour ceux qui me suivent sur Twitter vous avez du voir apparaitre le hashtag #mutualab. C&#8217;est en fait un projet que j&#8217;ai avec @<a href="http://twitter.com/WoldenAvro" title="WoldenAvro">WoldenAvro</a>. Le but étant de mettre en place une plateforme d&#8217;échanges de &#8220;bout de codes qui marchent&#8221; entre développeurs qui bossent dans les nouveaux médias, plus particulièrement la réalité augmentée/UniversVirtuels.</p>
-
-<p>Le projet est toujours en gestation, je vous en parlerai plus en détail à la rentrée mais pour le moment  je vais vous en faire une présentation technique. Avec Alain nous avons décidé que cette plateforme serait constituée d&#8217;une interface web style forum/wiki couplé à un serveur ftp pour présenter et héberger les différents projets mutualisés.</p>
-
-<p>J&#8217;ai eu la charge de mettre en place le serveur web et ftp. J&#8217;ai décidé de partager cette expérience sous la forme d&#8217;un petit tuto, en espérant qu&#8217;il puisse vous aider si un jour vous venait à l&#8217;idée de monter votre serveur dédié.</p>
-
-<p>Le but étant de vous montrer que c&#8217;est finalement pas très compliqué. Il faut quand même avoir quelques connaissances de base de Linux &#8211; pouvoir se déplacer dans l&#8217;arborescence en ligne de commande, savoir installer des paquets etc&#8230; &#8211; mais celui qui à utiliser Linux comme OS au moins une fois devrais s&#8217;en sortir. Au pire, et c&#8217;est ça qui est génial dans le libre, la <a title="Documentation Ubuntu-fr" href="http://doc.ubuntu-fr.org/" target="_blank">documentation d&#8217;Ubuntu </a>est là pour vous aider. Elle est super complète et si vous ne trouvez pas ce qu&#8217;il vous faut il reste les forums qui sont très actifs. Bref vous ne serez jamais seul au monde devant votre prompt :)</p>
-
-<p>Le serveur à été loué chez un hébergeur mais ce tuto fonctionne tout aussi bien avec un vieux PC branché sur une ***box. La seule différence est en fait dans la première demi-heure de mise en place du serveur : Pour un serv loué il suffit de cliquer sur &#8220;Installer Ubuntu Server&#8221; pour avoir votre distribution Linux alors que pour un serveur maison il faut booter sur un CD préalablement téléchargé et gravé.</p>
-
-<p>Dans les deux cas ce n&#8217;est pas très compliqué, il faut renseigner son nom et autres banalités et d&#8217;attendre 30min le temps que tout ces petits fichiers prennent place.</p>
-
+			<p>Pour ceux qui me suivent sur Twitter vous avez du voir apparaitre le hashtag #mutualab. C’est en fait un projet que j’ai avec @<a href="http://twitter.com/WoldenAvro" title="WoldenAvro">WoldenAvro</a>. Le but étant de mettre en place une plateforme d’échanges de “bout de codes qui marchent” entre développeurs qui bossent dans les nouveaux médias, plus particulièrement la réalité augmentée/UniversVirtuels.</p>
+<p>Le projet est toujours en gestation, je vous en parlerai plus en détail à la rentrée mais pour le moment  je vais vous en faire une présentation technique. Avec Alain nous avons décidé que cette plateforme serait constituée d’une interface web style forum/wiki couplé à un serveur ftp pour présenter et héberger les différents projets mutualisés.</p>
+<p>J’ai eu la charge de mettre en place le serveur web et ftp. J’ai décidé de partager cette expérience sous la forme d’un petit tuto, en espérant qu’il puisse vous aider si un jour vous venait à l’idée de monter votre serveur dédié.</p>
+<p>Le but étant de vous montrer que c’est finalement pas très compliqué. Il faut quand même avoir quelques connaissances de base de Linux – pouvoir se déplacer dans l’arborescence en ligne de commande, savoir installer des paquets etc… – mais celui qui à utiliser Linux comme OS au moins une fois devrais s’en sortir. Au pire, et c’est ça qui est génial dans le libre, la <!-- raw HTML omitted -->documentation d’Ubuntu <!-- raw HTML omitted -->est là pour vous aider. Elle est super complète et si vous ne trouvez pas ce qu’il vous faut il reste les forums qui sont très actifs. Bref vous ne serez jamais seul au monde devant votre prompt :)</p>
+<p>Le serveur à été loué chez un hébergeur mais ce tuto fonctionne tout aussi bien avec un vieux PC branché sur une ***box. La seule différence est en fait dans la première demi-heure de mise en place du serveur : Pour un serv loué il suffit de cliquer sur “Installer Ubuntu Server” pour avoir votre distribution Linux alors que pour un serveur maison il faut booter sur un CD préalablement téléchargé et gravé.</p>
+<p>Dans les deux cas ce n’est pas très compliqué, il faut renseigner son nom et autres banalités et d’attendre 30min le temps que tout ces petits fichiers prennent place.</p>
 <p>Alors une fois Linux installé sur votre machine de quoi a-t-on besoin ?</p>
-
-<p>Pour tout ce qui est web &#8211; wiki/forum, urls et autres &#8211; on va utiliser le fameux LAMP. Cela veut dire Linux-Apache-Mysql-PHP et cela fait tourner beaucoup de choses. Tient ce blog par exemple tourne sur un LAMP :)</p>
-
+<p>Pour tout ce qui est web – wiki/forum, urls et autres – on va utiliser le fameux LAMP. Cela veut dire Linux-Apache-Mysql-PHP et cela fait tourner beaucoup de choses. Tient ce blog par exemple tourne sur un LAMP :)</p>
 <p>Pour installer un LAMP sous Linux rien de plus simple :</p>
-
-<pre>sudo apt-get install lamp-server^</pre>
-
-<p>Cette commande va vous installer Apache2, PHP5 et MySQL. Pour vérifier si cela fonctionne il suffit de taper l&#8217;IP du serveur dans votre Firefox et vous devriez tomber sur un joli :</p>
-
-<h3 id="it-works">It Works !<a href="#it-works" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
-
-<p>Cette page est automatiquement générée dans /var/www/ quand on installe Apache. En fait maintenant notre IP est automatiquement redirigée vers le répertoire /var/www/, cela ne me plait pas trop mais heureusement c&#8217;est configurable :)</p>
-
-<p>Moi ce que je veux c&#8217;est un utilisateurs générique dont le dossier sera la racine du répertoire web. Dossier qui sera partagé ensuite avec tous les utilisateurs qui ont un compte sur le site de mutualab.</p>
-
+<!-- raw HTML omitted -->
+<p>Cette commande va vous installer Apache2, PHP5 et MySQL. Pour vérifier si cela fonctionne il suffit de taper l’IP du serveur dans votre Firefox et vous devriez tomber sur un joli :</p>
+<h3 id="it-works-">It Works !<a href="#it-works-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+<p>Cette page est automatiquement générée dans /var/www/ quand on installe Apache. En fait maintenant notre IP est automatiquement redirigée vers le répertoire /var/www/, cela ne me plait pas trop mais heureusement c’est configurable :)</p>
+<p>Moi ce que je veux c’est un utilisateurs générique dont le dossier sera la racine du répertoire web. Dossier qui sera partagé ensuite avec tous les utilisateurs qui ont un compte sur le site de mutualab.</p>
 <p>Je commence donc par créer cet utilisateur :</p>
-
-<pre>adduser mutualab</pre>
-
+<!-- raw HTML omitted -->
 <p>Comme tous les utilisateurs de Linux cet utilisateurs aura un répertoire /home/mutualab/ comme répertoire personnel. Créons un répertoire /www/ qui servira de dossier partagé. Attention aux permissions, ce dossier est par défaut protégé en écriture. Hop, on change ça avec un petit</p>
-
-<pre>chmod -R 777 /home/mutualab/www/</pre>
-
-<p>Ensuite il me suffit d&#8217;ouvrir le fichier /etc/apache2/sites-available/default et de remplacer <strong>DocumentRoot /var/www/</strong> par</p>
-
-<pre>DocumentRoot /home/mutualab/www/</pre>
-
-<p>Reste maintenant le gros morceau : Mettre en place le serveur FTP et le faire fonctionner avec des utilisateurs virtuels. Pour ce projet j&#8217;ai choisi vsftpd, qui a la réputation d&#8217;être le plus sécurisé même si le protocole FTP est par nature trop peu &#8220;safe&#8221;.</p>
-
-<p>N.B : <em>Tout comme le choix d&#8217;Ubuntu plutôt que Debian c&#8217;est purement arbitraire rien ne vous empêche d&#8217;avoir le même résultat en prenant d&#8217;autres outils, c&#8217;est aussi ça la magie du libre :)</em></p>
-
+<!-- raw HTML omitted -->
+<p>Ensuite il me suffit d’ouvrir le fichier /etc/apache2/sites-available/default et de remplacer <strong>DocumentRoot /var/www/</strong> par</p>
+<!-- raw HTML omitted -->
+<p>Reste maintenant le gros morceau : Mettre en place le serveur FTP et le faire fonctionner avec des utilisateurs virtuels. Pour ce projet j’ai choisi vsftpd, qui a la réputation d’être le plus sécurisé même si le protocole FTP est par nature trop peu “safe”.</p>
+<p>N.B : <em>Tout comme le choix d’Ubuntu plutôt que Debian c’est purement arbitraire rien ne vous empêche d’avoir le même résultat en prenant d’autres outils, c’est aussi ça la magie du libre :)</em></p>
 <p>Pour installer vsftpd rien de plus simple :</p>
-
-<pre>sudo apt-get install vsftpd</pre>
-
-<p>Par défaut vsftpd est très très sécurisé et ne permet pas grand chose , surtout pas à des utilisateurs non enregistrés sur le système d&#8217;exploitation. Il va donc falloir mettre les mains dans le code, heureusement il y a un <a title="vsftpd manual" href="http://vsftpd.beasts.org/vsftpd_conf.html" target="_blank">manuel en ligne</a> et la <a href="http://doc.ubuntu-fr.org/vsftpd_et_pam_mysql" title="vsftpd Ubuntu">doc Ubuntu.</a></p>
-
-<p>Vsftp est un serveur FTP super complet, la doc liée ci dessus est en anglais et donne un peu le tournis, trop de fonctionnalités, trop d&#8217;options bref il faut faire le ménage dans tout ça :)</p>
-
-<p>Je vous propose une copie de mon fichier /etc/vsftpd.conf, c&#8217;est commenté vous devriez pas avoir trop de mal à déchiffrer.</p>
-
-<pre># Mode Daemon ou standalone
-listen=YES
-#
-# Allow anonymous FTP?
-anonymous_enable=NO
-#
-# Autoriser les utilisateurs locaux de se connecter au FTP
-local_enable=YES
-#
-# Autoriser l'accès en écriture
-write_enable=YES
-#
-# Default umask for local users is 077. You may wish to change this to 022,
-# if your users expect that (022 is used by most other ftpd's)
-local_umask=077
-#
-# Message pour ceuq qui vont dans certains dossiers
-dirmessage_enable=YES
-#
-#Utiliser l'heure locale
-use_localtime=YES
-#
-#Garder un log de l'activités des utilisateurs
-xferlog_enable=YES
-#
-#Permet de cacher la vraie identité du proprio du serv
-hide_ids=YES
-#
-# Make sure PORT transfer connections originate from port 20 (ftp-data).
-connect_from_port_20=YES
-#
-# Texte d'acceuil :
-ftpd_banner=Bienvenue sur le FTP du  Mutualab.
-#
-#
-#Options des utilisateurs du FTP
-#--------------------------------
-#Autoriser la connexions par des utlisateurs non locaux - On leur donne /home/mutualab/www/ comme rep commun
-guest_enable=YES
-guest_username=mutualab
-local_root=/home/mutualab/www/
-# Les utilisateurs locaux sont bloqués dans leur /home, ceux dans la liste sont Libres
-chroot_local_user=YES
-chroot_list_enable=YES
-chroot_list_file=/etc/vsftpd.chroot_list
-#
-#
-# Options de connexions
-#------------------------
-# Nbr de clients max, de cnx par clients, AFK max
-max_clients=30
-max_per_ip=3
-idle_session_timeout=60
-data_connection_timeout=120
-#
-# Debian customization
-#------------------------
-# Some of vsftpd's settings don't fit the Debian filesystem layout by
-# default.  These settings are more Debian-friendly.
-#
-# This option should be the name of a directory which is empty.  Also, the
-# directory should not be writable by the ftp user. This directory is used
-# as a secure chroot() jail at times vsftpd does not require filesystem
-# access.
-secure_chroot_dir=/var/run/vsftpd/empty
-#
-# This string is the name of the PAM service vsftpd will use.
-pam_service_name=vsftpd
-#
-# This option specifies the location of the RSA certificate to use for SSL
-# encrypted connections.
-rsa_cert_file=/etc/ssl/private/vsftpd.pem</pre>
-
-<p>Ensuite on crée la base de données qui va permettre de mettre les login-pass des utilisateurs de mutualab. Vous pouvez le faire avec une interface graphique comme phpMyadmin moi je vous donne la méthode en ligne de commande c&#8217;est beaucoup plus simple :)</p>
-
-<pre>sudo mysql -u root -p
-mysql&gt; 
-
-CREATE DATABASE vsftpd;
-GRANT SELECT, INSERT, UPDATE, DELETE, CREATE, DROP ON vsftpd.* TO 'vsftpd'@'localhost' IDENTIFIED BY 'MOTDEPASSE_VSFTPD';
-FLUSH PRIVILEGES;
-USE vsftpd;
-
-# Creation d'une table utilsateurs avec 4 champs (ID, NOM, PASS, CRYPTAGE)
-CREATE TABLE `utilisateurs` ( `ID` INT NOT NULL AUTO_INCREMENT PRIMARY KEY , `NOM` TEXT NOT NULL , `PASS` TEXT NOT NULL , `CRYPTAGE` TEXT );
-
-# Creation d'une table logging avec 6 champs (ID, USER, HOST, RHOST, MSG, TIME)
-CREATE TABLE `logging` ( `ID` INT NOT NULL AUTO_INCREMENT PRIMARY KEY , `USER` TEXT NOT NULL , `HOST` TEXT NOT NULL , `RHOST` TEXT NOT NULL , `TIME` TEXT NOT NULL , `MSG` TEXT NOT NULL );</pre>
-
-<p>Avec cette configuration notre serveur FTP permet à tous les utilisateurs de se connecter au répertoire /home/mutualab/www/ avec leur login et pass qu&#8217;ils auront préalablement renseigné sur le site &#8211; et donc stocké dans la base de données MySQL. A noter que les utilisateurs seront &#8220;bloqués&#8221; dans ce répertoire et ne pourront ni se déplacer dans l&#8217;arborescence du système ni porté atteinte à la pérennité de celui-ci car ils n&#8217;auront pas les droits administrateur.</p>
-
+<!-- raw HTML omitted -->
+<p>Par défaut vsftpd est très très sécurisé et ne permet pas grand chose , surtout pas à des utilisateurs non enregistrés sur le système d’exploitation. Il va donc falloir mettre les mains dans le code, heureusement il y a un <!-- raw HTML omitted -->manuel en ligne<!-- raw HTML omitted --> et la <a href="http://doc.ubuntu-fr.org/vsftpd_et_pam_mysql" title="vsftpd Ubuntu">doc Ubuntu.</a></p>
+<p>Vsftp est un serveur FTP super complet, la doc liée ci dessus est en anglais et donne un peu le tournis, trop de fonctionnalités, trop d’options bref il faut faire le ménage dans tout ça :)</p>
+<p>Je vous propose une copie de mon fichier /etc/vsftpd.conf, c’est commenté vous devriez pas avoir trop de mal à déchiffrer.</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>Ensuite on crée la base de données qui va permettre de mettre les login-pass des utilisateurs de mutualab. Vous pouvez le faire avec une interface graphique comme phpMyadmin moi je vous donne la méthode en ligne de commande c’est beaucoup plus simple :)</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>Avec cette configuration notre serveur FTP permet à tous les utilisateurs de se connecter au répertoire /home/mutualab/www/ avec leur login et pass qu’ils auront préalablement renseigné sur le site – et donc stocké dans la base de données MySQL. A noter que les utilisateurs seront “bloqués” dans ce répertoire et ne pourront ni se déplacer dans l’arborescence du système ni porté atteinte à la pérennité de celui-ci car ils n’auront pas les droits administrateur.</p>
 <p>Pour que le serveur FTP puisse dialoguer avec la base de données on installe le paquet suivant :</p>
-
-<pre>sudo apt-get install libpam-mysql</pre>
-
+<!-- raw HTML omitted -->
 <p>Reste à configurer la connexion à la base de données. Pour cela on va utiliser PAM, et configurer le fichier /etc/pam.d/vsftpd</p>
-
 <p>Encore une fois je vous livre la copie du mien :</p>
-
-<pre># Standard behaviour for ftpd(8).                                                                                                                       
-#auth required  pam_listfile.so item=user sense=deny file=/etc/ftpusers onerr=succeed
-
-# Note: vsftpd handles anonymous logins on its own. Do not enable pam_ftp.so.
-
-# Standard pam includes
-#@include common-account
-#@include common-session
- #@include common-auth
-#auth required  pam_shells.so
-#-----------------------------------------------------
-# Connexion avec logging en base de donnees des acces
-auth required pam_mysql.so user=vsftpd passwd=*** host=localhost db=vsftpd table=utilisateurs usercolumn=NOM passwdcolumn=PASS crypt=1
-account required pam_mysql.so user=vsftpd passwd=**** host=localhost db=vsftpd table=utilisateurs usercolumn=NOM passwdcolumn=PASS crypt=1</pre>
-
-<p>Et c&#8217;est tout ! Il suffit de tester en remplissant un champ de la base de données, vous verrez cela fonctionne nickel. Avec cryptage du mot de passe de l&#8217;utilisateur en plus.</p>
-
-<p>J&#8217;espère que ce tuto pourra vous être utile, si vous avez des questions, des remarques n&#8217;hésitez pas !</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>Et c’est tout ! Il suffit de tester en remplissant un champ de la base de données, vous verrez cela fonctionne nickel. Avec cryptage du mot de passe de l’utilisateur en plus.</p>
+<p>J’espère que ce tuto pourra vous être utile, si vous avez des questions, des remarques n’hésitez pas !</p>
 
 		</div>
 	</main>
 
 	<footer id="site-footer" class="section-inner thin animated fadeIn faster">
-		<p>&copy; 2021 <a href="https://angezanetti.com">Xavier Coiffard</a> &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></p>
+		<p>&copy; 2022 <a href="https://angezanetti.com">Xavier Coiffard</a> &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></p>
 		<p>
 			Made with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> &#183; Theme <a href="https://github.com/Track3/hermit" target="_blank" rel="noopener">Hermit</a> &#183; <a href="https://angezanetti.com/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a>
 		</p>
@@ -265,7 +126,7 @@ account required pam_mysql.so user=vsftpd passwd=**** host=localhost db=vsftpd t
 
 
 
-	<script src="https://angezanetti.com/js/bundle.min.490e43e5af6db5906f28afa49a4e16bf9f626b758e3fca92f146b870eb94bb37.js" integrity="sha256-SQ5D5a9ttZBvKK+kmk4Wv59ia3WOP8qS8Ua4cOuUuzc=" crossorigin="anonymous"></script>
+	<script src="https://angezanetti.com/js/bundle.min.7d8545daa55d62427355498dd8da13f98ff79a7938ce7d2a5e2ae1ec0de3beb8.js" integrity="sha256-fYVF2qVdYkJzVUmN2NoT+Y/3mnk4zn0qXirh7A3jvrg=" crossorigin="anonymous"></script>
 	
 <script async defer data-domain="angezanetti.com" src="https://plausible.io/js/plausible.js"></script>
 

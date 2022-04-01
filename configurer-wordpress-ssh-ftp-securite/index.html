@@ -7,33 +7,26 @@
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="theme-color" content="#FE5185">
 	<meta name="msapplication-TileColor" content="#FE5185">
-
 <meta itemprop="name" content="Configurer WordPress pour utiliser SSH au lieu de FTP">
-<meta itemprop="description" content="J&#8217;ai récemment (re)installé un serveur dédié pour mon ami Guillaume. Ce serveur sert, entre autres, à faire tourner un blog WordPress.
-J&#8217;ai mis en place un LAMP, tout bête et expliqué à Guillaume comment utiliser SSH &#8211; avec SFTP &#8211; pour le transfert de fichiers sur le serveur. Ainsi j&#8217;évite de mettre un serveur FTP, protocole critiqué pour sa sécurité.
- Update Sept 2012 : Depuis la rédaction de ce post il existe un plugin qui fait le boulot en deux clics :http://wordpress.">
-
-
-<meta itemprop="datePublished" content="2012-03-12T17:02:10&#43;00:00" />
+<meta itemprop="description" content="J’ai récemment (re)installé un serveur dédié pour mon ami Guillaume. Ce serveur sert, entre autres, à faire tourner un blog WordPress.
+J’ai mis en place un LAMP, tout bête et expliqué à Guillaume comment utiliser SSH – avec SFTP – pour le transfert de fichiers sur le serveur. Ainsi j’évite de mettre un serveur FTP, protocole critiqué pour sa sécurité.
+ _Update Sept 2012 : Depuis la rédaction de ce post il existe un plugin qui fait le boulot en deux clics :http://wordpress."><meta itemprop="datePublished" content="2012-03-12T17:02:10&#43;00:00" />
 <meta itemprop="dateModified" content="2012-03-12T17:02:10&#43;00:00" />
-<meta itemprop="wordCount" content="500">
-
-
-
-<meta itemprop="keywords" content="AdminServ,Tuto,WordPress," />
-<meta property="og:title" content="Configurer WordPress pour utiliser SSH au lieu de FTP" />
-<meta property="og:description" content="J&#8217;ai récemment (re)installé un serveur dédié pour mon ami Guillaume. Ce serveur sert, entre autres, à faire tourner un blog WordPress.
-J&#8217;ai mis en place un LAMP, tout bête et expliqué à Guillaume comment utiliser SSH &#8211; avec SFTP &#8211; pour le transfert de fichiers sur le serveur. Ainsi j&#8217;évite de mettre un serveur FTP, protocole critiqué pour sa sécurité.
- Update Sept 2012 : Depuis la rédaction de ce post il existe un plugin qui fait le boulot en deux clics :http://wordpress." />
+<meta itemprop="wordCount" content="470">
+<meta itemprop="keywords" content="AdminServ,Tuto,WordPress," /><meta property="og:title" content="Configurer WordPress pour utiliser SSH au lieu de FTP" />
+<meta property="og:description" content="J’ai récemment (re)installé un serveur dédié pour mon ami Guillaume. Ce serveur sert, entre autres, à faire tourner un blog WordPress.
+J’ai mis en place un LAMP, tout bête et expliqué à Guillaume comment utiliser SSH – avec SFTP – pour le transfert de fichiers sur le serveur. Ainsi j’évite de mettre un serveur FTP, protocole critiqué pour sa sécurité.
+ _Update Sept 2012 : Depuis la rédaction de ce post il existe un plugin qui fait le boulot en deux clics :http://wordpress." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://angezanetti.com/configurer-wordpress-ssh-ftp-securite/" />
-<meta property="article:published_time" content="2012-03-12T17:02:10&#43;00:00"/>
-<meta property="article:modified_time" content="2012-03-12T17:02:10&#43;00:00"/>
+<meta property="og:url" content="https://angezanetti.com/configurer-wordpress-ssh-ftp-securite/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2012-03-12T17:02:10&#43;00:00" />
+<meta property="article:modified_time" content="2012-03-12T17:02:10&#43;00:00" />
+
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Configurer WordPress pour utiliser SSH au lieu de FTP"/>
-<meta name="twitter:description" content="J&#8217;ai récemment (re)installé un serveur dédié pour mon ami Guillaume. Ce serveur sert, entre autres, à faire tourner un blog WordPress.
-J&#8217;ai mis en place un LAMP, tout bête et expliqué à Guillaume comment utiliser SSH &#8211; avec SFTP &#8211; pour le transfert de fichiers sur le serveur. Ainsi j&#8217;évite de mettre un serveur FTP, protocole critiqué pour sa sécurité.
- Update Sept 2012 : Depuis la rédaction de ce post il existe un plugin qui fait le boulot en deux clics :http://wordpress."/>
+<meta name="twitter:description" content="J’ai récemment (re)installé un serveur dédié pour mon ami Guillaume. Ce serveur sert, entre autres, à faire tourner un blog WordPress.
+J’ai mis en place un LAMP, tout bête et expliqué à Guillaume comment utiliser SSH – avec SFTP – pour le transfert de fichiers sur le serveur. Ainsi j’évite de mettre un serveur FTP, protocole critiqué pour sa sécurité.
+ _Update Sept 2012 : Depuis la rédaction de ce post il existe un plugin qui fait le boulot en deux clics :http://wordpress."/>
 
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -43,7 +36,7 @@ J&#8217;ai mis en place un LAMP, tout bête et expliqué à Guillaume comment ut
 	<link rel="shortcut icon" href="/favicon.ico">
 
 	<title>Configurer WordPress pour utiliser SSH au lieu de FTP</title>
-	<link rel="stylesheet" href="https://angezanetti.com/css/style.min.01f62fff7ba9e2888ea91c3cd0097e6a3f65d5d14863514fb3886453cca80599.css" integrity="sha256-AfYv/3up4oiOqRw80Al+aj9l1dFIY1FPs4hkU8yoBZk=" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://angezanetti.com/css/style.min.f74778e3020c87c304fb5982e09b92ba63a5c7f202996d4c7283d6057acfe9c1.css" integrity="sha256-90d44wIMh8ME+1mC4JuSumOlx/ICmW1McoPWBXrP6cE=" crossorigin="anonymous">
 	
 	<link rel="stylesheet" href="https://angezanetti.com/style.css">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans|Unica+One&display=swap" rel="stylesheet">
@@ -82,82 +75,62 @@ J&#8217;ai mis en place un LAMP, tout bête et expliqué à Guillaume comment ut
 	<main class="site-main section-inner thin animated fadeIn faster">
 		<h1>Configurer WordPress pour utiliser SSH au lieu de FTP</h1>
 		<div class="content">
-			<p>J&#8217;ai récemment (re)installé un serveur dédié pour mon ami <a title="Dentallife guillaume Reys" href="http://dentallife.fr" target="_blank">Guillaume</a>. Ce serveur sert, entre autres, à faire tourner un blog <strong>WordPress</strong>.</p>
-
-<p>J&#8217;ai mis en place un LAMP, tout bête et expliqué à Guillaume comment utiliser SSH &#8211; avec SFTP &#8211; pour le transfert de fichiers sur le serveur. Ainsi j&#8217;évite de mettre un serveur FTP, protocole critiqué pour sa <strong>sécurité</strong>.</p>
-
+			<p>J’ai récemment (re)installé un serveur dédié pour mon ami <!-- raw HTML omitted -->Guillaume<!-- raw HTML omitted -->. Ce serveur sert, entre autres, à faire tourner un blog <strong>WordPress</strong>.</p>
+<p>J’ai mis en place un LAMP, tout bête et expliqué à Guillaume comment utiliser SSH – avec SFTP – pour le transfert de fichiers sur le serveur. Ainsi j’évite de mettre un serveur FTP, protocole critiqué pour sa <strong>sécurité</strong>.</p>
 <blockquote>
-<p><em><strong>Update Sept 2012</strong> : Depuis la rédaction de ce post il existe un plugin qui fait le boulot en deux clics :<a href="http://wordpress.org/extend/plugins/ssh-sftp-updater-support/installation/" title="SSH et SFTP plugin for WordPress"> http://wordpress.org/extend/plugins/ssh-sftp-updater-support/installation/</a>. Cela ne vous dispense pas de créer vos clés SSH avec ssh-keygen mais tout le reste &#8211; y compris les install d&#8217;extensions php osnt inutiles ! </em></p>
+<p>_<strong>Update Sept 2012</strong> : Depuis la rédaction de ce post il existe un plugin qui fait le boulot en deux clics :<a href="http://wordpress.org/extend/plugins/ssh-sftp-updater-support/installation/" title="SSH et SFTP plugin for WordPress"> http://wordpress.org/extend/plugins/ssh-sftp-updater-support/installation/</a>. Cela ne vous dispense pas de créer vos clés SSH avec ssh-keygen mais tout le reste – y compris les install d’extensions php osnt inutiles ! _</p>
 </blockquote>
-
-<p>Mais problème, pour mettre à jour les thèmes et les extensions WordPress demande un accès FTP. Le SSH n&#8217;est pas disponible par défaut. Je me doutais bien que je n&#8217;étais pas le premier à me confronter au sujet, j&#8217;ai donc cherché un peu sur la toile et je suis tombé sur des tutos plus ou moins complets, <a title="Wordpress SSH" href="http://www.jonathan.vc/wordpress-install-upgrade-ssh.html" target="_blank">plus ou moins en français</a>. Je vais donc noté tout ça ici et le garder au chaud dans ma base de données, autant pour vous que pour moi !</p>
-
-<p>Alors dans un premier temps on installe, si ce n&#8217;est pas déjà fait, les <strong>librairies SSH</strong> :</p>
-
-<pre>sudo apt-get install libssh2-1-dev libssh2-1 libssh2-php</pre>
-
+<p>Mais problème, pour mettre à jour les thèmes et les extensions WordPress demande un accès FTP. Le SSH n’est pas disponible par défaut. Je me doutais bien que je n’étais pas le premier à me confronter au sujet, j’ai donc cherché un peu sur la toile et je suis tombé sur des tutos plus ou moins complets, <!-- raw HTML omitted -->plus ou moins en français<!-- raw HTML omitted -->. Je vais donc noté tout ça ici et le garder au chaud dans ma base de données, autant pour vous que pour moi !</p>
+<p>Alors dans un premier temps on installe, si ce n’est pas déjà fait, les <strong>librairies SSH</strong> :</p>
+<!-- raw HTML omitted -->
 <p>Ensuite les <strong>libs PHP5</strong> :</p>
-
-<pre>sudo apt-get install php-pear php5-dev</pre>
-
+<!-- raw HTML omitted -->
 <p>Une fois que tout est installé on va <strong>chercher SSH2 via pecl</strong> :</p>
-
-<pre>sudo pecl install channel://pecl.php.net/ssh2-0.11.3</pre>
-
-<p>NB: Ceci est la version beta, pour la version classique un sudo pecl install ssh2 devrait suffire, mais pour Ubuntu 10.04.3 j&#8217;ai du utilisé la beta&#8230;</p>
-
+<!-- raw HTML omitted -->
+<p>NB: Ceci est la version beta, pour la version classique un sudo pecl install ssh2 devrait suffire, mais pour Ubuntu 10.04.3 j’ai du utilisé la beta…</p>
 <p>Une fois que SSH2 est installé on crée  /etc/php5/conf.d/ssh2.ini avec sudo touch /etc/php5/conf.d/ssh2.ini Et on y place le code suivant :</p>
-
-<pre>extension=ssh2.so</pre>
-
+<!-- raw HTML omitted -->
 <p>On <strong>redémarre Apache</strong> ( sudo /etc/init.d/apache2 restart) . Voilà pour la config serveur. Reste a configurer WordPress !</p>
-
 <p>On commence par <strong>crée des clés SSH</strong> pour que WordPress puisse se logger :</p>
-
-<pre>ssh-keygen</pre>
-
+<!-- raw HTML omitted -->
 <p>Vous devriez avoir un truc du genre :</p>
-
 <blockquote>
 <p>_Generating public/private rsa key pair.</p>
-
+</blockquote>
+<blockquote>
 <p>Enter file in which to save the key (/home/user/.ssh/id_rsa):</p>
-
+</blockquote>
+<blockquote>
 <p>Created directory ‘/home/user/.ssh’.</p>
-
-<p>Enter passphrase (empty for no passphrase): <strong>(le mot de passe n&#8217;est pas indispensable, il suffit de taper Entrée)</strong></p>
-
+</blockquote>
+<blockquote>
+<p>Enter passphrase (empty for no passphrase): <strong>(le mot de passe n’est pas indispensable, il suffit de taper Entrée)</strong></p>
+</blockquote>
+<blockquote>
 <p>Enter same passphrase again: <strong>(même chose)</strong></p>
-
+</blockquote>
+<blockquote>
 <p>Your identification has been saved in /home/user/.ssh/id_rsa.</p>
-
+</blockquote>
+<blockquote>
 <p>Your public key has been saved in /home/user/.ssh/id_rsa.pub.</p>
-
+</blockquote>
+<blockquote>
 <p>The key fingerprint is: blablablab_</p>
 </blockquote>
-
-<p>Une fois les clés SSH crées on copie la clé publique en &#8220;authorized_keys&#8221; et on modifie les permissions des dossiers :</p>
-
-<pre>cd ssh
-cp id_rsa.pub authorized_keys
-cd
-chmod 755 .ssh</pre>
-
-<p>Et voilà :) Cela suffit, seul problème avec cette config WordPress va vous demandé à chaque fois vos identifiants, pass, et chemin de clés SSH. Pour y remédier c&#8217;est assez simple, il faut éditer le fichier <strong>wp-config.php</strong> qui se trouve à la racine de votre installation wordpress et d<strong>&#8216;ajouter les lignes suivantes :</strong></p>
-
-<pre>define('FTP_PUBKEY','/home/user/.ssh/id_rsa.pub');
-define('FTP_PRIKEY','/home/user/.ssh/id_rsa');
-define('FTP_USER','user');
-define('FTP_PASS','');
-define('FTP_HOST','monserveur.com');</pre>
-
+<p>Une fois les clés SSH crées on copie la clé publique en “authorized_keys” et on modifie les permissions des dossiers :</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>Et voilà :) Cela suffit, seul problème avec cette config WordPress va vous demandé à chaque fois vos identifiants, pass, et chemin de clés SSH. Pour y remédier c’est assez simple, il faut éditer le fichier <strong>wp-config.php</strong> qui se trouve à la racine de votre installation wordpress et d**‘ajouter les lignes suivantes :**</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 <p>Normalement pus besoin de renseigner ces id/pass/keys à chaque fois ! Bye bye le vilain protocole FTP :)</p>
 
 		</div>
 	</main>
 
 	<footer id="site-footer" class="section-inner thin animated fadeIn faster">
-		<p>&copy; 2021 <a href="https://angezanetti.com">Xavier Coiffard</a> &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></p>
+		<p>&copy; 2022 <a href="https://angezanetti.com">Xavier Coiffard</a> &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></p>
 		<p>
 			Made with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> &#183; Theme <a href="https://github.com/Track3/hermit" target="_blank" rel="noopener">Hermit</a> &#183; <a href="https://angezanetti.com/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a>
 		</p>
@@ -165,7 +138,7 @@ define('FTP_HOST','monserveur.com');</pre>
 
 
 
-	<script src="https://angezanetti.com/js/bundle.min.490e43e5af6db5906f28afa49a4e16bf9f626b758e3fca92f146b870eb94bb37.js" integrity="sha256-SQ5D5a9ttZBvKK+kmk4Wv59ia3WOP8qS8Ua4cOuUuzc=" crossorigin="anonymous"></script>
+	<script src="https://angezanetti.com/js/bundle.min.7d8545daa55d62427355498dd8da13f98ff79a7938ce7d2a5e2ae1ec0de3beb8.js" integrity="sha256-fYVF2qVdYkJzVUmN2NoT+Y/3mnk4zn0qXirh7A3jvrg=" crossorigin="anonymous"></script>
 	
 <script async defer data-domain="angezanetti.com" src="https://plausible.io/js/plausible.js"></script>
 

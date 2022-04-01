@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RéalitéMixte on /AngeZanetti.com</title>
@@ -7,19 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 19 Jun 2011 15:32:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/r%C3%A9alit%C3%A9mixte/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 19 Jun 2011 15:32:00 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/r%C3%A9alit%C3%A9mixte/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La Biblio propose la Web 3D art exhibition à la 16ème conférence ACM Web3D</title>
       <link>https://angezanetti.com/la-biblio-propose-la-web-3d-art-exhibition-a-la-16eme-conference-acm-web3d/</link>
       <pubDate>Sun, 19 Jun 2011 15:32:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/la-biblio-propose-la-web-3d-art-exhibition-a-la-16eme-conference-acm-web3d/</guid>
-      <description>Du 20 au 22 Juin prochain se tiendra à Paris la 16ème conférence annuelle ACM Web3D. Cette conférence va présenter des intervenants qui pensent et partagent l&amp;#8217;amélioration du Weben trois dimensions. On y parlera de WebGL, de X3D, d&amp;#8217;interface immersive, de seriousgame etc.
-Mais on y parlera aussi art contemporain, et c&amp;#8217;est la Bibliothèque Francophone qui organise cet aspect de la manifestation. Je serais donc dès demain, avec Audrey et Roger à Paris pour mettre en place la technique pour le Web3D Art exhibition.</description>
+      <description>Du 20 au 22 Juin prochain se tiendra à Paris la 16ème conférence annuelle ACM Web3D. Cette conférence va présenter des intervenants qui pensent et partagent l’amélioration du Weben trois dimensions. On y parlera de WebGL, de X3D, d’interface immersive, de seriousgame etc.
+Mais on y parlera aussi art contemporain, et c’est la Bibliothèque Francophone qui organise cet aspect de la manifestation. Je serais donc dès demain, avec Audrey et Roger à Paris pour mettre en place la technique pour le Web3D Art exhibition.</description>
     </item>
     
     <item>
@@ -28,7 +24,7 @@ Mais on y parlera aussi art contemporain, et c&amp;#8217;est la Bibliothèque Fr
       <pubDate>Tue, 20 Oct 2009 11:48:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/ibm-nokia-et-vtt-sallient-pour-creer-loutil-collaboratif-de-demain/</guid>
-      <description>L&amp;#8217;ubiquité ne sera peut être plus vraiment un rêve dans quelques années !   Des équipes d&amp;#8217;IBM, Nokia &amp; VTT ont participé à la réalisation d&amp;#8217;un prototype permettant de mixer réalité, monde virtuels et réalité augmentée. La cible de cette nouvelle technologie est clairement les espaces collaboratifs d&amp;#8217;entreprises. Le but étant simplement de rassembler dans la même pièce physique des personnes réelles des avatars grandeurs nature et des objets partagés !</description>
+      <description></description>
     </item>
     
   </channel>

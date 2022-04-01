@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tipodean on /AngeZanetti.com</title>
@@ -7,18 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 06 Jan 2012 07:37:57 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/tipodean/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 06 Jan 2012 07:37:57 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/tipodean/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Convertir des îles Opensim ou SecondLife en collada</title>
       <link>https://angezanetti.com/convertir-des-iles-opensim-ou-secondlife-en-collada/</link>
       <pubDate>Fri, 06 Jan 2012 07:37:57 +0000</pubDate>
       
       <guid>https://angezanetti.com/convertir-des-iles-opensim-ou-secondlife-en-collada/</guid>
-      <description>Je ne sais pas si vous connaissez Tipodean c&amp;#8217;est une startup dirigée par Chris Collins, un ancien Linden, et qui depuis quelques mois essaye de créer un viewer Unity pour OpenSim et SecondLife. Je vous en parlais en Juillet dernier, à l&amp;#8217;époque ce n&amp;#8217;était pas vraiment au point, c&amp;#8217;était de l&amp;#8217;alpha&amp;#8230;  Mais ils ont continué à travailler et ont annoncé le 3 janvier dernier la sortie d&amp;#8217;un site web qui permet de convertir directement le contenu SecondLife ou OpenSim pour l&amp;#8217;afficher dans le navigateur via Unity3d Ou Flash !</description>
+      <description></description>
     </item>
     
   </channel>

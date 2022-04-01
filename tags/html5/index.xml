@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HTML5 on /AngeZanetti.com</title>
@@ -7,20 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 02 Dec 2011 08:50:39 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/html5/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 02 Dec 2011 08:50:39 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/html5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unity supportera HTML5</title>
       <link>https://angezanetti.com/unity-webgl-html5/</link>
       <pubDate>Fri, 02 Dec 2011 08:50:39 +0000</pubDate>
       
       <guid>https://angezanetti.com/unity-webgl-html5/</guid>
-      <description>&amp;nbsp;
-J&amp;#8217;ai lu une news sur Gamasutra hier qui &amp;#8216;ma fiat bondir de mon siège &amp;#8211; ou presque. Unity technologies annonce qu&amp;#8217;il supportera probablement HTML5 dès que cette technologie &amp;#8220;sera prête pour le gaming&amp;#8221;.
-Le CEO, David Helgason explique que le moteur HTML5 est très bien pour faire de la datavisualisation par exemple mais que cette techno n&amp;#8217;est pas encore mûre pour faire du jeu. D&amp;#8217;après lui celui va changer avec le temps et Unity surveille de près ces changements pour pouvoir proposer une compatibilité rapidement.</description>
+      <description>J’ai lu une news sur Gamasutrahier qui ‘ma fiat bondir de mon siège – ou presque. Unity technologies annonce qu’il supportera probablement HTML5 dès que cette technologie “sera prête pour le gaming”.
+Le CEO, David Helgason explique que le moteur HTML5 est très bien pour faire de la datavisualisation par exemple mais que cette techno n’est pas encore mûre pour faire du jeu. D’après lui celui va changer avec le temps et Unity surveille de près ces changements pour pouvoir proposer une compatibilité rapidement.</description>
     </item>
     
     <item>
@@ -29,13 +24,9 @@ Le CEO, David Helgason explique que le moteur HTML5 est très bien pour faire de
       <pubDate>Mon, 05 Apr 2010 13:01:22 +0000</pubDate>
       
       <guid>https://angezanetti.com/quake-2-webgl-html5/</guid>
-      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
-  Je vous &lt;a href=&#34;http://angezanetti.com/webgl-katalabs-mondes-virtuels/&#34;&gt;parlais il y a un mois de&lt;strong&gt; WebGL&lt;/strong&gt;&lt;/a&gt;, une technologie qui utilise &lt;strong&gt;HTML 5 &lt;/strong&gt;pour mettre de la 3d directement dans votre navigateur. Et bien je suis ce projet de près depuis ma découverte de cette techno et je viens de trouver une news qui me plait beaucoup : Quake 2 fonctionne avec cette technologie :)
-&lt;/p&gt;
-
-&lt;p style=&#34;text-align: justify;&#34;&gt;
-  Autrement dit vous pouvez maintenant jouer à un jeu vidéo sans autre logiciel que votre navigateur web et sans avoir la peine d&amp;#8217;installer le moindre plugin. Juste une url à taper et hop vous vous retrouvez un minigun à la main entrain de tuer du méchant à tour de bras. C&amp;#8217;est pas génial ça?
-&lt;/p&gt;</description>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     
     <item>
@@ -44,8 +35,8 @@ Le CEO, David Helgason explique que le moteur HTML5 est très bien pour faire de
       <pubDate>Sat, 06 Mar 2010 16:00:25 +0000</pubDate>
       
       <guid>https://angezanetti.com/webgl-katalabs-mondes-virtuels/</guid>
-      <description>WebGL est un langage permettant d&amp;#8217;afficher de la 3D dans le navigateur sans installer le moindre plugin ou le moindre programme. Alors comment ça marche? J&amp;#8217;ai trouvé sur le blog de Fréderic Cavazzza une explication assez claire :
- _Pour rentrer un peu plus dans les détails, WebGL propose donc au sein d’une page web de lier du contenu à votre carte graphique à l’aide de javascript et d’OpenGL ES. “ES” ?</description>
+      <description>WebGL est un langage permettant d’afficher de la 3D dans le navigateur sans installer le moindre plugin ou le moindre programme. Alors comment ça marche? J’ai trouvé sur le blog de Fréderic Cavazzzaune explication assez claire :
+ Pour rentrer un peu plus dans les détails, WebGL propose donc au sein d’une page web de lier du contenu à votre carte graphique à l’aide de javascript et d’OpenGL ES. “ES” ?</description>
     </item>
     
   </channel>

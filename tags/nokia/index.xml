@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nokia on /AngeZanetti.com</title>
@@ -7,24 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 29 Mar 2010 07:07:06 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/nokia/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 29 Mar 2010 07:07:06 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/nokia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Tuto] Partager son Agenda sous Mac, Ubuntu et Nokia facilement</title>
       <link>https://angezanetti.com/partager-agenda-mac-ubuntu-nokia/</link>
       <pubDate>Mon, 29 Mar 2010 07:07:06 +0000</pubDate>
       
       <guid>https://angezanetti.com/partager-agenda-mac-ubuntu-nokia/</guid>
-      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
-  Depuis Vendredi dernier je suis l&amp;#8217;heureux possesseur d&amp;#8217;un macbook. C&amp;#8217;est une très bonne machine, et j&amp;#8217;en parlerais probablement ici un peu plus tard mais ce n&amp;#8217;est pas l&amp;#8217;objet de ce post.
-&lt;/p&gt;
-
-&lt;p style=&#34;text-align: justify;&#34;&gt;
-  Ici je vais vous parler Agenda, en effet j&amp;#8217;ai jusqu&amp;#8217;à maintenant utilisé un bon vieux agenda papier pour gérer mes RDV, obligations et todo list mais il faut bien avouer que ce n&amp;#8217;est pas très pratique. Surtout quand on se déplace, ce que j&amp;#8217;ai de plus en plus l&amp;#8217;occasion de faire. Et l&amp;#8217;arrivée d&amp;#8217;un nouveau système d&amp;#8217;exploitation dans mon panel de machine ne facilite pas franchement la chose. Ce week-end je me suis donc attelé à mettre mon agenda dans les nuages et à le synchroniser avec tous mes OS.
-&lt;/p&gt;</description>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     
   </channel>

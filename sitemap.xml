@@ -1,2971 +1,1682 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://angezanetti.com/</loc>
-    <lastmod>2021-02-05T09:30:40-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/tags/buildinpublic/</loc>
-    <lastmod>2021-02-05T09:30:40-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/tags/entrepreneur/</loc>
-    <lastmod>2021-02-05T09:30:40-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/posts/6-products-6months-half-way-there/</loc>
-    <lastmod>2021-02-05T09:30:40-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/tags/nocode/</loc>
-    <lastmod>2021-02-05T09:30:40-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/posts/</loc>
-    <lastmod>2021-02-05T09:30:40-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/tags/startup/</loc>
-    <lastmod>2021-02-05T09:30:40-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/tags/</loc>
-    <lastmod>2021-02-05T09:30:40-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2021-01-13T20:11:21-04:00</lastmod>
+  </url><url>
     <loc>https://angezanetti.com/tags/blog/</loc>
     <lastmod>2021-01-13T20:11:21-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/gohugo/</loc>
     <lastmod>2021-01-13T20:11:21-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/posts/how-to-blog-gohugo-netlify-seo/</loc>
     <lastmod>2021-01-13T20:11:21-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/netlify/</loc>
     <lastmod>2021-01-13T20:11:21-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://angezanetti.com/posts/</loc>
+    <lastmod>2021-01-13T20:11:21-04:00</lastmod>
+  </url><url>
     <loc>https://angezanetti.com/tags/seo/</loc>
     <lastmod>2021-01-13T20:11:21-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://angezanetti.com/tags/</loc>
+    <lastmod>2021-01-13T20:11:21-04:00</lastmod>
+  </url><url>
     <loc>https://angezanetti.com/posts/how-to-deploy-lumen-vps/</loc>
     <lastmod>2020-11-11T10:30:06-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/php/</loc>
     <lastmod>2020-11-11T10:30:06-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/tuto/</loc>
     <lastmod>2020-11-11T10:30:06-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/posts/how-i-validate-and-preorders-spreadtheworld/</loc>
-    <lastmod>2020-10-27T13:06:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/posts/6-projects-6-months-challenge/</loc>
-    <lastmod>2020-10-22T12:41:26-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://angezanetti.com/tags/entrepreneur/</loc>
+    <lastmod>2019-10-30T20:26:36-04:00</lastmod>
+  </url><url>
     <loc>https://angezanetti.com/tags/jobs/</loc>
-    <lastmod>2020-10-22T12:41:26-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2019-10-30T20:26:36-04:00</lastmod>
+  </url><url>
     <loc>https://angezanetti.com/posts/logology-meaningful-logos-for-startups/</loc>
     <lastmod>2019-10-30T20:26:36-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://angezanetti.com/tags/startup/</loc>
+    <lastmod>2019-10-30T20:26:36-04:00</lastmod>
+  </url><url>
     <loc>https://angezanetti.com/tags/dev/</loc>
     <lastmod>2019-10-06T20:22:07-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/posts/develop-wordpress-theme-with-docker/</loc>
     <lastmod>2019-10-06T20:22:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/tags/wordpress/</loc>
-    <lastmod>2019-10-06T20:22:07-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/opensource/</loc>
     <lastmod>2019-10-06T20:22:07-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/posts/how-to-install-openvpn/</loc>
-    <lastmod>2019-06-15T09:27:29+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://angezanetti.com/tags/wordpress/</loc>
+    <lastmod>2019-10-06T20:22:07-04:00</lastmod>
+  </url><url>
     <loc>https://angezanetti.com/tags/openvpn/</loc>
     <lastmod>2019-06-15T09:27:29+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://angezanetti.com/posts/how-to-install-openvpn/</loc>
+    <lastmod>2019-06-15T09:27:29+02:00</lastmod>
+  </url><url>
     <loc>https://angezanetti.com/posts/switching-from-wordpress-gohugo/</loc>
     <lastmod>2019-06-04T08:56:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/posts/starting-my-own-company/</loc>
     <lastmod>2019-04-26T19:26:41+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/humeur/</loc>
     <lastmod>2018-07-17T22:04:44+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/posts/on-algorythm-during-interview/</loc>
     <lastmod>2018-07-17T22:04:44+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/posts/from-diving-instructor-to-coder/</loc>
     <lastmod>2018-02-02T21:52:33+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/posts/restart-the-blog-in-english/</loc>
     <lastmod>2018-01-26T21:46:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/radio-webradio-pandora-pianobar/</loc>
     <lastmod>2017-07-05T14:36:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/conference-de-zuckerberg-a-voir/</loc>
     <lastmod>2017-05-26T03:57:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/vid%C3%A9o/</loc>
     <lastmod>2017-05-26T03:57:39+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/de-retour-en-attendant-les-visas/</loc>
     <lastmod>2017-04-17T07:27:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/je-suis-a-san-francisco/</loc>
     <lastmod>2016-10-05T20:23:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/usa/</loc>
     <lastmod>2016-10-05T20:23:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/je-pars-monter-une-boite-aux-us/</loc>
     <lastmod>2016-05-26T10:01:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/entrepreneur-salarie-3-ans-apres/</loc>
     <lastmod>2016-01-04T12:42:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/fuite-memoire-curl-php-red-hat-nss/</loc>
     <lastmod>2015-04-27T12:13:51+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/symfony/</loc>
     <lastmod>2015-04-27T12:13:51+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/eviter-proteger-premunir-attaques-hack-bruteforce-blog-site-wordpress/</loc>
     <lastmod>2014-08-17T10:00:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/faire-fonctionner-retro-eclairage-backlight-macbookpro-7-1-sous-ubuntu-14-04/</loc>
     <lastmod>2014-07-29T05:54:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/ubuntu/</loc>
     <lastmod>2014-07-29T05:54:52+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/comment-produire-code-qualite-methodes-travail-developpeur/</loc>
     <lastmod>2014-07-28T12:08:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/la-revolution-internet/</loc>
     <lastmod>2014-07-11T11:45:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/conf%C3%A9rences/</loc>
     <lastmod>2014-07-11T11:45:25+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/innovation/</loc>
     <lastmod>2014-07-11T11:45:25+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/usages/</loc>
     <lastmod>2014-07-11T11:45:25+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/vendredi/</loc>
     <lastmod>2014-07-11T11:45:25+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/code/</loc>
     <lastmod>2014-04-30T11:42:20+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/apprendre-a-coder-aux-enfants/</loc>
     <lastmod>2014-04-30T11:42:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/silex-framework-minimaliste-php-symfony/</loc>
     <lastmod>2014-03-06T13:08:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/migrer-spip-vers-wordpress/</loc>
     <lastmod>2014-01-26T16:28:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/faire-fonctionner-le-copiercoller-avec-vim-dans-le-terminal/</loc>
     <lastmod>2014-01-17T13:21:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/vim/</loc>
     <lastmod>2014-01-17T13:21:33+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/adminserv/</loc>
     <lastmod>2014-01-04T09:38:33+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/vim-un-editeur-de-texte-du-21eme-siecle/</loc>
     <lastmod>2014-01-04T09:38:33+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/tags/coworkinglille/</loc>
-    <lastmod>2013-12-30T14:30:44+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/je-nai-quun-seul-client-et-il-sappelle-coworking/</loc>
-    <lastmod>2013-12-30T14:30:44+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/coworking/</loc>
     <lastmod>2013-12-30T14:30:44+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://angezanetti.com/tags/coworkinglille/</loc>
+    <lastmod>2013-12-30T14:30:44+00:00</lastmod>
+  </url><url>
+    <loc>https://angezanetti.com/je-nai-quun-seul-client-et-il-sappelle-coworking/</loc>
+    <lastmod>2013-12-30T14:30:44+00:00</lastmod>
+  </url><url>
     <loc>https://angezanetti.com/changement-de-theme-et-nouveaux-usages/</loc>
     <lastmod>2013-12-20T20:36:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/viedublog/</loc>
     <lastmod>2013-12-20T20:36:31+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/pour-sortir-du-lot-mettez-vous-dans-une-niche/</loc>
     <lastmod>2013-09-22T16:11:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/installer-un-environnement-de-developpement-avec-virtualbox/</loc>
     <lastmod>2013-08-26T09:09:44+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/connaissez-vous-cryptocat-le-chat-anti-prism/</loc>
     <lastmod>2013-08-20T09:51:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/javascript/</loc>
     <lastmod>2013-08-20T09:51:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/contribuez-opensource-temps-libre-freelance-chomeurs/</loc>
     <lastmod>2013-08-19T08:47:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/la-programmation-objet-en-php/</loc>
     <lastmod>2013-08-07T09:53:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/sketchfab-le-youtube-de-la-3d-en-webgl/</loc>
     <lastmod>2013-08-06T15:14:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/webgl/</loc>
     <lastmod>2013-08-06T15:14:07+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/wp-cli-outil-ideal-maintenance-wordpress/</loc>
     <lastmod>2013-07-03T16:19:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/coworkinglille-demenage-et-a-besoin-de-vous/</loc>
     <lastmod>2013-06-25T08:48:41+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/mutualab/</loc>
     <lastmod>2013-06-25T08:48:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/lier-twitter-wordpress-dans-articles-sans-plugins/</loc>
     <lastmod>2013-06-10T07:37:51+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/cloud-party-maintenant-avec-un-moteur-physique-et-une-vraie-api/</loc>
     <lastmod>2013-04-29T11:03:44+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/cloudparty/</loc>
     <lastmod>2013-04-29T11:03:44+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/mondesvirtuels/</loc>
     <lastmod>2013-04-29T11:03:44+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/installer-node-js-debian-squeeze-gestionnaire-version-nvm/</loc>
     <lastmod>2013-04-15T09:13:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/nodejs/</loc>
     <lastmod>2013-04-15T09:13:40+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/webgl-adoption-usages-angezanetti-consultant/</loc>
     <lastmod>2013-04-10T09:06:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/le-moteur-dunreal-3-porte-sur-le-web-avec-webgl/</loc>
     <lastmod>2013-03-28T10:59:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/biblio-fr/</loc>
     <lastmod>2013-03-26T09:33:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/francogrid/</loc>
     <lastmod>2013-03-26T09:33:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/opensim/</loc>
     <lastmod>2013-03-26T09:33:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/opensim-fracogrid-twithaiku-rennes/</loc>
     <lastmod>2013-03-26T09:33:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/pourquoi-les-freelances-sont-aussi-deprimes-ou-pas/</loc>
     <lastmod>2013-02-28T10:44:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/kinect/</loc>
     <lastmod>2013-02-27T14:00:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/vos-muscles-comme-interface-homme-machine/</loc>
     <lastmod>2013-02-27T14:00:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/apero-wordpress-lille-developement/</loc>
     <lastmod>2013-02-26T10:04:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/lille/</loc>
     <lastmod>2013-02-26T10:04:09+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/google/</loc>
     <lastmod>2012-12-19T16:36:22+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/un-an-sans-google-retour-experience/</loc>
     <lastmod>2012-12-19T16:36:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/version-nodejs-a-jour-sur-ubuntu-1204-compilation-ppa/</loc>
     <lastmod>2012-12-02T11:13:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/realxtend/</loc>
     <lastmod>2012-11-23T10:25:45+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/realxtend-meshmoon-mondes-virtuels-virtual-worlds-hebergment/</loc>
     <lastmod>2012-11-23T10:25:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/actus/</loc>
     <lastmod>2012-09-20T08:27:22+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-nouveaux-produits-de-lindenlabs/</loc>
     <lastmod>2012-09-20T08:27:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/lindenlabs/</loc>
     <lastmod>2012-09-20T08:27:22+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/kinetre-un-projet-kinect-pour-animer-facilement-les-objets/</loc>
     <lastmod>2012-09-18T09:55:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/rentree-2012-projets-grandsensemble-maintenantautravail-dentallife/</loc>
     <lastmod>2012-09-17T09:34:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/projets/</loc>
     <lastmod>2012-09-17T09:34:40+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/javascript-fail/</loc>
     <lastmod>2012-08-06T15:35:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/aushopping/</loc>
     <lastmod>2012-07-10T13:14:34+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/aushopping-centre-commercial-monde-virtuel-immersif/</loc>
     <lastmod>2012-07-10T13:14:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/ajouter-un-sous-domaine-serveur-dedie-apache2-configuration/</loc>
     <lastmod>2012-06-28T09:36:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/backwpup-le-plugin-qui-sauvegarde-votre-wordpress-a-votre-place/</loc>
     <lastmod>2012-06-25T14:59:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/cloudparty-secondlife-like-navigateur-webgl-facebook/</loc>
     <lastmod>2012-06-19T18:24:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/secondlife/</loc>
     <lastmod>2012-06-19T18:24:45+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/linux/</loc>
     <lastmod>2012-06-19T07:00:39+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/unity3d/</loc>
     <lastmod>2012-06-19T07:00:39+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/unity3d-arrive-sous-linux/</loc>
     <lastmod>2012-06-19T07:00:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/immersive-labs-amphi-b-solution-3d-conferences-mondesvirtuels/</loc>
     <lastmod>2012-06-12T10:07:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/sant%C3%A9/</loc>
     <lastmod>2012-06-07T13:25:25+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/seriousgame/</loc>
     <lastmod>2012-06-07T13:25:25+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/autisme-kinect-seriousgame/</loc>
     <lastmod>2012-06-07T13:25:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/dentallife/</loc>
     <lastmod>2012-05-21T09:51:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/utiliser-vim-comme-editeur-lsl/</loc>
     <lastmod>2012-05-21T09:51:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/coworking-gratuite-business-model/</loc>
     <lastmod>2012-05-08T13:15:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/nouveau-design-angezanetti-html5-responsive/</loc>
     <lastmod>2012-05-04T10:57:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/serious-game-sante-2-0/</loc>
     <lastmod>2012-05-02T09:15:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/reduction-spam-wordpress-sans-plugin-htaccess/</loc>
     <lastmod>2012-03-22T14:53:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/la-pagination-wordpress-sans-plugin/</loc>
     <lastmod>2012-03-15T07:26:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/configurer-wordpress-ssh-ftp-securite/</loc>
     <lastmod>2012-03-12T17:02:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/ensad/</loc>
     <lastmod>2012-02-17T11:28:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/nantes-1757-realxtend-ensad-histoire-mondes-virtuels/</loc>
     <lastmod>2012-02-17T11:28:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/coffeeandpower/</loc>
     <lastmod>2012-01-16T05:28:09+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/le-coworking-createur-de-richesse/</loc>
     <lastmod>2012-01-16T05:28:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/slkinect-kinect-opensim-secondlife/</loc>
     <lastmod>2012-01-12T06:15:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/convertir-des-iles-opensim-ou-secondlife-en-collada/</loc>
     <lastmod>2012-01-06T07:37:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/flash/</loc>
     <lastmod>2012-01-06T07:37:57+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/three.js/</loc>
     <lastmod>2012-01-06T07:37:57+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/tipodean/</loc>
     <lastmod>2012-01-06T07:37:57+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/bonne-et-heureuse-annee-2012/</loc>
     <lastmod>2012-01-05T07:06:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/tweetbox/</loc>
     <lastmod>2012-01-05T07:06:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/minecraft/</loc>
     <lastmod>2011-12-29T11:55:23+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/minecraft-webgl-mondesvirtuels/</loc>
     <lastmod>2011-12-29T11:55:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/un-boilerplate-pour-three-js-est-sorti/</loc>
     <lastmod>2011-12-27T07:17:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/lindenlabs-secondlife-diverisifie-nouveaux-produits-2012/</loc>
     <lastmod>2011-12-26T05:39:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/agile/</loc>
     <lastmod>2011-12-15T07:03:21+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/collaboration/</loc>
     <lastmod>2011-12-15T07:03:21+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/outils/</loc>
     <lastmod>2011-12-15T07:03:21+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/trello-outil-agile-collaboration-distance-coworkinglille/</loc>
     <lastmod>2011-12-15T07:03:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/html5/</loc>
     <lastmod>2011-12-02T08:50:39+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/unity-webgl-html5/</loc>
     <lastmod>2011-12-02T08:50:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/secondlife-collaboration-coinnovation/</loc>
     <lastmod>2011-11-23T08:40:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/soutenez-fenetre-sur-chambre/</loc>
     <lastmod>2011-11-07T16:23:51+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/la-revolution-kinect-en-images/</loc>
     <lastmod>2011-11-01T12:13:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/microsoft/</loc>
     <lastmod>2011-11-01T12:13:45+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/acta/</loc>
     <lastmod>2011-10-30T14:10:57+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/acta-copyrights-hadopi/</loc>
     <lastmod>2011-10-30T14:10:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/quadrature/</loc>
     <lastmod>2011-10-30T14:10:57+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/etudes-dusages-operabis-secondlife-opensim-bilbiothequefrancophone/</loc>
     <lastmod>2011-10-25T07:54:17+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/tags/second-life/</loc>
-    <lastmod>2011-10-25T07:54:17+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/operabis/</loc>
     <lastmod>2011-10-25T07:54:17+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://angezanetti.com/tags/second-life/</loc>
+    <lastmod>2011-10-25T07:54:17+00:00</lastmod>
+  </url><url>
     <loc>https://angezanetti.com/data-visualisation-webgl-html5/</loc>
     <lastmod>2011-10-24T08:40:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/datavisualisation/</loc>
     <lastmod>2011-10-24T08:40:45+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/kirsten/</loc>
     <lastmod>2011-10-18T09:19:39+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/kirsten-viewer-crownfunding-secondlife-opnesource-businessplani/</loc>
     <lastmod>2011-10-18T09:19:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/je-veux-devenir-un-ninja/</loc>
     <lastmod>2011-10-14T08:57:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/scripts/</loc>
     <lastmod>2011-10-14T08:57:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/web-2.0/</loc>
     <lastmod>2011-10-14T08:57:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/faire-play-coworkinglille/</loc>
     <lastmod>2011-09-26T12:55:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/vacances-indonesia/</loc>
     <lastmod>2011-08-23T13:32:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/lindenlabs-secondlife-rodhumble-slcc2011/</loc>
     <lastmod>2011-08-18T13:16:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/beloola/</loc>
     <lastmod>2011-08-16T10:12:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/beloola-presentation-en-video/</loc>
     <lastmod>2011-08-16T10:12:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tuto-installation-nodejs-npm-express-sur-ubuntu-10-04/</loc>
     <lastmod>2011-08-11T10:04:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/lille-coworking-coworkinglille/</loc>
     <lastmod>2011-08-10T13:12:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/universit%C3%A9/</loc>
     <lastmod>2011-08-08T08:41:55+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/interet-usages-enseignement-mondes-immersifs/</loc>
     <lastmod>2011-08-08T08:41:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/notifications-mise-a-jour-wordpress/</loc>
     <lastmod>2011-08-01T09:15:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/mondes-virtuels-immersifs-chiffres/</loc>
     <lastmod>2011-07-29T13:55:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/cloudgaming/</loc>
     <lastmod>2011-07-25T15:12:09+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/could-gaming-monde-virtuel-seriousgame/</loc>
     <lastmod>2011-07-25T15:12:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/client-leger-navigateur-unity-webgl-opensim-secondlife/</loc>
     <lastmod>2011-07-15T08:54:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/rod-humble-secondlife/</loc>
     <lastmod>2011-06-30T13:42:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/openqwaq/</loc>
     <lastmod>2011-06-23T10:09:05+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/protonmedia/</loc>
     <lastmod>2011-06-23T10:09:05+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/protonmedia-kaplan/</loc>
     <lastmod>2011-06-23T10:09:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/la-biblio-propose-la-web-3d-art-exhibition-a-la-16eme-conference-acm-web3d/</loc>
     <lastmod>2011-06-19T15:32:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/r%C3%A9alit%C3%A9mixte/</loc>
     <lastmod>2011-06-19T15:32:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/sdk-kinect-microsoft/</loc>
     <lastmod>2011-06-17T14:06:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/vastpark-1-5-nouveautes-imml-mondes-virtuels-immersifs/</loc>
     <lastmod>2011-06-11T10:28:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/vastpark/</loc>
     <lastmod>2011-06-11T10:28:52+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/intel/</loc>
     <lastmod>2011-06-08T09:55:42+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/opensim-optimise-intel-1000-avatars/</loc>
     <lastmod>2011-06-08T09:55:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/seriousgame-dentallife-developpement-conseil/</loc>
     <lastmod>2011-05-31T14:21:44+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/webgl-performances-optimisatio/</loc>
     <lastmod>2011-05-20T08:09:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/culture/</loc>
     <lastmod>2011-05-19T09:23:05+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/operabis-rennes-mozart-sur-ecrans/</loc>
     <lastmod>2011-05-19T09:23:05+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/teleplace-openqwaq-opensource-reunion-virtuel/</loc>
-    <lastmod>2011-05-05T09:28:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/teleplace/</loc>
     <lastmod>2011-05-05T09:28:25+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://angezanetti.com/teleplace-openqwaq-opensource-reunion-virtuel/</loc>
+    <lastmod>2011-05-05T09:28:25+00:00</lastmod>
+  </url><url>
     <loc>https://angezanetti.com/la-technique-pomodoro/</loc>
     <lastmod>2011-04-29T14:37:44+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/m%C3%A9thodes/</loc>
     <lastmod>2011-04-29T14:37:44+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/t%C3%A9l%C3%A9travail/</loc>
     <lastmod>2011-04-29T14:37:44+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/aodd-association-prothesistes-dentaires-reunion-secondlife/</loc>
     <lastmod>2011-04-21T09:54:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/laval-virtual-les-serious-game/</loc>
     <lastmod>2011-04-16T08:24:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/lavalvirtual/</loc>
     <lastmod>2011-04-16T08:24:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/expo-game-1-kinect-francogrid-lambersart-lille/</loc>
     <lastmod>2011-04-15T16:01:08+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/exposition/</loc>
     <lastmod>2011-04-15T16:01:08+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/lambersart/</loc>
     <lastmod>2011-04-15T16:01:08+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/laval-virtual-2011-dispositifs-immersifs/</loc>
     <lastmod>2011-04-09T10:48:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/linux-fete-20-ans-video/</loc>
     <lastmod>2011-04-07T17:17:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/logiciel-libre/</loc>
     <lastmod>2011-04-07T17:17:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/operabis-eugene-oneguine-6-avril-2011/</loc>
     <lastmod>2011-04-04T09:43:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/aushopping-gallerie-marchande-virtuelle-3d/</loc>
     <lastmod>2011-03-22T11:44:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/e-commerce/</loc>
     <lastmod>2011-03-22T11:44:46+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/linterview-de-philip-rosedale-par-kevin-rose/</loc>
     <lastmod>2011-03-10T08:45:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/hetic/</loc>
     <lastmod>2011-03-07T09:54:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/interventions-mondes-virtuels-hetic/</loc>
     <lastmod>2011-03-07T09:54:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/fenetre-sur-chambre-mondes-virtuels-pour-public-empeches/</loc>
     <lastmod>2011-02-25T11:25:44+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/roger-le-premier-seriousgame-a-utiliser-le-kinect/</loc>
     <lastmod>2011-02-23T09:46:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/et-si-on-parlait-du-riz-et-de-wikipedia/</loc>
     <lastmod>2011-02-22T10:35:17+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/tags/etudes/</loc>
-    <lastmod>2011-02-21T10:33:22+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/tags/lafabrique/</loc>
-    <lastmod>2011-02-21T10:33:22+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/le-marche-des-seriousgame/</loc>
-    <lastmod>2011-02-21T10:33:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/e-learning/</loc>
     <lastmod>2011-02-21T10:33:22+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://angezanetti.com/tags/etudes/</loc>
+    <lastmod>2011-02-21T10:33:22+00:00</lastmod>
+  </url><url>
+    <loc>https://angezanetti.com/tags/lafabrique/</loc>
+    <lastmod>2011-02-21T10:33:22+00:00</lastmod>
+  </url><url>
+    <loc>https://angezanetti.com/le-marche-des-seriousgame/</loc>
+    <lastmod>2011-02-21T10:33:22+00:00</lastmod>
+  </url><url>
     <loc>https://angezanetti.com/lactualite-de-secondlife-en-vrac/</loc>
     <lastmod>2011-01-21T13:43:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/webgl-mondesvirtuels-seriousgame/</loc>
     <lastmod>2011-01-18T08:59:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/nouveautes-secondlife-2011/</loc>
     <lastmod>2011-01-17T14:50:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/guadeloupe/</loc>
     <lastmod>2011-01-11T14:16:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/avatar-kinect-la-reponse-de-microsoft-aux-mondes-virtuels/</loc>
     <lastmod>2011-01-07T18:03:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/operabis-fait-sa-deuxieme-le-60110/</loc>
     <lastmod>2011-01-04T20:23:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/explor3d-des-evenement-pour-decouvrir-les-mondes-virtuels/</loc>
     <lastmod>2010-12-22T13:40:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/body-browser-de-la-3d-en-webgl-pour-nous-faire-reviser-lanatomie-humaine/</loc>
     <lastmod>2010-12-17T07:51:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/internet-3d/</loc>
     <lastmod>2010-12-17T07:51:31+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/interventions/</loc>
     <lastmod>2010-12-12T16:47:52+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/intervention-hetic-epn-des-ulis/</loc>
     <lastmod>2010-12-12T16:47:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/kinect-interface-de-demain-mondes-virtuels/</loc>
     <lastmod>2010-12-11T09:39:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/r%C3%A9alit%C3%A9augment%C3%A9e/</loc>
     <lastmod>2010-12-11T09:39:20+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/creer-theme-maintenance-pour-blog-wordpress/</loc>
     <lastmod>2010-11-30T11:04:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/travailler-efficacement-a-distance/</loc>
     <lastmod>2010-11-20T16:28:27+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/tags/vwcamp/</loc>
-    <lastmod>2010-11-10T10:24:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/virtual-world-camp-2010/</loc>
     <lastmod>2010-11-10T10:24:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://angezanetti.com/tags/vwcamp/</loc>
+    <lastmod>2010-11-10T10:24:37+00:00</lastmod>
+  </url><url>
     <loc>https://angezanetti.com/break-je-pars-en-inde/</loc>
     <lastmod>2010-11-07T13:22:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-chiffres-du-q3-2010-de-second-life-sont-en-baisse/</loc>
     <lastmod>2010-10-31T10:16:08+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/operabis-rennes-opera-second-life-opensim/</loc>
     <lastmod>2010-10-25T09:05:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/soutenez-linternet-libre/</loc>
     <lastmod>2010-10-20T09:20:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/auchan/</loc>
     <lastmod>2010-10-19T12:30:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/generalmotor/</loc>
     <lastmod>2010-10-19T12:30:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/general-motor-auchan-mondes-virtuels/</loc>
     <lastmod>2010-10-19T12:30:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/ted/</loc>
     <lastmod>2010-10-15T08:58:09+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/video-du-vendredi-changing-paradigms/</loc>
     <lastmod>2010-10-15T08:58:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-mesh-arrivent-sur-second-life/</loc>
     <lastmod>2010-10-14T08:43:08+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/hadopi/</loc>
     <lastmod>2010-10-08T07:57:33+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/cleanternet-hadopi/</loc>
     <lastmod>2010-10-08T07:57:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/cityone-seriousgame-innavation-villes-decideurs-ibm/</loc>
     <lastmod>2010-10-06T08:27:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/ibm/</loc>
     <lastmod>2010-10-06T08:27:17+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/rumeur-lindenlabs-microsoft/</loc>
     <lastmod>2010-10-01T12:24:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/choisir-licence-libre-opensource/</loc>
     <lastmod>2010-09-16T18:58:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/virtual-world-conference/</loc>
     <lastmod>2010-09-13T13:56:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-mondes-virtuels-sont-dans-le-creux-de-la-vague-et-cela-va-durer/</loc>
     <lastmod>2010-08-23T17:03:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/ar/</loc>
     <lastmod>2010-08-20T15:32:59+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/la-video-du-vendredi-ibutterfly/</loc>
     <lastmod>2010-08-20T15:32:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/secondlife-snowstorm-futur/</loc>
     <lastmod>2010-08-19T12:30:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/firefox/</loc>
     <lastmod>2010-08-13T16:17:52+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/firefox-est-multitouch/</loc>
     <lastmod>2010-08-13T16:17:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tutoria-serveur-ftp-avec-utilisateurs-virtuels/</loc>
     <lastmod>2010-08-12T08:15:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/opensim-071-compatible-viewer-2-de-second-life/</loc>
     <lastmod>2010-08-11T13:25:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/royal-navy-serious-game/</loc>
     <lastmod>2010-08-02T12:30:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/navy/</loc>
     <lastmod>2010-08-02T12:30:11+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/definition-seriousgame/</loc>
     <lastmod>2010-07-28T10:11:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/formation-a-la-prise-en-main-du-viewer-2-de-second-life/</loc>
     <lastmod>2010-07-26T13:01:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/55-sounds-to-the-sky/</loc>
     <lastmod>2010-07-23T12:58:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/unity3d-version3/</loc>
     <lastmod>2010-07-21T07:52:05+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/tags/guests/</loc>
-    <lastmod>2010-07-19T08:18:17+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/guest-retour-sur-le-quizz-de-dental-life/</loc>
     <lastmod>2010-07-19T08:18:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://angezanetti.com/tags/guests/</loc>
+    <lastmod>2010-07-19T08:18:17+00:00</lastmod>
+  </url><url>
     <loc>https://angezanetti.com/tags/jeuxvid%C3%A9os/</loc>
     <lastmod>2010-07-09T13:13:55+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/ubi-art-framework-ubisoft/</loc>
     <lastmod>2010-07-09T13:13:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/ubisoft/</loc>
     <lastmod>2010-07-09T13:13:55+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/monter-projet-second-life/</loc>
     <lastmod>2010-07-06T11:34:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/communiquer-avec-internet/</loc>
     <lastmod>2010-07-02T11:25:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/la-video-du-vendredi-openwonderland/</loc>
     <lastmod>2010-06-18T16:22:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/openwonderland/</loc>
     <lastmod>2010-06-18T16:22:24+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/migrations-entre-mondes-virtuels/</loc>
     <lastmod>2010-06-18T07:17:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/migration/</loc>
     <lastmod>2010-06-18T07:17:58+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/second-life-crise-viewer-browser/</loc>
     <lastmod>2010-06-10T12:20:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/second-life-ferme-son-agence-de-singapour/</loc>
     <lastmod>2010-06-08T10:24:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/bibliotheque-francophone-bbf/</loc>
     <lastmod>2010-06-07T08:59:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/guilluame-nery-deans-blue-hole/</loc>
     <lastmod>2010-06-04T16:20:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/le-teletravail-en-france/</loc>
     <lastmod>2010-06-01T09:53:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/la-version-2-de-vastpark/</loc>
     <lastmod>2010-05-31T07:27:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/mondes-virtuels-intranet-entreprise/</loc>
     <lastmod>2010-05-28T15:05:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/radart-jeux-videos-bibliotheque-francohpon/</loc>
     <lastmod>2010-05-26T09:39:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/la-video-du-vendredi-ubuntu-et-internet/</loc>
     <lastmod>2010-05-21T08:00:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/chrome/</loc>
     <lastmod>2010-05-20T09:18:55+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/unity3d-google-opensim/</loc>
     <lastmod>2010-05-20T09:18:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/journee-numerique-paris-descartes-realite-mixt/</loc>
     <lastmod>2010-05-15T09:39:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/la-video-du-vendredi-the-hidden-influence-of-social-networks/</loc>
     <lastmod>2010-05-14T10:51:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/google-native-client-sdk/</loc>
     <lastmod>2010-05-13T09:28:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/barcamp/</loc>
     <lastmod>2010-05-10T13:39:12+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/avatars-secondlife-marketing-ecommerce-consomateurs/</loc>
     <lastmod>2010-05-10T13:39:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/la-video-du-vendredi-amazing-pixels/</loc>
     <lastmod>2010-05-07T09:33:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-chiffres-second-life-q1-2010/</loc>
     <lastmod>2010-04-30T10:18:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/macdonalds-serious-game/</loc>
     <lastmod>2010-04-23T13:13:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/virtual-world-camp2/</loc>
     <lastmod>2010-04-21T08:23:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/ministres-transport-visioconference-eyjafjijll/</loc>
     <lastmod>2010-04-19T07:36:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/video-presentation-angezanetti/</loc>
     <lastmod>2010-04-16T13:37:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/test-macbook-unibody/</loc>
     <lastmod>2010-04-15T13:06:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/mac/</loc>
     <lastmod>2010-04-15T13:06:46+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/test/</loc>
     <lastmod>2010-04-15T13:06:46+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/yadni-appelle-a-laide/</loc>
     <lastmod>2010-04-13T08:22:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/assemblive/</loc>
     <lastmod>2010-04-12T11:06:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/assemblive-v1-8-francais-api/</loc>
     <lastmod>2010-04-12T11:06:41+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/ipad/</loc>
     <lastmod>2010-04-10T11:33:03+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/test-ipad-kindledx/</loc>
     <lastmod>2010-04-10T11:33:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/kindle/</loc>
     <lastmod>2010-04-10T11:33:03+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/identit%C3%A9-num%C3%A9rique/</loc>
     <lastmod>2010-04-07T06:27:29+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/expert-personnal-branding-identitenumerique-freelance/</loc>
     <lastmod>2010-04-07T06:27:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/quake/</loc>
     <lastmod>2010-04-05T13:01:22+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/quake-2-webgl-html5/</loc>
     <lastmod>2010-04-05T13:01:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/viewer20-secondlife-tos/</loc>
     <lastmod>2010-04-01T09:50:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/france3d/</loc>
     <lastmod>2010-03-31T14:51:25+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/france3d-devient-la-plateforme-francophone-officielle-de-secondlife/</loc>
     <lastmod>2010-03-31T14:51:25+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/tags/nokia/</loc>
-    <lastmod>2010-03-29T07:07:06+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/partager-agenda-mac-ubuntu-nokia/</loc>
     <lastmod>2010-03-29T07:07:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://angezanetti.com/tags/nokia/</loc>
+    <lastmod>2010-03-29T07:07:06+00:00</lastmod>
+  </url><url>
     <loc>https://angezanetti.com/linden-labs-arrete-la-beta-de-slim/</loc>
     <lastmod>2010-03-26T17:25:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/slim/</loc>
     <lastmod>2010-03-26T17:25:02+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/yoowalk-publicsenat/</loc>
     <lastmod>2010-03-22T15:40:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/yoowalk/</loc>
     <lastmod>2010-03-22T15:40:07+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/elearning-education-mondesvirtuels-assemblive/</loc>
     <lastmod>2010-03-21T17:05:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/que-fait-la-generation-y/</loc>
     <lastmod>2010-03-17T09:35:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/job-lafabrique-serious-game/</loc>
     <lastmod>2010-03-16T13:40:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/migration-blogger-wordpress-2/</loc>
     <lastmod>2010-03-11T08:47:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/there/</loc>
     <lastmod>2010-03-10T08:05:45+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/therenewworld-ouvre-ses-portes/</loc>
     <lastmod>2010-03-10T08:05:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/webgl-katalabs-mondes-virtuels/</loc>
     <lastmod>2010-03-06T16:00:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/ubuntu-lucidlynx-1004-relook/</loc>
     <lastmod>2010-03-05T11:59:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/opensource-iipa-logiciel-libre/</loc>
     <lastmod>2010-03-02T11:05:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/flash-mondes-virtuels-3d/</loc>
     <lastmod>2010-02-26T14:41:44+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/viewer-2-0-secondlife-test/</loc>
     <lastmod>2010-02-25T07:02:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/virtual-world-camp-paris-vastpark-imaginer/</loc>
     <lastmod>2010-02-22T16:24:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/migration-blogger-wordpress/</loc>
     <lastmod>2010-02-21T14:24:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/references/</loc>
     <lastmod>2010-02-20T12:20:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/offline-for-a-while/</loc>
     <lastmod>2010-01-14T21:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/lidentite-numerique-cette-inconnue/</loc>
     <lastmod>2010-01-13T09:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/pourquoi-faire-des-reunions-physiques/</loc>
     <lastmod>2010-01-11T12:14:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-dimanche-matin-weekly-6/</loc>
     <lastmod>2010-01-10T06:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/bonne-annee-2010/</loc>
     <lastmod>2010-01-04T13:16:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-dimanche-matin-weekly-5/</loc>
     <lastmod>2010-01-03T06:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-dimanche-matin-weekly-4/</loc>
     <lastmod>2009-12-27T06:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/unrealengine/</loc>
     <lastmod>2009-12-23T17:36:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/unrealengine-dispo-sur-iphone/</loc>
     <lastmod>2009-12-23T17:36:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/avatar-le-film/</loc>
     <lastmod>2009-12-20T09:31:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/cin%C3%A9ma/</loc>
     <lastmod>2009-12-20T09:31:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-dimanche-matin-weekly-3/</loc>
     <lastmod>2009-12-20T06:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tao-vacano-nous-presente-les-fonds-marseillais/</loc>
     <lastmod>2009-12-17T09:37:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-dimanche-matin-weekly-2/</loc>
     <lastmod>2009-12-13T06:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/secondlife-tourne-sur-iphone/</loc>
-    <lastmod>2009-12-10T10:27:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/iphone/</loc>
     <lastmod>2009-12-10T10:27:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://angezanetti.com/secondlife-tourne-sur-iphone/</loc>
+    <lastmod>2009-12-10T10:27:00+00:00</lastmod>
+  </url><url>
     <loc>https://angezanetti.com/le-coworking-arrive-a-strasbourg/</loc>
     <lastmod>2009-12-08T13:24:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/strasbourg/</loc>
     <lastmod>2009-12-08T13:24:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-dimanche-matin-weekly/</loc>
     <lastmod>2009-12-06T06:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/medecine/</loc>
     <lastmod>2009-12-04T09:27:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/pulse-le-serious-game-oriente-sante/</loc>
     <lastmod>2009-12-04T09:27:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/une-exposition-universelle-et-virtuelle-pour-presenter-linnovation-des-entreprises/</loc>
     <lastmod>2009-12-03T10:43:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/xstreetsl-change-ses-tarifs/</loc>
     <lastmod>2009-11-22T13:26:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-grandes-entreprises-sinteressent-de-plus-en-plus-aux-usages-des-mondes-virtuels/</loc>
     <lastmod>2009-11-21T13:22:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/yves-coppens-michel-serres-en-live-a-la-biblio/</loc>
     <lastmod>2009-11-13T14:51:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/un-viewer-opensim-base-sur-unity3d/</loc>
     <lastmod>2009-11-12T15:56:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/second-life-pour-les-entreprises-suscite-la-curiosite-du-web/</loc>
     <lastmod>2009-11-10T12:05:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/second-life-les-chiffres/</loc>
     <lastmod>2009-11-04T16:38:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/la-bibliotheque-francophone-du-metavers-au-jt-de-france-3/</loc>
     <lastmod>2009-11-03T08:35:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/break/</loc>
     <lastmod>2009-10-24T09:41:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/ibm-nokia-et-vtt-sallient-pour-creer-loutil-collaboratif-de-demain/</loc>
     <lastmod>2009-10-20T11:48:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/jaffiche-saffiche-sur-second-life/</loc>
     <lastmod>2009-10-17T08:04:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/philip-rosedale-quitte-linden-labs/</loc>
     <lastmod>2009-10-16T08:28:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-10162009/</loc>
     <lastmod>2009-10-16T06:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/prospectic-le-teaser/</loc>
     <lastmod>2009-10-12T13:35:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/nouveau-record-opensim-85/</loc>
     <lastmod>2009-10-10T13:53:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-10102009/</loc>
     <lastmod>2009-10-10T06:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/quelle-methode-pour-un-apprentissage-rapide-des-mondes-virtuels/</loc>
     <lastmod>2009-10-07T08:13:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-10042009/</loc>
     <lastmod>2009-10-04T06:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/mark-kingdon-etait-a-paris-3/</loc>
     <lastmod>2009-10-02T09:14:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/inauguration-de-metaversel/</loc>
     <lastmod>2009-10-01T06:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-marques-presentes-dans-les-mondes-virtuels/</loc>
     <lastmod>2009-09-30T08:12:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/orange-island-ferme-ses-portes/</loc>
     <lastmod>2009-09-28T10:43:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-09182009/</loc>
     <lastmod>2009-09-18T06:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/facebook/</loc>
     <lastmod>2009-09-17T08:45:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/facebook-et-second-life-sur-la-meme-voi-p/</loc>
     <lastmod>2009-09-17T08:45:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/le-juste-prix/</loc>
     <lastmod>2009-09-16T07:23:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/hubert-reeves-ne-sera-pas-en-direct-de-la-biblio/</loc>
     <lastmod>2009-09-13T09:03:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/le-1er-virtual-world-camp-se-tiendra-le-10-11-octobre-2009/</loc>
     <lastmod>2009-09-10T13:50:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-09092009/</loc>
     <lastmod>2009-09-09T06:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-09042009/</loc>
     <lastmod>2009-09-04T06:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/je-fais-ma-rentree/</loc>
     <lastmod>2009-09-03T07:52:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/construire-ecolo-grace-au-web/</loc>
     <lastmod>2009-07-19T19:40:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/cest-lete/</loc>
     <lastmod>2009-06-30T07:13:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/le-mulot-va-t-il-mourir/</loc>
     <lastmod>2009-06-22T14:41:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/retour-sur-ma-formation-pour-lecole-de-design-nantes-atlantique/</loc>
     <lastmod>2009-06-19T11:32:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-06192009/</loc>
     <lastmod>2009-06-19T06:28:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/importez-vos-objets-textures-depuis-sl-en-3-clics/</loc>
     <lastmod>2009-06-14T16:21:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-06122009/</loc>
     <lastmod>2009-06-12T06:28:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/lemonde-fr-redecouvre-second-life/</loc>
     <lastmod>2009-06-11T07:47:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/une-expo-a-voir-sur-sl/</loc>
     <lastmod>2009-06-03T07:31:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/twitter/</loc>
     <lastmod>2009-05-29T17:16:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/twitter-et-second-life-le-combo-ultime/</loc>
     <lastmod>2009-05-29T17:16:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/metalab3d/</loc>
     <lastmod>2009-05-29T09:59:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/programme-des-retransmissions-en-direct-du-metalab3d-de-second-life/</loc>
     <lastmod>2009-05-29T09:59:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/linden-labs-vous-ecoute/</loc>
     <lastmod>2009-05-27T17:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/biblio-presentation-du-festival-futur-en-seine/</loc>
     <lastmod>2009-05-25T08:57:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/nouvelles-fonctionnalites-pour-la-voip-de-second-life/</loc>
     <lastmod>2009-05-20T07:20:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-05192009/</loc>
     <lastmod>2009-05-19T06:29:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-05152009/</loc>
     <lastmod>2009-05-15T06:29:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/la-fin-du-tunnel-pour-second-life/</loc>
     <lastmod>2009-05-12T06:27:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/nouvelle-identite-graphique/</loc>
     <lastmod>2009-05-07T13:59:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-05062009/</loc>
     <lastmod>2009-05-06T06:29:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/lifting-du-html-embarque-pour-second-life/</loc>
     <lastmod>2009-05-02T20:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-05012009/</loc>
     <lastmod>2009-05-01T06:29:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-04302009/</loc>
     <lastmod>2009-04-30T06:29:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/opensim-met-en-place-les-groupes/</loc>
     <lastmod>2009-04-29T06:53:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-education-days-sur-orange-island/</loc>
     <lastmod>2009-04-28T08:56:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-04282009/</loc>
     <lastmod>2009-04-28T06:29:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/la-voip-est-sur-opensim/</loc>
     <lastmod>2009-04-23T14:59:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/the-myster-rendez-vous-biblio/</loc>
     <lastmod>2009-04-23T08:47:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/2-videos-prometteuses/</loc>
     <lastmod>2009-04-22T07:17:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-04202009/</loc>
     <lastmod>2009-04-20T06:29:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/entreprenez-quil-disait/</loc>
     <lastmod>2009-04-17T10:21:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/second-life-en-pleine-croissance/</loc>
     <lastmod>2009-04-15T20:24:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/le-personnel-de-sante-se-forme-avec-les-mondes-virtuels/</loc>
     <lastmod>2009-04-15T14:20:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/deux-petites-revolutions-dans-opensim/</loc>
     <lastmod>2009-04-14T08:54:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/le-lien-du-jour-04112009/</loc>
     <lastmod>2009-04-11T06:29:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-04092009/</loc>
     <lastmod>2009-04-09T06:29:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://angezanetti.com/rencontre-avec-jean-michel-flamant-ceo-didees-3com/</loc>
-    <lastmod>2009-04-08T08:54:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/idees-3com/</loc>
     <lastmod>2009-04-08T08:54:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://angezanetti.com/rencontre-avec-jean-michel-flamant-ceo-didees-3com/</loc>
+    <lastmod>2009-04-08T08:54:00+00:00</lastmod>
+  </url><url>
     <loc>https://angezanetti.com/formation-a-lecole-darchitecture-de-bordeaux/</loc>
     <lastmod>2009-04-06T12:28:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-04032009/</loc>
     <lastmod>2009-04-03T06:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/journee-numerique-des-universites-2009-enseigner-autrement/</loc>
     <lastmod>2009-04-01T12:11:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-03312009/</loc>
     <lastmod>2009-03-31T06:29:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/twitter-ou-rss/</loc>
     <lastmod>2009-03-30T11:29:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/mark-kingdon-etait-a-paris-2/</loc>
     <lastmod>2009-03-29T17:50:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/meeting/</loc>
     <lastmod>2009-03-29T17:50:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/medias-second-life-suite/</loc>
     <lastmod>2009-03-26T13:09:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-03262009/</loc>
     <lastmod>2009-03-26T06:29:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/journee-pratic-beaux-arts-23-mars-2009/</loc>
     <lastmod>2009-03-25T06:41:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/ce-blog-est-aussi-le-votre/</loc>
     <lastmod>2009-03-24T16:21:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/salon-de-linternet/</loc>
     <lastmod>2009-03-23T16:41:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/medias-second-life/</loc>
     <lastmod>2009-03-22T18:07:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/weblin/</loc>
     <lastmod>2009-03-19T11:20:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/weblin-or-not-weblin/</loc>
     <lastmod>2009-03-19T11:20:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-03192009/</loc>
     <lastmod>2009-03-19T06:31:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-03182009/</loc>
     <lastmod>2009-03-18T06:31:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-03132009/</loc>
     <lastmod>2009-03-13T06:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/fete-de-linternet-black-out/</loc>
     <lastmod>2009-03-12T11:24:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-03112009/</loc>
     <lastmod>2009-03-11T05:29:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/roi-second-life/</loc>
     <lastmod>2009-03-08T16:58:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-03082009/</loc>
     <lastmod>2009-03-08T02:29:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/crisiscamp-en-direct-sur-secondlife/</loc>
     <lastmod>2009-03-06T12:26:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-03062009/</loc>
     <lastmod>2009-03-06T02:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/droit/</loc>
     <lastmod>2009-03-05T12:04:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/plusieurs-conferences-sur-le-droit-des-univers-virtuels/</loc>
     <lastmod>2009-03-05T12:04:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-03042009/</loc>
     <lastmod>2009-03-04T02:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/prospectic/</loc>
     <lastmod>2009-03-03T09:09:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/teleportation-extra-grid-avec-realxtend/</loc>
     <lastmod>2009-03-02T11:48:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-03022009/</loc>
     <lastmod>2009-03-02T02:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-02282009/</loc>
     <lastmod>2009-02-28T13:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-liens-du-jour-02272009/</loc>
     <lastmod>2009-02-27T17:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/appel-hadopi-black-out-du-net-francais/</loc>
     <lastmod>2009-02-26T13:11:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/mondes-virtuels-hypes-ou-utiles/</loc>
     <lastmod>2009-02-24T14:28:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/bove-cohn-bendit-sur-second-life/</loc>
     <lastmod>2009-02-23T16:03:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/the-hadopi-song/</loc>
     <lastmod>2009-02-22T14:26:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/solipsis/</loc>
     <lastmod>2009-02-20T14:53:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/solipsis/</loc>
     <lastmod>2009-02-20T14:53:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/mondes-virtuels-business/</loc>
     <lastmod>2009-02-16T16:54:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/conference-de-yann-leroux-le-1502/</loc>
     <lastmod>2009-02-12T12:24:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/le-minitel-2-0/</loc>
     <lastmod>2009-02-10T08:55:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/todays-my-blog-day/</loc>
     <lastmod>2009-02-06T15:21:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/conference-apprendre-2-0/</loc>
     <lastmod>2009-02-05T12:58:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-standards-du-web3d/</loc>
     <lastmod>2009-02-05T08:45:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/presentation-avec-cooliris/</loc>
     <lastmod>2009-02-04T09:35:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/google-hacke/</loc>
     <lastmod>2009-01-31T15:19:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/just-leap-in-avance/</loc>
     <lastmod>2009-01-28T12:29:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/justleapin/</loc>
     <lastmod>2009-01-28T12:29:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/nonprofit-week-sur-orange-island/</loc>
     <lastmod>2009-01-27T12:33:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/formation-a-lhetic/</loc>
     <lastmod>2009-01-26T15:08:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/le-non-billet-du-jeudi/</loc>
     <lastmod>2009-01-22T06:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/freelance-in-virtual-worlds/</loc>
     <lastmod>2009-01-17T11:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/revue-de-blogs/</loc>
     <lastmod>2009-01-10T14:11:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/quels-outils-2-0-utilisez-vous/</loc>
     <lastmod>2009-01-08T08:39:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/video-des-ames-volantes/</loc>
     <lastmod>2009-01-06T19:29:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/autrans-2009/</loc>
     <lastmod>2009-01-06T11:28:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/savez-vous-parler-elfique/</loc>
     <lastmod>2008-12-19T08:40:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-ames-volantes-commencent-ce-soir/</loc>
     <lastmod>2008-12-17T08:45:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/did-you-know-that/</loc>
     <lastmod>2008-12-16T09:59:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/la-realite-mixte-ca-fonctionne/</loc>
     <lastmod>2008-12-10T14:31:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/philip-rosendale-evangelise/</loc>
     <lastmod>2008-12-04T17:28:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/trois-videos-pour-se-mettre-de-bonne-humeur/</loc>
     <lastmod>2008-12-03T08:13:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-transmusicales-de-rennes-seront-aussi-sur-second-life/</loc>
     <lastmod>2008-11-28T11:45:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/le-handicap-et-les-univers-virtuels/</loc>
     <lastmod>2008-11-27T13:51:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/nokia-soutient-maintenant-realxtend/</loc>
     <lastmod>2008-11-24T17:35:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/mr-t-le-nouveau-cpo-de-linden-labs/</loc>
     <lastmod>2008-11-22T10:46:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/lively-ferme-ses-portes/</loc>
     <lastmod>2008-11-20T08:29:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/avatar-logo-3d/</loc>
     <lastmod>2008-11-18T11:46:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/association-mv/</loc>
     <lastmod>2008-11-15T11:02:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/lassociation-des-professionnels-des-mondes-virtuels-est-nee/</loc>
     <lastmod>2008-11-15T11:02:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/bordeaux3-sur-second-life/</loc>
     <lastmod>2008-11-12T11:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/journee-mondiale-du-e-learning-101108/</loc>
     <lastmod>2008-11-04T12:47:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/le-prix-du-terrain-augmente-les-residents-manifestent/</loc>
     <lastmod>2008-10-29T10:20:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/le-reality-festival-a-paris/</loc>
     <lastmod>2008-10-28T10:37:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/je-me-lance/</loc>
     <lastmod>2008-10-27T17:02:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/m-kingdon-la-suite/</loc>
     <lastmod>2008-10-27T12:08:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/mark-kingdon-etait-a-paris/</loc>
     <lastmod>2008-10-24T10:14:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/second-life-pour-les-entreprises/</loc>
     <lastmod>2008-10-20T09:11:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/le-e-commerce-et-les-mondes-virtuels/</loc>
     <lastmod>2008-10-16T13:59:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/historique/</loc>
     <lastmod>2008-10-14T06:57:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/lhistorique-des-mondes-virtuels/</loc>
     <lastmod>2008-10-14T06:57:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/virtual-worlds-london/</loc>
     <lastmod>2008-10-13T08:57:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/boulanger-sur-sl-la-suite/</loc>
     <lastmod>2008-10-08T12:02:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/personne-ne-connait-les-univers-virtuels/</loc>
     <lastmod>2008-10-06T08:08:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/boulanger-englos-sur-second-life/</loc>
     <lastmod>2008-09-30T14:29:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/im-back/</loc>
     <lastmod>2008-09-16T12:46:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/retour-sur-la-conference-de-st-gobain/</loc>
     <lastmod>2008-06-26T12:47:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/lintelligence-artificielle-inworld/</loc>
     <lastmod>2008-06-05T12:23:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-metaverses-de-poche/</loc>
     <lastmod>2008-05-26T13:17:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-acteurs-pro-se-federent/</loc>
     <lastmod>2008-05-19T19:41:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/festival-du-film-web/</loc>
     <lastmod>2008-05-09T09:17:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/sl-dort-cest-le-moment/</loc>
     <lastmod>2008-05-06T13:27:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/etre-un-acteur-libre-des-mondes-virtuels/</loc>
     <lastmod>2008-05-02T10:03:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/vers-une-mutualisation-des-acteurs-pro/</loc>
     <lastmod>2008-05-01T09:31:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/pourquoi-tout-ca/</loc>
     <lastmod>2008-04-29T14:55:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/philip-rosendale-est-un-utopiste/</loc>
     <lastmod>2008-04-25T17:23:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-projets-de-realxtend/</loc>
     <lastmod>2008-04-23T16:55:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/linden-lab-a-trouve-son-nouveau-chief-executive/</loc>
     <lastmod>2008-04-23T06:54:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/conference-sur-saint-simon-vendredi-25-a-21h15/</loc>
     <lastmod>2008-04-23T06:42:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/vous-ne-connaissez-toujours-pas-realxtend/</loc>
     <lastmod>2008-04-21T13:21:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/films-musique-sur-second-life/</loc>
     <lastmod>2008-04-19T18:24:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/le-monde-de-demain-sera-t-il-en-flash/</loc>
     <lastmod>2008-04-18T15:44:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/solipsis-un-metaverse-different-a-surveiller/</loc>
     <lastmod>2008-04-15T09:53:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-mondes-3d-directement-dans-votre-browser-cest-presque-fait/</loc>
     <lastmod>2008-04-14T11:37:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/conference-sur-la-perspective-numerique-le-150408/</loc>
     <lastmod>2008-04-13T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/linden-lab-a-t-il-une-vraie-strategie/</loc>
     <lastmod>2008-04-11T08:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/ibm-second-life-the-virtual-word-suite/</loc>
     <lastmod>2008-04-07T11:12:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/second-life-et-le-web-2-0/</loc>
     <lastmod>2008-04-05T08:54:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/association-de-ibm-the-second-life-virtual-world/</loc>
     <lastmod>2008-04-03T06:38:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/reveil-difficile/</loc>
     <lastmod>2008-04-01T07:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/gutenberg/</loc>
     <lastmod>2008-03-30T21:32:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/le-mode-demploi-du-gutenberg-en-video/</loc>
     <lastmod>2008-03-30T21:32:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/la-journee-numerique-2008-de-paris-centre-universites-cest-aujourdhui-et-sur-sl/</loc>
     <lastmod>2008-03-28T07:51:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-lindens-dollars-enfin-achetables-en-euros/</loc>
     <lastmod>2008-03-26T19:42:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/les-reseaux-sociaux-pour-les-metaverses-debarquent-sur-le-web/</loc>
     <lastmod>2008-03-26T11:33:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/petit-bilan-pendant-le-backlash/</loc>
     <lastmod>2008-03-23T11:05:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/la-fin-du-cauchemar-ergonomique/</loc>
     <lastmod>2008-03-22T13:57:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/philip-rosendale-sen-va-et-alors/</loc>
     <lastmod>2008-03-19T08:57:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/la-video-rl-des-3-espaces-est-en-ligne/</loc>
     <lastmod>2008-03-16T20:54:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/video-des-3espaces-sur-second-life/</loc>
     <lastmod>2008-03-13T09:03:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/second-life-pire-que-le-far-west/</loc>
     <lastmod>2008-03-12T08:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/ca-y-est-on-peut-aussi-affiche-du-html-dans-second-life/</loc>
     <lastmod>2008-03-08T08:44:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/le-blog-des-3-espaces-est-en-ligne/</loc>
     <lastmod>2008-03-07T12:42:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/utiliser-la-3d-comme-therapeutique/</loc>
     <lastmod>2008-03-07T07:24:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/linternet-3d-est-en-route/</loc>
     <lastmod>2008-03-04T14:35:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/ils-lon-fait-vive-le-libre/</loc>
     <lastmod>2008-03-01T11:05:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/realite-augmentee-avec-second-life/</loc>
     <lastmod>2008-02-27T20:47:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/je-suis-sur-seesmic/</loc>
     <lastmod>2008-02-27T17:07:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/gutenberg-enfin-devoile/</loc>
     <lastmod>2008-02-26T08:19:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/tags/gutemberg/</loc>
     <lastmod>2008-02-18T22:04:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/presentation-du-projet-de-gutenberg-lundi-250208-a-12-30-slt/</loc>
     <lastmod>2008-02-18T22:04:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/revolution-dopensim/</loc>
     <lastmod>2008-02-16T16:41:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/apres-microsoft-voici-ibm/</loc>
     <lastmod>2008-02-13T17:46:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/rencontre-avec-loic-hay/</loc>
     <lastmod>2008-02-13T17:40:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/le-e-learning-est-bon-pour-la-planete/</loc>
     <lastmod>2008-02-08T21:21:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/mise-en-place-du-cursus-formation-lsl/</loc>
     <lastmod>2008-02-06T17:27:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://angezanetti.com/about/</loc>
     <lastmod>2006-04-17T12:28:11+00:00</lastmod>
   </url>
-  
 </urlset>

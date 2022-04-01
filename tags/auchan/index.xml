@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Auchan on /AngeZanetti.com</title>
@@ -7,20 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 19 Oct 2010 12:30:26 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/auchan/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 19 Oct 2010 12:30:26 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/auchan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Les multinationales s’intéressent aux mondes virtuels</title>
       <link>https://angezanetti.com/general-motor-auchan-mondes-virtuels/</link>
       <pubDate>Tue, 19 Oct 2010 12:30:26 +0000</pubDate>
       
       <guid>https://angezanetti.com/general-motor-auchan-mondes-virtuels/</guid>
-      <description>Aujourd&amp;#8217;hui deux news ont retenu mon attention dans le flot de mes news.
-Deux &amp;#8220;grosses&amp;#8221; entreprises vont s&amp;#8217;installer dans un monde virtuel, et pour de vrais usages.
- General Motor va utiliser les mondes virtuels pour tester ses prototypes. En fait ils vont faire beaucoup mieux puisqu&amp;#8217;ils vont créer un scanner 3D permettant de mettre leurs protos dans un environnement en trois dimensions et ainsi faire les premiers tests sans avoir à mettre une voiture sur la route.</description>
+      <description>Aujourd’hui deux news ont retenu mon attention dans le flot de mes news.
+Deux “grosses” entreprises vont s’installer dans un monde virtuel, et pour de vrais usages.
+ General Motor va utiliser les mondes virtuels pour tester ses prototypes. En fait ils vont faire beaucoup mieux puisqu’ils vont créer un scanner 3D permettant de mettre leurs protos dans un environnement en trois dimensions et ainsi faire les premiers tests sans avoir à mettre une voiture sur la route.</description>
     </item>
     
   </channel>

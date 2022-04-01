@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Medecine on /AngeZanetti.com</title>
@@ -7,18 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 04 Dec 2009 09:27:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/medecine/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 04 Dec 2009 09:27:00 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/medecine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pulse, le serious game orienté santé</title>
       <link>https://angezanetti.com/pulse-le-serious-game-oriente-sante/</link>
       <pubDate>Fri, 04 Dec 2009 09:27:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/pulse-le-serious-game-oriente-sante/</guid>
-      <description>Le 2 décembre dernier, Richard nous présentait un nouveau serious game dédié à la formation des médecins. Pulse, c&amp;#8217;est son petit nom, est tout simplement le serious game le plus cher de l&amp;#8217;histoire avec quelques 14 millions de dollars d&amp;#8217;investissement ! Le jeu est scénarisé, le médecin apprenant devant poser un diagnostic en fonction des signes cliniques du &amp;#8220;patient&amp;#8221;. Apparemment c&amp;#8217;est plutôt réaliste et la palette d&amp;#8217;interaction est vraiment importante. Aussi bien du coté des réactions du patient virtuel que des possibilités d&amp;#8217;actions sur celui ci -médicaments compris.</description>
+      <description></description>
     </item>
     
     <item>
@@ -27,7 +23,7 @@
       <pubDate>Wed, 15 Apr 2009 14:20:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/le-personnel-de-sante-se-forme-avec-les-mondes-virtuels/</guid>
-      <description>Ce matin je suis tombé sur deux bonnes nouvelles dans mon agrégateur de flux. Les deux traitaient de problèmes de formation des personnels de santé et les résolvaient grâce aux mondes virtuels.   Le premier exemple (source) est celui de la formation des étudiants en paramédical de l&amp;#8217;université de Edge Hill University. Le sujet étant les accidentés ou les grands brulés il est difficile de pouvoir &amp;#8220;s&amp;#8217;entrainer&amp;#8221; sans compromettre la santé du patient, ou l&amp;#8217;éthique.</description>
+      <description>&amp;lt;p&amp;gt; Le deuxième exemple &amp;lt;a href=&amp;quot;http://ow.ly/2UXQ&amp;quot;&amp;gt;&amp;lt;small&amp;gt;(source)&amp;lt;/small&amp;gt;&amp;lt;/a&amp;gt; concerne les &amp;lt;b&amp;gt;pharmaciens&amp;lt;/b&amp;gt;. Les étudiants sont amenés à préparer des médicaments, pas uniquement à les vendre aux clients. Ces préparations, toutes?, ce font dans des &amp;lt;b&amp;gt;salles &amp;lt;i&amp;gt;&amp;amp;#8220;blanches&amp;amp;#8221;&amp;lt;/i&amp;gt;&amp;lt;/b&amp;gt;, des salles stérilisées. Évidemment ce genre de salle est plutôt cher et le plus souvent possible en fonctionnement, pas évident dans ce cas de figure de former des étudiants. Purdue University à donc choisi de représenté ces salles et d&amp;amp;#8217;entrainer les étudiants débutants dans ce type de salle virtuelle :&amp;lt;/div&amp;gt; &amp;lt;p&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;div class=&amp;quot;youtube-video&amp;quot;&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div style=&amp;quot;text-align: justify;&amp;quot;&amp;gt; Les étudiants se déplacent &amp;amp; interagissent grâce à une manette de Wii.</description>
     </item>
     
   </channel>

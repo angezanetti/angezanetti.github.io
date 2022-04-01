@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LaFabrique on /AngeZanetti.com</title>
@@ -7,18 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 21 Feb 2011 10:33:22 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/lafabrique/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 21 Feb 2011 10:33:22 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/lafabrique/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le marché des SeriousGame</title>
       <link>https://angezanetti.com/le-marche-des-seriousgame/</link>
       <pubDate>Mon, 21 Feb 2011 10:33:22 +0000</pubDate>
       
       <guid>https://angezanetti.com/le-marche-des-seriousgame/</guid>
-      <description>Récemment j&amp;#8217;ai lu l&amp;#8217;étude FEFAUR sur le marché du e-learning. Cette étude est disponible ici : http://www.fefaur.com/&amp;amp;#8230; elle est gratuite même s&amp;#8217;il faut montrer patte blanche avant de pouvoir la recevoir.
+      <description>Récemment j’ai lu l’étude FEFAUR sur le marché du e-learning. Cette étude est disponible ici : http://www.fefaur.com/&amp;amp;#8230;elle est gratuite même s’il faut montrer patte blanche avant de pouvoir la recevoir.
 Cette étude date de Septembre 2010 et permet de mettre des chiffres sur le marché du e-learning, et surtout sur celui du SeriousGame. Je vais essayer ici de faire une synthèse de façon à avoir une vision claire du marché des jeux sérieux.</description>
     </item>
     
@@ -29,7 +25,7 @@ Cette étude date de Septembre 2010 et permet de mettre des chiffres sur le marc
       
       <guid>https://angezanetti.com/job-lafabrique-serious-game/</guid>
       <description>Depuis quelques semaines mon activité professionnelle est divisée en deux parties.
- La principale est celle que j&amp;#8217;exerce maintenant depuis un an à savoir Consultant Mondes Virtuels, mais ce qu&amp;#8217;il y a de nouveau c&amp;#8217;est que là dessus c&amp;#8217;est greffé un quart temps pour un projet gouvernemental. Ce projet se nomme &amp;#8220;La Fabrique&amp;#8221; et à pour but de créer une plateforme open-source permettant de simplifier la création de SeriousGame. C&amp;#8217;est un projet très intéressant remporté lors de l&amp;#8217;appel à projet de l&amp;#8217;année dernière par Ingénium, une société spécialisé dans le e-learning.</description>
+La principale est celle que j’exerce maintenant depuis un an à savoir Consultant Mondes Virtuels, mais ce qu’il y a de nouveau c’est que là dessus c’est greffé un quart temps pour un projet gouvernemental. Ce projet se nomme “La Fabrique” et à pour but de créer une plateforme open-source permettant de simplifier la création de SeriousGame. C’est un projet très intéressant remporté lors de l’appel à projet de l’année dernièrepar Ingénium, une société spécialisé dans le e-learning.</description>
     </item>
     
   </channel>

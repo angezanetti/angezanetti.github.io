@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Humeur on /AngeZanetti.com</title>
@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 17 Jul 2018 22:04:44 +0100</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/humeur/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 17 Jul 2018 22:04:44 +0100</lastBuildDate><atom:link href="https://angezanetti.com/tags/humeur/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On Algorythm During Interview</title>
       <link>https://angezanetti.com/posts/on-algorythm-during-interview/</link>
@@ -29,9 +25,9 @@ Wait, really? I know, you want to test my tech skills, you want to check if I’
       <pubDate>Wed, 30 Apr 2014 11:42:20 +0000</pubDate>
       
       <guid>https://angezanetti.com/apprendre-a-coder-aux-enfants/</guid>
-      <description>Depuis quelques mois on parle d&amp;#8217;apprendre à coder aux enfants comme une solution aux bouleversements d&amp;#8217;internet. Dernièrement il y a encore eu un article dans les Echos en ce sens.
-Je ne suis pas un expert de l&amp;#8217;éducation mais j&amp;#8217;ai vraiment l&amp;#8217;impression que ce discours, souvent servi avec un arrière fond économique, se trompe de combat, je m&amp;#8217;explique:
-La thèse soutenue par les défenseurs du &amp;#8220;code à l&amp;#8217;école&amp;#8221; est relativement simple:</description>
+      <description>Depuis quelques mois on parle d’apprendre à coder aux enfants comme une solution aux bouleversements d’internet. Dernièrement il y a encore eu un article dans les Echosen ce sens.
+Je ne suis pas un expert de l’éducation mais j’ai vraiment l’impression que ce discours, souvent servi avec un arrière fond économique, se trompe de combat, je m’explique:
+La thèse soutenue par les défenseurs du “code à l’école” est relativement simple:</description>
     </item>
     
     <item>
@@ -40,7 +36,7 @@ La thèse soutenue par les défenseurs du &amp;#8220;code à l&amp;#8217;école&
       <pubDate>Wed, 19 Dec 2012 16:36:22 +0000</pubDate>
       
       <guid>https://angezanetti.com/un-an-sans-google-retour-experience/</guid>
-      <description>Comme beaucoup de travailleurs du web j&amp;#8217;ai longtemps été fan de Google au point d&amp;#8217;utiliser ses produits pour à peu près toute ma vie numérique : mails, todolist, recherche, documents partagés, réseau social, organisation d&amp;#8217;événements etc&amp;#8230; Tout ce que je faisais sur le net passait par Google. J&amp;#8217;ai toujours eu conscience que Google est une société qui fait du bénéfice sur nos données personelles mais je n&amp;#8217;avais pas vraiment l&amp;#8217;envie de changer d&amp;#8217;autant que le marketing de Google est assez doué pour &amp;#8220;draguer&amp;#8221; les geeks avec leurs lot de nouveautés.</description>
+      <description>Comme beaucoup de travailleurs du web j’ai longtemps été fan de Google au point d’utiliser ses produits pour à peu près toute ma vie numérique : mails, todolist, recherche, documents partagés, réseau social, organisation d’événements etc… Tout ce que je faisais sur le net passait par Google. J’ai toujours eu conscience que Google est une société qui fait du bénéfice sur nos données personelles mais je n’avais pas vraiment l’envie de changer d’autant que le marketing de Google est assez doué pour “draguer” les geeks avec leurs lot de nouveautés.</description>
     </item>
     
     <item>
@@ -49,8 +45,8 @@ La thèse soutenue par les défenseurs du &amp;#8220;code à l&amp;#8217;école&
       <pubDate>Mon, 06 Aug 2012 15:35:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/javascript-fail/</guid>
-      <description>Je me suis mis à coder du Javascript il y a un an. Et depuis, à intervalles régulières, je me fais chambrer par des développeurs. Le javascript, malgré les trucs super qu&amp;#8217;il est capable de faire traîne une vieille réputation de langage &amp;#8220;poubelle&amp;#8221;.
-Alors bien sur, à chaque fois, je parle de WebGL, de NodeJS et des possibilités que ça engendre. Mais bon il y a des limites, et c&amp;#8217;est vrai que le JS garde certains stigmates d&amp;#8217;une jeunesse difficile.</description>
+      <description>Je me suis mis à coder du Javascript il y a un an. Et depuis, à intervalles régulières, je me fais chambrer par des développeurs. Le javascript, malgré les trucs super qu’il est capable de faire traîne une vieille réputation de langage “poubelle”.
+Alors bien sur, à chaque fois, je parle de WebGL, de NodeJS et des possibilités que ça engendre. Mais bon il y a des limites, et c’est vrai que le JS garde certains stigmates d’une jeunesse difficile.</description>
     </item>
     
     <item>
@@ -59,9 +55,9 @@ Alors bien sur, à chaque fois, je parle de WebGL, de NodeJS et des possibilité
       <pubDate>Tue, 22 Feb 2011 10:35:17 +0000</pubDate>
       
       <guid>https://angezanetti.com/et-si-on-parlait-du-riz-et-de-wikipedia/</guid>
-      <description>Je ne sais pas pour vous mais moi je suis régulièrment le podcast de François Rollin sur France Culture. J&amp;#8217;aime assez son ton décalé et son coté professeur&amp;#8230;
-Début Janvier un podcast m&amp;#8217;a fait particulièrement sourire, on y parle de riz mais aussi de légitimité de wikipédia, avec talent en plus.
-A écouter, réécouter et surtout à diffuser à tous ceux qui vous disent que non, wikipédia c&amp;#8217;est pas sérieux et que ça ne vaut pas une bonne vieille encyclopédie en douze volume &amp;#8211; qui date de 1990 :p</description>
+      <description>Je ne sais pas pour vous mais moi je suis régulièrment le podcast de François Rollin sur France Culture. J’aime assez son ton décalé et son coté professeur…
+Début Janvier un podcast m’a fait particulièrement sourire, on y parle de riz mais aussi de légitimité de wikipédia, avec talent en plus.
+A écouter, réécouter et surtout à diffuser à tous ceux qui vous disent que non, wikipédia c’est pas sérieux et que ça ne vaut pas une bonne vieille encyclopédie en douze volume – qui date de 1990 :p</description>
     </item>
     
     <item>
@@ -70,7 +66,7 @@ A écouter, réécouter et surtout à diffuser à tous ceux qui vous disent que 
       <pubDate>Tue, 11 Jan 2011 14:16:22 +0000</pubDate>
       
       <guid>https://angezanetti.com/guadeloupe/</guid>
-      <description>Je tiens à vous prévenir tout de suite, ce post n&amp;#8217;aura aucune autre utilité que de vous présenter à quel point c&amp;#8217;est cool les tropiques. Alors si vous êtes à deux doigts du burn-out à cause du climat, surtout ne regardez pas la photo ci dessous :)
+      <description>Je tiens à vous prévenir tout de suite, ce post n’aura aucune autre utilité que de vous présenter à quel point c’est cool les tropiques. Alors si vous êtes à deux doigts du burn-out à cause du climat, surtout ne regardez pas la photo ci dessous :)
 Pour les autres, comme vous pouvez le voir je suis aux Antilles, en Guadeloupe en fait. Pour le travail mais aussi pour le fun !</description>
     </item>
     
@@ -80,7 +76,7 @@ Pour les autres, comme vous pouvez le voir je suis aux Antilles, en Guadeloupe e
       <pubDate>Sun, 07 Nov 2010 13:22:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/break-je-pars-en-inde/</guid>
-      <description>Image sous CC trouvée sur Flickr. Auteur : matso  Quand vous lirez ce billet je serais quelque part dans le ciel entre Bruxelles et Madras.  Break attendu depuis le mois d&amp;#8217;aout où j&amp;#8217;étais désesperement seul sur le web, où la timeline twitter frémissait à peine. Finalement c&amp;#8217;est bon d&amp;#8217;attendre et de partir alors que tout le monde s&amp;#8217;apprête à rentrer dans l&amp;#8217;hivers.  Je pars au soleil, découvrir une population que je ne connait pas mais qui m&amp;#8217;attire.</description>
+      <description></description>
     </item>
     
     <item>
@@ -89,8 +85,8 @@ Pour les autres, comme vous pouvez le voir je suis aux Antilles, en Guadeloupe e
       <pubDate>Wed, 20 Oct 2010 09:20:11 +0000</pubDate>
       
       <guid>https://angezanetti.com/soutenez-linternet-libre/</guid>
-      <description>En ces temps difficiles pour l&amp;#8217;Internet en général deux associations qui se battent pour une plus grande liberté de l&amp;#8217;internaute ont besoin d&amp;#8217;aide. Financière , bien sur mais aussi pourquoi pas bénévole ou simplement de soutient.
-Je suppose que vous connaissez les deux assos ci dessous, la première c&amp;#8217;est Framasoft, association qui s&amp;#8217;occupe de promouvoir le logiciel libre. Ils le font avec des tutoriaux mais aussi avec une collection de livres sous licence Creative commons et dispo à la vente et au téléchargement gratuit.</description>
+      <description>En ces temps difficiles pour l’Internet en général deux associations qui se battent pour une plus grande liberté de l’internaute ont besoin d’aide. Financière , bien sur mais aussi pourquoi pas bénévole ou simplement de soutient.
+Je suppose que vous connaissez les deux assos ci dessous, la première c’est Framasoft, association qui s’occupe de promouvoir le logiciel libre. Ils le font avec des tutoriaux mais aussi avec une collection de livres sous licence Creative commons et dispo à la vente et au téléchargement gratuit.</description>
     </item>
     
     <item>
@@ -99,8 +95,8 @@ Je suppose que vous connaissez les deux assos ci dessous, la première c&amp;#82
       <pubDate>Fri, 08 Oct 2010 07:57:33 +0000</pubDate>
       
       <guid>https://angezanetti.com/cleanternet-hadopi/</guid>
-      <description>Cette semaine la vidéo du vendredi colle à l&amp;#8217;actualité, si vous êtes normalement constitué &amp;#8211; c&amp;#8217;est a dire avec des yeux et/ou des oreilles &amp;#8211; vous avez forcement entendu parler de l&amp;#8217;envoi des premiers mails de l&amp;#8217;HADOPI.
-Hadopi donc, sensé lutter contre ce monde &amp;#8220;sans foi ni loi&amp;#8221; dans lequel évolue pèle mêle des pédophiles, des nazis, des pirates et aussi, de temps en temps, des mecs qui cherchent du boulot&amp;#8230; Notre gouvernement s&amp;#8217;acharne en ce moment à rendre l&amp;#8217;internet &amp;#8220;civilisé&amp;#8220;, avec des moyens qui sont plus ou moins légaux et plus ou moins pas franchement efficace.</description>
+      <description>Cette semaine la vidéo du vendredi colle à l’actualité, si vous êtes normalement constitué – c’est a dire avec des yeux et/ou des oreilles – vous avez forcement entendu parler de l’envoi des premiers mails de l’HADOPI.
+Hadopi donc, sensé lutter contre ce monde “sans foi ni loi”dans lequel évolue pèle mêle des pédophiles, des nazis, des pirates et aussi, de temps en temps, des mecs qui cherchent du boulot… Notre gouvernement s’acharne en ce moment à rendre l’internet “civilisé“, avec des moyens qui sont plus ou moins légaux et plus ou moins pas franchement efficace.</description>
     </item>
     
     <item>
@@ -109,7 +105,7 @@ Hadopi donc, sensé lutter contre ce monde &amp;#8220;sans foi ni loi&amp;#8221;
       <pubDate>Wed, 17 Mar 2010 09:35:33 +0000</pubDate>
       
       <guid>https://angezanetti.com/que-fait-la-generation-y/</guid>
-      <description>Depuis que je farfouille Internet j&amp;#8217;entends parler d&amp;#8217;une génération miracle, une tranche d&amp;#8217;age entière qui serait aguerrie aux usages de l&amp;#8217;internet et qui sera, c&amp;#8217;est sur, l&amp;#8217;avenir de la nation.
+      <description>Depuis que je farfouille Internet j’entends parler d’une génération miracle, une tranche d’age entière qui serait aguerrie aux usages de l’internet et qui sera, c’est sur, l’avenir de la nation.
 La définition Wikipédia de cette génération est claire :
  Le terme « génération Y » désigne les personnes nées entre la fin des années 1970 et le milieu des années 1990. Il tire son nom de la génération précédente, nommée génération X.</description>
     </item>

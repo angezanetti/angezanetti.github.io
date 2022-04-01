@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chrome on /AngeZanetti.com</title>
@@ -7,24 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 20 May 2010 09:18:55 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 20 May 2010 09:18:55 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unity3d ou WebGL comme futur standard d’un Internet 3D ?</title>
       <link>https://angezanetti.com/unity3d-google-opensim/</link>
       <pubDate>Thu, 20 May 2010 09:18:55 +0000</pubDate>
       
       <guid>https://angezanetti.com/unity3d-google-opensim/</guid>
-      <description>&lt;p&gt;Google à sorti son &amp;#8220;&lt;em&gt;native client&lt;/em&gt;&amp;#8221; il y a quelques jours comme je vous l&amp;#8217;annonçait &lt;a title=&#34;Google native client&#34; href=&#34;http://angezanetti.com/google-native-client-sdk/&#34; target=&#34;_blank&#34;&gt;dans cet article&lt;/a&gt; mais je ne croyais pas que ça bougerait aussi vite.&lt;/p&gt;
-
-&lt;p&gt;Hier, &lt;strong&gt;Unity3D,&lt;/strong&gt; le moteur de jeu vidéo sur lequel est basé &lt;a title=&#34;assemblive&#34; href=&#34;http://angezanetti.com/assemblive-v1-8-francais-api/&#34; target=&#34;_blank&#34;&gt;Assemblive&lt;/a&gt; par exemple, à annoncé qu&amp;#8217;ilvdéveloppait une application native pour Chrome. Concrétement cela veut dite que Unity3d n&amp;#8217;aura plus besoin de plugin pour fonctionner dans le navigateur de Google. On aura de la 3d aussi facilement que l&amp;#8217;on affiche des pages web, simplement en cliquant.&lt;/p&gt;
-
-&lt;p&gt;Ce qui est marrant c&amp;#8217;est qu&amp;#8217;ils font cette annonce en plein boum du &lt;strong&gt;WebGL&lt;/strong&gt; et à peine 2 jours après que Google annonce qu&amp;#8217;il supporte officiellement cette nouvelle technologie basée sur HTML5. Ou plutôt, pour le dire dans le bon sens&lt;a title=&#34;Google arrête O3D&#34; href=&#34;http://www.silicon.fr/fr/news/2010/05/10/technologies_web___google_abandonne_o3d&#34; target=&#34;_blank&#34;&gt;, qu&amp;#8217;il arrête le projet O3&lt;/a&gt;D qui était un concurrent à WebGL.&lt;/p&gt;
-
-&lt;p&gt;La bataille pour le standard de l&amp;#8217;internet 3D à commencé :)&lt;/p&gt;</description>
+      <description>&lt;p&gt;Google à sorti son “&lt;em&gt;native client&lt;/em&gt;” il y a quelques jours comme je vous l’annonçait &lt;!-- raw HTML omitted --&gt;dans cet article&lt;!-- raw HTML omitted --&gt; mais je ne croyais pas que ça bougerait aussi vite.&lt;/p&gt;
+&lt;p&gt;Hier, &lt;strong&gt;Unity3D,&lt;/strong&gt; le moteur de jeu vidéo sur lequel est basé &lt;!-- raw HTML omitted --&gt;Assemblive&lt;!-- raw HTML omitted --&gt; par exemple, à annoncé qu’ilvdéveloppait une application native pour Chrome. Concrétement cela veut dite que Unity3d n’aura plus besoin de plugin pour fonctionner dans le navigateur de Google. On aura de la 3d aussi facilement que l’on affiche des pages web, simplement en cliquant.&lt;/p&gt;
+&lt;p&gt;Ce qui est marrant c’est qu’ils font cette annonce en plein boum du &lt;strong&gt;WebGL&lt;/strong&gt; et à peine 2 jours après que Google annonce qu’il supporte officiellement cette nouvelle technologie basée sur HTML5. Ou plutôt, pour le dire dans le bon sens&lt;!-- raw HTML omitted --&gt;, qu’il arrête le projet O3&lt;!-- raw HTML omitted --&gt;D qui était un concurrent à WebGL.&lt;/p&gt;
+&lt;p&gt;La bataille pour le standard de l’internet 3D à commencé :)&lt;/p&gt;</description>
     </item>
     
   </channel>

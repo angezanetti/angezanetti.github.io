@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Startup on /AngeZanetti.com</title>
@@ -7,42 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 05 Feb 2021 09:30:40 -0400</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/startup/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>I shipped 3 products in 3 months, here is what I learned (so far)</title>
-      <link>https://angezanetti.com/posts/6-products-6months-half-way-there/</link>
-      <pubDate>Fri, 05 Feb 2021 09:30:40 -0400</pubDate>
-      
-      <guid>https://angezanetti.com/posts/6-products-6months-half-way-there/</guid>
-      <description>Last October, I started a new challenge: Build and ship 6 products in 6 months. I spent the previous 5 years in the startup ecosystem, spending all my time focusing on one product only, and I needed a change!
-Objectives Learn faster than usual startups As I said, when you start a startup, you go all in. You are spending all your time on one product, focusing on one market.</description>
-    </item>
-    
-    <item>
-      <title>How I validated and pre-sold my first info product</title>
-      <link>https://angezanetti.com/posts/how-i-validate-and-preorders-spreadtheworld/</link>
-      <pubDate>Tue, 27 Oct 2020 13:06:07 -0400</pubDate>
-      
-      <guid>https://angezanetti.com/posts/how-i-validate-and-preorders-spreadtheworld/</guid>
-      <description>Idea validation This product idea came from a list I made for my previous project. That was a list of 100+ directories where you can post your startup.
-I made it for myself, to expand the reach of the product I was working on. I sorted all the websites, removed dead links, tag them, and used it to promote our project. Then, I wondered if it can be useful for others and share it here and on Reddit.</description>
-    </item>
-    
-    <item>
-      <title>6 Projects in 6 Months Challenge</title>
-      <link>https://angezanetti.com/posts/6-projects-6-months-challenge/</link>
-      <pubDate>Thu, 22 Oct 2020 12:41:26 -0400</pubDate>
-      
-      <guid>https://angezanetti.com/posts/6-projects-6-months-challenge/</guid>
-      <description>I spent the last 10+yrs to code, and the last 4yrs in the startup ecosystem. During all that time I was focus on the product more than anything else. I need a change. I want to learn the other parts of building a product and I want something challenging!
-So I decided to (try to) launch 6 products in the next 6 months!
-I want to remove my developer bias As a coder, you always want to build stuff.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 30 Oct 2019 20:26:36 -0400</lastBuildDate><atom:link href="https://angezanetti.com/tags/startup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New project: Logology</title>
       <link>https://angezanetti.com/posts/logology-meaningful-logos-for-startups/</link>

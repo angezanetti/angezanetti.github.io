@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Université on /AngeZanetti.com</title>
@@ -7,19 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 08 Aug 2011 08:41:55 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/universit%C3%A9/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 08 Aug 2011 08:41:55 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/universit%C3%A9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vidéo “causerie” sur l’enseignement et les mondes immersifs</title>
       <link>https://angezanetti.com/interet-usages-enseignement-mondes-immersifs/</link>
       <pubDate>Mon, 08 Aug 2011 08:41:55 +0000</pubDate>
       
       <guid>https://angezanetti.com/interet-usages-enseignement-mondes-immersifs/</guid>
-      <description>J&amp;#8217;ai trouvé sur le blog de Gehan une vidéo de qualité mise en ligne par @Batier. C&amp;#8217;est sous la forme d&amp;#8217;une &amp;#8220;causerie&amp;#8221; d&amp;#8217;été entre Christophe Batier, Jean Paul Moiraud et Jacques Rodet.
-On y parle de l&amp;#8217;intérêt d&amp;#8217;un avatar comparé à une simple webcam, à la relation que cela induit. A l&amp;#8217;intérêt des environnements immersifs sur l&amp;#8217;enseignement. Beaucoup de questionnement pertinent sur la 3D, les capacités cognitives des mondes virtuels etc etc.</description>
+      <description>J’ai trouvé sur le blog de Gehanune vidéo de qualité mise en ligne par @Batier. C’est sous la forme d’une “causerie” d’été entre Christophe Batier, Jean Paul Moiraud et Jacques Rodet.
+On y parle de l’intérêt d’un avatar comparé à une simple webcam, à la relation que cela induit. A l’intérêt des environnements immersifs sur l’enseignement. Beaucoup de questionnement pertinent sur la 3D, les capacités cognitives des mondes virtuels etc etc.</description>
     </item>
     
     <item>
@@ -28,8 +24,7 @@ On y parle de l&amp;#8217;intérêt d&amp;#8217;un avatar comparé à une simple
       <pubDate>Wed, 07 Oct 2009 08:13:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/quelle-methode-pour-un-apprentissage-rapide-des-mondes-virtuels/</guid>
-      <description>Il y a une semaine j&amp;#8217;étais à Paris pour dispenser une formation dans une école de design. Je vous parlerais du projet plus tard car il n&amp;#8217;est pas encore fini, le but de mon intervention était vraiment axée sur l&amp;#8217;apprentissage des bases de SecondLife/Opensim, rien de super croustillant pour le moment donc.
-Par contre ce qui est plutôt intéressant c&amp;#8217;est le processus de prise en main du viewer par les étudiants.</description>
+      <description>&amp;lt;p&amp;gt; Je commence toujours mes cours par une rapide présentation des mondes virtuels et de la plateforme sur laquelle on va travailler. Force est de constater que les étudiants aussi digital natives qu&amp;amp;#8217;ils soient ne connaissent pas vraiment les mondes virtuels, sauf peut être World of Warcraft pour les plus geek d&amp;amp;#8217;entre eux. &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; Ensuite la première prise en main est vraiment rapide car ils ont grandi avec une manette de Playstation dans une main et un clavier dans l&amp;amp;#8217;autre.</description>
     </item>
     
     <item>
@@ -38,7 +33,7 @@ Par contre ce qui est plutôt intéressant c&amp;#8217;est le processus de prise
       <pubDate>Fri, 19 Jun 2009 11:32:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/retour-sur-ma-formation-pour-lecole-de-design-nantes-atlantique/</guid>
-      <description>Cette semaine à été une semaine dédiée à la pédagogie. En effet depuis Lundi j&amp;#8217;ai formé l&amp;#8217;EDNA (Ecole de design de Nantes Atlantique) aux mondes virtuels. Pour être plus précis à Second Life &amp; Opensim. La formation fut assez classique : présentation des mondes virtuels, introduction à l&amp;#8217;utilisation du viewer puis initiation au build et au script LSL. Le tout sur 3 jours en « mode projet » en partant du principe que c&amp;#8217;est en codant que l&amp;#8217;on devient codeur :)</description>
+      <description>&amp;lt;p&amp;gt; J&amp;amp;#8217;ai donc passé 3 jours à enseigner à distance à des élèves « inconnus ».Cela m&amp;amp;#8217;a paru un peu déconcertant au début, pour être honnête. Surtout que l&amp;amp;#8217;outil en question est précisément celui dont on se sert pour enseigner :) Pour palier a ce problème&amp;lt;b&amp;gt; j&amp;amp;#8217;ai mis en place 3 outils.&amp;lt;/b&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;a style=&amp;quot;font-weight: bold;&amp;quot; href=&amp;quot;http://www.twitter.com/angezanetti&amp;quot;&amp;gt;1- Twitter :&amp;lt;/a&amp;gt;&amp;lt;br /&amp;gt;L&amp;amp;#8217;outil idéal pour donner un RDV virtuel à telle adresse, url ou pour dire que rien ne marche, que l&amp;amp;#8217;on sera en retard etc etc&amp;lt;br /&amp;gt;Twitter c&amp;amp;#8217;est l&amp;amp;#8217;outil minimaliste par excellence qui permet de communiquer quand rien ne marche, ou quand on est en asynchrone.</description>
     </item>
     
     <item>
@@ -47,7 +42,7 @@ Par contre ce qui est plutôt intéressant c&amp;#8217;est le processus de prise
       <pubDate>Wed, 15 Apr 2009 14:20:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/le-personnel-de-sante-se-forme-avec-les-mondes-virtuels/</guid>
-      <description>Ce matin je suis tombé sur deux bonnes nouvelles dans mon agrégateur de flux. Les deux traitaient de problèmes de formation des personnels de santé et les résolvaient grâce aux mondes virtuels.   Le premier exemple (source) est celui de la formation des étudiants en paramédical de l&amp;#8217;université de Edge Hill University. Le sujet étant les accidentés ou les grands brulés il est difficile de pouvoir &amp;#8220;s&amp;#8217;entrainer&amp;#8221; sans compromettre la santé du patient, ou l&amp;#8217;éthique.</description>
+      <description>&amp;lt;p&amp;gt; Le deuxième exemple &amp;lt;a href=&amp;quot;http://ow.ly/2UXQ&amp;quot;&amp;gt;&amp;lt;small&amp;gt;(source)&amp;lt;/small&amp;gt;&amp;lt;/a&amp;gt; concerne les &amp;lt;b&amp;gt;pharmaciens&amp;lt;/b&amp;gt;. Les étudiants sont amenés à préparer des médicaments, pas uniquement à les vendre aux clients. Ces préparations, toutes?, ce font dans des &amp;lt;b&amp;gt;salles &amp;lt;i&amp;gt;&amp;amp;#8220;blanches&amp;amp;#8221;&amp;lt;/i&amp;gt;&amp;lt;/b&amp;gt;, des salles stérilisées. Évidemment ce genre de salle est plutôt cher et le plus souvent possible en fonctionnement, pas évident dans ce cas de figure de former des étudiants. Purdue University à donc choisi de représenté ces salles et d&amp;amp;#8217;entrainer les étudiants débutants dans ce type de salle virtuelle :&amp;lt;/div&amp;gt; &amp;lt;p&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;div class=&amp;quot;youtube-video&amp;quot;&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div style=&amp;quot;text-align: justify;&amp;quot;&amp;gt; Les étudiants se déplacent &amp;amp; interagissent grâce à une manette de Wii.</description>
     </item>
     
     <item>
@@ -56,8 +51,7 @@ Par contre ce qui est plutôt intéressant c&amp;#8217;est le processus de prise
       <pubDate>Mon, 26 Jan 2009 15:08:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/formation-a-lhetic/</guid>
-      <description>Le Mardi 13 Janvier dernier je me suis rendu a l&amp;#8217;HETIC. Pour ceux qui ne savent pas ou qui aurait la flemme de cliquer sur le lien précédent l&amp;#8217;HETIC est l&amp;#8217;abréviaition de Hautes Etudes des Technologies de l&amp;#8217;Information et de la Communication.
-Cette école forme des futurs managers TIC, qui feront le web de demain. CMS &amp; médias sociaux font parti de leur quotidien, du web 2.0 dans tous les sens mais rien en univers virtuels.</description>
+      <description>&amp;lt;div style=&amp;quot;font-size: 11px; font-family: tahoma,arial; height: 26px; padding-top: 2px;&amp;quot;&amp;gt; View more &amp;lt;a style=&amp;quot;text-decoration: underline;&amp;quot; href=&amp;quot;http://www.slideshare.net/&amp;quot;&amp;gt;presentations&amp;lt;/a&amp;gt; from &amp;lt;a style=&amp;quot;text-decoration: underline;&amp;quot; href=&amp;quot;http://www.slideshare.net/angezanetti&amp;quot;&amp;gt;angezanetti&amp;lt;/a&amp;gt;. &amp;lt;/div&amp;gt;  </description>
     </item>
     
     <item>
@@ -66,7 +60,7 @@ Cette école forme des futurs managers TIC, qui feront le web de demain. CMS &am
       <pubDate>Wed, 12 Nov 2008 11:10:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/bordeaux3-sur-second-life/</guid>
-      <description>Vendredi était une bonne journée, une très bonne journée même. J&amp;#8217;étais à l&amp;#8217;ISIC ( Institut des Sciences de L&amp;#8217;information &amp; de la Communication) de Bordeaux pour parler des Univers Virtuels, de leurs usages et des applications possible pour une université. Le responsable du projet, Mr Amar Lakel, a eu l&amp;#8217;idée folle de créer un espace sur Second Life pour en faire un lieu de rencontre pour les étudiants, un lieu de récolte d&amp;#8217;informations ou de documentation, un lieu de découverte de la fac aussi peut être.</description>
+      <description></description>
     </item>
     
   </channel>

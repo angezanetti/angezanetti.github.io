@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VieDuBlog on /AngeZanetti.com</title>
@@ -7,19 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 20 Dec 2013 20:36:31 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/viedublog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 20 Dec 2013 20:36:31 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/viedublog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Changement de thème et nouveaux usages!</title>
       <link>https://angezanetti.com/changement-de-theme-et-nouveaux-usages/</link>
       <pubDate>Fri, 20 Dec 2013 20:36:31 +0000</pubDate>
       
       <guid>https://angezanetti.com/changement-de-theme-et-nouveaux-usages/</guid>
-      <description>Cela fait longtemps que je me dit qu&amp;#8217;il faut que je modifie un peu tout ça, que je fasse le ménage mais j&amp;#8217;ai plus vraiment le temps, plus vraiment l&amp;#8217;envie de refaire ce que j&amp;#8217;avais fait pour le thème précédent: monter un thème &amp;#8220;from scratch&amp;#8221;.
-Et puis j&amp;#8217;ai mis à jour WordPress, c&amp;#8217;est une bonne idée il paraît, et j&amp;#8217;ai trouvé que le thème par défaut, Twenty 14, avait de la gueule avec son design flat et son gros bandeau noir.</description>
+      <description>Cela fait longtemps que je me dit qu’il faut que je modifie un peu tout ça, que je fasse le ménage mais j’ai plus vraiment le temps, plus vraiment l’envie de refaire ce que j’avais fait pour le thème précédent: monter un thème “from scratch”.
+Et puis j’ai mis à jour WordPress, c’est une bonne idée il paraît, et j’ai trouvé que le thème par défaut, Twenty 14, avait de la gueule avec son design flat et son gros bandeau noir.</description>
     </item>
     
     <item>
@@ -28,8 +24,8 @@ Et puis j&amp;#8217;ai mis à jour WordPress, c&amp;#8217;est une bonne idée il
       <pubDate>Mon, 25 Jun 2012 14:59:28 +0000</pubDate>
       
       <guid>https://angezanetti.com/backwpup-le-plugin-qui-sauvegarde-votre-wordpress-a-votre-place/</guid>
-      <description>Je ne sais pas comment vous fonctionnez, si vous aussi vous mettez des post-its partout pour essayer de vous rappeler de faire &amp;#8220;ABSOLUMENT&amp;#8221; la sauvegarde de vos sites/blogs. Moi je crois avoir à peu près tout tenté, rien n&amp;#8217;y fait j&amp;#8217;oublie. J&amp;#8217;ai toujours un truc urgent à faire, j&amp;#8217;ai jamais envie de me connecter à phpmyadmin pour faire un dump de ma bdd.
-Comme ce blog tourne sur une serveur mutualisé je peux pas mettre de Cron en place.</description>
+      <description>Je ne sais pas comment vous fonctionnez, si vous aussi vous mettez des post-its partout pour essayer de vous rappeler de faire “ABSOLUMENT” la sauvegarde de vos sites/blogs. Moi je crois avoir à peu près tout tenté, rien n’y fait j’oublie. J’ai toujours un truc urgent à faire, j’ai jamais envie de me connecter à phpmyadmin pour faire un dump de ma bdd.
+Comme ce blog tourne sur une serveur mutualisé je peux pas mettre de Cronen place.</description>
     </item>
     
     <item>
@@ -38,9 +34,9 @@ Comme ce blog tourne sur une serveur mutualisé je peux pas mettre de Cron en pl
       <pubDate>Fri, 04 May 2012 10:57:11 +0000</pubDate>
       
       <guid>https://angezanetti.com/nouveau-design-angezanetti-html5-responsive/</guid>
-      <description>Depuis le temps que j&amp;#8217;en parlais, le voilà enfin, j&amp;#8217;ai un nouveau thème pour ce blog.
-L&amp;#8217;ancien était vraiment trop lourd, aussi bien sur le plan technique que visuel.
-Trop lourd parce que l&amp;#8217;avais codé il y a 4 ans à partir d&amp;#8217;un thème existant &amp;#8211; horreur, il était mal codé et avec beaucoup de code inutile qui ralentissait l&amp;#8217;affichage du blog.
+      <description>Depuis le temps que j’en parlais, le voilà enfin, j’ai un nouveau thème pour ce blog.
+L’ancien était vraiment trop lourd, aussi bien sur le plan technique que visuel.
+Trop lourd parce que l’avais codé il y a 4 ans à partir d’un thème existant – horreur, il était mal codé et avec beaucoup de code inutile qui ralentissait l’affichage du blog.
 Trop lourd aussi parce que la sidebar et tous ses widgets attiraient beaucoup le regard pour peu de clics et paradoxalement était la partie du blog qui mettait le plus de temps à charger.</description>
     </item>
     
@@ -50,7 +46,7 @@ Trop lourd aussi parce que la sidebar et tous ses widgets attiraient beaucoup le
       <pubDate>Tue, 23 Aug 2011 13:32:42 +0000</pubDate>
       
       <guid>https://angezanetti.com/vacances-indonesia/</guid>
-      <description>By Jakob Montrasio from Shanghai, China (Jakarta&amp;#8217;s Chinatown.) [CC-BY-2.0]  Je pars. Après tout le monde. C&amp;#8217;est tellement mieux de voir tous ces collègues du CoworkingLille revenir en se disant que notre tour arrive bientôt ! Cette fois c&amp;#8217;est la bonne, à cette heure ci je suis dans un avion quelque part entre Paris et Jakarta.
+      <description>&amp;lt;dd class=&amp;quot;wp-caption-dd&amp;quot;&amp;gt; &amp;lt;/dd&amp;gt;  Je pars. Après tout le monde. C’est tellement mieux de voir tous ces collègues du CoworkingLillerevenir en se disant que notre tour arrive bientôt ! Cette fois c’est la bonne, à cette heure ci je suis dans un avion quelque part entre Paris et Jakarta.
 Je suis de retour le 15 Septembre pour de fabuleux projets avec du monde virtuel, du webGL et du NodeJs dedans !</description>
     </item>
     

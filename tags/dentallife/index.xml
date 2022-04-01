@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DentalLife on /AngeZanetti.com</title>
@@ -7,19 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 21 May 2012 09:51:37 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/dentallife/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 21 May 2012 09:51:37 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/dentallife/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Utiliser Vim comme éditeur LSL</title>
       <link>https://angezanetti.com/utiliser-vim-comme-editeur-lsl/</link>
       <pubDate>Mon, 21 May 2012 09:51:37 +0000</pubDate>
       
       <guid>https://angezanetti.com/utiliser-vim-comme-editeur-lsl/</guid>
-      <description>&amp;nbsp;
-Depuis quelques jours je suis de retour sur SecondLife le nez dans le code de la V2 de Dentallife. Pas mal d&amp;#8217;eau a coulé sous les ponts depuis la conception et la réalisation de la V1, je me suis mis au Javascript et à la programmation orientée objet.
+      <description>Depuis quelques jours je suis de retour sur SecondLife le nez dans le code de la V2 de Dentallife. Pas mal d’eau a coulé sous les ponts depuis la conception et la réalisation de la V1, je me suis mis au Javascriptet à la programmation orientée objet.
 Je vous laisse imaginer à quel point le retour au LSL est dur ! La pauvreté de ce langage est affligeante, sans parler du lag quand on veut échanger des infos avec un serveur externe.</description>
     </item>
     
@@ -29,9 +24,9 @@ Je vous laisse imaginer à quel point le retour au LSL est dur ! La pauvreté de
       <pubDate>Wed, 02 May 2012 09:15:01 +0000</pubDate>
       
       <guid>https://angezanetti.com/serious-game-sante-2-0/</guid>
-      <description>Les seriousgame sont particulièrement adapté aux situations d&amp;#8217;urgence, de répétition de gestes techniques dans des conditions extrème ou difficile à rejouer.
-C&amp;#8217;est donc sans surprise que l&amp;#8217;on a vu le domaine de la santé se doter de nombreux jeux sérieux. J&amp;#8217;ai trouvé dans ma veille deux exemple de ces seriousgame orientés santé qui me paraisse intéressant, vous trouverez des vidéos ci dessous.
-Le premier jeu est une simulation de consultation médicale qui me rappelle beaucoup la V1 du seriousgame de dentallife</description>
+      <description>Les seriousgame sont particulièrement adapté aux situations d’urgence, de répétition de gestes techniques dans des conditions extrème ou difficile à rejouer.
+C’est donc sans surprise que l’on a vu le domaine de la santé se doter de nombreux jeux sérieux. J’ai trouvé dans ma veille deux exemple de ces seriousgame orientés santé qui me paraisse intéressant, vous trouverez des vidéos ci dessous.
+Le premier jeu est une simulation de consultation médicale qui me rappelle beaucoup la V1 du seriousgame de dentallife  Le deuxième ressemble beaucoup à un RPG – jeu de rôle – classique mais à pour but de réduire les dépression chez les ados.</description>
     </item>
     
     <item>
@@ -40,9 +35,9 @@ Le premier jeu est une simulation de consultation médicale qui me rappelle beau
       <pubDate>Wed, 23 Nov 2011 08:40:06 +0000</pubDate>
       
       <guid>https://angezanetti.com/secondlife-collaboration-coinnovation/</guid>
-      <description>Hier je suis tombé sur un article de Fred Cavazza sur son blog Marketing Virtuel, il y parle de l&amp;#8217;héritage de Second Life. Dans le même temps Guillaume Reys, le dentiste de Dentallife, postait sur Facebook :
+      <description>Hier je suis tombé sur un article de Fred Cavazza sur son blog Marketing Virtuel, il y parle de l’héritage de Second Life. Dans le même temps Guillaume Reys, le dentiste de Dentallife, postait sur Facebook :
 Pour rappel Dentallife est un seriousgame orienté sur le thème des urgences en cabinet dentaire et qui à été entièrement réalisé dans Second Life.
-D&amp;#8217;ailleurs Fred Cavazza dans son billet nous le rappelle :</description>
+D’ailleurs Fred Cavazza dans son billet nous le rappelle :</description>
     </item>
     
     <item>
@@ -51,9 +46,9 @@ D&amp;#8217;ailleurs Fred Cavazza dans son billet nous le rappelle :</descriptio
       <pubDate>Tue, 31 May 2011 14:21:44 +0000</pubDate>
       
       <guid>https://angezanetti.com/seriousgame-dentallife-developpement-conseil/</guid>
-      <description>Il y a quelques semaines sortait de façon officielle le seriousgame dentallife : &amp;#8220;Urgences en cabinet Dentaire&amp;#8221;.
-Je n&amp;#8217;ai jamais pris le temps d&amp;#8217;exposer mon retour d&amp;#8217;expérience sur ce projet, ce billet va essayer de corriger cet oubli en exposant notre démarche dans la conception et la réalisation du seriousgame.
-La conception du projet : Au début de l&amp;#8217;année 2011 Guillaume est venu me trouver pour me proposer un projet aussi passionant que culotté : faire un seriousgame en moins de 3 mois.</description>
+      <description>Il y a quelques semaines sortait de façon officielle le seriousgame dentallife : “Urgences en cabinet Dentaire”.
+Je n’ai jamais pris le temps d’exposer mon retour d’expérience sur ce projet, ce billet va essayer de corriger cet oubli en exposant notre démarche dans la conception et la réalisation du seriousgame.
+La conception du projet : Au début de l’année 2011 Guillaume est venu me trouver pour me proposer un projet aussi passionant que culotté : faire un seriousgame en moins de 3 mois.</description>
     </item>
     
     <item>
@@ -72,12 +67,9 @@ Actuellement, ils utilisent la vidéo conférence, avant c’était la télécon
       <pubDate>Mon, 19 Jul 2010 08:18:17 +0000</pubDate>
       
       <guid>https://angezanetti.com/guest-retour-sur-le-quizz-de-dental-life/</guid>
-      <description>&lt;!--        @page { margin: 2cm }       P { margin-bottom: 0.21cm } --&gt;
-
-&lt;p&gt;_Ce post m&amp;#8217;a été soumis par &lt;a title=&#34;Profil FB Odrade Saenz&#34; href=&#34;http://www.facebook.com/#!/profile.php?id=100000537321100&amp;v=wall&amp;ref=ts&#34; target=&#34;_blank&#34;&gt;Odrade Saenz &lt;/a&gt;, elle a assisté à une conférence de &lt;a title=&#34;DentalLife&#34; href=&#34;http://www.dentallife.fr/&#34; target=&#34;_blank&#34;&gt;DentalLife&lt;/a&gt; la semaine dernière et souhaitais nous faire partager son expérience. Comme je le rappelait il y a peu , ce blog est ouvert au guest blogging, autrement dit si vous avez envie de partager une expérience qui est en rapport avec les mondes virtuels et que vous n&amp;#8217;avez pas de support pour le faire il suffit de m&amp;#8217;envoyer un mail, un tweet, un message FB ou un pigeon voyageur et, si l&amp;#8217;article est interessant, je le publierai ici :)_&lt;/p&gt;
-
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;em&gt;Ce post m’a été soumis par &lt;!-- raw HTML omitted --&gt;Odrade Saenz &lt;!-- raw HTML omitted --&gt;, elle a assisté à une conférence de &lt;!-- raw HTML omitted --&gt;DentalLife&lt;!-- raw HTML omitted --&gt; la semaine dernière et souhaitais nous faire partager son expérience. Comme je le rappelait il y a peu , ce blog est ouvert au guest blogging, autrement dit si vous avez envie de partager une expérience qui est en rapport avec les mondes virtuels et que vous n’avez pas de support pour le faire il suffit de m’envoyer un mail, un tweet, un message FB ou un pigeon voyageur et, si l’article est interessant, je le publierai ici :)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Quand ludique rime avec pratique et pédagogique&lt;/p&gt;
-
 &lt;p&gt;Lundi 12 juillet 2010 à 21 heures, Bill Walach aka Dr Guillaume Reys, chirurgien dentiste, fondateur de la société Dental Life, conviait au sein de l’île Ivoire sur Second Life, ses confrères et des étudiants à une animation conviviale et interactive. Un quizz pédagogique permettait aux participants de tester leurs connaissances sur la thématique des urgences au cabinet dentaire. L’animation s’est déroulée dans la bonne humeur et l’interactivité. Le docteur Bartholomeus Calon, médecin anesthésiste réanimateur à l’hôpital de Hautepierre, à l’origine d’un atelier conférence et d’un diaporama permettant à tout un chacun de se former ou de réviser, était présent lors de cette sympathique soirée, émaillant les réponses de commentaires complémentaires. Un cadeau offert par Gold conseil, partenaire de Dental Life, a été remis au meilleur score.&lt;/p&gt;</description>
     </item>
     

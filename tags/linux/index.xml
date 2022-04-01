@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on /AngeZanetti.com</title>
@@ -7,20 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 19 Jun 2012 07:00:39 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 19 Jun 2012 07:00:39 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unity3d arrive sous Linux !</title>
       <link>https://angezanetti.com/unity3d-arrive-sous-linux/</link>
       <pubDate>Tue, 19 Jun 2012 07:00:39 +0000</pubDate>
       
       <guid>https://angezanetti.com/unity3d-arrive-sous-linux/</guid>
-      <description>Si vous suivez ce blog vous connaissez probablement Unity3D. Ce moteur de jeu est de plus en plus populaire et, sa volonté d&amp;#8217;être présent sur tous les supports est une des clés de son succès. On peut en effet jouer à des jeux unity dans son navigateur, sur son téléphone, sa console ou encore avec sa tablette.
+      <description>Si vous suivez ce blog vous connaissez probablement Unity3D. Ce moteur de jeu est de plus en plus populaire et, sa volonté d’être présent sur tous les supports est une des clés de son succès. On peut en effet jouer à des jeux unity dans son navigateur, sur son téléphone, sa console ou encore avec sa tablette.
 Mais, ombre au tableau, pas sous un PC tournant sous Linux !
-Avec la nouvelle mouture d&amp;#8217;Unity 4.</description>
+Avec la nouvelle mouture d’Unity 4.</description>
     </item>
     
   </channel>

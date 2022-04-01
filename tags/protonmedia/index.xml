@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ProtonMedia on /AngeZanetti.com</title>
@@ -7,19 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 23 Jun 2011 10:09:05 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/protonmedia/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 23 Jun 2011 10:09:05 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/protonmedia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ProtonMédia lève 4.5 millions de dollars</title>
       <link>https://angezanetti.com/protonmedia-kaplan/</link>
       <pubDate>Thu, 23 Jun 2011 10:09:05 +0000</pubDate>
       
       <guid>https://angezanetti.com/protonmedia-kaplan/</guid>
-      <description>D&amp;#8217;après le communiqué de presse disponible sur le blog de ProtonMedia, une grosse levée de fonds à été mise en place. Cele semble être sous la forme d&amp;#8217;un partenariat avec Kaplan EduNeering, une entreprise de services éducatifs qui travaille avec des entreprises, des écoles ou des universités.
-Cette année 2011 s&amp;#8217;annonce riche en innovation dans le domaine des mondes virtuels et il semble que ProtonMedia veut sa part du gâteau !</description>
+      <description>D’après le communiqué de presse disponible sur le blog de ProtonMedia, une grosse levée de fonds à été mise en place. Cele semble être sous la forme d’un partenariat avec Kaplan EduNeering, une entreprise de services éducatifs qui travaille avec des entreprises, des écoles ou des universités.
+Cette année 2011 s’annonce riche en innovation dans le domaine des mondes virtuels et il semble que ProtonMedia veut sa part du gâteau !</description>
     </item>
     
   </channel>

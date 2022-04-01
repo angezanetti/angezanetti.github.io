@@ -7,27 +7,20 @@
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="theme-color" content="#FE5185">
 	<meta name="msapplication-TileColor" content="#FE5185">
-
 <meta itemprop="name" content="Installer un environnement de développement avec VirtualBox">
-<meta itemprop="description" content="Travailller avec un LAMP, ou un MAMP, installé en local c&#8217;est bien pour des petits projets, type création de thème/plugins WordPress, mais pour les projets plus conséquents avec des technos plus exotique que PHP il peut être nécessaire de virtualiser un système d&#8217;exploitation pour travailler. Je vous conseillle d&#8217;ailleurs de mettre en local le même système que votre machine de production, ça limite grandement les surprises de mise en prod !">
-
-
-<meta itemprop="datePublished" content="2013-08-26T09:09:44&#43;00:00" />
+<meta itemprop="description" content="Travailller avec un LAMP, ou un MAMP, installé en local c’est bien pour des petits projets, type création de thème/plugins WordPress, mais pour les projets plus conséquents avec des technos plus exotique que PHP il peut être nécessaire de virtualiser un système d’exploitation pour travailler. Je vous conseillle d’ailleurs de mettre en local le même système que votre machine de production, ça limite grandement les surprises de mise en prod !"><meta itemprop="datePublished" content="2013-08-26T09:09:44&#43;00:00" />
 <meta itemprop="dateModified" content="2013-08-26T09:09:44&#43;00:00" />
-<meta itemprop="wordCount" content="458">
-
-
-
-<meta itemprop="keywords" content="Dev,Jobs,Tuto," />
-<meta property="og:title" content="Installer un environnement de développement avec VirtualBox" />
-<meta property="og:description" content="Travailller avec un LAMP, ou un MAMP, installé en local c&#8217;est bien pour des petits projets, type création de thème/plugins WordPress, mais pour les projets plus conséquents avec des technos plus exotique que PHP il peut être nécessaire de virtualiser un système d&#8217;exploitation pour travailler. Je vous conseillle d&#8217;ailleurs de mettre en local le même système que votre machine de production, ça limite grandement les surprises de mise en prod !" />
+<meta itemprop="wordCount" content="454">
+<meta itemprop="keywords" content="Dev,Jobs,Tuto," /><meta property="og:title" content="Installer un environnement de développement avec VirtualBox" />
+<meta property="og:description" content="Travailller avec un LAMP, ou un MAMP, installé en local c’est bien pour des petits projets, type création de thème/plugins WordPress, mais pour les projets plus conséquents avec des technos plus exotique que PHP il peut être nécessaire de virtualiser un système d’exploitation pour travailler. Je vous conseillle d’ailleurs de mettre en local le même système que votre machine de production, ça limite grandement les surprises de mise en prod !" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://angezanetti.com/installer-un-environnement-de-developpement-avec-virtualbox/" />
-<meta property="article:published_time" content="2013-08-26T09:09:44&#43;00:00"/>
-<meta property="article:modified_time" content="2013-08-26T09:09:44&#43;00:00"/>
+<meta property="og:url" content="https://angezanetti.com/installer-un-environnement-de-developpement-avec-virtualbox/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2013-08-26T09:09:44&#43;00:00" />
+<meta property="article:modified_time" content="2013-08-26T09:09:44&#43;00:00" />
+
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Installer un environnement de développement avec VirtualBox"/>
-<meta name="twitter:description" content="Travailller avec un LAMP, ou un MAMP, installé en local c&#8217;est bien pour des petits projets, type création de thème/plugins WordPress, mais pour les projets plus conséquents avec des technos plus exotique que PHP il peut être nécessaire de virtualiser un système d&#8217;exploitation pour travailler. Je vous conseillle d&#8217;ailleurs de mettre en local le même système que votre machine de production, ça limite grandement les surprises de mise en prod !"/>
+<meta name="twitter:description" content="Travailller avec un LAMP, ou un MAMP, installé en local c’est bien pour des petits projets, type création de thème/plugins WordPress, mais pour les projets plus conséquents avec des technos plus exotique que PHP il peut être nécessaire de virtualiser un système d’exploitation pour travailler. Je vous conseillle d’ailleurs de mettre en local le même système que votre machine de production, ça limite grandement les surprises de mise en prod !"/>
 
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -37,7 +30,7 @@
 	<link rel="shortcut icon" href="/favicon.ico">
 
 	<title>Installer un environnement de développement avec VirtualBox</title>
-	<link rel="stylesheet" href="https://angezanetti.com/css/style.min.01f62fff7ba9e2888ea91c3cd0097e6a3f65d5d14863514fb3886453cca80599.css" integrity="sha256-AfYv/3up4oiOqRw80Al+aj9l1dFIY1FPs4hkU8yoBZk=" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://angezanetti.com/css/style.min.f74778e3020c87c304fb5982e09b92ba63a5c7f202996d4c7283d6057acfe9c1.css" integrity="sha256-90d44wIMh8ME+1mC4JuSumOlx/ICmW1McoPWBXrP6cE=" crossorigin="anonymous">
 	
 	<link rel="stylesheet" href="https://angezanetti.com/style.css">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans|Unica+One&display=swap" rel="stylesheet">
@@ -76,38 +69,21 @@
 	<main class="site-main section-inner thin animated fadeIn faster">
 		<h1>Installer un environnement de développement avec VirtualBox</h1>
 		<div class="content">
-			
-
-<p>Travailller avec un LAMP, ou un MAMP, installé en local c&#8217;est bien pour des petits projets, type création de thème/plugins WordPress, mais pour les projets plus conséquents avec des technos plus exotique que PHP il peut être nécessaire de virtualiser un système d&#8217;exploitation pour travailler. Je vous conseillle d&#8217;ailleurs de mettre en local le même système que votre machine de production, ça limite grandement les surprises de mise en prod !</p>
-
-<h3 id="etape-1-installation-de-virtualbox-et-de-l-8217-os">Etape 1 : Installation de VirtualBox et de l&#8217;OS<a href="#etape-1-installation-de-virtualbox-et-de-l-8217-os" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
-
-<p>Vous trouverez des milliers de tutos sur le web pour installer votre distribution préférée et sur la procédure d&#8217;installation de virtualbox, rien de bien compliqué. Petites remarques toutefois, préférez bien sur des OS stables genre debian, ubuntu LTS , CentOS etc&#8230; Les distributions à la mode ne sont pas forcement un choix judicieux pour une machine de production.</p>
-
-<p>Limitez les ressources que vous allouez à votre machine, un OS serveur n&#8217;a pas besoin de beaucoup de ressources (256Mo de RAM et un petit de processeur devrait suffire) sinon vous allez vraiment avoir du mal à bosser dans de bonnes conditions.</p>
-
-<h3 id="etape-2-configuration-de-l-8217-os">Etape 2 : Configuration de l&#8217;OS<a href="#etape-2-configuration-de-l-8217-os" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
-
+			<p>Travailller avec un LAMP, ou un MAMP, installé en local c’est bien pour des petits projets, type création de thème/plugins WordPress, mais pour les projets plus conséquents avec des technos plus exotique que PHP il peut être nécessaire de virtualiser un système d’exploitation pour travailler. Je vous conseillle d’ailleurs de mettre en local le même système que votre machine de production, ça limite grandement les surprises de mise en prod !</p>
+<h3 id="etape-1--installation-de-virtualbox-et-de-l8217os">Etape 1 : Installation de VirtualBox et de l’OS<a href="#etape-1--installation-de-virtualbox-et-de-l8217os" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+<p>Vous trouverez des milliers de tutos sur le web pour installer votre distribution préférée et sur la procédure d’installation de virtualbox, rien de bien compliqué. Petites remarques toutefois, préférez bien sur des OS stables genre debian, ubuntu LTS , CentOS etc… Les distributions à la mode ne sont pas forcement un choix judicieux pour une machine de production.</p>
+<p>Limitez les ressources que vous allouez à votre machine, un OS serveur n’a pas besoin de beaucoup de ressources (256Mo de RAM et un petit de processeur devrait suffire) sinon vous allez vraiment avoir du mal à bosser dans de bonnes conditions.</p>
+<h3 id="etape-2--configuration-de-l8217os">Etape 2 : Configuration de l’OS<a href="#etape-2--configuration-de-l8217os" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
 <p>Une fois que tous vos paquets sont installés et que votre serveur virtuel tourne bien il va falloir le mettre en relation avec votre machine afin de travailler dans de bonnes conditions.</p>
-
-<p>Pour l&#8217;accès je recommande un bon vieil SSH, c&#8217;est simple et efficace :</p>
-
-<pre>sudo apt-get install open-ssh</pre>
-
+<p>Pour l’accès je recommande un bon vieil SSH, c’est simple et efficace :</p>
+<!-- raw HTML omitted -->
 <p>Pour le serveur web et le langage je vous laisse choix, nginx, apache2 ou autres, idem PHP, Ruby, Python, faites votre marché !</p>
-
 <p>NB: Faites attention à bien installer la version identique à celle du serveur de production, toujours dans un soucis de compatibilité.</p>
-
-<h3 id="etape-3-configuration-du-réseau">Etape 3 : Configuration du réseau<a href="#etape-3-configuration-du-réseau" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
-
-<p>Ensuite, il faut pouvoir accéder à son serveur depuis son navigateur pour afficher les pages web, pour ça c&#8217;est un peu plus complexe, mais pas sorcier non plus.</p>
-
-<p>D&#8217;abord rendez vous dans configuration/Réseau de votre machine virtuelle et configurer la carte 1 en NAT, et ajouter une deuxième carte en Réseau privé comme ci dessous  :</p>
-
-<p><a href="https://i1.wp.com/angezanetti.com/wp-content/uploads/2013/08/Reseau-Virtualbox.jpg"><img class="aligncenter size-full wp-image-1810" alt="Reseau Virtualbox" src="https://i1.wp.com/angezanetti.com/wp-content/uploads/2013/08/Reseau-Virtualbox.jpg?resize=645%2C468" width="645" height="468" data-recalc-dims="1" /></a></p>
-
-<p>Ensuite, on va configurer les interfaces réseau dans l&#8217;OS directement  &#8211; ici une debian. On édite donc  /etc/network/interfaces dans lequel on trouvera lo et eth0 nous allons ajouter eth1 à la fin du fichier :</p>
-
+<h3 id="etape-3--configuration-du-réseau">Etape 3 : Configuration du réseau<a href="#etape-3--configuration-du-réseau" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
+<p>Ensuite, il faut pouvoir accéder à son serveur depuis son navigateur pour afficher les pages web, pour ça c’est un peu plus complexe, mais pas sorcier non plus.</p>
+<p>D’abord rendez vous dans configuration/Réseau de votre machine virtuelle et configurer la carte 1 en NAT, et ajouter une deuxième carte en Réseau privé comme ci dessous  :</p>
+<p><a href="https://i1.wp.com/angezanetti.com/wp-content/uploads/2013/08/Reseau-Virtualbox.jpg"><!-- raw HTML omitted --></a></p>
+<p>Ensuite, on va configurer les interfaces réseau dans l’OS directement  – ici une debian. On édite donc  /etc/network/interfaces dans lequel on trouvera lo et eth0 nous allons ajouter eth1 à la fin du fichier :</p>
 <pre><code># The host-only network interface
 auto eth1
 iface eth1 inet static
@@ -116,20 +92,17 @@ netmask 255.255.255.0
 network 192.168.56.0
 broadcast 192.168.56.255
 </code></pre>
-
 <p>Ensuite, pour des raisons pratiques nous allons donner des noms à ces serveurs virtuels pour éviter de retenir des adresses IP obscures, en éditant le /etc/hosts/ de votre machine hôte et en ajoutant :</p>
-
 <pre><code>192.168.56.101    myserver1
 192.168.56.102    myserver2
 </code></pre>
-
-<p>Et voilà vous avez une machine de développement fonctionnelle, reste plus qu&#8217;a mettre votre framework préféfé et à installer git pour travailler en équipe !</p>
+<p>Et voilà vous avez une machine de développement fonctionnelle, reste plus qu’a mettre votre framework préféfé et à installer git pour travailler en équipe !</p>
 
 		</div>
 	</main>
 
 	<footer id="site-footer" class="section-inner thin animated fadeIn faster">
-		<p>&copy; 2021 <a href="https://angezanetti.com">Xavier Coiffard</a> &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></p>
+		<p>&copy; 2022 <a href="https://angezanetti.com">Xavier Coiffard</a> &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></p>
 		<p>
 			Made with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> &#183; Theme <a href="https://github.com/Track3/hermit" target="_blank" rel="noopener">Hermit</a> &#183; <a href="https://angezanetti.com/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a>
 		</p>
@@ -137,7 +110,7 @@ broadcast 192.168.56.255
 
 
 
-	<script src="https://angezanetti.com/js/bundle.min.490e43e5af6db5906f28afa49a4e16bf9f626b758e3fca92f146b870eb94bb37.js" integrity="sha256-SQ5D5a9ttZBvKK+kmk4Wv59ia3WOP8qS8Ua4cOuUuzc=" crossorigin="anonymous"></script>
+	<script src="https://angezanetti.com/js/bundle.min.7d8545daa55d62427355498dd8da13f98ff79a7938ce7d2a5e2ae1ec0de3beb8.js" integrity="sha256-fYVF2qVdYkJzVUmN2NoT+Y/3mnk4zn0qXirh7A3jvrg=" crossorigin="anonymous"></script>
 	
 <script async defer data-domain="angezanetti.com" src="https://plausible.io/js/plausible.js"></script>
 

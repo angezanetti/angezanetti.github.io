@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on /AngeZanetti.com</title>
@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 13 Jan 2021 20:11:21 -0400</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 13 Jan 2021 20:11:21 -0400</lastBuildDate><atom:link href="https://angezanetti.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to create your blog with Gohugo and Netlify</title>
       <link>https://angezanetti.com/posts/how-to-blog-gohugo-netlify-seo/</link>
@@ -48,7 +44,7 @@ During the last 4 years I worked in my first “real” job, like, with a boss, 
       <pubDate>Thu, 11 Mar 2010 08:47:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/migration-blogger-wordpress-2/</guid>
-      <description>Il y a deux semaines je décidais de migrer mon (vieux) blog blogger sous WordPress. Mes raisons étaient nombreuses, d&amp;#8217;abord l&amp;#8217;envie de tester de nouvelles plateformes mais surtout gagner en rapidité d&amp;#8217;affichage et en qualité d&amp;#8217;ergonomie. Finalement je ne suis pas déçu. WordPress est tout simplement un moteur de blog génial. L&amp;#8217;installation se fait en douceur, pas vraiment besoin de mettre les mains dans le code. Dans mon cas j&amp;#8217;ai du jouer un peu avec les DNS pour faire pointer angezanetti.</description>
+      <description></description>
     </item>
     
     <item>
@@ -57,8 +53,8 @@ During the last 4 years I worked in my first “real” job, like, with a boss, 
       <pubDate>Sun, 21 Feb 2010 14:24:38 +0000</pubDate>
       
       <guid>https://angezanetti.com/migration-blogger-wordpress/</guid>
-      <description>Je vous en parlais hier sur Twitter et sur mon ancien blog hier,ça y est j&amp;#8217;ai tout changé :)
-En fait pas vraiment tout puisque le fond reste le même j&amp;#8217;ai enfin un hébergement digne de ce nom et un moteur de blog opensource et beaucoup, beaucoup plus agréable à utiliser que mon ancien blogger vraiment pas ergonomique. Tout cela c&amp;#8217;est un peu fait dans la douleur, puisque j&amp;#8217;ai du m&amp;#8217;amuser à changer les DNS de mon nom de domaine (angezanetti.</description>
+      <description>Je vous en parlais hier sur Twitteret sur mon ancien bloghier,ça y est j’ai tout changé :)
+En fait pas vraiment tout puisque le fond reste le même j’ai enfin un hébergement digne de ce nom et un moteur de blog opensource et beaucoup, beaucoup plus agréable à utiliser que mon ancien blogger vraiment pas ergonomique. Tout cela c’est un peu fait dans la douleur, puisque j’ai du m’amuser à changer les DNS de mon nom de domaine (angezanetti.</description>
     </item>
     
     <item>
@@ -67,9 +63,7 @@ En fait pas vraiment tout puisque le fond reste le même j&amp;#8217;ai enfin un
       <pubDate>Thu, 14 Jan 2010 21:01:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/offline-for-a-while/</guid>
-      <description>Au moment où vous lirez ces lignes je serais normalement dans l&amp;#8217;avion vers Bangkok. Pas pour un rendez vous client, pas non plus pour aller voir ce qui se fait dans les mondes virtuels de ce coté de l&amp;#8217;équateur mais plutôt pour profiter un peu du climat, de la culture et des paysages.
-Des vacances quoi :)
-Pas de panique je serais de retour début Février, prenez soin d&amp;#8217;Internet pendant mon absence !</description>
+      <description></description>
     </item>
     
     <item>
@@ -78,8 +72,8 @@ Pas de panique je serais de retour début Février, prenez soin d&amp;#8217;Inte
       <pubDate>Wed, 13 Jan 2010 09:06:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/lidentite-numerique-cette-inconnue/</guid>
-      <description>Il y a quelques jours j&amp;#8217;ai eu une discussion avec un ami de mon petit frère qui veut devenir webmaster. Il voulait se renseigner sur les différents statuts et comme je suis un expert sur le statut d&amp;#8217;auto entrepreneur. Mon frère nous a mis en relation !
-Le fait est que le débat à vite tourner sur son identité numérique, qui avait l&amp;#8217;air particulièrement absente d&amp;#8217;ailleurs. Ce garçon sort pourtant d&amp;#8217;une école d&amp;#8217;informatique et d&amp;#8217;une formation professionalisante en plus, mais non on ne leur a pas appris que l&amp;#8217;essentiel pour se démarquer pour exister c&amp;#8217;est l&amp;#8217;identité numérique.</description>
+      <description>Il y a quelques jours j’ai eu une discussion avec un ami de mon petit frère qui veut devenir webmaster. Il voulait se renseigner sur les différents statuts et comme je suis un expert sur le statut d’auto entrepreneur. Mon frère nous a mis en relation !
+Le fait est que le débat à vite tourner sur son identité numérique, qui avait l’air particulièrement absente d’ailleurs. Ce garçon sort pourtant d’une école d’informatique et d’une formation professionalisante en plus, mais non on ne leur a pas appris que l’essentiel pour se démarquer pour exister c’est l’identité numérique.</description>
     </item>
     
     <item>
@@ -89,7 +83,7 @@ Le fait est que le débat à vite tourner sur son identité numérique, qui avai
       
       <guid>https://angezanetti.com/bonne-annee-2010/</guid>
       <description>Nous sommes le Lundi 4 Janvier 2010 et vous lisez toujours ce blog, bonjour !
-Je ne ferai pas de rétrospectives ni de prédictions over élitistes, premièrement je ne suis pas un &amp;#8220;expert&amp;#8221; et deuxièmement j&amp;#8217;ai un furieux doute quand à l&amp;#8217;exactitude de ce genre d&amp;#8217;envolées post réveillons :p
+Je ne ferai pas de rétrospectives ni de prédictions over élitistes, premièrement je ne suis pas un “expert” et deuxièmement j’ai un furieux doute quand à l’exactitude de ce genre d’envolées post réveillons :p
 Par contre je peux vous dire que 2010 sera pour moi une année de changement, avec une mission au long terme dont je vous parlerais cette semaine et des projets plus ou moins important dans les univers virtuels.</description>
     </item>
     
@@ -99,7 +93,7 @@ Par contre je peux vous dire que 2010 sera pour moi une année de changement, av
       <pubDate>Sat, 24 Oct 2009 09:41:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/break/</guid>
-      <description>Les vacances sont arrivées et pour une fois je ne coupe pas à la règle, je me prends un break d&amp;#8217;une semaine loin de tout pc ou autres geekeries évoluées. Une semaine à faire du bateau, regarder les poissons et faire des bulles au pays des pharaons !
+      <description>Les vacances sont arrivées et pour une fois je ne coupe pas à la règle, je me prends un break d’une semaine loin de tout pc ou autres geekeries évoluées. Une semaine à faire du bateau, regarder les poissons et faire des bulles au pays des pharaons !
 Je serais de retour samedi prochain en attendant portez vous bien :)
 Pour partir en beauté, je me suis dit que rien ne valait un bon vieux troll bien poilu.</description>
     </item>
@@ -110,7 +104,7 @@ Pour partir en beauté, je me suis dit que rien ne valait un bon vieux troll bie
       <pubDate>Thu, 03 Sep 2009 07:52:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/je-fais-ma-rentree/</guid>
-      <description>(photo d&amp;#8217;Olibac)    Et hop fin de l&amp;#8217;été, après avoir passé 2 mois dans l&amp;#8217;eau me voici de retour sur le web. Et ce retour s&amp;#8217;accompagne de pas mal de bonnes nouvelles comme la nouvelle fonction llMediaAPI mise en place par Linden Labs pendant le mois d&amp;#8217;Aout mais aussi la sortie en version finale d&amp;#8217;Avaline. Mais il y a aussi JustLeapIn qui annonce sa compatibilité avec FireFox 3.</description>
+      <description></description>
     </item>
     
   </channel>

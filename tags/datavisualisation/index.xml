@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>datavisualisation on /AngeZanetti.com</title>
@@ -7,20 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 24 Oct 2011 08:40:45 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/datavisualisation/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 24 Oct 2011 08:40:45 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/datavisualisation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data visualisation et WebGL</title>
       <link>https://angezanetti.com/data-visualisation-webgl-html5/</link>
       <pubDate>Mon, 24 Oct 2011 08:40:45 +0000</pubDate>
       
       <guid>https://angezanetti.com/data-visualisation-webgl-html5/</guid>
-      <description>Jonas Wagner est un hacker qui travaille pour local.ch, un moteur de recherche qui ressemble à notre pagesjaunes.fr.
-Il était apparemment, depuis quelques temps, à la recherche d&amp;#8217;un outil de datavisualisation sympa pour représenter toutes les données de local.ch. Il a finalement choisi WebGL et le résultat est bluffant.
-Il modélise les 3,7 millions d&amp;#8217;adresses référencées par local.ch sous la forme d&amp;#8217;un point rouge. Les données sont géolocalisées en 3D, on peut donc facilement reconnaître les contours de la suisse mais aussi les reliefs &amp;#8211; lacs, montagnes etc.</description>
+      <description>Jonas Wagnerest un hacker qui travaille pour local.ch, un moteur de recherche qui ressemble à notre pagesjaunes.fr.
+Il était apparemment, depuis quelques temps, à la recherche d’un outil de datavisualisation sympa pour représenter toutes les données de local.ch. Il a finalement choisi WebGL et le résultat est bluffant.
+Il modélise les 3,7 millions d’adresses référencées par local.ch sous la forme d’un point rouge. Les données sont géolocalisées en 3D, on peut donc facilement reconnaître les contours de la suisse mais aussi les reliefs – lacs, montagnes etc.</description>
     </item>
     
   </channel>

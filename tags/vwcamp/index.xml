@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VWcamp on /AngeZanetti.com</title>
@@ -7,20 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 10 Nov 2010 10:24:37 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/vwcamp/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 10 Nov 2010 10:24:37 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/vwcamp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Virtual World Camp 2010</title>
       <link>https://angezanetti.com/virtual-world-camp-2010/</link>
       <pubDate>Wed, 10 Nov 2010 10:24:37 +0000</pubDate>
       
       <guid>https://angezanetti.com/virtual-world-camp-2010/</guid>
-      <description>Je suis plutôt content de vous annoncer la troisième version d&amp;#8217;un événement qui me plaît particulièrement : le Virtual Worlds Camp.
-Pour ceux qui ne baignerait pas dans le monde de l&amp;#8217;internet un barcamp est une &amp;#8220;non-conférence&amp;#8221;, un lieu d&amp;#8217;échange ouvert, chacun est libre de venir y présenter son travail, d&amp;#8217;y soumettre ses idées ou de lancer des débats.
-Le problème pour moi, et pour la majorité d&amp;#8217;entre nous, je n&amp;#8217;habite pas Paris.</description>
+      <description>Je suis plutôt content de vous annoncer la troisième version d’un événement qui me plaît particulièrement : le Virtual Worlds Camp.
+Pour ceux qui ne baignerait pas dans le monde de l’internet un barcamp est une “non-conférence”, un lieu d’échange ouvert, chacun est libre de venir y présenter son travail, d’y soumettre ses idées ou de lancer des débats.
+Le problème pour moi, et pour la majorité d’entre nous, je n’habite pas Paris.</description>
     </item>
     
     <item>
@@ -29,7 +25,7 @@ Le problème pour moi, et pour la majorité d&amp;#8217;entre nous, je n&amp;#82
       <pubDate>Mon, 22 Feb 2010 16:24:18 +0000</pubDate>
       
       <guid>https://angezanetti.com/virtual-world-camp-paris-vastpark-imaginer/</guid>
-      <description>Vendredi dernier était organisé un barcamp orienté mondes virtuels. Après avoir hésité entre participer depuis Second Life ou bien me rendre sur place j&amp;#8217;ai finalement opté pour la solution SNCF+RATP qui, il faut bien le dire, est quand même mieux sur le plan humain et permet de networker beaucoup plus. L&amp;#8217;équipe de la bibliotheque était au rendez vous puisque nous avions pour mission de mettre en place un espace de réalité mixte de façon à pouvoir faire intervenir les avatars depuis Second Life.</description>
+      <description></description>
     </item>
     
     <item>
@@ -38,7 +34,7 @@ Le problème pour moi, et pour la majorité d&amp;#8217;entre nous, je n&amp;#82
       <pubDate>Thu, 10 Sep 2009 13:50:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/le-1er-virtual-world-camp-se-tiendra-le-10-11-octobre-2009/</guid>
-      <description>Le Virtual Worlds Camp est un évènement basé sur le système du BarCamp mais qui se déroule dans un univers virtuel (ici, il s’agit de plusieurs mondes virtuels basés sur OpenSim). C’est à dire que cette « non-conférence » n’a pas de sujet pré-défini. Chaque participant peut, si il le souhaite, apporter un thème de discutions le jour J.    Comment ca marche ?  Pour rejoindre ce premier Virtual Worlds Camp, vous devez, au minimum, vous inscrire sur un des mondes virtuels participant afin de nous rejoindre le jour J.</description>
+      <description></description>
     </item>
     
   </channel>

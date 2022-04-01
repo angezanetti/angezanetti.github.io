@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tuto on /AngeZanetti.com</title>
@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 11 Nov 2020 10:30:06 -0400</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/tuto/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 11 Nov 2020 10:30:06 -0400</lastBuildDate><atom:link href="https://angezanetti.com/tags/tuto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Deploy Lumen on a Vps</title>
       <link>https://angezanetti.com/posts/how-to-deploy-lumen-vps/</link>
@@ -49,8 +45,8 @@ There is no way I install MAMP on my mac! In 5 years a LOT of things changed in 
       <guid>https://angezanetti.com/radio-webradio-pandora-pianobar/</guid>
       <description>Petite découverte du jour, si comme moi vous aimez ces petits outils qui permettent de faire pleins de trucs depuis votre terminal.
 Pianobar, est un client console pour Pandora le site de streaming de radio super populaire aux USA.
-Perso je bosse souvent en musique et j&amp;#8217;apprécie tout particulièrement les webradios, plus qu&amp;#8217;un Spotify où il faut choisir un artiste particulier.
-J&amp;#8217;utilisais Youtube avant pour ça mais c&amp;#8217;est lourd, ça bouffe de la ram et même en autoplay il faut y revenir au moins 1 fois par heure pour avoir quelque de constant.</description>
+Perso je bosse souvent en musique et j’apprécie tout particulièrement les webradios, plus qu’un Spotify où il faut choisir un artiste particulier.
+J’utilisais Youtube avant pour ça mais c’est lourd, ça bouffe de la ram et même en autoplay il faut y revenir au moins 1 fois par heure pour avoir quelque de constant.</description>
     </item>
     
     <item>
@@ -59,7 +55,7 @@ J&amp;#8217;utilisais Youtube avant pour ça mais c&amp;#8217;est lourd, ça bou
       <pubDate>Sun, 17 Aug 2014 10:00:58 +0000</pubDate>
       
       <guid>https://angezanetti.com/eviter-proteger-premunir-attaques-hack-bruteforce-blog-site-wordpress/</guid>
-      <description>A l&amp;#8217;heure où j&amp;#8217;écris cet article ce blog subit une attaque de type bruteforce depuis plusieurs heures. C&amp;#8217;est donc le moment idéal pour faire un petit tuto sur comment se protéger de ce type d&amp;#8217;attaques dont les sites WordPress sont de plus en plus la cible.
+      <description>A l’heure où j’écris cet article ce blog subit une attaque de type bruteforce depuis plusieurs heures. C’est donc le moment idéal pour faire un petit tutosur comment se protéger de ce type d’attaques dont les sites WordPresssont de plus en plus la cible.
 
 Bruteforce ? Les attaques bruteforce sont les attaques les plus basiques et les plus stupides du monde. Prenez un site que vous voulez attaquer et qui est protégé par mot de passe.</description>
     </item>
@@ -70,9 +66,9 @@ Bruteforce ? Les attaques bruteforce sont les attaques les plus basiques et les 
       <pubDate>Tue, 29 Jul 2014 05:54:52 +0000</pubDate>
       
       <guid>https://angezanetti.com/faire-fonctionner-retro-eclairage-backlight-macbookpro-7-1-sous-ubuntu-14-04/</guid>
-      <description>Depuis la mise à jour de mon Mac sous Ubuntu 14.04 le rétroéclairage de mon écran ne fonctionnait plus. J&amp;#8217;ai passé pas mal de temps à chercher sur le net une solution viable, j&amp;#8217;ai bidouillé pas mal de trucs pour au final tomber sur la doc communautaire qui vient d&amp;#8217;être mis à jour.
+      <description>Depuis la mise à jour de mon Mac sous Ubuntu 14.04 le rétroéclairage de mon écran ne fonctionnait plus. J’ai passé pas mal de temps à chercher sur le net une solution viable, j’ai bidouillé pas mal de trucs pour au final tomber sur la doc communautairequi vient d’être mis à jour.
 Pour les non anglophones voici la marche à suivre :
-On commence par ouvrir un terminal et lancer la commande suivante:</description>
+On commence par ouvrir un terminal et lancer la commande suivante:Ensuite vous fermez votre session et vous vous reconnectez et tout devrait fonctionner :)</description>
     </item>
     
     <item>
@@ -81,9 +77,9 @@ On commence par ouvrir un terminal et lancer la commande suivante:</description>
       <pubDate>Sun, 26 Jan 2014 16:28:22 +0000</pubDate>
       
       <guid>https://angezanetti.com/migrer-spip-vers-wordpress/</guid>
-      <description>Il y a quelques jour on m&amp;#8217;a confié une super mission: migrer un blog SPIP vers un WordPress!
-J&amp;#8217;ai cherché un peu partout une solution simple et clé en main. Visiblement cela n&amp;#8217;existe pas vraiment&amp;#8230; Il y a bien Korben qui à fait un article la dessus, mais son code n&amp;#8217;est plus dispo.
-J&amp;#8217;ai été cherché du côté de la communauté SPIP &amp;#8211; ils sont super sympas d&amp;#8217;ailleurs n&amp;#8217;hésitez pas à aller leur faire un coucou sur IRC !</description>
+      <description>Il y a quelques jour on m’a confié une super mission: migrer un blog SPIP vers un WordPress!
+J’ai cherché un peu partout une solution simple et clé en main. Visiblement cela n’existe pas vraiment… Il y a bien Korbenqui à fait un article la dessus, mais son code n’est plus dispo.
+J’ai été cherché du côté de la communauté SPIP – ils sont super sympas d’ailleurs n’hésitez pas à aller leur faire un coucou sur IRC !</description>
     </item>
     
     <item>
@@ -92,8 +88,8 @@ J&amp;#8217;ai été cherché du côté de la communauté SPIP &amp;#8211; ils s
       <pubDate>Fri, 17 Jan 2014 13:21:33 +0000</pubDate>
       
       <guid>https://angezanetti.com/faire-fonctionner-le-copiercoller-avec-vim-dans-le-terminal/</guid>
-      <description>Pour faire suite au billet de présentation de Vim que j&amp;#8217;ai publié il y a quelques jours un petit tutorial pour activé le support du copier/coller avec Vim en mode console.
-Vim n&amp;#8217;embarque pas de base la gestion du presse papier de base, et cela pour éviter de surcharger le logiciel qui n&amp;#8217;est pas forcement utilisé par des distributions avec une interface graphique &amp;#8211; sur les serveurs par exemple.
+      <description>Pour faire suite au billet de présentation de Vim que j’ai publié il y a quelques jours un petit tutorial pour activé le support du copier/coller avec Vim en mode console.
+Vim n’embarque pas de base la gestion du presse papier de base, et cela pour éviter de surcharger le logiciel qui n’est pas forcement utilisé par des distributions avec une interface graphique – sur les serveurs par exemple.
 La première chose à faire est donc de vérifier si Vim est compilé avec le support du serveur X.</description>
     </item>
     
@@ -103,7 +99,7 @@ La première chose à faire est donc de vérifier si Vim est compilé avec le su
       <pubDate>Mon, 26 Aug 2013 09:09:44 +0000</pubDate>
       
       <guid>https://angezanetti.com/installer-un-environnement-de-developpement-avec-virtualbox/</guid>
-      <description>Travailller avec un LAMP, ou un MAMP, installé en local c&amp;#8217;est bien pour des petits projets, type création de thème/plugins WordPress, mais pour les projets plus conséquents avec des technos plus exotique que PHP il peut être nécessaire de virtualiser un système d&amp;#8217;exploitation pour travailler. Je vous conseillle d&amp;#8217;ailleurs de mettre en local le même système que votre machine de production, ça limite grandement les surprises de mise en prod !</description>
+      <description>Travailller avec un LAMP, ou un MAMP, installé en local c’est bien pour des petits projets, type création de thème/plugins WordPress, mais pour les projets plus conséquents avec des technos plus exotique que PHP il peut être nécessaire de virtualiser un système d’exploitation pour travailler. Je vous conseillle d’ailleurs de mettre en local le même système que votre machine de production, ça limite grandement les surprises de mise en prod !</description>
     </item>
     
     <item>
@@ -112,7 +108,7 @@ La première chose à faire est donc de vérifier si Vim est compilé avec le su
       <pubDate>Wed, 03 Jul 2013 16:19:13 +0000</pubDate>
       
       <guid>https://angezanetti.com/wp-cli-outil-ideal-maintenance-wordpress/</guid>
-      <description>En ce moment je suis entrain de monter une offre commerciale de maintenance dédiée aux sites WordPress. Les mises à jour sont bien souvent pas faites par le propriétaire du blog et cela entraine des failles de sécurité importantes. Mais le problème est toujours le même: on oublie, on à pas envie, pas le temps ou on est pas compétent pour le faire ou pour réparer en cas de casse&amp;#8230;</description>
+      <description>En ce moment je suis entrain de monter une offre commerciale de maintenance dédiée aux sites WordPress. Les mises à jour sont bien souvent pas faites par le propriétaire du blog et cela entraine des failles de sécurité importantes. Mais le problème est toujours le même: on oublie, on à pas envie, pas le temps ou on est pas compétent pour le faire ou pour réparer en cas de casse…</description>
     </item>
     
   </channel>

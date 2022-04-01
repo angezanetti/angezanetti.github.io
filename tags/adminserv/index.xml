@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AdminServ on /AngeZanetti.com</title>
@@ -7,19 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 04 Jan 2014 09:38:33 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/adminserv/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 04 Jan 2014 09:38:33 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/adminserv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vim, un éditeur de texte du 21ème siècle</title>
       <link>https://angezanetti.com/vim-un-editeur-de-texte-du-21eme-siecle/</link>
       <pubDate>Sat, 04 Jan 2014 09:38:33 +0000</pubDate>
       
       <guid>https://angezanetti.com/vim-un-editeur-de-texte-du-21eme-siecle/</guid>
-      <description>Je me rends compte que je ne vous ai jamais parlé de Vim sur ce blog. J&amp;#8217;ai un vieux brouillon qui date de 2 ans sur le sujet mais je n&amp;#8217;ai jamais publié d&amp;#8217;articles alors qu&amp;#8217;il y a matière !
-Vim, pour ceux qui ne le connaissent pas est un &amp;#8220;vieil&amp;#8221; éditeur de texte en mode texte. J&amp;#8217;ai commencé à m&amp;#8217;y intéresser il y a 2-3 ans quand je faisais des recherches sur l&amp;#8217;ergonomie du poste de travail.</description>
+      <description>Je me rends compte que je ne vous ai jamais parlé de Vim sur ce blog. J’ai un vieux brouillon qui date de 2 ans sur le sujet mais je n’ai jamais publié d’articles alors qu’il y a matière !
+Vim, pour ceux qui ne le connaissent pas est un “vieil” éditeur de texte en mode texte. J’ai commencé à m’y intéresser il y a 2-3 ans quand je faisais des recherches sur l’ergonomie du poste de travail.</description>
     </item>
     
     <item>
@@ -28,8 +24,8 @@ Vim, pour ceux qui ne le connaissent pas est un &amp;#8220;vieil&amp;#8221; édi
       <pubDate>Sun, 02 Dec 2012 11:13:13 +0000</pubDate>
       
       <guid>https://angezanetti.com/version-nodejs-a-jour-sur-ubuntu-1204-compilation-ppa/</guid>
-      <description>Je me posé cette question il y a quelques jours après un upgrade de mes paquets sur un serveur qui fonctionne sous Ubuntu 12.04. Les applications misent à jour ne fonctionnaient pas, NPM non plus. Bref, un joli &amp;#8220;foutoir&amp;#8221;. J&amp;#8217;ai mis du temps à comprendre d&amp;#8217;ou venait les problèmes. Finalement un simple
-node -v Et j&amp;#8217;ai compris tout de suite, j&amp;#8217;avais sur mon serveur une vieille version de node.js (0.</description>
+      <description>Je me posé cette question il y a quelques jours après un upgrade de mes paquets sur un serveur qui fonctionne sous Ubuntu 12.04. Les applications misent à jour ne fonctionnaient pas, NPMnon plus. Bref, un joli “foutoir”. J’ai mis du temps à comprendre d’ou venait les problèmes. Finalement un simple
+Et j’ai compris tout de suite, j’avais sur mon serveur une vieille version de node.js(0.6) alors que npm et mes applications étaient à jour.</description>
     </item>
     
     <item>
@@ -38,7 +34,7 @@ node -v Et j&amp;#8217;ai compris tout de suite, j&amp;#8217;avais sur mon serve
       <pubDate>Thu, 28 Jun 2012 09:36:36 +0000</pubDate>
       
       <guid>https://angezanetti.com/ajouter-un-sous-domaine-serveur-dedie-apache2-configuration/</guid>
-      <description>Ces derniers jours j&amp;#8217;ai été confronté deux fois au problème de mise en place de sous domaine sur un serveur dédié, et à chaque fois ce fut une galère. Entre la documentaion trop complète et les différents tutos sur le web qui racontent tout et n&amp;#8217;importe quoi j&amp;#8217;ai passé plusieurs heures à chercher, modifier, effacer des fichiers de config.
+      <description>Ces derniers jours j’ai été confronté deux fois au problème de mise en place de sous domaine sur un serveur dédié, et à chaque fois ce fut une galère. Entre la documentaion trop complète et les différents tutos sur le web qui racontent tout et n’importe quoi j’ai passé plusieurs heures à chercher, modifier, effacer des fichiers de config.
 Pour éviter de me reprendre la tête, et en espérant que cela puisse servir à quelques personnes, voici la marche à suivre :</description>
     </item>
     
@@ -48,8 +44,8 @@ Pour éviter de me reprendre la tête, et en espérant que cela puisse servir à
       <pubDate>Thu, 22 Mar 2012 14:53:50 +0000</pubDate>
       
       <guid>https://angezanetti.com/reduction-spam-wordpress-sans-plugin-htaccess/</guid>
-      <description>Encore une petite note sur WordPress, suite au mail d&amp;#8217;un lecteur qui m&amp;#8217;a prévenu que le formulaire de commentaire renvoyait systématiquement vers une page 404&amp;#8230;
-J&amp;#8217;ai regardé et, effectivement, il y avait une erreur dans mon .htaccess, fichier que j&amp;#8217;avais modifié il y a quelques temps pour réduire le spam ! Bon, le fait est que cela avait bien fonctionné, un peu trop même :)
+      <description>Encore une petite note sur WordPress, suite au mail d’un lecteur qui m’a prévenu que le formulaire de commentaire renvoyait systématiquement vers une page 404…
+J’ai regardé et, effectivement, il y avait une erreur dans mon .htaccess, fichier que j’avais modifié il y a quelques temps pour réduire le spam ! Bon, le fait est que cela avait bien fonctionné, un peu trop même :)
 Explications : WordPress est victime de son succès, bien souvent les blogs qui utilisent cette plateforme sont la cible de robots spammeurs qui attaquent directement wp-comment-post.</description>
     </item>
     
@@ -59,9 +55,9 @@ Explications : WordPress est victime de son succès, bien souvent les blogs qui 
       <pubDate>Mon, 12 Mar 2012 17:02:10 +0000</pubDate>
       
       <guid>https://angezanetti.com/configurer-wordpress-ssh-ftp-securite/</guid>
-      <description>J&amp;#8217;ai récemment (re)installé un serveur dédié pour mon ami Guillaume. Ce serveur sert, entre autres, à faire tourner un blog WordPress.
-J&amp;#8217;ai mis en place un LAMP, tout bête et expliqué à Guillaume comment utiliser SSH &amp;#8211; avec SFTP &amp;#8211; pour le transfert de fichiers sur le serveur. Ainsi j&amp;#8217;évite de mettre un serveur FTP, protocole critiqué pour sa sécurité.
- Update Sept 2012 : Depuis la rédaction de ce post il existe un plugin qui fait le boulot en deux clics :http://wordpress.</description>
+      <description>J’ai récemment (re)installé un serveur dédié pour mon ami Guillaume. Ce serveur sert, entre autres, à faire tourner un blog WordPress.
+J’ai mis en place un LAMP, tout bête et expliqué à Guillaume comment utiliser SSH – avec SFTP – pour le transfert de fichiers sur le serveur. Ainsi j’évite de mettre un serveur FTP, protocole critiqué pour sa sécurité.
+ _Update Sept 2012 : Depuis la rédaction de ce post il existe un plugin qui fait le boulot en deux clics :http://wordpress.</description>
     </item>
     
     <item>
@@ -70,10 +66,10 @@ J&amp;#8217;ai mis en place un LAMP, tout bête et expliqué à Guillaume commen
       <pubDate>Thu, 11 Aug 2011 10:04:37 +0000</pubDate>
       
       <guid>https://angezanetti.com/tuto-installation-nodejs-npm-express-sur-ubuntu-10-04/</guid>
-      <description>Ce billet est autant un aide mémoire pour moi qu&amp;#8217;un billet explicatif pour vous. En effet depuis quelques jours j&amp;#8217;installe NodeJS sur plusieurs serveurs. Sur la version actuelle d&amp;#8217;Ubuntu &amp;#8211; 11.04 &amp;#8211; c&amp;#8217;est relativement facile :
+      <description>Ce billet est autant un aide mémoire pour moi qu’un billet explicatif pour vous. En effet depuis quelques jours j’installe NodeJS sur plusieurs serveurs. Sur la version actuelle d’Ubuntu – 11.04 – c’est relativement facile :
 [bash]sudo apt-get install nodejs[/bash]
-Mais pour les versions antérieures et notamment la dernière LTS, la 10.04, c&amp;#8217;est un poil plus compliqué.
-En fait vous avez deux solutions, compiler ou utiliser la version par paquets.</description>
+Mais pour les versions antérieures et notamment la dernière LTS, la 10.04, c’est un poil plus compliqué.
+En fait vous avez deux solutions, compiler ou utiliser la version par paquets. Personnellement j’ai choisi la deuxième méthode mais si vous voulez un NodeJS plus à jour je vous conseille la première méthode.</description>
     </item>
     
     <item>
@@ -82,7 +78,7 @@ En fait vous avez deux solutions, compiler ou utiliser la version par paquets.</
       <pubDate>Thu, 12 Aug 2010 08:15:11 +0000</pubDate>
       
       <guid>https://angezanetti.com/tutoria-serveur-ftp-avec-utilisateurs-virtuels/</guid>
-      <description>Pour ceux qui me suivent sur Twitter vous avez du voir apparaitre le hashtag #mutualab. C&amp;#8217;est en fait un projet que j&amp;#8217;ai avec @WoldenAvro. Le but étant de mettre en place une plateforme d&amp;#8217;échanges de &amp;#8220;bout de codes qui marchent&amp;#8221; entre développeurs qui bossent dans les nouveaux médias, plus particulièrement la réalité augmentée/UniversVirtuels.
+      <description>Pour ceux qui me suivent sur Twitter vous avez du voir apparaitre le hashtag #mutualab. C’est en fait un projet que j’ai avec @WoldenAvro. Le but étant de mettre en place une plateforme d’échanges de “bout de codes qui marchent” entre développeurs qui bossent dans les nouveaux médias, plus particulièrement la réalité augmentée/UniversVirtuels.
 Le projet est toujours en gestation, je vous en parlerai plus en détail à la rentrée mais pour le moment je vais vous en faire une présentation technique.</description>
     </item>
     

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RealXtend on /AngeZanetti.com</title>
@@ -7,20 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 23 Nov 2012 10:25:45 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/realxtend/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 23 Nov 2012 10:25:45 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/realxtend/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Realxtend lance Meshmoon</title>
       <link>https://angezanetti.com/realxtend-meshmoon-mondes-virtuels-virtual-worlds-hebergment/</link>
       <pubDate>Fri, 23 Nov 2012 10:25:45 +0000</pubDate>
       
       <guid>https://angezanetti.com/realxtend-meshmoon-mondes-virtuels-virtual-worlds-hebergment/</guid>
-      <description>&amp;nbsp;
-Cela fait des années que je suis de près le projet Realxtend. Ils ont toujours eu un positionnement orienté entreprise, ils ont depuis longtemps abandonné beaucoup de ce que je reproche à Second Life ou OpenSim, et je ne parle pas QUE du LSL :) !
-Mais ces choix technologiques ont eu des conséquences assez terribles : ils se sont dissociés de la communauté OpenSim, ils se sont d&amp;#8217;abord orientés sur une techno 100% windows et la prise en main de leur solution 3D est un peu plus hardue que celle d&amp;#8217;une sim classique.</description>
+      <description>Cela fait des années que je suis de près le projet Realxtend. Ils ont toujours eu un positionnement orienté entreprise, ils ont depuis longtemps abandonné beaucoup de ce que je reproche à Second Life ou OpenSim, et je ne parle pas QUE du LSL :) !
+Mais ces choix technologiques ont eu des conséquences assez terribles : ils se sont dissociés de la communauté OpenSim, ils se sont d’abord orientés sur une techno 100% windows et la prise en main de leur solution 3D est un peu plus hardue que celle d’une sim classique.</description>
     </item>
     
     <item>
@@ -29,8 +24,8 @@ Mais ces choix technologiques ont eu des conséquences assez terribles : ils se 
       <pubDate>Fri, 17 Feb 2012 11:28:26 +0000</pubDate>
       
       <guid>https://angezanetti.com/nantes-1757-realxtend-ensad-histoire-mondes-virtuels/</guid>
-      <description>L&amp;#8217;ENSAD et plus spécifiquement l&amp;#8217;EN_ER &amp;#8211; Programme de recherche Espace Numérique – Extension du Réel &amp;#8211; dirigé par François Garnier vient de sortir un univers 3D qui sert d&amp;#8217;espace de collaboration mais aussi de base documentaire. Le tout sur le thème du 18ème sciècle, vous l&amp;#8217;aurez compris.
-D&amp;#8217;un point de vue technique, la plateforme tourne sur un serveur RealXtend &amp;#8211; d&amp;#8217;ailleurs l&amp;#8217;ENSAD doit être le seul acteur français vraiment au point sur cette techno.</description>
+      <description>L’ENSAD et plus spécifiquement l’EN_ER – Programme de recherche Espace Numérique – Extension du Réel – dirigé par François Garnier vient de sortir un univers 3D qui sert d’espace de collaboration mais aussi de base documentaire. Le tout sur le thème du 18ème sciècle, vous l’aurez compris.
+D’un point de vue technique, la plateforme tourne sur un serveur RealXtend – d’ailleurs l’ENSAD doit être le seul acteur français vraiment au point sur cette techno.</description>
     </item>
     
     <item>
@@ -39,8 +34,7 @@ D&amp;#8217;un point de vue technique, la plateforme tourne sur un serveur RealX
       <pubDate>Mon, 02 Mar 2009 11:48:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/teleportation-extra-grid-avec-realxtend/</guid>
-      <description>Le client RealXtend autorise les téléportations extra-grid, c&amp;#8217;est à dire pouvoir passer de Second Life à Opensim ou des grilles RealXtend. Je vous ai déjà parlé de RealXtend, ce projet opensource finlandais qui fait des merveilles, cette nouvelle est encore une avancée vers une interroptabilité et une standardisation des mondes virtuels. Et en plus c&amp;#8217;est facile :
- Il suffit d&amp;#8217;aller dans le menu &amp;#8220;Affichage&amp;#8221; de sélectionner &amp;#8221; la barre d&amp;#8217;adresse et de taper l&amp;#8217;url de destination.</description>
+      <description></description>
     </item>
     
     <item>
@@ -49,9 +43,7 @@ D&amp;#8217;un point de vue technique, la plateforme tourne sur un serveur RealX
       <pubDate>Mon, 24 Nov 2008 17:35:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/nokia-soutient-maintenant-realxtend/</guid>
-      <description>Je l&amp;#8217;apprenais ce matin par Hugobiwan, Nokia a décidé de rentrer dans l&amp;#8217;aventure Realxtend!
-&amp;#8220;Nokia supports the realXtend project and objective of creating an open platform and interoperability for virtual worlds&amp;#8221;..
- Le lien posté par Hugo, ne nous apprenait pas beaucoup plus mais quand on connais les projets de RealXtend et les finances de Nokia, on se dit qu&amp;#8217;il faut vraiment surveiller de près la finlande et ses barbus:).</description>
+      <description></description>
     </item>
     
     <item>
@@ -60,10 +52,10 @@ D&amp;#8217;un point de vue technique, la plateforme tourne sur un serveur RealX
       <pubDate>Wed, 23 Apr 2008 16:55:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/les-projets-de-realxtend/</guid>
-      <description>Comme je le bloggait Lundi dernier aujourd&amp;#8217;hui a eu lieu une réunion avec la l&amp;#8217;équipe de RealXtend dans Second Life.
-La conférence était en voix et en anglais &amp;#8211; à ce propos l&amp;#8217;accent Finlandais est plutôt &amp;#8220;funny&amp;#8221; &amp;#8211; sur la sim Arkala.
+      <description>Comme je le bloggaitLundi dernier aujourd’hui a eu lieu une réunion avec la l’équipe de RealXtenddans Second Life.
+La conférence était en voix et en anglais – à ce propos l’accent Finlandais est plutôt “funny” – sur la simArkala.
 Beaucoup de choses ont été dites, plus ou moins approfondies, je vais essayer de faire ressortir les gros traits de ce que me paraît intéressant.
-Tout d&amp;#8217;abord j&amp;#8217;ai été content d&amp;#8217;apprendre qu&amp;#8217;ils collaborent avec Linden Labs ou tout du moins qu&amp;#8217;ils ont des contacts régulier.</description>
+Tout d’abord j’ai été content d’apprendre qu’ils collaborent avec LindenLabsou tout du moins qu’ils ont des contacts régulier.</description>
     </item>
     
     <item>
@@ -72,9 +64,9 @@ Tout d&amp;#8217;abord j&amp;#8217;ai été content d&amp;#8217;apprendre qu&amp
       <pubDate>Mon, 21 Apr 2008 13:21:00 +0000</pubDate>
       
       <guid>https://angezanetti.com/vous-ne-connaissez-toujours-pas-realxtend/</guid>
-      <description>Une réunion est orgnisée Mercredi 23 Avril par les créateurs de RealXtend eux même! Pour mémoire RealXtend c&amp;#8217;est une version d&amp;#8217;opensim, l&amp;#8217;alternative libre de Second Life.
-Cela permet d&amp;#8217;avoir sa propre sim sans avoir à en acheter une à Linden Labs, mais cela sert, ou servira, surtout a créer des intranets 3d directement hébergés sur les serveurs d&amp;#8217;une entreprise.
-Il paraît qu&amp;#8217;une nouvelle version du serveur est sortie et qu&amp;#8217;elle élimine encore beaucoup de bugs!</description>
+      <description>Une réunion est orgnisée Mercredi 23 Avril par les créateurs de RealXtend eux même! Pour mémoire RealXtend c’est une version d’opensim, l’alternative libre de Second Life.
+Cela permet d’avoir sa propre sim sans avoir à en acheter une à Linden Labs, mais cela sert, ou servira, surtout a créer des intranets 3d directement hébergés sur les serveurs d’une entreprise.
+Il paraît qu’une nouvelle version du serveur est sortie et qu’elle élimine encore beaucoup de bugs!</description>
     </item>
     
   </channel>

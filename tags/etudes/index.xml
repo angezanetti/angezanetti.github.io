@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Etudes on /AngeZanetti.com</title>
@@ -7,18 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 21 Feb 2011 10:33:22 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/etudes/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 21 Feb 2011 10:33:22 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/etudes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le marché des SeriousGame</title>
       <link>https://angezanetti.com/le-marche-des-seriousgame/</link>
       <pubDate>Mon, 21 Feb 2011 10:33:22 +0000</pubDate>
       
       <guid>https://angezanetti.com/le-marche-des-seriousgame/</guid>
-      <description>Récemment j&amp;#8217;ai lu l&amp;#8217;étude FEFAUR sur le marché du e-learning. Cette étude est disponible ici : http://www.fefaur.com/&amp;amp;#8230; elle est gratuite même s&amp;#8217;il faut montrer patte blanche avant de pouvoir la recevoir.
+      <description>Récemment j’ai lu l’étude FEFAUR sur le marché du e-learning. Cette étude est disponible ici : http://www.fefaur.com/&amp;amp;#8230;elle est gratuite même s’il faut montrer patte blanche avant de pouvoir la recevoir.
 Cette étude date de Septembre 2010 et permet de mettre des chiffres sur le marché du e-learning, et surtout sur celui du SeriousGame. Je vais essayer ici de faire une synthèse de façon à avoir une vision claire du marché des jeux sérieux.</description>
     </item>
     
@@ -28,9 +24,8 @@ Cette étude date de Septembre 2010 et permet de mettre des chiffres sur le marc
       <pubDate>Mon, 23 Aug 2010 17:03:57 +0000</pubDate>
       
       <guid>https://angezanetti.com/les-mondes-virtuels-sont-dans-le-creux-de-la-vague-et-cela-va-durer/</guid>
-      <description>&lt;p&gt;Ce matin T&lt;a title=&#34;Techcrunch gartner 2010&#34; href=&#34;http://fr.techcrunch.com/2010/08/23/gartner-hype-cycle-2010-4g-cloud-computing-realite-augmentee-sont-au-pic-mondes-virtuels-et-medias-crees-par-les-utilisateurs-sont-au-creux/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed:+francaistechcrunch+(TechCrunch+en+Francais)&amp;utm_content=Netvibes&#34; target=&#34;_blank&#34;&gt;echcrunch publiait la fameuse courbe de Gartner&lt;/a&gt; de l&amp;#8217;année 2010. Comme vous l&amp;#8217;aurez probablement deviné avec le titre, les prédictions pour les mondes virtuels ne sont pas très bonne. Ils sont carrément dans le creux de la vague, cela on le savait déjà un peu. Mais le plus pessimiste c&amp;#8217;est la prévision d&amp;#8217;adoption par le grand public : 5 à 10 ans. Autrement dit une ère géologique à l&amp;#8217;échelle du web&amp;#8230;&lt;/p&gt;
-
-&lt;p&gt;Bon ceci dit, pour ne pas broyer du noir, ces mêmes prévisions donnaient, en 2007-2008 les mondes virtuels en pleine adoption vers 2010-2011. L&amp;#8217;erreur n&amp;#8217;est pas donc quelque chose de rare du coté de Gartner, qui sont d&amp;#8217;ailleurs beaucoup crititqués.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ce matin T&lt;!-- raw HTML omitted --&gt;echcrunch publiait la fameuse courbe de Gartner&lt;!-- raw HTML omitted --&gt; de l’année 2010. Comme vous l’aurez probablement deviné avec le titre, les prédictions pour les mondes virtuels ne sont pas très bonne. Ils sont carrément dans le creux de la vague, cela on le savait déjà un peu. Mais le plus pessimiste c’est la prévision d’adoption par le grand public : 5 à 10 ans. Autrement dit une ère géologique à l’échelle du web…&lt;/p&gt;
+&lt;p&gt;Bon ceci dit, pour ne pas broyer du noir, ces mêmes prévisions donnaient, en 2007-2008 les mondes virtuels en pleine adoption vers 2010-2011. L’erreur n’est pas donc quelque chose de rare du coté de Gartner, qui sont d’ailleurs beaucoup crititqués.&lt;/p&gt;</description>
     </item>
     
   </channel>

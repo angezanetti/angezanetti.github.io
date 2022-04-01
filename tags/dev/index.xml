@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dev on /AngeZanetti.com</title>
@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 06 Oct 2019 20:22:07 -0400</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/dev/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 06 Oct 2019 20:22:07 -0400</lastBuildDate><atom:link href="https://angezanetti.com/tags/dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Develop a Wordpress Theme locally With Docker</title>
       <link>https://angezanetti.com/posts/develop-wordpress-theme-with-docker/</link>
@@ -28,8 +24,8 @@ There is no way I install MAMP on my mac! In 5 years a LOT of things changed in 
       <pubDate>Mon, 27 Apr 2015 12:13:51 +0000</pubDate>
       
       <guid>https://angezanetti.com/fuite-memoire-curl-php-red-hat-nss/</guid>
-      <description>Depuis plusieurs mois je travaille pour une startup qui fait de la lutte contre la fraude. En deux mots, les clients nous envoient des flux XML et nous leur renvoyons note correspondant à l&amp;#8217;indice de confiance de la transaction.
-Et, début Janvier nous avons intégré un GROS client. Du genre à faire pâlir les sysadmin. Cela nous à forcer à reconstruire une partie du code, à revoir l&amp;#8217;architecture de l&amp;#8217;application (qui est au passage devenue une application symfony2).</description>
+      <description>Depuis plusieurs mois je travaille pour une startupqui fait de la lutte contre la fraude. En deux mots, les clients nous envoient des flux XML et nous leur renvoyons note correspondant à l’indice de confiance de la transaction.
+Et, début Janvier nous avons intégré un GROS client. Du genre à faire pâlir les sysadmin. Cela nous à forcer à reconstruire une partie du code, à revoir l’architecture de l’application (qui est au passage devenue une application symfony2).</description>
     </item>
     
     <item>
@@ -38,10 +34,10 @@ Et, début Janvier nous avons intégré un GROS client. Du genre à faire pâlir
       <pubDate>Mon, 28 Jul 2014 12:08:58 +0000</pubDate>
       
       <guid>https://angezanetti.com/comment-produire-code-qualite-methodes-travail-developpeur/</guid>
-      <description>C&amp;#8217;est une question qui m&amp;#8217;a été posée en entretien d&amp;#8217;embauche il y a peu de temps:
- &amp;#8220;Comment un autodidacte comme vous peut-il être sur que son code est de bonne qualité?&amp;#8221;
- Ça peut paraître une question naïve, surtout venant d&amp;#8217;un RH, mais ça me fait pas mal cogiter depuis, au delà de la technique.
-Pendant l&amp;#8217;entretien j&amp;#8217;ai répondu un truc bâteau, qui a d&amp;#8217;ailleurs eu l&amp;#8217;air de lui plaire, mais il me semble que cette question de comment je produit du code et pourquoi il est bon ou mauvais mérite bien un petit article.</description>
+      <description>C’est une question qui m’a été posée en entretien d’embauche il y a peu de temps:
+ “Comment un autodidacte comme vous peut-il être sur que son code est de bonne qualité?”
+ Ça peut paraître une question naïve, surtout venant d’un RH, mais ça me fait pas mal cogiter depuis, au delà de la technique.
+Pendant l’entretien j’ai répondu un truc bâteau, qui a d’ailleurs eu l’air de lui plaire, mais il me semble que cette question de comment je produit du code et pourquoi il est bon ou mauvais mérite bien un petitarticle.</description>
     </item>
     
     <item>
@@ -50,10 +46,10 @@ Pendant l&amp;#8217;entretien j&amp;#8217;ai répondu un truc bâteau, qui a d&a
       <pubDate>Thu, 06 Mar 2014 13:08:19 +0000</pubDate>
       
       <guid>https://angezanetti.com/silex-framework-minimaliste-php-symfony/</guid>
-      <description>Silex est un micro framework édité par SensioLabs, la société qui édite le fameux framework Symfony.
-Un micro Framework Silex est micro, vraiment micro. Même l&amp;#8217;installation tiens en deux lignes:
-$ curl -sS https://getcomposer.org/installer | php $ composer.phar install Une fois ces deux lignes exécutées vous vous trouvez avec:
- un répertoire vendor qui embarque Pimple, une librairie pour l&amp;#8217;injection de dépendances et les modules de gestion HTTP de Symfony ( pour gérer les routes, les requêtes etc.</description>
+      <description>Silexest un micro framework édité par SensioLabs, la société qui édite le fameux framework Symfony.
+Un micro Framework Silexest micro, vraiment micro. Même l’installation tiens en deux lignes:
+Une fois ces deux lignes exécutées vous vous trouvez avec:
+ un répertoire vendor qui embarque Pimple, une librairie pour l’injection de dépendances et les modules de gestion HTTP de Symfony ( pour gérer les routes, les requêtes etc..) un répertoire web dans lequel se trouve un fichier index contenant toute voter application (rien pour le moment) et un Composer pour installer en deux coups de cuillère à pot n’importe quelle librairie super utile.</description>
     </item>
     
     <item>
@@ -62,7 +58,7 @@ $ curl -sS https://getcomposer.org/installer | php $ composer.phar install Une f
       <pubDate>Mon, 26 Aug 2013 09:09:44 +0000</pubDate>
       
       <guid>https://angezanetti.com/installer-un-environnement-de-developpement-avec-virtualbox/</guid>
-      <description>Travailller avec un LAMP, ou un MAMP, installé en local c&amp;#8217;est bien pour des petits projets, type création de thème/plugins WordPress, mais pour les projets plus conséquents avec des technos plus exotique que PHP il peut être nécessaire de virtualiser un système d&amp;#8217;exploitation pour travailler. Je vous conseillle d&amp;#8217;ailleurs de mettre en local le même système que votre machine de production, ça limite grandement les surprises de mise en prod !</description>
+      <description>Travailller avec un LAMP, ou un MAMP, installé en local c’est bien pour des petits projets, type création de thème/plugins WordPress, mais pour les projets plus conséquents avec des technos plus exotique que PHP il peut être nécessaire de virtualiser un système d’exploitation pour travailler. Je vous conseillle d’ailleurs de mettre en local le même système que votre machine de production, ça limite grandement les surprises de mise en prod !</description>
     </item>
     
     <item>
@@ -71,9 +67,9 @@ $ curl -sS https://getcomposer.org/installer | php $ composer.phar install Une f
       <pubDate>Mon, 19 Aug 2013 08:47:29 +0000</pubDate>
       
       <guid>https://angezanetti.com/contribuez-opensource-temps-libre-freelance-chomeurs/</guid>
-      <description>Dans la vie professionnelle de tout indépendant il y a des temps morts. Entre deux contrats, avant ou après avoir fait de la prospection commerciale, les moments où l&amp;#8217;on est pas forcement débordé sont assez fréquents. Hors ce sont bien souvent ces temps là qui nous permettent de nous former, d&amp;#8217;apprendre, de faire de la veille.
+      <description>Dans la vie professionnelle de tout indépendant il y a des temps morts. Entre deux contrats, avant ou après avoir fait de la prospection commerciale, les moments où l’on est pas forcement débordé sont assez fréquents. Hors ce sont bien souvent ces temps là qui nous permettent de nous former, d’apprendre, de faire de la veille.
 
-Depuis quelques temps déjà j&amp;#8217;essaye de consacrer ces temps morts à des projets opensource.</description>
+Depuis quelques temps déjà j’essaye de consacrer ces temps morts à des projets opensource.</description>
     </item>
     
     <item>
@@ -83,7 +79,7 @@ Depuis quelques temps déjà j&amp;#8217;essaye de consacrer ces temps morts à 
       
       <guid>https://angezanetti.com/la-programmation-objet-en-php/</guid>
       <description>La programmation objet est un pilier du développement actuel. Tout les frameworks modernes sont basé sur ce principe, tout développeur se doit de connaître les bases de la POO et de les appliquer.
-Mais bien souvent le client nous presse, on a pas envie de se compliquer la vie ou juste on voit pas l&amp;#8217;intérêt de faire vraiment de l&amp;#8217;objet. J&amp;#8217;ai trouvé sur la chaine Youtube de M6 dédié à la technique une vidéo vraiment bien faite sur les best practices de la POO en PHP.</description>
+Mais bien souvent le client nous presse, on a pas envie de se compliquer la vie ou juste on voit pas l’intérêt de faire vraiment de l’objet. J’ai trouvé sur la chaine Youtube de M6 dédié à la technique une vidéo vraiment bien faite sur les best practices de la POO en PHP.</description>
     </item>
     
   </channel>

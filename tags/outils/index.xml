@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Outils on /AngeZanetti.com</title>
@@ -7,19 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 15 Dec 2011 07:03:21 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/outils/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 15 Dec 2011 07:03:21 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/outils/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Présentation de Trello</title>
       <link>https://angezanetti.com/trello-outil-agile-collaboration-distance-coworkinglille/</link>
       <pubDate>Thu, 15 Dec 2011 07:03:21 +0000</pubDate>
       
       <guid>https://angezanetti.com/trello-outil-agile-collaboration-distance-coworkinglille/</guid>
-      <description>Je suis freelance depuis 4 ans maintenant et depuis le début de mon activité je cherche des outils pour me faciliter le travail et notamment le travail à plusieurs et à distance. Je travaille en effet beaucoup avec des personnes distantes, même si depuis l&amp;#8217;existence de CoworkingLille cela à tendance à diminuer !
-A chaque nouveau projet ce pose le problème des outils à mettre en place pour faciliter notre collaboration.</description>
+      <description>Je suis freelance depuis 4 ans maintenant et depuis le début de mon activité je cherche des outils pour me faciliter le travail et notamment le travail à plusieurs et à distance. Je travaille en effet beaucoup avec des personnes distantes, même si depuis l’existence de CoworkingLillecela à tendance à diminuer !
+A chaque nouveau projet ce pose le problème des outils à mettre en place pour faciliter notre collaboration. Et à chaque fois, ou presque, les solutions sont différentes sans pour autant me convaincre totalement.</description>
     </item>
     
   </channel>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Assemblive on /AngeZanetti.com</title>
@@ -7,22 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 12 Apr 2010 11:06:41 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/assemblive/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 12 Apr 2010 11:06:41 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/assemblive/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Assemblive maintenant en français et une API arrive bientôt</title>
       <link>https://angezanetti.com/assemblive-v1-8-francais-api/</link>
       <pubDate>Mon, 12 Apr 2010 11:06:41 +0000</pubDate>
       
       <guid>https://angezanetti.com/assemblive-v1-8-francais-api/</guid>
-      <description>&lt;p&gt;Je me rend compte que je n&amp;#8217;ai jamais parlé d&amp;#8217;&lt;a href=&#34;http://assemblive.com/home/&#34; target=&#34;_blank&#34;&gt;Assemblive&lt;/a&gt; sur ce blog. C&amp;#8217;est un tort que je vais m&amp;#8217;empresser de réparer dans ce post!&lt;/p&gt;
-
-&lt;p&gt;Assemblive est un un &lt;strong&gt;monde virtuel&lt;/strong&gt; en 3 dimensions &lt;strong&gt;très orienté business&lt;/strong&gt;. Il est édité par une société française (cocorico) comme son nom ne l&amp;#8217;indique pas : &lt;strong&gt;AWoldForUs&lt;/strong&gt;. Derrière ce nom anglophone il y a en fait 5 codeur/graphistes/commerciaux qui ont mis un an pour développer une version béta de leur plateforme.&lt;/p&gt;
-
-&lt;p&gt;Là où Assemblive tire son épingle du jeu c&amp;#8217;est sur l&amp;#8217;accessibilité. En effet pas besoin de télécharger un lourd programme à la SecondLife, ici c&amp;#8217;est Unity3d qui fait le rendu et donc un &lt;strong&gt;simple plugin&lt;/strong&gt; de 4Mo suffit. Beaucoup plus simple à mettre en œuvre dans une entreprise donc, pas besoin de mobiliser un administrateur système pour installer un logiciel par poste. Le plugin s&amp;#8217;installe sans les droits admins et la plateforme se lance &lt;strong&gt;directement dans le navigateur internet&lt;/strong&gt;&amp;#8211; Firefox, Safari et Internet Explorer. Et cela tourne sous windows et mac, soit 99% des ordinateurs du marché.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Je me rend compte que je n’ai jamais parlé d’&lt;!-- raw HTML omitted --&gt;Assemblive&lt;!-- raw HTML omitted --&gt; sur ce blog. C’est un tort que je vais m’empresser de réparer dans ce post!&lt;/p&gt;
+&lt;p&gt;Assemblive est un un &lt;strong&gt;monde virtuel&lt;/strong&gt; en 3 dimensions &lt;strong&gt;très orienté business&lt;/strong&gt;. Il est édité par une société française (cocorico) comme son nom ne l’indique pas : &lt;strong&gt;AWoldForUs&lt;/strong&gt;. Derrière ce nom anglophone il y a en fait 5 codeur/graphistes/commerciaux qui ont mis un an pour développer une version béta de leur plateforme.&lt;/p&gt;
+&lt;p&gt;Là où Assemblive tire son épingle du jeu c’est sur l’accessibilité. En effet pas besoin de télécharger un lourd programme à la SecondLife, ici c’est Unity3d qui fait le rendu et donc un &lt;strong&gt;simple plugin&lt;/strong&gt; de 4Mo suffit. Beaucoup plus simple à mettre en œuvre dans une entreprise donc, pas besoin de mobiliser un administrateur système pour installer un logiciel par poste. Le plugin s’installe sans les droits admins et la plateforme se lance &lt;strong&gt;directement dans le navigateur internet&lt;/strong&gt;– Firefox, Safari et Internet Explorer. Et cela tourne sous windows et mac, soit 99% des ordinateurs du marché.&lt;/p&gt;</description>
     </item>
     
   </channel>

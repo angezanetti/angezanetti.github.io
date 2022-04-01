@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OpenWonderland on /AngeZanetti.com</title>
@@ -7,18 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 18 Jun 2010 16:22:24 +0000</lastBuildDate>
-    
-	<atom:link href="https://angezanetti.com/tags/openwonderland/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 18 Jun 2010 16:22:24 +0000</lastBuildDate><atom:link href="https://angezanetti.com/tags/openwonderland/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La vidéo du vendredi : OpenWonderland</title>
       <link>https://angezanetti.com/la-video-du-vendredi-openwonderland/</link>
       <pubDate>Fri, 18 Jun 2010 16:22:24 +0000</pubDate>
       
       <guid>https://angezanetti.com/la-video-du-vendredi-openwonderland/</guid>
-      <description>La vidéo de ce Vendredi traite d&amp;#8217;un monde virtuel que j&amp;#8217;ai découvert il y a peu. Ce monde a une histoire intéressante car OpenWonderland est en fait une variante d&amp;#8217;un projet de Sun Labs appelé &amp;#8220;Project Wonderland&amp;#8221;. Sun à décidé il y a quelques mois de fermé les portes de son monde virtuel.
+      <description>La vidéo de ce Vendredi traite d’un monde virtuel que j’ai découvert il y a peu. Ce monde a une histoire intéressante car OpenWonderland est en fait une variante d’un projet de Sun Labs appelé “Project Wonderland”. Sun à décidé il y a quelques mois de fermé les portes de son monde virtuel.
 La communauté à décidé de reprendre le projet et de publier les sources.
 La vidéo qui suit vous présente donc les fonctionnalités de ce monde virtuel opensource et plutôt orienté business.</description>
     </item>
